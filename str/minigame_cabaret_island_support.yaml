@@ -1,0 +1,57 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/towel/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81Šă\x81—ă\x81Ľă‚Š"
+    Original:
+    - おしぼり
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/ice_exchange/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ă‚˘ă‚¤ă‚ąäş¤ćŹ›
+    Original:
+    - アイス交換
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/guest_glass/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă‚˛ă‚ąă\x83\x88ă‚°ă\x83©ă‚ą"
+    Original:
+    - ゲストグラス
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/ledies_glass/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x83¬ă\x83‡ă‚Łă\x83Ľă‚ąă‚°ă\x83©ă‚ą"
+    Original:
+    - レディースグラス
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/ashtray_exchange/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç\x81°çšżäş¤ćŹ›"
+    Original:
+    - 灰皿交換
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/menu/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x83ˇă\x83‹ă\x83Ąă\x83Ľ"
+    Original:
+    - メニュー
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\minigame_cabaret_island_support.json'

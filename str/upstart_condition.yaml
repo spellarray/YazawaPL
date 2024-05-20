@@ -1,0 +1,48 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/good/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Dobra
+    Original:
+    - Good
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/normal/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Normalna
+    Original:
+    - Normal
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/bad/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zła
+    Original:
+    - Bad
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/best/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Najlepsza
+    Original:
+    - Great
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/worst/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Okropna
+    Original:
+    - Poor
+  Status: Review
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\upstart_condition.json'

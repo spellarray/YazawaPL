@@ -1,0 +1,66 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/yakuman/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yakuman
+    Original:
+    - Yakuman
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/double_yakuman/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Double Yakuman
+    Original:
+    - Double Yakuman
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/triple_yakuman/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Triple Yakuman
+    Original:
+    - Triple Yakuman
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/yonbai_yakuman/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 4x Yakuman
+    Original:
+    - 4x Yakuman
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/gobai_yakuman/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 5x Yakuman
+    Original:
+    - 5x Yakuman
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/rokubai_yakuman/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 6x Yakuman
+    Original:
+    - 6x Yakuman
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/nanabai_yakuman/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 7x Yakuman
+    Original:
+    - 7x Yakuman
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\minigame_mahjong_string_yakuman.json'

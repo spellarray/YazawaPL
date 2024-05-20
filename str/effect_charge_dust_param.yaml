@@ -1,0 +1,21 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/default/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1O276A100000APdxBiHVIG5sPBiVspeIIG00000000000
+    Original:
+    - 1O276A100000APdxBiHVIG5sPBiVspeIIG00000000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/default2/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1O276A100000APdxBiHVIG5sPBiVspeIIG00000000000
+    Original:
+    - 1O276A100000APdxBiHVIG5sPBiVspeIIG00000000000
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\effect_charge_dust_param.json'

@@ -1,0 +1,120 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/rank_range/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ${rank_top} to ${rank_bottom}
+    Original:
+    - ${rank_top} to ${rank_bottom}
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/period/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Cykl ${num}
+    Original:
+    - Period ${num}
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/article_name_empty/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ???
+    Original:
+    - ???
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/price_empty/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: '-'
+    Original:
+    - '-'
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/article_slot3_unlock/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Odblokowane gdy Ranking Cen Akcji wyniesie 20
+    Original:
+    - Unlocked at Share Price Ranking 100
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/article_slot4_unlock/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Odblokowane gdy Ranking Cen Akcji wyniesie 100
+    Original:
+    - Unlocked at Share Price Ranking 100
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/article_slot5_unlock/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Odblokowane gdy Ranking Cen Akcji wyniesie 50
+    Original:
+    - Unlocked at Share Price Ranking 50
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/article_slot6_unlock/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Odblokowane gdy Ranking Cen Akcji wyniesie 20
+    Original:
+    - Unlocked at Share Price Ranking 20
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/article_slot3_unlock_message/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Miejsce odblokuje się gdy Ranking Cen Akcji wyniesie 100.
+    Original:
+    - The slot will unlock when Share Price Ranking reaches 100.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/article_slot4_unlock_message/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Miejsce odblokuje się gdy Ranking Cen Akcji wyniesie 100.
+    Original:
+    - The slot will unlock when Share Price Ranking reaches 100.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/article_slot5_unlock_message/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Miejsce odblokuje się gdy Ranking Cen Akcji wyniesie 50.
+    Original:
+    - The slot will unlock when Share Price Ranking reaches 50.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/article_slot6_unlock_message/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Miejsce odblokuje się gdy Ranking Cen Akcji wyniesie 20.
+    Original:
+    - The slot will unlock when Share Price Ranking reaches 20.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/article_slot_unlock/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Odblokowane gdy Ranking Cen Akcji wyniesie ${rank}
+    Original:
+    - Unlocked at Share Price Ranking ${rank}
+  Status: Review
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\upstart_string.json'

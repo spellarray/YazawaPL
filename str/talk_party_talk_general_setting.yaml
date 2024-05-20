@@ -1,0 +1,30 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/general_setting/gochisousama_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Thanks for the meal!
+    Original:
+    - Thanks for the meal!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/general_setting/gochisousama_speaker_solo
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga
+    Original:
+    - Kasuga
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/general_setting/gochisousama_speaker_multi
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Drużyna Kasugi
+    Original:
+    - Kasuga and the Party
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\talk_party_talk_general_setting.json'

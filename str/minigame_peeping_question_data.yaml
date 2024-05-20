@@ -1,0 +1,30 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/test_question_01/question
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81†ă\x81µă\x81µâ€¦â€¦ă€€ă\x81Šĺ®˘ă\x81•ă‚“ă€\x81ă\x81©ă‚“ă\x81Şă\x81®ă\x81Śč¦‹ă\x81źă\x81„ďĽź"
+    Original:
+    - うふふ……　お客さん、どんなのが見たい？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/test_question_02/question
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81†ă\x81µă\x81µâ€¦â€¦ă€€ă\x81Šĺ®˘ă\x81•ă‚“ă€\x81ă\x81©ă‚“ă\x81Şă\x81®ă\x81Śč¦‹ă\x81źă\x81„ďĽź"
+    Original:
+    - うふふ……　お客さん、どんなのが見たい？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/test_question_03/question
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81†ă\x81µă\x81µâ€¦â€¦ă€€ă\x81Šĺ®˘ă\x81•ă‚“ă€\x81ă\x81©ă‚“ă\x81Şă\x81®ă\x81Śč¦‹ă\x81źă\x81„ďĽź"
+    Original:
+    - うふふ……　お客さん、どんなのが見たい？
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\minigame_peeping_question_data.json'

@@ -1,0 +1,2649 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/6/riona/select_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č•ľć­\x90ĺ¨ś"
+    Original:
+    - 蕾歐娜
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/6/riona/hobby
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: çľŽĺ®ą
+    Original:
+    - 美容
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/6/riona/skill
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č‡Şć\x88‘ĺŚ…čŁť"
+    Original:
+    - 自我包裝
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/6/riona/favorite_food
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: č‚‰éˇž
+    Original:
+    - 肉類
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/6/riona/favorite_music
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: čĄżć´‹ć­Ść›˛
+    Original:
+    - 西洋歌曲
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/6/riona/like_type
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ć€§ć„źçš„ç”·ć€§
+    Original:
+    - 性感的男性
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/6/riona/dream
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ‰Ťĺ…¬é—śĺ°Źĺ§\x90č—ťäşş"
+    Original:
+    - 前公關小姐藝人
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/6/riona/specific_title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č•ľć­\x90ĺ¨śçš„ç˛‰çµ˛"
+    Original:
+    - 蕾歐娜的粉絲
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/6/riona/specific_item
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćś‰ä¸‰ć\x88\x90ć\x98ŻĺĄłç”ź"
+    Original:
+    - 有三成是女生
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/7/saki/select_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ć˛™ĺ¸Ś
+    Original:
+    - 沙希
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/7/saki/hobby
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦„ć\x83ł"
+    Original:
+    - 妄想
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/7/saki/skill
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç\x83ąéŁŞ"
+    Original:
+    - 烹飪
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/7/saki/favorite_food
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é®źé±‡é­šč‚ť
+    Original:
+    - 鮟鱇魚肝
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/7/saki/favorite_music
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x83…ć­Ś"
+    Original:
+    - 情歌
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/7/saki/like_type
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ\x83Źĺ¤§çŚ©çŚ©çš„äşş"
+    Original:
+    - 像大猩猩的人
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/7/saki/dream
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦»ĺ­\x90"
+    Original:
+    - 妻子
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/7/saki/specific_title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88€ć„›ä¸­çš„ć˛™ĺ¸Ś"
+    Original:
+    - 戀愛中的沙希
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/7/saki/specific_item
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č«‡čµ·ć\x88€ć„›ĺ®Śĺ…¨ć\x98Żĺ€‹ĺĄłĺ­©ĺ­\x90"
+    Original:
+    - 談起戀愛完全是個女孩子
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/8/hikaru/select_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ…‰
+    Original:
+    - 光
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/8/hikaru/hobby
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä¸‹ĺŤ\x88čŚ¶"
+    Original:
+    - 下午茶
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/8/hikaru/skill
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ćŚ‰ć‘©č‚©č†€
+    Original:
+    - 按摩肩膀
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/8/hikaru/favorite_food
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺś°ç“śäąľĺ’Śč‚‰äąľ
+    Original:
+    - 地瓜乾和肉乾
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/8/hikaru/favorite_music
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x90–ć»ľ"
+    Original:
+    - 搖滾
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/8/hikaru/like_type
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ćş«ćź”çš„äşş
+    Original:
+    - 溫柔的人
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/8/hikaru/dream
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ\x81¶ĺ\x83Ź"
+    Original:
+    - 偶像
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/8/hikaru/specific_title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ…‰çš„ć’’ĺ¬Ść–ąćł•
+    Original:
+    - 光的撒嬌方法
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/8/hikaru/specific_item
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: č¬›č©±ĺ¸¶ĺ–µĺ­—
+    Original:
+    - 講話帶喵字
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/9/erina/select_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: č‰ľčŽ‰ĺ¨ś
+    Original:
+    - 艾莉娜
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/9/erina/hobby
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é›»ĺ˝±
+    Original:
+    - 電影
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/9/erina/skill
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¤§č\x83\x83çŽ‹ďĽ†ĺż«é€źćŹ›čŁť"
+    Original:
+    - 大胃王＆快速換裝
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/9/erina/favorite_food
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ć‹‰éşµ
+    Original:
+    - 拉麵
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/9/erina/favorite_music
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x90–ć»ľ"
+    Original:
+    - 搖滾
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/9/erina/like_type
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: č©±ä¸Ťĺ¤šçš„çźĄć€§ç”·ć€§
+    Original:
+    - 話不多的知性男性
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/9/erina/dream
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ćĽ”é›»ĺ˝±
+    Original:
+    - 演電影
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/9/erina/specific_title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č‰ľčŽ‰ĺ¨śçš„ç…©ć\x83±"
+    Original:
+    - 艾莉娜的煩惱
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/9/erina/specific_item
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ› ç‚şéŁźé‡Źĺ¤§ć‰€ä»Ąĺ¤–éŁźĺľ\x88čŠ±éŚ˘"
+    Original:
+    - 因為食量大所以外食很花錢
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/10/sora/select_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: SORA
+    Original:
+    - SORA
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/10/sora/hobby
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: č§’č‰˛ć‰®ćĽ”
+    Original:
+    - 角色扮演
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/10/sora/skill
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ć¨ˇä»żé¦¬ĺŹ«
+    Original:
+    - 模仿馬叫
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/10/sora/favorite_food
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ć‹‰éşµĺ’Śĺ†¬ç˛‰
+    Original:
+    - 拉麵和冬粉
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/10/sora/favorite_music
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ‹•ç•«ć­Ś
+    Original:
+    - 動畫歌
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/10/sora/like_type
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: čŞŤçśźçš„äşş
+    Original:
+    - 認真的人
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/10/sora/dream
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č®“ĺŹ°ç\x81Łçš„ĺ®¶äşşçś‹ĺ\x88°č‡Şĺ·±ĺś¨ć—Ąćś¬ĺŠŞĺŠ›çš„ć¨Łĺ­\x90"
+    Original:
+    - 讓台灣的家人看到自己在日本努力的樣子
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/10/sora/specific_title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "SORAçš„ć„›ć\x83…č€\x81ĺ¸«"
+    Original:
+    - SORA的愛情老師
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/hostess/table/10/sora/specific_item
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç”·ć€§ĺ\x90‘ć\x88€ć„›é\x81Šć\x88˛"
+    Original:
+    - 男性向戀愛遊戲
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/6/platinum/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Platinum Cast
+    Original:
+    - Platinum Cast
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/6/platinum/auth_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp4
+    Original:
+    - sp4
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/7/gold/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Gold Cast
+    Original:
+    - Gold Cast
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/7/gold/auth_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp3
+    Original:
+    - sp3
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/8/silver/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Silver Cast
+    Original:
+    - Silver Cast
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/8/silver/auth_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp2
+    Original:
+    - sp2
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/9/bronze/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bronze Cast
+    Original:
+    - Bronze Cast
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/9/bronze/auth_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp1
+    Original:
+    - sp1
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/10/none/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Beginner
+    Original:
+    - Beginner
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/11/number_one/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: No.1
+    Original:
+    - No.1
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/love_rank/table/11/number_one/auth_name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp5
+    Original:
+    - sp5
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/1/change_card/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <Sign:2>äş¤ćŹ›ĺŤˇç‰‡
+    Original:
+    - <Sign:2>交換卡片
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/4/hostess_detail_button/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <Sign:4>
+    Original:
+    - <Sign:4>
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/5/change_card_caption/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č«‹é\x81¸ć“‡č¦\x81ćŤ¨ćŁ„çš„ĺŤˇç‰‡ďĽ\x88ĺŹŻé\x81¸ć“‡č¤‡ć•¸ĺŤˇç‰‡ďĽ‰"
+    Original:
+    - 請選擇要捨棄的卡片（可選擇複數卡片）
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/6/change_card_decide/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <Sign:2>äş¤ćŹ›ĺŤˇç‰‡
+    Original:
+    - <Sign:2>交換卡片
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/7/profile_unknown/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ďĽźďĽźďĽź
+    Original:
+    - ？？？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/9/status_theme_hobby/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č\x88\x88č¶Ł"
+    Original:
+    - 興趣
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/10/status_theme_skill/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ç‰ąé•·
+    Original:
+    - 特長
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/11/status_theme_favorite_food/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ–ść­ˇçš„éŁźç‰©
+    Original:
+    - 喜歡的食物
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/12/status_theme_favorite_music/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ–ść­ˇçš„éźłć¨‚
+    Original:
+    - 喜歡的音樂
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/13/status_theme_like_type/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ–ść­ˇçš„éˇžĺž‹
+    Original:
+    - 喜歡的類型
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/14/status_theme_dream/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ°‡äľ†çš„ĺ¤˘ć\x83ł"
+    Original:
+    - 將來的夢想
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/message/table/15/title_msg_extend/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č¦\x81ĺ»¶é•·ĺ—ŽďĽź"
+    Original:
+    - 要延長嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/25/card_no_01/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č\x88\x88č¶Łć\x98Żä»€éşĽĺ‘˘ďĽź"
+    Original:
+    - 興趣是什麼呢？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/25/card_no_01/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č\x88\x88č¶Łć\x98Żä»€éşĽĺ‘˘ďĽź"
+    Original:
+    - 興趣是什麼呢？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/26/card_no_02/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      äĽ‘ĺ‡
+
+      é˝ĺś¨ĺšä»€éşĽďĽź
+    Original:
+    - >-
+      休假
+
+      都在做什麼？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/26/card_no_02/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "äĽ‘ĺ\x81‡é\x83˝ĺś¨ĺ\x81šä»€éşĽďĽź"
+    Original:
+    - 休假都在做什麼？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/27/card_no_03/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      é€™ĺ·Ąä˝ś
+
+      ĺšĺľäą…äş†ĺ—ŽďĽź
+    Original:
+    - >-
+      這工作
+
+      做很久了嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/27/card_no_03/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é€™ĺ·Ąä˝śĺ\x81šĺľ\x88äą…äş†ĺ—ŽďĽź"
+    Original:
+    - 這工作做很久了嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/28/card_no_04/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łć\x98Żĺ“ŞčŁˇäşşĺ‘˘ďĽź"
+    Original:
+    - 妳是哪裡人呢？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/28/card_no_04/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łć\x98Żĺ“ŞčŁˇäşşĺ‘˘ďĽź"
+    Original:
+    - 妳是哪裡人呢？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/29/card_no_05/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ–ść­ˇĺ\x90\x83çš„ćť±čĄżć\x98ŻďĽź"
+    Original:
+    - 喜歡吃的東西是？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/29/card_no_05/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ–ść­ˇĺ\x90\x83çš„ćť±čĄżć\x98ŻďĽź"
+    Original:
+    - 喜歡吃的東西是？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/30/card_no_06/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ–ść­ˇä»€éşĽć¨Łçš„
+
+      ç”·ç”źĺ‘˘ďĽź
+    Original:
+    - >-
+      喜歡什麼樣的
+
+      男生呢？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/30/card_no_06/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ–ść­ˇä»€éşĽć¨Łçš„ç”·ç”źĺ‘˘ďĽź
+    Original:
+    - 喜歡什麼樣的男生呢？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/31/card_no_07/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      č«‡ć€ć„›ćśćś‰
+
+      ä»€éşĽć¨Łçš„č®ŠĺŚ–ďĽź
+    Original:
+    - >-
+      談戀愛會有
+
+      什麼樣的變化？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/31/card_no_07/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č«‡ć\x88€ć„›ćś\x83ćś‰ä»€éşĽć¨Łçš„č®ŠĺŚ–ďĽź"
+    Original:
+    - 談戀愛會有什麼樣的變化？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/32/card_no_08/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćśŞäľ†çš„ĺ¤˘ć\x83łć\x98ŻďĽź"
+    Original:
+    - 未來的夢想是？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/32/card_no_08/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćśŞäľ†çš„ĺ¤˘ć\x83łć\x98ŻďĽź"
+    Original:
+    - 未來的夢想是？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/33/card_no_09/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ­©ćŹ\x90ć™‚çš„ĺ¤˘ć\x83łć\x98ŻďĽź"
+    Original:
+    - 孩提時的夢想是？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/33/card_no_09/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ­©ćŹ\x90ć™‚çš„ĺ¤˘ć\x83łć\x98ŻďĽź"
+    Original:
+    - 孩提時的夢想是？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/34/card_no_10/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćś\x83ä»€éşĽç‰ąćŠ€ďĽź"
+    Original:
+    - 會什麼特技？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/34/card_no_10/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćś\x83ä»€éşĽç‰ąćŠ€ďĽź"
+    Original:
+    - 會什麼特技？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/35/card_no_11/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ćś€čż‘ćś‰éŽä»€éşĽ
+
+      ĺĄ˝çŽ©çš„äş‹ć…ĺ‘˘ďĽź
+    Original:
+    - >-
+      最近有過什麼
+
+      好玩的事情呢？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/35/card_no_11/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćś€čż‘ćś‰é\x81Žä»€éşĽĺĄ˝çŽ©çš„äş‹ć\x83…ĺ‘˘ďĽź"
+    Original:
+    - 最近有過什麼好玩的事情呢？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/36/card_no_12/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ćś‹ĺŹ‹ĺ¤šĺ—ŽďĽź
+    Original:
+    - 朋友多嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/36/card_no_12/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ćś‹ĺŹ‹ĺ¤šĺ—ŽďĽź
+    Original:
+    - 朋友多嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/37/card_no_13/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      é—ść–Ľ
+
+      é›»č¦–éŠć˛
+    Original:
+    - >-
+      關於
+
+      電視遊戲
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/37/card_no_13/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľé›»č¦–é\x81Šć\x88˛ă€‚"
+    Original:
+    - 關於電視遊戲。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/38/card_no_14/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć‘äľ†čŞŞčŞŞ
+
+      ć‘çš„çĄ•ĺŻ†ĺ§
+    Original:
+    - >-
+      我來說說
+
+      我的祕密吧
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/38/card_no_14/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘äľ†čŞŞčŞŞć\x88‘çš„çĄ•ĺŻ†ĺ\x90§ă€‚"
+    Original:
+    - 我來說說我的祕密吧。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/39/card_no_15/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      é—ść–Ľ
+
+      ĺşéť’ĺ’Śç´‹čş«
+    Original:
+    - >-
+      關於
+
+      刺青和紋身
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/39/card_no_15/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľĺ\x88şéť’ĺ’Śç´‹čş«ă€‚"
+    Original:
+    - 關於刺青和紋身。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/40/card_no_16/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľé…’
+    Original:
+    - 關於酒
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/40/card_no_16/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľé…’ă€‚
+    Original:
+    - 關於酒。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/41/card_no_17/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľćť±ĺźŽćś\x83"
+    Original:
+    - 關於東城會
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/41/card_no_17/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľćť±ĺźŽćś\x83ă€‚"
+    Original:
+    - 關於東城會。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/42/card_no_18/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľćľ¤ćť‘é\x81™"
+    Original:
+    - 關於澤村遙
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/42/card_no_18/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľćľ¤ćť‘é\x81™ă€‚"
+    Original:
+    - 關於澤村遙。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/43/card_no_19/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘çš„ç•¶ĺą´ĺ‹‡"
+    Original:
+    - 我的當年勇
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/43/card_no_19/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘çš„ç•¶ĺą´ĺ‹‡ă€‚"
+    Original:
+    - 我的當年勇。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/44/card_no_20/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľć“…é•·çš„čŹś
+    Original:
+    - 關於擅長的菜
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/44/card_no_20/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľć“…é•·çš„čŹśă€‚
+    Original:
+    - 關於擅長的菜。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/45/card_no_21/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľčˇ€ĺž‹
+    Original:
+    - 關於血型
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/45/card_no_21/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľčˇ€ĺž‹ă€‚
+    Original:
+    - 關於血型。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/46/card_no_22/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "äş¤ĺľ€é\x81Žĺąľĺ€‹äşşďĽź"
+    Original:
+    - 交往過幾個人？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/46/card_no_22/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "äş¤ĺľ€é\x81Žĺąľĺ€‹äşşďĽź"
+    Original:
+    - 交往過幾個人？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/47/card_no_23/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ćś‰ç”·ĺŹ‹ĺ—ŽďĽź
+    Original:
+    - 有男友嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/47/card_no_23/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ćś‰ç”·ĺŹ‹ĺ—ŽďĽź
+    Original:
+    - 有男友嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/48/card_no_24/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺšé€™ĺ€‹ĺ·Ąä˝śçš„
+
+      ĺŽźĺ› 
+    Original:
+    - >-
+      做這個工作的
+
+      原因
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/48/card_no_24/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ\x81šé€™ĺ€‹ĺ·Ąä˝śçš„ĺŽźĺ› ă€‚"
+    Original:
+    - 做這個工作的原因。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/49/card_no_25/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      äľ†çŽ©ĺś‹çŽ‹éŠć˛ĺ§ďĽ
+
+      ć‘ç•¶ĺś‹çŽ‹ďĽ
+    Original:
+    - >-
+      來玩國王遊戲吧！
+
+      我當國王！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/49/card_no_25/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "äľ†çŽ©ĺś‹çŽ‹é\x81Šć\x88˛ĺ\x90§ďĽ\x81ć\x88‘ç•¶ĺś‹çŽ‹ďĽ\x81"
+    Original:
+    - 來玩國王遊戲吧！我當國王！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/50/card_no_26/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      é˝č˝ä»€éşĽć¨Łçš„
+
+      éźłć¨‚ďĽź
+    Original:
+    - >-
+      都聽什麼樣的
+
+      音樂？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/50/card_no_26/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é\x83˝č\x81˝ä»€éşĽć¨Łçš„éźłć¨‚ďĽź"
+    Original:
+    - 都聽什麼樣的音樂？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/51/card_no_27/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä»Šĺ¤©č\x81Šĺľ—ĺľ\x88é–‹ĺż\x83"
+    Original:
+    - 今天聊得很開心
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/51/card_no_27/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä»Šĺ¤©č\x81Šĺľ—ĺľ\x88é–‹ĺż\x83ă€‚"
+    Original:
+    - 今天聊得很開心。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/52/card_no_28/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ćś€čż‘ĺąľĺ¤©
+
+      ä¸€ç›´ĺľĺ†·ĺ‘˘â€¦â€¦
+    Original:
+    - >-
+      最近幾天
+
+      一直很冷呢……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/52/card_no_28/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćś€čż‘ĺąľĺ¤©ä¸€ç›´ĺľ\x88ĺ†·ĺ‘˘â€¦â€¦"
+    Original:
+    - 最近幾天一直很冷呢……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/53/card_no_29/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ¤šč™§äş†ĺ¦ł
+
+      č®“é…’č®ŠĺĄ˝ĺ–ťäş†ĺ‘˘
+    Original:
+    - >-
+      多虧了妳
+
+      讓酒變好喝了呢
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/53/card_no_29/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ¤šč™§äş†ĺ¦łč®“é…’č®ŠĺĄ˝ĺ–ťäş†ĺ‘˘
+    Original:
+    - 多虧了妳讓酒變好喝了呢
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/54/card_no_30/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘ć„›ĺ¦łâ€¦â€¦"
+    Original:
+    - 我愛妳……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/54/card_no_30/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘ć„›ĺ¦łâ€¦â€¦"
+    Original:
+    - 我愛妳……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/55/card_no_31/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ‘€ĺ‘µďĽ\x81"
+    Original:
+    - 呀呵！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/55/card_no_31/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ‘€ĺ‘µďĽ\x81"
+    Original:
+    - 呀呵！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/56/card_no_32/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ä˝ ĺĄ˝
+    Original:
+    - 你好
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/56/card_no_32/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ä˝ ĺĄ˝ă€‚
+    Original:
+    - 你好。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/57/card_no_33/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č®“ć\x88‘ć‘¸ä¸€ä¸‹ĺ\x90§"
+    Original:
+    - 讓我摸一下吧
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/57/card_no_33/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č®“ć\x88‘ć‘¸ä¸€ä¸‹ĺ\x90§ă€‚"
+    Original:
+    - 讓我摸一下吧。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/58/card_no_34/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ¦łä»Šĺ¤©ć‰“ć‰®ĺľ—
+
+      äąźĺľĺŹŻć„›č€¶
+    Original:
+    - >-
+      妳今天打扮得
+
+      也很可愛耶
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/58/card_no_34/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łä»Šĺ¤©ć‰“ć‰®ĺľ—äąźĺľ\x88ĺŹŻć„›č€¶ă€‚"
+    Original:
+    - 妳今天打扮得也很可愛耶。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/59/card_no_35/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ¦łé‚„ćŻ
+
+      é€™éşĽĺś°ćĽ‚äş®
+    Original:
+    - >-
+      妳還是
+
+      這麼地漂亮
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/59/card_no_35/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łé‚„ć\x98Żé€™éşĽĺś°ćĽ‚äş®ă€‚"
+    Original:
+    - 妳還是這麼地漂亮。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/60/card_no_36/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Beautiful 
+
+      Eyesâ€¦
+    Original:
+    - >-
+      Beautiful 
+
+      Eyes…
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/60/card_no_36/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Beautiful Eyesâ€¦
+    Original:
+    - Beautiful Eyes…
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/61/card_no_37/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺŹŞč¨±
+
+      çś‹ć‘ä¸€ĺ€‹äşşĺ–”ďĽź
+    Original:
+    - >-
+      只許
+
+      看我一個人喔？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/61/card_no_37/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺŹŞč¨±çś‹ć\x88‘ä¸€ĺ€‹äşşĺ–”ďĽź"
+    Original:
+    - 只許看我一個人喔？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/62/card_no_38/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ¦łćś‰
+
+      ĺ–ść­ˇçš„äşşĺ—Žâ€¦â€¦ďĽź
+    Original:
+    - >-
+      妳有
+
+      喜歡的人嗎……？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/62/card_no_38/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ¦łćś‰ĺ–ść­ˇçš„äşşĺ—Žâ€¦â€¦ďĽź
+    Original:
+    - 妳有喜歡的人嗎……？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/63/card_no_39/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć„›ä¸Šć‘ĺŹŻćŻ
+
+      ćśĺŹ—ĺ‚·çš„ĺ–”ďĽź
+    Original:
+    - >-
+      愛上我可是
+
+      會受傷的喔？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/63/card_no_39/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć„›ä¸Šć\x88‘ĺŹŻć\x98Żćś\x83ĺŹ—ĺ‚·çš„ĺ–”ďĽź"
+    Original:
+    - 愛上我可是會受傷的喔？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/64/card_no_40/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é€™ĺ®¶ĺş—çśźć\x98Żä¸ŤéŚŻĺ‘˘"
+    Original:
+    - 這家店真是不錯呢
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/64/card_no_40/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é€™ĺ®¶ĺş—çśźć\x98Żä¸ŤéŚŻĺ‘˘ă€‚"
+    Original:
+    - 這家店真是不錯呢。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/65/card_no_41/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      é—ść–ĽçĄžĺ®¤ç”şçš„
+
+      ĺĄ˝ĺçš„ĺş—
+    Original:
+    - >-
+      關於神室町的
+
+      好吃的店
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/65/card_no_41/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–ĽçĄžĺ®¤ç”şçš„ĺĄ˝ĺ\x90\x83çš„ĺş—ă€‚"
+    Original:
+    - 關於神室町的好吃的店。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/66/card_no_42/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      çĄžĺ®¤ç”şĺ…§
+
+      ćś‰ĺś¨ĺšçš„ĺş—
+    Original:
+    - >-
+      神室町內
+
+      有在做的店
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/66/card_no_42/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "çĄžĺ®¤ç”şĺ…§ćś‰ĺś¨ĺ\x81šçš„ĺş—ă€‚"
+    Original:
+    - 神室町內有在做的店。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/67/card_no_43/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ćŠŠäľżĺ©ĺ•†ĺş—
+
+      ç ¸ç›çš„äş‹
+    Original:
+    - >-
+      把便利商店
+
+      砸爛的事
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/67/card_no_43/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćŠŠäľżĺ\x88©ĺ•†ĺş—ç ¸ç\x88›çš„äş‹ă€‚"
+    Original:
+    - 把便利商店砸爛的事。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/68/card_no_44/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      č‡łä»Š
+
+      çŠŻä¸‹çš„ç˝Şâ€¦â€¦
+    Original:
+    - >-
+      至今
+
+      犯下的罪……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/68/card_no_44/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: č‡łä»ŠçŠŻä¸‹çš„ç˝Şâ€¦â€¦
+    Original:
+    - 至今犯下的罪……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/69/card_no_45/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      č‡ć­»ĺŽ»çš„
+
+      é‚Łĺ‚˘äĽ™çš„ĺ›žć†¶
+    Original:
+    - >-
+      與死去的
+
+      那傢伙的回憶
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/69/card_no_45/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č\x88‡ć­»ĺŽ»çš„é‚Łĺ‚˘äĽ™çš„ĺ›žć†¶ă€‚"
+    Original:
+    - 與死去的那傢伙的回憶。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/70/card_no_46/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä»€éşĽć\x98Żçśźć­Łçš„ĺĄ˝ĺŹ‹ďĽź"
+    Original:
+    - 什麼是真正的好友？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/70/card_no_46/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä»€éşĽć\x98Żçśźć­Łçš„ĺĄ˝ĺŹ‹ďĽź"
+    Original:
+    - 什麼是真正的好友？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/71/card_no_47/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺľćś
+
+      ç…§éˇ§ĺ¬°ĺ…’çš„äş‹
+    Original:
+    - >-
+      很會
+
+      照顧嬰兒的事
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/71/card_no_47/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺľ\x88ćś\x83ç…§éˇ§ĺ¬°ĺ…’çš„äş‹ă€‚"
+    Original:
+    - 很會照顧嬰兒的事。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/72/card_no_48/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľć‰“é­šçš„ĺ›°é›Ł
+    Original:
+    - 關於打魚的困難
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/72/card_no_48/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľć‰“é­šçš„ĺ›°é›Łă€‚
+    Original:
+    - 關於打魚的困難。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/73/card_no_49/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      č˘«č¨±ĺ¤šçµ„çą”
+
+      ç´˘ĺ‘˝çš„äş‹
+    Original:
+    - >-
+      被許多組織
+
+      索命的事
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/73/card_no_49/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: č˘«č¨±ĺ¤šçµ„çą”ç´˘ĺ‘˝çš„äş‹ă€‚
+    Original:
+    - 被許多組織索命的事。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/74/card_no_50/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      čµ°ĺś¨čˇ—é ­
+
+      ç¸˝ćŻč˘«ć‰ľç˘´çš„äş‹
+    Original:
+    - >-
+      走在街頭
+
+      總是被找碴的事
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/74/card_no_50/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "čµ°ĺś¨čˇ—é ­ç¸˝ć\x98Żč˘«ć‰ľç˘´çš„äş‹ă€‚"
+    Original:
+    - 走在街頭總是被找碴的事。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/75/card_no_51/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      é—ść–Ľ
+
+      č»Śé“č»Š
+    Original:
+    - >-
+      關於
+
+      軌道車
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/75/card_no_51/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľč»Śé\x81“č»Šă€‚"
+    Original:
+    - 關於軌道車。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/76/card_no_52/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ćś€čż‘é–‹ĺ§‹
+
+      ä¸ŠĺĄčş«ćżçš„äş‹
+    Original:
+    - >-
+      最近開始
+
+      上健身房的事
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/76/card_no_52/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćś€čż‘é–‹ĺ§‹ä¸Šĺ\x81Ąčş«ć\x88żçš„äş‹ă€‚"
+    Original:
+    - 最近開始上健身房的事。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/77/card_no_53/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć‘ä¸Ťĺ–ść­ˇ
+
+      ĺµé¬§
+    Original:
+    - >-
+      我不喜歡
+
+      吵鬧
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/77/card_no_53/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘ä¸Ťĺ–ść­ˇĺ\x90µé¬§ă€‚"
+    Original:
+    - 我不喜歡吵鬧。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/78/card_no_54/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć‘ćŻ
+
+      čŤ‰éŁźçł»ç”·äşş
+    Original:
+    - >-
+      我是
+
+      草食系男人
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/78/card_no_54/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘ć\x98ŻčŤ‰éŁźçł»ç”·äşşă€‚"
+    Original:
+    - 我是草食系男人。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/79/card_no_55/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘ĺ…¶ĺŻ¦ĺ€‹ć€§ć€•ç”ź"
+    Original:
+    - 我其實個性怕生
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/79/card_no_55/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘ĺ…¶ĺŻ¦ĺ€‹ć€§ć€•ç”źă€‚"
+    Original:
+    - 我其實個性怕生。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/80/card_no_56/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ç´„ćśä¸€ĺ®šč¦ĺŽ»
+
+      é«ç´šé¤ĺ»ł
+    Original:
+    - >-
+      約會一定要去
+
+      高級餐廳
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/80/card_no_56/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç´„ćś\x83ä¸€ĺ®šč¦\x81ĺŽ»é«\x98ç´šé¤\x90ĺ»łă€‚"
+    Original:
+    - 約會一定要去高級餐廳。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/81/card_no_57/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łč¦şĺľ—ć\x88‘ĺąľć­˛ďĽź"
+    Original:
+    - 妳覺得我幾歲？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/81/card_no_57/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łč¦şĺľ—ć\x88‘ĺąľć­˛ďĽź"
+    Original:
+    - 妳覺得我幾歲？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/82/card_no_58/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ¦łč¦şĺľ—
+
+      ć‘ć€ŽéşĽć¨ŁďĽź
+    Original:
+    - >-
+      妳覺得
+
+      我怎麼樣？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/82/card_no_58/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łč¦şĺľ—ć\x88‘ć€ŽéşĽć¨ŁďĽź"
+    Original:
+    - 妳覺得我怎麼樣？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/83/card_no_59/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć„›č·źĺą´ç´€ĺ¤§é‚„ćŻ
+
+      ĺą´ç´€ĺ°Źçš„äş¤ĺľ€ďĽź
+    Original:
+    - >-
+      愛跟年紀大還是
+
+      年紀小的交往？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/83/card_no_59/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łć„›č·źĺą´ç´€ĺ¤§é‚„ć\x98Żĺą´ç´€ĺ°Źçš„äş¤ĺľ€ďĽź"
+    Original:
+    - 妳愛跟年紀大還是年紀小的交往？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/84/card_no_60/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łćś‰ä»€éşĽĺ\x81ŹĺĄ˝ďĽź"
+    Original:
+    - 妳有什麼偏好？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/84/card_no_60/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łćś‰ä»€éşĽĺ\x81ŹĺĄ˝ďĽź"
+    Original:
+    - 妳有什麼偏好？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/85/card_no_61/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      çŹľĺś¨ćś€ćłč¦çš„
+
+      ćť±čĄżćŻďĽź
+    Original:
+    - >-
+      現在最想要的
+
+      東西是？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/85/card_no_61/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łçŹľĺś¨ćś€ć\x83łč¦\x81çš„ćť±čĄżć\x98ŻďĽź"
+    Original:
+    - 妳現在最想要的東西是？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/86/card_no_62/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľĺ\x88ťć\x88€"
+    Original:
+    - 關於初戀
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/86/card_no_62/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľĺ\x88ťć\x88€ă€‚"
+    Original:
+    - 關於初戀。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/87/card_no_63/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľç¬¬ä¸€ć¬ˇ
+    Original:
+    - 關於第一次
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/87/card_no_63/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľç¬¬ä¸€ć¬ˇă€‚
+    Original:
+    - 關於第一次。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/88/card_no_64/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ¦łä»Šĺ¤©
+
+      ç©żä»€éşĽéˇŹč‰˛çš„ĺ…§č¤˛ďĽź
+    Original:
+    - >-
+      妳今天
+
+      穿什麼顏色的內褲？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/88/card_no_64/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ¦łä»Šĺ¤©ç©żä»€éşĽéˇŹč‰˛çš„ĺ…§č¤˛ďĽź
+    Original:
+    - 妳今天穿什麼顏色的內褲？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/89/card_no_65/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľçµ\x90ĺ©š"
+    Original:
+    - 關於結婚
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/89/card_no_65/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľçµ\x90ĺ©šă€‚"
+    Original:
+    - 關於結婚。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/90/card_no_66/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łĺľ\x88ćś\x83ĺŚ–ĺ¦ťĺ‘˘"
+    Original:
+    - 妳很會化妝呢
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/90/card_no_66/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łĺľ\x88ćś\x83ĺŚ–ĺ¦ťĺ‘˘ă€‚"
+    Original:
+    - 妳很會化妝呢。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/91/card_no_67/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć‘ĺ€‘ćś‰ć˛’ćś‰
+
+      ĺś¨ĺ“ŞčŁˇč¦‹éŽďĽź
+    Original:
+    - >-
+      我們有沒有
+
+      在哪裡見過？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/91/card_no_67/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘ĺ€‘ćś‰ć˛’ćś‰ĺś¨ĺ“ŞčŁˇč¦‹é\x81ŽďĽź"
+    Original:
+    - 我們有沒有在哪裡見過？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/92/card_no_68/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łčş«ćť\x90çśźĺĄ˝ďĽ\x81"
+    Original:
+    - 妳身材真好！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/92/card_no_68/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łčş«ćť\x90çśźĺĄ˝ďĽ\x81"
+    Original:
+    - 妳身材真好！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/93/card_no_69/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľç”·äşşçš„čŠ±ĺż\x83"
+    Original:
+    - 關於男人的花心
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/93/card_no_69/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľç”·äşşçš„čŠ±ĺż\x83ă€‚"
+    Original:
+    - 關於男人的花心。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/94/card_no_70/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ç´„ćś
+
+      ĺ°±ćŻč¦ĺŽ»č¸Źéť’ďĽ
+    Original:
+    - >-
+      約會
+
+      就是要去踏青！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/94/card_no_70/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç´„ćś\x83ĺ°±ć\x98Żč¦\x81ĺŽ»č¸Źéť’ďĽ\x81"
+    Original:
+    - 約會就是要去踏青！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/95/card_no_71/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ç´„ćś
+
+      ĺ°±ćŻč¦é–‰é—śĺś¨ĺ®¶
+    Original:
+    - >-
+      約會
+
+      就是要閉關在家
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/95/card_no_71/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç´„ćś\x83ĺ°±ć\x98Żč¦\x81é–‰é—śĺś¨ĺ®¶ă€‚"
+    Original:
+    - 約會就是要閉關在家。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/96/card_no_72/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ¦łĺ­¸ç”źć™‚ä»Ł
+
+      ćŻé‹ĺ‹•ç¤ľĺśçš„ĺ§ďĽź
+    Original:
+    - >-
+      妳學生時代
+
+      是運動社團的吧？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/96/card_no_72/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦łĺ­¸ç”źć™‚ä»Łć\x98Żé\x81‹ĺ‹•ç¤ľĺś\x98çš„ĺ\x90§ďĽź"
+    Original:
+    - 妳學生時代是運動社團的吧？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/97/card_no_73/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺą«ć‘
+
+      ć´—ĺ…§č¤˛ĺ§
+    Original:
+    - >-
+      幫我
+
+      洗內褲吧
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/97/card_no_73/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺą«ć\x88‘ć´—ĺ…§č¤˛ĺ\x90§ă€‚"
+    Original:
+    - 幫我洗內褲吧。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/98/card_no_74/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ç‚şć‘ĺš
+
+      ĺ‘łĺ™ŚćąŻĺ§ďĽ
+    Original:
+    - >-
+      為我做
+
+      味噌湯吧！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/98/card_no_74/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç‚şć\x88‘ĺ\x81šĺ‘łĺ™ŚćąŻĺ\x90§ďĽ\x81"
+    Original:
+    - 為我做味噌湯吧！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/99/card_no_75/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ćś€čż‘çš„ĺą´čĽ•äşş
+
+      ĺŻ¦ĺś¨ä¸ŤĺŹč©±
+    Original:
+    - >-
+      最近的年輕人
+
+      實在不像話
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/99/card_no_75/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćś€čż‘çš„ĺą´čĽ•äşşĺŻ¦ĺś¨ä¸Ťĺ\x83Źč©±ă€‚"
+    Original:
+    - 最近的年輕人實在不像話。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/100/card_no_76/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺś¨ĺŤˇć‹‰ďĽŻďĽ«
+
+      ĺ¸¸ĺ”±çš„ć­Ś
+    Original:
+    - >-
+      在卡拉ＯＫ
+
+      常唱的歌
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/100/card_no_76/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺś¨ĺŤˇć‹‰ďĽŻďĽ«ĺ¸¸ĺ”±çš„ć­Śă€‚
+    Original:
+    - 在卡拉ＯＫ常唱的歌。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/101/card_no_77/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ćś‰ĺŤ±éšŞĺ‘łçš„ç”·äşş
+
+      čĽćś‰é­…ĺŠ›ĺ°Ťĺ§ďĽź
+    Original:
+    - >-
+      有危險味的男人
+
+      較有魅力對吧？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/101/card_no_77/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćś‰ĺŤ±éšŞĺ‘łçš„ç”·äşşčĽ\x83ćś‰é­…ĺŠ›ĺ°Ťĺ\x90§ďĽź"
+    Original:
+    - 有危險味的男人較有魅力對吧？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/102/card_no_78/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľçśźĺł¶
+    Original:
+    - 關於真島
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/102/card_no_78/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľçśźĺł¶
+    Original:
+    - 關於真島
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/103/card_no_79/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–ĽäĽŠé\x81”"
+    Original:
+    - 關於伊達
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/103/card_no_79/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–ĽäĽŠé\x81”"
+    Original:
+    - 關於伊達
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/104/card_no_80/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľç§‹ĺ±±
+    Original:
+    - 關於秋山
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/104/card_no_80/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľç§‹ĺ±±
+    Original:
+    - 關於秋山
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/105/card_no_81/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľĺ†´ĺł¶
+    Original:
+    - 關於冴島
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/105/card_no_81/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é—ść–Ľĺ†´ĺł¶
+    Original:
+    - 關於冴島
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/106/card_no_82/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľĺ¤§ĺ\x90ľ"
+    Original:
+    - 關於大吾
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/106/card_no_82/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľĺ¤§ĺ\x90ľ"
+    Original:
+    - 關於大吾
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/107/card_no_83/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľĺ°ľé\x81“"
+    Original:
+    - 關於尾道
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/107/card_no_83/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é—ść–Ľĺ°ľé\x81“"
+    Original:
+    - 關於尾道
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/108/drink1/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁ˛ć–™ĺŤˇ
+    Original:
+    - 飲料卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/108/drink1/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "éŁ˛ć–™ĺŤˇčŞŞć\x98Žć–‡"
+    Original:
+    - 飲料卡說明文
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/109/drink2/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁ˛ć–™ĺŤˇ
+    Original:
+    - 飲料卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/109/drink2/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "éŁ˛ć–™ĺŤˇčŞŞć\x98Žć–‡"
+    Original:
+    - 飲料卡說明文
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/110/drink3/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁ˛ć–™ĺŤˇ
+    Original:
+    - 飲料卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/110/drink3/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "éŁ˛ć–™ĺŤˇčŞŞć\x98Žć–‡"
+    Original:
+    - 飲料卡說明文
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/111/drink4/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁ˛ć–™ĺŤˇ
+    Original:
+    - 飲料卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/111/drink4/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "éŁ˛ć–™ĺŤˇčŞŞć\x98Žć–‡"
+    Original:
+    - 飲料卡說明文
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/112/drink5/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁ˛ć–™ĺŤˇ
+    Original:
+    - 飲料卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/112/drink5/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "éŁ˛ć–™ĺŤˇčŞŞć\x98Žć–‡"
+    Original:
+    - 飲料卡說明文
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/113/food1/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/113/food1/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/114/food2/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/114/food2/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/115/food3/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/115/food3/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/116/food4/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/116/food4/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/117/food5/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/talk_card/table/117/food5/caption
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: éŁźç‰©ĺŤˇ
+    Original:
+    - 食物卡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//first_greetings_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: come1
+    Original:
+    - come1
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//greetings_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: come2
+    Original:
+    - come2
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//first_farewell_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: exit1
+    Original:
+    - exit1
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//farewell_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: exit2
+    Original:
+    - exit2
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//go_with_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: douhan
+    Original:
+    - douhan
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//bronze_cast_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp1
+    Original:
+    - sp1
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//silver_cast_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp2
+    Original:
+    - sp2
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//gold_cast_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp3
+    Original:
+    - sp3
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//platinum_cast_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp4
+    Original:
+    - sp4
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/config/table/0//no_one_auth
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: sp5
+    Original:
+    - sp5
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\minigame_cabaret_cabaret.json'

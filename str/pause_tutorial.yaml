@@ -1,0 +1,797 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/homeless_tutorial_forward/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Forward
+    Original:
+    - Forward
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/homeless_tutorial_forward/command
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <symbol=button_maru> or <symbol=button_r2>
+    Original:
+    - <symbol=button_maru> or <symbol=button_r2>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/homeless_tutorial_back/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Reverse
+    Original:
+    - Reverse
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/homeless_tutorial_back/command
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <symbol=button_batsu> or <symbol=button_l2>
+    Original:
+    - <symbol=button_batsu> or <symbol=button_l2>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/homeless_tutorial_boost/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Boost
+    Original:
+    - Boost
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/homeless_tutorial_boost/command
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <symbol=button_sankaku>
+    Original:
+    - <symbol=button_sankaku>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /80/meigaza_tutorial_sheep/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ram REM Rams
+    Original:
+    - Ram REM Rams
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /80/meigaza_tutorial_sheep/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Press the indicated button
+    Original:
+    - Press the indicated button
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /80/meigaza_tutorial_sheep/command
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <symbol=button_maru><symbol=button_batsu><symbol=button_shikaku><symbol=button_sankaku>
+    Original:
+    - <symbol=button_maru><symbol=button_batsu><symbol=button_shikaku><symbol=button_sankaku>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/meigaza_tutorial_chicken/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Don't hit the rooster!
+    Original:
+    - Don't hit the rooster!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/meigaza_tutorial_rush/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Rush
+    Original:
+    - Rush
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/meigaza_tutorial_rush/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A golden sheep will appear during Rush!
+    Original:
+    - A golden sheep will appear during Rush!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/ptc_tutorial/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Party Chat
+    Original:
+    - Party Chat
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/ptc_tutorial/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your party members want to chat sometimes, and you can let them by pressing <symbol=button_sankaku> when prompted. Listen until the end, and the party's bond will grow stronger. But, if you interrupt these conversations by opening menus or triggering a battle, not only will it force everyone to stop talking, but it's also just plain rude. Luckily, should something like this happen, you can always go back to the spot where the chat began to give it another shot.
+    Original:
+    - Your party members want to chat sometimes, and you can let them by pressing <symbol=button_sankaku> when prompted. Listen until the end, and the party's bond will grow stronger. But, if you interrupt these conversations by opening menus or triggering a battle, not only will it force everyone to stop talking, but it's also just plain rude. Luckily, should something like this happen, you can always go back to the spot where the chat began to give it another shot.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/drama_tutorial_01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Rozmowy nad Szklanką
+    Original:
+    - Drink Links
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/drama_tutorial_01/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Picie i walka z twoimi kompanami wypełnia z nimi Pasek Więzi. Gdy się zapełni, możesz porozmawiać z nimi w barze Survive i aktywować specjalną historię poboczną.
+    Original:
+    - Dining and fighting alongside your companions will fill your Bond Gauge with them. Once it's full enough, talk to said companion at Survive to trigger their special side stories called Drink Links.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/plant_tutorial/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Poradnik Młodego Zielarza
+    Original:
+    - Grower's Guide
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/plant_tutorial/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: W Yokohamie jest wiele miejsc w którym można zasadzić nasiona lub cebulki! Rośliny rosną z czasem, do momentu aż nie będą gotowe na zbiory. Możesz używać specjalnych przedmiotów by skrócić ten czas. Barman w Survive może użyć ich by tworzyć bento, chińskie leki oraz bukiety. Utalentowany i tajemniczy z niego człowiek!
+    Original:
+    - Check out any of Yokohama's numerous planters while carrying seeds or bulbs to grow a variety of plants! Plants will grow over time and eventually be ready to harvest. You can even use special items to increase the fruits of your harvest or make them take less time to grow. The bartender at Survive can turn your harvests into everything from bentos to Chinese medicine to flower bouquets. What a talented and mysterious guy!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87/yoasobi_tutorial/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Night Life
+    Original:
+    - Night Life
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87/yoasobi_tutorial/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga can strengthen his bonds with his boys by enjoying the local nightlife. And don't forget the ladies! They may not be much for the hostess clubs, but there's plenty of things they enjoy, too! Mix in a little food and drink, and you've got a recipe for a good time with good friends! While the boys play, the ladies will spend their time relaxing, and this way everyone's HP and MP is restored!
+    Original:
+    - Kasuga can strengthen his bonds with his boys by enjoying the local nightlife. And don't forget the ladies! They may not be much for the hostess clubs, but there's plenty of things they enjoy, too! Mix in a little food and drink, and you've got a recipe for a good time with good friends! While the boys play, the ladies will spend their time relaxing, and this way everyone's HP and MP is restored!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/quest_tutorial/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Part-time Hero Quests
+    Original:
+    - Part-time Hero Quests
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/quest_tutorial/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Completing Part-time Hero quests will net you rewards such as money and items. Quests will automatically be received depending on the state of your progress. These can be checked under "Part-time Hero Quests" in the Pause Menu.
+    Original:
+    - Completing Part-time Hero quests will net you rewards such as money and items. Quests will automatically be received depending on the state of your progress. These can be checked under "Part-time Hero Quests" in the Pause Menu.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/quest_tutorial_01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Quest Types
+    Original:
+    - Quest Types
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/quest_tutorial_01/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Support quests include "Delivery Quests," in which you'll be tasked with delivering specific items, while Rescue quests include "Takedown Quests," in which you'll need to defeat specific enemies throughout the city. Upon completing these tasks, report back to the reps at locations such as convenience stores to mark the quest as completed. However, urgent Takedown and Delivery Quests do not need to be reported to the reps. Simply talk to the person you helped to mark the quest as completed.
+    Original:
+    - Support quests include "Delivery Quests," in which you'll be tasked with delivering specific items, while Rescue quests include "Takedown Quests," in which you'll need to defeat specific enemies throughout the city. Upon completing these tasks, report back to the reps at locations such as convenience stores to mark the quest as completed. However, urgent Takedown and Delivery Quests do not need to be reported to the reps. Simply talk to the person you helped to mark the quest as completed.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/quest_tutorial_02/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Member Points
+    Original:
+    - Member Points
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/quest_tutorial_02/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Each quest you complete earns you Member Points.
+
+      Collecting these points improves Kasuga's Member Rank, granting him access to special weapons and more rewarding quests.
+
+      Take on tougher quests to earn more Member Points at once.
+    Original:
+    - >-
+      Each quest you complete earns you Member Points.
+
+      Collecting these points improves Kasuga's Member Rank, granting him access to special weapons and more rewarding quests.
+
+      Take on tougher quests to earn more Member Points at once.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /91/quest_tutorial_03/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Challenge Quests
+    Original:
+    - Challenge Quests
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /91/quest_tutorial_03/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Challenge Quests involve various missions based on everyday tasks, and when they are completed, your Personality will improve in accordance with each entry. Rewards for Challenge Quests completed before meeting Hiro will be automatically added.
+    Original:
+    - Challenge Quests involve various missions based on everyday tasks, and when they are completed, your Personality will improve in accordance with each entry. Rewards for Challenge Quests completed before meeting Hiro will be automatically added.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/hellowork_tutorial_change/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: How to Change Jobs
+    Original:
+    - How to Change Jobs
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/hellowork_tutorial_change/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      You can change jobs at Hello Work.
+
+
+      Each character is suited for different jobs, so be sure to choose ones that work for each party member.
+    Original:
+    - >-
+      You can change jobs at Hello Work.
+
+
+      Each character is suited for different jobs, so be sure to choose ones that work for each party member.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/hellowork_tutorial_unlock/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Unlocking Jobs
+    Original:
+    - Unlocking Jobs
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/hellowork_tutorial_unlock/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Jobs will become available as you progress through the main story. However, you will not be able to change to a job until you meet its prerequisites.
+    Original:
+    - Jobs will become available as you progress through the main story. However, you will not be able to change to a job until you meet its prerequisites.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/hellowork_tutorial_uniform/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Changing Uniforms
+    Original:
+    - Changing Uniforms
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/hellowork_tutorial_uniform/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Changing a character's job will cause them to wear a uniform associated with that job. You can freely select from the uniforms available.
+    Original:
+    - Changing a character's job will cause them to wear a uniform associated with that job. You can freely select from the uniforms available.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /99/deliveryhelp_tutorial_battle/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Purpurowa Linia
+    Original:
+    - Poundmates
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /99/deliveryhelp_tutorial_battle/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Pracownicy Purpurowej Linii mogą przyjść z odsieczą w ciężkich walkach. Ze swoim szerokim wachlarzem umiejętności zbiją każdego. Pomoc kosztuje a koszt zależny jest od wybranej osoby. Pamiętaj że pierwszy raz za darmo!
+    Original:
+    - Poundmates are powerful allies with a wide range of abilities, but calling them in costs money. The price depends on the Poundmate, although your first call to each Poundmate is free!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /100/deliveryhelp_tutorial_adv/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Additional Poundmates
+    Original:
+    - Additional Poundmates
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /100/deliveryhelp_tutorial_adv/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Progressing through both the main story and substories will unlock new Poundmates. Be sure to give them a try each and every time one becomes available!
+    Original:
+    - Progressing through both the main story and substories will unlock new Poundmates. Be sure to give them a try each and every time one becomes available!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /101/btl_01_0010_attack/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Wybieranie Zadań
+    Original:
+    - Choosing Commands
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /101/btl_01_0010_attack/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      W trakcie walki, możesz zadecydować jaką wykonać akcje z widocznych w lewym dolnym rogu ekranu. Wybierz komendę "Atak" aby zaatakować przeciwnika.
+
+
+      No dalej!
+    Original:
+    - >-
+      During battle, you will select which actions to take using the commands menu in the bottom left corner of the screen. Select the Attack command to attack with the weapon on hand.
+
+
+      Give that a shot!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /102/btl_01_0010_guard/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Obrona
+    Original:
+    - Defend
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /102/btl_01_0010_guard/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Wybierz "Obrona" a Kasuga ochroni się przed atakami przeciwników. Zmniejszy to otrzymane obrażenia i ochroni przed statusami krwawienia oraz ogłuszenia. Jeżeli wiesz że przeciwnik użyje silnego ataku, warto się przed nim obronić. Czasami warto.
+    Original:
+    - Select Guard for Kasuga to defend himself until his next turn. This will decrease the damage you take and protect against both bleeding and stun. If you know the enemy's next attack will be a powerful one, it might be best to put your guard up. Just a thought.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /103/btl_01_0010_finished/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Pokonaj Ushio!
+    Original:
+    - Defeat Ushio!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /103/btl_01_0010_finished/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      To by było na tyle! Ushio zasługuje na klapsa w dziąsło!
+
+
+      Już ostatnia rzecz: gdy nieopodal przeciwnika jest rower bądź znak, zwykły atak zamieni się w atak z bronią, przedmiotami można wywołać spore obrażenia!
+    Original:
+    - >-
+      That's it for the tutorial! Time to teach Ushio a lesson!
+
+
+      Oh, and one last thing: if there's ever anything like a bicycle or a street sign near an enemy, a normal attack will change into a weapon attack, leading one to use (or in some cases kick) the nearby object to unleash some serious hurt!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /104/btl_01_0020_choose_enemy/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Tutorial (Select Enemy)
+    Original:
+    - Tutorial (Select Enemy)
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /104/btl_01_0020_choose_enemy/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Deleted
+    Original:
+    - Deleted
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /105/btl_01_0020_item/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Tutorial (Items)
+    Original:
+    - Tutorial (Items)
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /105/btl_01_0020_item/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Deleted
+    Original:
+    - Deleted
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /107/btl_01_0020_finished/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Obrona Idealna
+    Original:
+    - Perfect Guard
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /107/btl_01_0020_finished/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Wciśnij <symbol=button_cancel> kiedy atakuję cię przeciwnik aby wykonać Obronę Idealną, która zmniejszy otrzymywane obrażenia. Możesz ją wykonać w dowolnym momencie gdy Kasuga stoi. Podobnie do zwykłej, Obrona Idealna również ochroni przed statusami krwawienia i ogłuszenia, staraj się klikać... idealnie.
+    Original:
+    - Press <symbol=button_cancel> in time with the enemy's attack to perform a Perfect Guard and decrease damage taken. You can perform a Perfect Guard any time Kasuga is standing. Much like the Guard command, a Perfect Guard will also defend against the bleeding and stun status effects, so strive for... perfection.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /108/btl_01_0020_skill/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zdolności and Przyciski
+    Original:
+    - Special Skills and Inputs
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /108/btl_01_0020_skill/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Wybierz "Zdolność", aby wykonać ataki specjalne. Dzielą się na trzy typy: atak, leczenie, i wsparcie. W trakcie ich wykonania może pojawić się odpowiedni przycisk na ekranie, wykonanie sekwencji poprawnie nagradza zwiększonymi obrażeniami. Klikając <symbol=button_shikaku> wielokrotnie lub <symbol=button_sankaku> w odpowiednim momencie (zależnie od wyświetlonego symbolu). Umiejętności zużywają punktów PM (Punkty Mentalne) które widoczne są pod zdrowiem jako niebieski pasek. Pilnuj go!'
+    Original:
+    - 'Select Skills to unleash your special attacks. There are three types of Skills: attack, recovery, and support. Onscreen prompts may appear during attack Skills, which offer opportunities to deal extra damage by pressing <symbol=button_shikaku> repeatedly or pressing <symbol=button_sankaku> at the right time. Skills cost MP (Mental Points) to activate, and your current MP can be seen as a green gauge at the bottom right. Keep an eye on it!'
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /109/deliveryhelp_tutorial_battle_finished/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Tutorial (Free)
+    Original:
+    - Tutorial (Free)
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /110/btl_01_0010_oiuchi/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kopanie leżącego
+    Original:
+    - Opportune Strikes
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /110/btl_01_0010_oiuchi/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Jeżeli zaatakujesz leżącego wroga, zwykły atak zada dużo więcej obrażeń. Kopanie leżącego boli, więc zadawaj go często swoim wrogą!
+    Original:
+    - If you can select attack again before a fallen enemy gets back up, a regular attack will change into a powerful Opportune Strike. Opportune Strikes really dish out the pain, so take every chance you can get!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /111/btl_01_0010_item/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Używanie przedmiotów
+    Original:
+    - Using Items
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /111/btl_01_0010_item/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Czerwony pasek w lewym dolnym rogu to twoje PZ (Punkty Zdrowia). Jeżeli PZ Kasugi spadnie do zera, koniec gry! PZ można przywrócić przedmiotami.
+
+
+      Może warto spróbować onigiri? Jaki smak najbardziej ci się podoba?
+    Original:
+    - >-
+      The red gauge at the bottom right is your energy, or HP (Health Points). If Kasuga's HP reaches zero, it's game over! HP can be recovered by using items.
+
+
+      Why not take this opportunity to take a bite of your onigiri now? Any flavor will do!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /112/btl_01_0010_free1/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Tutorial (Free 1)
+    Original:
+    - Tutorial (Free 1)
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /112/btl_01_0010_free1/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Deleted
+    Original:
+    - Deleted
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /113/btl_01_0010_free2/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Tutorial (Free 2)
+    Original:
+    - Tutorial (Free 2)
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /113/btl_01_0010_free2/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Deleted
+    Original:
+    - Deleted
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /114/personality_tutorial_01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Osobowość Kasugi
+    Original:
+    - Kasuga's Personality
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /114/personality_tutorial_01/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Osobowość Kasugi budowana jest na podstawie jego akcji. Te reprezentują go jako osobę, a ich budowanie da ci dodatkowe bonusy takie jak nowe ruchy, zadania czy postacie do pogawędki.
+    Original:
+    - Kasuga's Personality may improve depending on his actions. These traits represent Kasuga as a person, and refining them will earn him a slew of perks and bonuses, such as unlocking new features or characters to talk to.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /115/personality_tutorial_02/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Cechy osobowości
+    Original:
+    - Personality Traits
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /115/personality_tutorial_02/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Oto sześć cech które posiada Kasuga: <symbol=rpg_personality_passion><color=personality_passion>Pasja</color>, <symbol=rpg_personality_mental><color=personality_mantal>Pewność siebie</color>, <symbol=rpg_personality_cheerful><color=personality_cheerful>Charyzma</color>, <symbol=rpg_personality_heart><color=personality_heart>Czułość</color>, <symbol=rpg_personality_intelligence><color=personality_intelligence>Inteligencja</color>, i <symbol=rpg_personality_fasion><color=personality_fashion>Styl</color>. Wiele rzeczy pozwala budować charakter Kasugi. Niech stanie się lepszym sobą!'
+    Original:
+    - "The following are the six traits of Kasuga's Personality: <symbol=rpg_personality_passion><color=personality_passion>Passion</color>, <symbol=rpg_personality_mental><color=personality_mantal>Confidence</color>, <symbol=rpg_personality_cheerful><color=personality_cheerful>Charisma</color>, <symbol=rpg_personality_heart><color=personality_heart>Kindness</color>, <symbol=rpg_personality_intelligence><color=personality_intelligence>Intellect</color>, and <symbol=rpg_personality_fasion><color=personality_fashion>Style.</color> Try out all different kinds of activities to make Kasuga the very best man he can be."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /116/saferoom_tutorial_01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Punkty Odpoczynku
+    Original:
+    - Recovery Spots
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /116/saferoom_tutorial_01/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: W tym miejscu możesz odpocząć i przywrócić PZ i PM. Punkty te są w pełni darmowe, odpoczywaj ile możesz!
+    Original:
+    - Accessing recovery spots will allow you to recover HP and MP. These are completely free, so be sure to take advantage of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /117/saferoom_tutorial_02/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Punkt Zapisu
+    Original:
+    - Save Points
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /117/saferoom_tutorial_02/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: W miejscach takie jak te jedynym sposobem na zapisanie gry jest użycie takiej skrzynki. Tutaj możesz zapisać grę.
+    Original:
+    - Accessing save points will allow you to save the game. Saving from the Pause Menu won't always be an option, but a save point will never let you down.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /118/drama_tutorial_02/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Rozmowy nad Szklanką
+    Original:
+    - Drink Links
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /118/drama_tutorial_02/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Słuchanie toważyszy pomaga im rozwiązywać problemy i buduje silniejszą więź. Gdy rośnie wasz Poziom Więzi, rośnie też liczba Zawodów które może wykonywać twój kompan. Zwiększy to ich doświadczenie bojowe. Poznaj dogłębnie swoją drużynę, wypełnij Pasek Więzi, dowiedz się co czeka cię przy zimnym drinku.
+    Original:
+    - Listening to your companions' troubles and lending them a helping hand can greatly strengthen your bond with them. As your relationship grows and your Bond Level increases, so does the number of jobs and skills available to your companion. This in turn will improve their abilities and give you a huge advantage in battle. Take some time to get to know your companions, fill those Bond Gauges, and see what surprises each Drink Link has in store.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /119/i_search_tutorial_01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Szukanie Skarbów
+    Original:
+    - Treasure Hunt
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /119/i_search_tutorial_01/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Zyskałeś zdolność Szukania Skarbów!
+
+      Wciskając <symbol=button_shikaku> przy punktach, możesz zyskać pieniądze i przedmioty.
+
+
+      A jeżeli szczęście dopisze to i coś rzadkiego,
+
+      więc nos przy ziemi i wyniuchaj skarby!
+    Original:
+    - >-
+      You've learned the Treasure Hunt ability!
+
+      By pressing <symbol=button_shikaku> near search points around town, you can obtain money and items.
+
+
+      You can even get some rare items if you're lucky,
+
+      so keep your nose to the ground and sniff out that treasure!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /121/k_crash_tutorial_01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Demolish
+    Original:
+    - Demolish
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /121/k_crash_tutorial_01/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      You've learned the Demolish ability!
+
+      By pressing <symbol=button_shikaku> near demolition points around town,
+
+      you can break down obstacles you normally couldn't break.
+
+
+      You'll be able to access a variety of paths and places that were previously unavailable to you, so keep an eye out around town and knock it all down!
+    Original:
+    - >-
+      You've learned the Demolish ability!
+
+      By pressing <symbol=button_shikaku> near demolition points around town,
+
+      you can break down obstacles you normally couldn't break.
+
+
+      You'll be able to access a variety of paths and places that were previously unavailable to you, so keep an eye out around town and knock it all down!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /122/s_battle_arena_tutorial_01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Sotenbori Battle Arena
+    Original:
+    - Sotenbori Battle Arena
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /122/s_battle_arena_tutorial_01/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Conquering each of the many floors in the Sotenbori Battle Arena will earn you a one-time victory reward, which you can receive by opening the suitcase on that floor. Fulfilling special conditions for each battle can also net you additional rewards, and these can be won as many times as you please. You might even score some rare items, so step up to the challenge and try clearing every last floor!
+    Original:
+    - Conquering each of the many floors in the Sotenbori Battle Arena will earn you a one-time victory reward, which you can receive by opening the suitcase on that floor. Fulfilling special conditions for each battle can also net you additional rewards, and these can be won as many times as you please. You might even score some rare items, so step up to the challenge and try clearing every last floor!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /123/btl_04_0040_finished/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Auto-Battle Mode
+    Original:
+    - Auto-Battle Mode
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /123/btl_04_0040_finished/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Auto-Battle Mode can now be selected. Take a look at the guide displayed at the bottom left of the screen. Press <symbol=button_l2> to turn Auto-Battle Mode ON/OFF. Hold down <symbol=button_l2> and use the directional buttons to make a selection.
+    Original:
+    - Auto-Battle Mode can now be selected. Take a look at the guide displayed at the bottom left of the screen. Press <symbol=button_l2> to turn Auto-Battle Mode ON/OFF. Hold down <symbol=button_l2> and use the directional buttons to make a selection.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /123/btl_04_0040_finished/command
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Auto-Battle Mode can now be selected. Take a look at the guide displayed at the bottom left of the screen. Press <symbol=button_l2> to turn Auto-Battle Mode ON/OFF. Hold down <symbol=button_l2> and use the ${platform.term.dpad} to make a selection.
+    Original:
+    - Auto-Battle Mode can now be selected. Take a look at the guide displayed at the bottom left of the screen. Press <symbol=button_l2> to turn Auto-Battle Mode ON/OFF. Hold down <symbol=button_l2> and use the ${platform.term.dpad} to make a selection.
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\pause_tutorial.json'

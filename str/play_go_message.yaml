@@ -1,0 +1,85 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/wait_min/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Installation must complete to
+
+      proceed beyond this point.
+
+      Time remaining: ${hour} hour(s), ${min} minute(s)
+    Original:
+    - >-
+      Installation must complete to
+
+      proceed beyond this point.
+
+      Time remaining: ${hour} hour(s), ${min} minute(s)
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/download_completed/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Installation complete.
+    Original:
+    - Installation complete.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/wait_min2/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Installation must complete to proceed.
+
+      Time remaining: ${hour} hour(s), ${min} minute(s)
+    Original:
+    - >-
+      Installation must complete to proceed.
+
+      Time remaining: ${hour} hour(s), ${min} minute(s)
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/wait_f2p/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      You cannot proceed beyond
+
+      this point in the trial version.
+    Original:
+    - >-
+      You cannot proceed beyond
+
+      this point in the trial version.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/wait_f2p2/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      This content is not available
+
+      in the trial version.
+    Original:
+    - >-
+      This content is not available
+
+      in the trial version.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/wait_version_up_app/text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Please update your game to the latest version to access this content.
+    Original:
+    - Please update your game to the latest version to access this content.
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\play_go_message.json'

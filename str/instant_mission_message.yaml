@@ -1,0 +1,30 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/encount_btl/mission_info
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č˘«éş»ç…©çš„ĺ‚˘äĽ™ĺ€‘çşŹä¸Šäş†ă€‚ć˛’čľ¦ćł•ďĽŚĺ°±é™Şä»–ĺ€‘çŽ©çŽ©ĺ\x90§ă€‚"
+    Original:
+    - 被麻煩的傢伙們纏上了。沒辦法，就陪他們玩玩吧。
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/encount_btl/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć‰“ĺ€’ć•µäşşďĽ\x81"
+    Original:
+    - 打倒敵人！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/encount_btl/mission
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć®˛ć»…ć‰€ćś‰ć•µäşşĺ\x90§"
+    Original:
+    - 殲滅所有敵人吧
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\instant_mission_message.json'

@@ -1,0 +1,63 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /0//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć­ˇčżŽĺ…‰č‡¨ďĽ
+
+      ć­ˇčżŽäľ†ĺ°SEGAďĽ
+    Original:
+    - >-
+      歡迎光臨！
+
+      歡迎來到SEGA！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺś¨ćś¬ĺş—ç•¶ä¸­
+
+      ĺŹŻä»ĄçŽ©ĺ°ä»¤äşşć‡·ĺżµçš„ĺ¤§ĺž‹ć©źĺŹ°éŠć˛
+    Original:
+    - >-
+      在本店當中
+
+      可以玩到令人懷念的大型機台遊戲
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć­ˇčżŽĺ…‰č‡¨ďĽ
+
+      ć­ˇčżŽäľ†ĺ°SEGAďĽ
+    Original:
+    - >-
+      歡迎光臨！
+
+      歡迎來到SEGA！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺś¨ćś¬ĺş—ç•¶ä¸­ĺŹŻä»ĄçŽ©ĺ°
+
+      ă€ŚVirtua Fighteră€Ťĺ’Śă€ŚPuyo Popă€Ť
+    Original:
+    - >-
+      在本店當中可以玩到
+
+      「Virtua Fighter」和「Puyo Pop」
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\sound_auth_subtitles_speech_list_minig_clubsega.json'

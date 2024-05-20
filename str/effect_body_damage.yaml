@@ -1,0 +1,30 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/blood/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: -9`9@k/---------l/---i8-----1[KAg0----la9`9d0X42[jYKAec0---M-.---------l----/1:`9@k---------]l----/1---Ml----k0
+    Original:
+    - -9`9@k/---------l/---i8-----1[KAg0----la9`9d0X42[jYKAec0---M-.---------l----/1:`9@k---------]l----/1---Ml----k0
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/damage_face/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: -[KAek/-----D<7QlKjU=k8QDgSj=NX4j0?NX4l]a:6e0X42[jQ/D<e0---Ml------jU]2l---Ml0`NC1kEgS1d0---]l----.1---Ml9`9@k0
+    Original:
+    - -[KAek/-----D<7QlKjU=k8QDgSj=NX4j0?NX4l]a:6e0X42[jQ/D<e0---Ml------jU]2l---Ml0`NC1kEgS1d0---]l----.1---Ml9`9@k0
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/damage_body/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: -`9`9l/-----9`9@l?7Iji8-----9`9`g0?NXTka9`9d0h>N8keg>Nf0---Ml9`9`g0Aeg.l----.1GSF3k------AegNl----.1---MlMX42k0
+    Original:
+    - -`9`9l/-----9`9@l?7Iji8-----9`9`g0?NXTka9`9d0h>N8keg>Nf0---Ml9`9`g0Aeg.l----.1GSF3k------AegNl----.1---MlMX42k0
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\effect_body_damage.json'

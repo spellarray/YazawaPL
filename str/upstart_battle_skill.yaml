@@ -1,0 +1,30 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/kasuga_lv1/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Przeproś ich. Zadaje lekkie obrażenia wszystkim akcjonariuszom.
+    Original:
+    - Give them a light-hearted apology. Deals light damage to all shareholders.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/kasuga_lv2/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Daj im szczere przeprosiny. Zadaje średnie obrażenia wszystkim akcjonariuszom, blokuje wszystkie akcje na krótki czas, przywraca trochę Ducha Walki twoich kompanów.
+    Original:
+    - Give them a heartfelt apology. Deals medium damage to all shareholders, prevents all actions for a short period of time, and slightly recovers your companions' Fighting Spirit.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/kasuga_lv3/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Rzuć się na podłogę i błagaj o przebaczenie. Zadaje duże obrażenia wszystkim akcjonariuszom, blokuje wszystkie akcje na krótki czas, przywraca Ducha Walki twoich kompanów. '
+    Original:
+    - Throw yourself to the floor and apologize with every fiber of your being. Deals heavy damage to all shareholders, prevents all actions for a short period of time, and recovers your companions' Fighting Spirit.
+  Status: Review
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\upstart_battle_skill.json'

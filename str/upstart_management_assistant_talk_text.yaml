@@ -1,0 +1,624 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/free_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'm really relieved that you're taking president's seat, Kasuga-san. Thank you very much!
+    Original:
+    - I'm really relieved that you're taking president's seat, Kasuga-san. Thank you very much!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/hint_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A good property is one that can raise profits while also fulfilling the needs of the business.
+    Original:
+    - A good property is one that can raise profits while also fulfilling the needs of the business.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/hint_020/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: But even the most charming properties are just pearls before swine if it doesn't benefit the business!
+    Original:
+    - But even the most charming properties are just pearls before swine if it doesn't benefit the business!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/hint_030/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Even property that looks hopeless in profits can be converted with strategic investments.
+    Original:
+    - Even property that looks hopeless in profits can be converted with strategic investments.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/hint_040/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Conversely, you can <color=management_strong>sell off a property that doesn't yield a profit even after investing in it</color>.
+    Original:
+    - Conversely, you can <color=management_strong>sell off a property that doesn't yield a profit even after investing in it</color>.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/hint_050/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga, are you keeping an eye out on our <color=management_strong>surplus labor costs</color>?
+    Original:
+    - President Kasuga, are you keeping an eye out on our <color=management_strong>surplus labor costs</color>?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/hint_060/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: We still have to pay our employees, even if they're not assigned to any jobs at the moment.
+    Original:
+    - We still have to pay our employees, even if they're not assigned to any jobs at the moment.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/hint_070/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In other words, we're paying them to do nothing, so you should probably <color=management_strong>assign them to a property or consider letting them go</color>.
+    Original:
+    - In other words, we're paying them to do nothing, so you should probably <color=management_strong>assign them to a property or consider letting them go</color>.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/hint_080/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Financing is often negatively associated with loans, but this is an essential tool for growing a company.
+    Original:
+    - Financing is often negatively associated with loans, but this is an essential tool for growing a company.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/hint_090/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: There's only so much company funds can do when it comes to working capital or capital investment.
+    Original:
+    - There's only so much company funds can do when it comes to working capital or capital investment.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/hint_100/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: That's where <color=management_strong>financing</color> comes in handy. It's basically an <color=management_strong>injection of funds to increase profits</color>.
+    Original:
+    - That's where <color=management_strong>financing</color> comes in handy. It's basically an <color=management_strong>injection of funds to increase profits</color>.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/hint_110/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: However, be aware that <color=management_strong>taking out a loan to cover deficits runs the risk of not being able to make repayments</color>.
+    Original:
+    - However, be aware that <color=management_strong>taking out a loan to cover deficits runs the risk of not being able to make repayments</color>.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/hint_120/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: As I mentioned earlier, it can be a useful tool in producing profits...
+    Original:
+    - As I mentioned earlier, it can be a useful tool in producing profits...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/hint_130/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: But profit margin is just as important, so you'll have to be mindful about how much money is going to what expenses.
+    Original:
+    - But profit margin is just as important, so you'll have to be mindful about how much money is going to what expenses.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/hint_140/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The key is trimming the fat and operating frugally!
+    Original:
+    - The key is trimming the fat and operating frugally!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/hint_150/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Each employee has strengths and weaknesses. Familiarize yourself with your team and <color=management_strong>assign them to where they can excel</color>!
+    Original:
+    - Each employee has strengths and weaknesses. Familiarize yourself with your team and <color=management_strong>assign them to where they can excel</color>!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /32/hint_160/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Having <color=management_strong>unsatisfied employees</color> will have a negative impact on the business!
+    Original:
+    - Having <color=management_strong>unsatisfied employees</color> will have a negative impact on the business!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /33/hint_170/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Be mindful of your employees' wellbeing and consider <color=management_strong>improving their benefits</color> or treat them to a bonus if need be.
+    Original:
+    - Be mindful of your employees' wellbeing and consider <color=management_strong>improving their benefits</color> or treat them to a bonus if need be.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /34/hint_180/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: There should be people willing to help us out in a large city like Yokohama!
+    Original:
+    - There should be people willing to help us out in a large city like Yokohama!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /35/hint_190/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If you see someone who may be a good fit for the company, why not ask them to join us?
+    Original:
+    - If you see someone who may be a good fit for the company, why not ask them to join us?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /36/capture_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=management_strong>Nakanowatari</color> of the Mischievous Three will be at the next shareholders' meeting... Note that he's known as the Shareholder Saboteur.
+    Original:
+    - <color=management_strong>Nakanowatari</color> of the Mischievous Three will be at the next shareholders' meeting... Note that he's known as the Shareholder Saboteur.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /37/capture_020/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Be prepared for his abusive language. Let's fend him off and make it to the top 50 ranking companies!
+    Original:
+    - Be prepared for his abusive language. Let's fend him off and make it to the top 50 ranking companies!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /38/capture_030/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=management_strong>Saiki</color> of the Mischievous Three will be at the next shareholders' meeting... He won't even think twice about exploiting a company's weakness.
+    Original:
+    - <color=management_strong>Saiki</color> of the Mischievous Three will be at the next shareholders' meeting... He won't even think twice about exploiting a company's weakness.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /39/capture_040/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: He loves to target the topic of profit. We'll really struggle if we're not yielding any.
+    Original:
+    - He loves to target the topic of profit. We'll really struggle if we're not yielding any.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /40/capture_050/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yielding profit-focused results are important, but the wise strategy here would be to bring along individuals that represent our employees!
+    Original:
+    - Yielding profit-focused results are important, but the wise strategy here would be to bring along individuals that represent our employees!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /41/capture_060/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=management_strong>Misono</color> of the Mischievous Three will be at the next shareholders' meeting... He goes by the alias, the Sweatshop Slayer, and he used to be a journalist.
+    Original:
+    - <color=management_strong>Misono</color> of the Mischievous Three will be at the next shareholders' meeting... He goes by the alias, the Sweatshop Slayer, and he used to be a journalist.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /42/capture_070/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: He may be the nation's best in exposing sweatshops in his scathing editorials. It could be bad if we have too many unsatisfied employees.
+    Original:
+    - He may be the nation's best in exposing sweatshops in his scathing editorials. It could be bad if we have too many unsatisfied employees.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /43/capture_080/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The topic of employee benefits will be his weapon, so the strategy would be to deviate from that and shine the spotlight on our assets!
+    Original:
+    - The topic of employee benefits will be his weapon, so the strategy would be to deviate from that and shine the spotlight on our assets!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /44/capture_090/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: We've come to a point where <color=management_strong>Hosho</color> will be at the next shareholders' meeting... If we can get past him, the top rank is ours.
+    Original:
+    - We've come to a point where <color=management_strong>Hosho</color> will be at the next shareholders' meeting... If we can get past him, the top rank is ours.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /45/capture_100/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: He will likely show up in force alongside the Mischievous Three. We'll counter that with our best of the best members!
+    Original:
+    - He will likely show up in force alongside the Mischievous Three. We'll counter that with our best of the best members!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /46/free_020/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga-san... Thank you for looking after Ichiban Confections.
+    Original:
+    - Kasuga-san... Thank you for looking after Ichiban Confections.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /47/free_030/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nonomiya-san is probably watching over us, right?
+    Original:
+    - Nonomiya-san is probably watching over us, right?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /48/free_040/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My favorite food...? Ichiban Senbei, of course!
+    Original:
+    - My favorite food...? Ichiban Senbei, of course!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /49/free_050/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'm a beer gal! Dark beer is especially my favorite! Haha.
+    Original:
+    - I'm a beer gal! Dark beer is especially my favorite! Haha.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /50/free_060/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I can't believe Grandma called you my boyfriend... I'm so embarrassed!
+    Original:
+    - I can't believe Grandma called you my boyfriend... I'm so embarrassed!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /51/free_070/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Omelette's such a good girl. Her high spirits always keep me up when things are down!
+    Original:
+    - Omelette's such a good girl. Her high spirits always keep me up when things are down!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /52/free_080/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your apology at the shareholders' meeting made quite an impact... I thought it was great.
+    Original:
+    - Your apology at the shareholders' meeting made quite an impact... I thought it was great.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /53/free_090/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mr. President! Let's give it our all to hit our first goal of entering the <color=management_strong>top 100</color> for share price ranking!
+    Original:
+    - Mr. President! Let's give it our all to hit our first goal of entering the <color=management_strong>top 100</color> for share price ranking!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /54/free_100/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mr. President! Let's do our best to reach <color=management_strong>top rank</color> for share price!
+    Original:
+    - Mr. President! Let's do our best to reach <color=management_strong>top rank</color> for share price!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /55/free_110/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I never get tired of looking at this office. It's so nice.
+    Original:
+    - I never get tired of looking at this office. It's so nice.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /56/free_120/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga-san, let's make Ichiban Holdings the kind of company that puts a smile on everybody's face!
+    Original:
+    - Kasuga-san, let's make Ichiban Holdings the kind of company that puts a smile on everybody's face!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /57/free_130/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'll be by your side. I'll always be with you... to support you, Kasuga-san!
+    Original:
+    - I'll be by your side. I'll always be with you... to support you, Kasuga-san!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /58/battle_information_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga, how many business operations are left until the shareholder meeting? <color=management_strong>${num}</color>? Make sure you verify which staff members will participate.
+    Original:
+    - President Kasuga, how many business operations are left until the shareholder meeting? <color=management_strong>${num}</color>? Make sure you verify which staff members will participate.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /59/nicks_deadline_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga, the deadline to fulfill our promise to Nick-san is <color=management_strong>in ${num} periods</color>!
+    Original:
+    - President Kasuga, the deadline to fulfill our promise to Nick-san is <color=management_strong>in ${num} periods</color>!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /60/nicks_deadline_020/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Let's check our business conditions and press on!
+    Original:
+    - Let's check our business conditions and press on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /61/debt_arrears_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga, I just wanted to let you know that <color=management_strong>our loan repayment is still in arrears</color>.
+    Original:
+    - President Kasuga, I just wanted to let you know that <color=management_strong>our loan repayment is still in arrears</color>.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /62/debt_arrears_020/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: There was also a scary man who I've never seen before standing outside...
+    Original:
+    - There was also a scary man who I've never seen before standing outside...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /63/debt_arrears_030/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "...Just kidding! As if that would actually happen! It wouldn't, right? Haha..."
+    Original:
+    - "...Just kidding! As if that would actually happen! It wouldn't, right? Haha..."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /64/debt_arrears_040/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Some companies don't realize they're about to go bankrupt, so let's keep up on our payments.
+    Original:
+    - Some companies don't realize they're about to go bankrupt, so let's keep up on our payments.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /65/new_article_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga,<color=management_strong> a new property is available for purchase</color>. You can get to it from the Manage Properties menu.
+    Original:
+    - President Kasuga,<color=management_strong> a new property is available for purchase</color>. You can get to it from the Manage Properties menu.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /66/new_manager_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga, <color=management_strong>there are new applicants for hire</color>. You can check them out in the Manage Employees menu.
+    Original:
+    - President Kasuga, <color=management_strong>there are new applicants for hire</color>. You can check them out in the Manage Employees menu.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /67/scout_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga, the person you scouted in the city has applied for employment.
+    Original:
+    - President Kasuga, the person you scouted in the city has applied for employment.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /68/scout_020/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can check on that from the Manage Employees menu.
+    Original:
+    - You can check on that from the Manage Employees menu.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /69/trainer_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga! The famous lecturer, Mr. Holly, is currently holding his training seminar.
+    Original:
+    - President Kasuga! The famous lecturer, Mr. Holly, is currently holding his training seminar.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /70/trainer_020/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Attending his lecture would be a great opportunity for our employees!
+    Original:
+    - Attending his lecture would be a great opportunity for our employees!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /71/commercial_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga-san, the commercial for our company is airing now! I should've recorded it!
+    Original:
+    - Kasuga-san, the commercial for our company is airing now! I should've recorded it!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /72/boom_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga, <color=management_strong>${name}</color> is starting to trend! You can check its status from Manage Properties!
+    Original:
+    - President Kasuga, <color=management_strong>${name}</color> is starting to trend! You can check its status from Manage Properties!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /73/start_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga! Let's continue to show the world what our company's about!
+    Original:
+    - President Kasuga! Let's continue to show the world what our company's about!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /74/start_020/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga! Let's give it our all again today!
+    Original:
+    - President Kasuga! Let's give it our all again today!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /75/start_030/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: President Kasuga! I hope it's gonna be another great day for business!
+    Original:
+    - President Kasuga! I hope it's gonna be another great day for business!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76/end_010/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Great work today, President Kasuga. You should unwind and take it easy for a little while!
+    Original:
+    - Great work today, President Kasuga. You should unwind and take it easy for a little while!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/end_020/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: That was another productive day, President Kasuga. But please don't push yourself too hard!
+    Original:
+    - That was another productive day, President Kasuga. But please don't push yourself too hard!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/end_030/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Awesome job today, President Kasuga. You were on fire!
+    Original:
+    - Awesome job today, President Kasuga. You were on fire!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/hint_200/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Even employees who have been <color=management_strong>terminated or recruited by other companies</color> won't be off the table forever.
+    Original:
+    - Even employees who have been <color=management_strong>terminated or recruited by other companies</color> won't be off the table forever.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /80/hint_210/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: They'll be able to rejoin our company <color=management_strong>after some time.</color>
+    Original:
+    - They'll be able to rejoin our company <color=management_strong>after some time.</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/hint_220/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Occasionally we'll receive referrals from recruiters about potential new employees.
+    Original:
+    - Occasionally we'll receive referrals from recruiters about potential new employees.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/hint_230/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If you find someone great, make sure you don't let them slip away!
+    Original:
+    - If you find someone great, make sure you don't let them slip away!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /83/hint_240/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: However, make sure you don't <color=management_strong>overstretch the company's funds</color> when hiring employees.
+    Original:
+    - However, make sure you don't <color=management_strong>overstretch the company's funds</color> when hiring employees.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/hint_250/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You'll have <color=management_strong>more chances</color> to hire them in the future, so you <color=management_strong>don't have to rush</color>.
+    Original:
+    - You'll have <color=management_strong>more chances</color> to hire them in the future, so you <color=management_strong>don't have to rush</color>.
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\upstart_management_assistant_talk_text.json'

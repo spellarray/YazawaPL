@@ -1,0 +1,12 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/dcart_lotion/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 18OUKN90000000000000000wppIXLdY0S56fnd8QD4KKGQ2sMHNhqYV52TO9tphreT5M1nVkkj5ePGZ2PngLg5vd5
+    Original:
+    - 18OUKN90000000000000000wppIXLdY0S56fnd8QD4KKGQ2sMHNhqYV52TO9tphreT5M1nVkkj5ePGZ2PngLg5vd5
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\effect_projection_paint_param.json'

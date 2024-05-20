@@ -1,0 +1,10 @@
+projectType: ExternalPlugin.DummyPlugin, ExternalPlugin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+yttVersion: 2
+pluginVersion: 2
+buildSettings:
+  exportAsPar: false
+  exportDb: true
+  exportFont: true
+  exportUi: true
+variables: {}
+notes: []

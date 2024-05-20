@@ -1,0 +1,83 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /0//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Purchase and use of items are subject to the Network Terms of Service
+
+      and User Agreement. This online service has been sublicensed to you
+
+      by Sony Interactive Entertainment America.
+    Original:
+    - >-
+      Purchase and use of items are subject to the Network Terms of Service
+
+      and User Agreement. This online service has been sublicensed to you
+
+      by Sony Interactive Entertainment America.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      L'achat et l'utilisation des articles sont soumis aux Conditions
+
+      d'utilisation et Ă  l'Accord utilisateur de Network. Une sous-licence 
+
+      d'utilisation de ce service en ligne vous a Ă©tĂ© concĂ©dĂ© par Sony 
+
+      Interactive Entertainment America.
+    Original:
+    - >-
+      L'achat et l'utilisation des articles sont soumis aux Conditions
+
+      d'utilisation et à l'Accord utilisateur de Network. Une sous-licence 
+
+      d'utilisation de ce service en ligne vous a été concédé par Sony 
+
+      Interactive Entertainment America.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      La compra y uso de artĂ­culos estĂˇn sujetos a los TĂ©rminos de Servicio y 
+
+      Acuerdo de Usuario de la Network. Una sublicencia de este servicio 
+
+      online le ha sido otorgada por Sony Interactive Entertainment America.
+    Original:
+    - >-
+      La compra y uso de artículos están sujetos a los Términos de Servicio y 
+
+      Acuerdo de Usuario de la Network. Una sublicencia de este servicio 
+
+      online le ha sido otorgada por Sony Interactive Entertainment America.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      A compra e o uso de itens estĂŁo sujeitos aos Termos de serviĂ§o e 
+
+      Contrato do usuĂˇrio da Network. Este serviĂ§o online foi sublicenciado a 
+
+      vocĂŞ pela Sony Interactive Entertainment America.
+    Original:
+    - >-
+      A compra e o uso de itens estão sujeitos aos Termos de serviço e 
+
+      Contrato do usuário da Network. Este serviço online foi sublicenciado a 
+
+      você pela Sony Interactive Entertainment America.
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\pause_siea_eula.json'

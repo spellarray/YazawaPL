@@ -1,0 +1,3051 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/yazawa_quest_a001/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 1-1
+    Original:
+    - Bug Delivery 1-1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/yazawa_quest_a001/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Butterfly and a Moth! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Butterfly and a Moth! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/yazawa_quest_a002/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 1-2
+    Original:
+    - Bug Delivery 1-2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/yazawa_quest_a002/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Mantis and a Dragonfly! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Mantis and a Dragonfly! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/yazawa_quest_a003/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 1-3
+    Original:
+    - Bug Delivery 1-3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/yazawa_quest_a003/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Spider and a Scorpion! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Spider and a Scorpion! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/yazawa_quest_a004/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 1-4
+    Original:
+    - Bug Delivery 1-4
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/yazawa_quest_a004/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Beehive and an Empty Cicada Shell! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Beehive and an Empty Cicada Shell! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/yazawa_quest_a005/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 1-5
+    Original:
+    - Bug Delivery 1-5
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/yazawa_quest_a005/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Rhinoceros Beetle and a Stag Beetle! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Rhinoceros Beetle and a Stag Beetle! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/yazawa_quest_a006/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 1-6
+    Original:
+    - Bug Delivery 1-6
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/yazawa_quest_a006/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: five Trash and five Cockroaches! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: five Trash and five Cockroaches! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/yazawa_quest_a007/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 1-7
+    Original:
+    - Bug Delivery 1-7
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/yazawa_quest_a007/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: five Beehives and five Empty Cicada Shells! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: five Beehives and five Empty Cicada Shells! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/yazawa_quest_a008/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 2-1
+    Original:
+    - Bug Delivery 2-1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/yazawa_quest_a008/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Silver Butterfly and a Silver Moth! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Silver Butterfly and a Silver Moth! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/yazawa_quest_a009/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 2-2
+    Original:
+    - Bug Delivery 2-2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/yazawa_quest_a009/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Silver Mantis and a Silver Dragonfly! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Silver Mantis and a Silver Dragonfly! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/yazawa_quest_a010/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 2-3
+    Original:
+    - Bug Delivery 2-3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/yazawa_quest_a010/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Silver Spider and a Silver Scorpion! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Silver Spider and a Silver Scorpion! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/yazawa_quest_a011/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 2-4
+    Original:
+    - Bug Delivery 2-4
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/yazawa_quest_a011/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Silver Rhinoceros Beetle and a Silver Stag Beetle! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Silver Rhinoceros Beetle and a Silver Stag Beetle! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/yazawa_quest_a012/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 3-1
+    Original:
+    - Bug Delivery 3-1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/yazawa_quest_a012/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Golden Butterfly and a Golden Moth! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Golden Butterfly and a Golden Moth! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/yazawa_quest_a013/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 3-2
+    Original:
+    - Bug Delivery 3-2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/yazawa_quest_a013/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Golden Mantis and a Golden Dragonfly! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Golden Mantis and a Golden Dragonfly! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/yazawa_quest_a014/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 3-3
+    Original:
+    - Bug Delivery 3-3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/yazawa_quest_a014/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Golden Spider and a Golden Scorpion! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Golden Spider and a Golden Scorpion! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/yazawa_quest_a015/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bug Delivery 3-4
+    Original:
+    - Bug Delivery 3-4
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/yazawa_quest_a015/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Golden Rhinoceros Beetle and a Golden Stag Beetle! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Golden Rhinoceros Beetle and a Golden Stag Beetle! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/yazawa_quest_a016/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Prize Delivery 1-1
+    Original:
+    - Prize Delivery 1-1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/yazawa_quest_a016/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: an AiAi and a GonGon! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: an AiAi and a GonGon! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/yazawa_quest_a017/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Prize Delivery 1-2
+    Original:
+    - Prize Delivery 1-2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/yazawa_quest_a017/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a MeeMee and a Baby! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a MeeMee and a Baby! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/yazawa_quest_a018/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Prize Delivery 1-3
+    Original:
+    - Prize Delivery 1-3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/yazawa_quest_a018/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Bun-chan the Java Sparrow (White) and a Bun-chan the Java Sparrow (Pink)! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Bun-chan the Java Sparrow (White) and a Bun-chan the Java Sparrow (Pink)! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/yazawa_quest_a019/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Prize Delivery 1-4
+    Original:
+    - Prize Delivery 1-4
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/yazawa_quest_a019/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Jumbo Bun-chan! Please bring this to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Jumbo Bun-chan! Please bring this to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/yazawa_quest_a020/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Prize Delivery 2-1
+    Original:
+    - Prize Delivery 2-1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/yazawa_quest_a020/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Kitty Kat (Calico) and a Kitty Kat (Tiger)! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Kitty Kat (Calico) and a Kitty Kat (Tiger)! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/yazawa_quest_a021/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Prize Delivery 2-2
+    Original:
+    - Prize Delivery 2-2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/yazawa_quest_a021/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Robo Manager and a Robo Chief! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Robo Manager and a Robo Chief! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/yazawa_quest_a022/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Prize Delivery 2-3
+    Original:
+    - Prize Delivery 2-3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/yazawa_quest_a022/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Pillow Pups (Golden Retriever) and a Pillow Pups (French Bulldog)! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Pillow Pups (Golden Retriever) and a Pillow Pups (French Bulldog)! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /32/yazawa_quest_a023/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Food Delivery 1-1
+    Original:
+    - Food Delivery 1-1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /32/yazawa_quest_a023/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Soup Kitchen Pork Soup, three Disposed Bentos, and two Half-empty Drinks! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Soup Kitchen Pork Soup, three Disposed Bentos, and two Half-empty Drinks! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /33/yazawa_quest_a024/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Food Delivery 1-2
+    Original:
+    - Food Delivery 1-2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /33/yazawa_quest_a024/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "You have a delivery request from a customer: a Nozaki's Corned Beef, a Pine Candy, and an Oragamachi Natto! Please bring these to a Part-time Hero rep!"
+    Original:
+    - "You have a delivery request from a customer: a Nozaki's Corned Beef, a Pine Candy, and an Oragamachi Natto! Please bring these to a Part-time Hero rep!"
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /34/yazawa_quest_a025/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bento Delivery 1-1
+    Original:
+    - Bento Delivery 1-1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /34/yazawa_quest_a025/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Bento Lunch Set and a Chicken Karaage Bento! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Bento Lunch Set and a Chicken Karaage Bento! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /35/yazawa_quest_a026/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bento Delivery 1-2
+    Original:
+    - Bento Delivery 1-2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /35/yazawa_quest_a026/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Luxury Yakiniku Bento and a Premium Sushi Set! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Luxury Yakiniku Bento and a Premium Sushi Set! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /36/yazawa_quest_a027/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Sweets Delivery 1
+    Original:
+    - Sweets Delivery 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /36/yazawa_quest_a027/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Soft Serve Ice Cream, two Almond Jelly, and a Mango Pudding! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Soft Serve Ice Cream, two Almond Jelly, and a Mango Pudding! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /37/yazawa_quest_a028/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Daily Necessities Delivery 1
+    Original:
+    - Daily Necessities Delivery 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /37/yazawa_quest_a028/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Kao Attack ZERO, a Cemedine Super X, and two bags of Roasted Chestnuts! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Kao Attack ZERO, a Cemedine Super X, and two bags of Roasted Chestnuts! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /38/yazawa_quest_a029/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Juice Delivery 1
+    Original:
+    - Juice Delivery 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /38/yazawa_quest_a029/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Poseidon Power, an Apple Defense, and two Peach Steps! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Poseidon Power, an Apple Defense, and two Peach Steps! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /39/yazawa_quest_a030/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Souvenirs of the City Delivery
+    Original:
+    - Souvenirs of the City Delivery
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /39/yazawa_quest_a030/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "You have a delivery request from a customer: some Grandma's Cookies, some Fluffy Croquettes, and a SEGA Taiyaki! Please bring these to a Part-time Hero rep!"
+    Original:
+    - "You have a delivery request from a customer: some Grandma's Cookies, some Fluffy Croquettes, and a SEGA Taiyaki! Please bring these to a Part-time Hero rep!"
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /40/yazawa_quest_a031/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Souvenirs of Chinatown Delivery
+    Original:
+    - Souvenirs of Chinatown Delivery
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /40/yazawa_quest_a031/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Handmade Meat Bun, a Bean Paste Bun, and a Shark Fin Bun! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Handmade Meat Bun, a Bean Paste Bun, and a Shark Fin Bun! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /41/yazawa_quest_a032/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Juice Delivery 2
+    Original:
+    - Juice Delivery 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /41/yazawa_quest_a032/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Muscle Soda, a Guardian Water, and a Quickness Lemon! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Muscle Soda, a Guardian Water, and a Quickness Lemon! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /42/yazawa_quest_a033/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Vegetable Delivery 1
+    Original:
+    - Vegetable Delivery 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /42/yazawa_quest_a033/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Daikon and two Potatoes! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Daikon and two Potatoes! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /43/yazawa_quest_a034/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Vegetable Delivery 2
+    Original:
+    - Vegetable Delivery 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /43/yazawa_quest_a034/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Tomato and two Onions! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Tomato and two Onions! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /44/yazawa_quest_a035/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Vegetable Delivery 3
+    Original:
+    - Vegetable Delivery 3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /44/yazawa_quest_a035/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Hot Pepper and two Garlic! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Hot Pepper and two Garlic! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /45/yazawa_quest_a036/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Vegetable Delivery 4
+    Original:
+    - Vegetable Delivery 4
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /45/yazawa_quest_a036/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Mysterious Carrot and two Mysterious Mushrooms! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Mysterious Carrot and two Mysterious Mushrooms! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /46/yazawa_quest_a037/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bento Delivery 2-1
+    Original:
+    - Bento Delivery 2-1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /46/yazawa_quest_a037/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: two Mishmash Lunch Boxes and two Packed Lunch Boxes! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: two Mishmash Lunch Boxes and two Packed Lunch Boxes! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /47/yazawa_quest_a038/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bento Delivery 2-2
+    Original:
+    - Bento Delivery 2-2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /47/yazawa_quest_a038/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: two Homestyle Lunch Boxes and two Chilled Noodles Lunch Boxes! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: two Homestyle Lunch Boxes and two Chilled Noodles Lunch Boxes! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /48/yazawa_quest_a039/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bouquet Delivery
+    Original:
+    - Bouquet Delivery
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /48/yazawa_quest_a039/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Bouquet of Lilies, a Bouquet of Pansies, and a Bouquet of Roses! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Bouquet of Lilies, a Bouquet of Pansies, and a Bouquet of Roses! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /49/yazawa_quest_a040/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bento and Bonsai Delivery
+    Original:
+    - Bento and Bonsai Delivery
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /49/yazawa_quest_a040/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Luxury Kiwami Lunch Box and two Bonsai! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Luxury Kiwami Lunch Box and two Bonsai! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /50/yazawa_quest_a041/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Takoyaki Delivery
+    Original:
+    - Takoyaki Delivery
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /50/yazawa_quest_a041/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "You have a delivery request from a customer: some Takoyaki with Large Octopus, some Master's Takoyaki, and some Renowned Akashiyaki! Please bring these to a Part-time Hero rep!"
+    Original:
+    - "You have a delivery request from a customer: some Takoyaki with Large Octopus, some Master's Takoyaki, and some Renowned Akashiyaki! Please bring these to a Part-time Hero rep!"
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /51/yazawa_quest_a042/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Juice Delivery 3
+    Original:
+    - Juice Delivery 3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /51/yazawa_quest_a042/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Sengoku Coffee and a Kiwami Drink! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Sengoku Coffee and a Kiwami Drink! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /52/yazawa_quest_a043/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Used Appliance Delivery
+    Original:
+    - Used Appliance Delivery
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /52/yazawa_quest_a043/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Worn-out TV and a Worn-out Microwave! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Worn-out TV and a Worn-out Microwave! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /53/yazawa_quest_a044/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Plate Delivery 1
+    Original:
+    - Plate Delivery 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /53/yazawa_quest_a044/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Bronze Plate and a Silver Plate! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Bronze Plate and a Silver Plate! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /54/yazawa_quest_a045/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Battle Items Delivery 1
+    Original:
+    - Battle Items Delivery 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /54/yazawa_quest_a045/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Smoke Bomb, an Astringent Gauze, and a Hardball! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Smoke Bomb, an Astringent Gauze, and a Hardball! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /55/yazawa_quest_a046/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Battle Items Delivery 2
+    Original:
+    - Battle Items Delivery 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /55/yazawa_quest_a046/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Fear Gas Ball, a Daunt Gas Ball, and a Lamp Stand! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Fear Gas Ball, a Daunt Gas Ball, and a Lamp Stand! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /56/yazawa_quest_a047/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Plate Delivery 2
+    Original:
+    - Plate Delivery 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /56/yazawa_quest_a047/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Gold Plate and a Platinum Plate! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Gold Plate and a Platinum Plate! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /57/yazawa_quest_a048/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Battle Items Delivery 3
+    Original:
+    - Battle Items Delivery 3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /57/yazawa_quest_a048/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Modded Model Gun and a Kunai! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Modded Model Gun and a Kunai! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /58/yazawa_quest_a049/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Egg Delivery 1
+    Original:
+    - Egg Delivery 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /58/yazawa_quest_a049/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: three Eggs! Please bring this to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: three Eggs! Please bring this to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /59/yazawa_quest_a050/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Battle Items Delivery 4
+    Original:
+    - Battle Items Delivery 4
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /59/yazawa_quest_a050/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Hand Grenade and an Incendiary Grenade! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Hand Grenade and an Incendiary Grenade! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /60/yazawa_quest_a301/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Special Delivery: Straight Outta Paper'
+    Original:
+    - 'Special Delivery: Straight Outta Paper'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /60/yazawa_quest_a301/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I was on the toilet because of my stomach, and well, I noticed there's no toilet paper... Please bring me one pack of Pocket Tissues to the restrooms at Hamakita Park!
+    Original:
+    - I was on the toilet because of my stomach, and well, I noticed there's no toilet paper... Please bring me one pack of Pocket Tissues to the restrooms at Hamakita Park!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /61/yazawa_quest_a302/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Special Delivery: Station Constipation'
+    Original:
+    - 'Special Delivery: Station Constipation'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /61/yazawa_quest_a302/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'm in a restroom with, um, no toilet paper again... Please bring me two packs of Pocket Tissues to the restrooms in front of Jinnai Station!
+    Original:
+    - I'm in a restroom with, um, no toilet paper again... Please bring me two packs of Pocket Tissues to the restrooms in front of Jinnai Station!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /62/yazawa_quest_a303/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Special Delivery: Big Rumble in Little China'
+    Original:
+    - 'Special Delivery: Big Rumble in Little China'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /62/yazawa_quest_a303/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'm in a restroom with, um, no toilet paper once again... Please bring me three packs of Pocket Tissues to the restrooms in Chinatown!
+    Original:
+    - I'm in a restroom with, um, no toilet paper once again... Please bring me three packs of Pocket Tissues to the restrooms in Chinatown!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /63/yazawa_quest_a304/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Special Delivery: Closed for Construction'
+    Original:
+    - 'Special Delivery: Closed for Construction'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /63/yazawa_quest_a304/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I couldn't keep the floodgates closed, so I ran into a portable toilet at some construction site and, well, no toilet paper... Please bring me five packs of Pocket Tissues at Tsurukame Alley!
+    Original:
+    - I couldn't keep the floodgates closed, so I ran into a portable toilet at some construction site and, well, no toilet paper... Please bring me five packs of Pocket Tissues at Tsurukame Alley!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /64/yazawa_quest_a305/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Special Delivery: Shit Outta Luck'
+    Original:
+    - 'Special Delivery: Shit Outta Luck'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /64/yazawa_quest_a305/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: How could a restaurant be out of toilet paper...? Please bring me ten packs of Pocket Tissues to the restrooms in Wette Kitchen!
+    Original:
+    - How could a restaurant be out of toilet paper...? Please bring me ten packs of Pocket Tissues to the restrooms in Wette Kitchen!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /65/yazawa_quest_a306/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Missing: Willful Son'
+    Original:
+    - 'Missing: Willful Son'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /65/yazawa_quest_a306/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My son Daisuke went missing... I'm sure he ran off to the capsule machines again, but I'm worried all the same. Would you please contact me the moment you find him?
+    Original:
+    - My son Daisuke went missing... I'm sure he ran off to the capsule machines again, but I'm worried all the same. Would you please contact me the moment you find him?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /66/yazawa_quest_a307/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Missing: Peeved Girlfriend'
+    Original:
+    - 'Missing: Peeved Girlfriend'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /66/yazawa_quest_a307/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "TLDR: Me and my girlfriend had an argument, I said something dumb, she stormed out of the apartment. What I did was buy her favorite donuts instead of going to look for her—that's what I'm hiring you for. Please, bring Tomoko back home!"
+    Original:
+    - "TLDR: Me and my girlfriend had an argument, I said something dumb, she stormed out of the apartment. What I did was buy her favorite donuts instead of going to look for her—that's what I'm hiring you for. Please, bring Tomoko back home!"
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /67/yazawa_quest_a308/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Missing: Homeless Wreck'
+    Original:
+    - 'Missing: Homeless Wreck'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /67/yazawa_quest_a308/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ever since my husband lost his business, he's refused to come back home. Instead, he's been living on the streets, as if he's too ashamed to face me... Anyway, I heard from a friend there's a specific place in Yokohama where lots of homeless people gather, and that's where he is. His name is Michiake, so please talk some sense into him!
+    Original:
+    - Ever since my husband lost his business, he's refused to come back home. Instead, he's been living on the streets, as if he's too ashamed to face me... Anyway, I heard from a friend there's a specific place in Yokohama where lots of homeless people gather, and that's where he is. His name is Michiake, so please talk some sense into him!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /68/yazawa_quest_a309/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Missing: Fellow Gaijin'
+    Original:
+    - 'Missing: Fellow Gaijin'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /68/yazawa_quest_a309/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I am Mike. My travel buddy Dave and I got separated. Please find him and let me know. When Dave gets tired, he goes to a bench.
+    Original:
+    - I am Mike. My travel buddy Dave and I got separated. Please find him and let me know. When Dave gets tired, he goes to a bench.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /69/yazawa_quest_a310/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Missing: Whipped Husband'
+    Original:
+    - 'Missing: Whipped Husband'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /69/yazawa_quest_a310/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I swear, this husband of mine... All he does is find excuses to get out of the house. Knowing him, he's probably off drinking at a bar. I shouldn't have to be the one dragging him back, so you go do it instead. His name is Takaaki, but he also responds to "buffoon," "piglet," and "Mr. Disappointment."
+    Original:
+    - I swear, this husband of mine... All he does is find excuses to get out of the house. Knowing him, he's probably off drinking at a bar. I shouldn't have to be the one dragging him back, so you go do it instead. His name is Takaaki, but he also responds to "buffoon," "piglet," and "Mr. Disappointment."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /70/yazawa_quest_a311/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Please Find My Cat 1
+    Original:
+    - Please Find My Cat 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /70/yazawa_quest_a311/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My cats have gone off somewhere while I was busy saving the city as a hero... Would you please find my nine cats in Yokohama!? Please report directly back to me when you've found them!
+    Original:
+    - My cats have gone off somewhere while I was busy saving the city as a hero... Would you please find my nine cats in Yokohama!? Please report directly back to me when you've found them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /71/yazawa_quest_a312/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Please Find My Cat 2
+    Original:
+    - Please Find My Cat 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /71/yazawa_quest_a312/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Unlike my other ones, it may be difficult to find my Robson-chan. But I believe in you, Kasuga-san! Please find Robson-chan, my first cat love!
+    Original:
+    - Unlike my other ones, it may be difficult to find my Robson-chan. But I believe in you, Kasuga-san! Please find Robson-chan, my first cat love!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /75/yazawa_quest_a316/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kappture the Kappa
+    Original:
+    - Kappture the Kappa
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /75/yazawa_quest_a316/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: There are kappa here... in Yokohama! But the only suggestion of their existence is in symbols. Finding these alone in such a large city is a lot of work... I heard that there are ten of them so I would like you to photograph these for me!
+    Original:
+    - There are kappa here... in Yokohama! But the only suggestion of their existence is in symbols. Finding these alone in such a large city is a lot of work... I heard that there are ten of them so I would like you to photograph these for me!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /110/yazawa_quest_a501/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Voyeur'
+    Original:
+    - 'Takedown: Voyeur'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /110/yazawa_quest_a501/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Voyeur] Habitat: North Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+    Original:
+    - >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Voyeur] Habitat: North Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /111/yazawa_quest_a502/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Smuggler'
+    Original:
+    - 'Takedown: Smuggler'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /111/yazawa_quest_a502/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Smuggler] Habitat: East Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+    Original:
+    - >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Smuggler] Habitat: East Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /112/yazawa_quest_a503/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Worker'
+    Original:
+    - 'Takedown: Worker'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /112/yazawa_quest_a503/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Worker] Habitat: West Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+    Original:
+    - >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Worker] Habitat: West Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /113/yazawa_quest_a504/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Baseball Fan'
+    Original:
+    - 'Takedown: Baseball Fan'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /113/yazawa_quest_a504/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Baseball Fan] Habitat: North Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+    Original:
+    - >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Baseball Fan] Habitat: North Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /114/yazawa_quest_a505/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Sandlotter'
+    Original:
+    - 'Takedown: Sandlotter'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /114/yazawa_quest_a505/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Sandlotter] Habitat: North Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+    Original:
+    - >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Sandlotter] Habitat: North Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /115/yazawa_quest_a506/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Patient'
+    Original:
+    - 'Takedown: Patient'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /115/yazawa_quest_a506/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Patient] Habitat: West Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+    Original:
+    - >-
+      Would you bring down the sword of justice on the wicked?
+
+      [Category: Patient] Habitat: West Jinnai Station, Yokohama
+
+      Please report back if you take out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /120/yazawa_quest_a511/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Cultist'
+    Original:
+    - 'Takedown: Cultist'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /120/yazawa_quest_a511/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Bring down the hammer of justice on the evildoers!
+
+      [Category: Cultist] Habitat: Hamakita Park, Yokohama
+
+      Please report back once you stamp out ten of them!
+    Original:
+    - >-
+      Bring down the hammer of justice on the evildoers!
+
+      [Category: Cultist] Habitat: Hamakita Park, Yokohama
+
+      Please report back once you stamp out ten of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /121/yazawa_quest_a512/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Freestylist'
+    Original:
+    - 'Takedown: Freestylist'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /121/yazawa_quest_a512/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Bring down the hammer of justice on all evildoers!
+
+      [Freestylist] Habitat: Hamakita Park, Yokohama
+
+      Please report back if you stamp out even one of them!
+    Original:
+    - >-
+      Bring down the hammer of justice on all evildoers!
+
+      [Freestylist] Habitat: Hamakita Park, Yokohama
+
+      Please report back if you stamp out even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /122/yazawa_quest_a513/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Master and Commando'
+    Original:
+    - 'Takedown: Master and Commando'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /122/yazawa_quest_a513/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Bring down the hammer of justice on the evildoers!
+
+      [Master and Commando] Habitat: Kamurocho Underground B1F
+
+      Please report back if you stamp out even one of them!
+    Original:
+    - >-
+      Bring down the hammer of justice on the evildoers!
+
+      [Master and Commando] Habitat: Kamurocho Underground B1F
+
+      Please report back if you stamp out even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /123/yazawa_quest_a514/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Mister Six'
+    Original:
+    - 'Takedown: Mister Six'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /123/yazawa_quest_a514/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Bring down the hammer of justice on the evildoers!
+
+      [Mister Six] Habitat: Kamurocho Underground B1F
+
+      Please report back if you stamp out even one of them!
+    Original:
+    - >-
+      Bring down the hammer of justice on the evildoers!
+
+      [Mister Six] Habitat: Kamurocho Underground B1F
+
+      Please report back if you stamp out even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /124/yazawa_quest_a515/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: King Joe'
+    Original:
+    - 'Takedown: King Joe'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /124/yazawa_quest_a515/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Bring down the hammer of justice on the evildoers!
+
+      [King Joe] Habitat: Sotenbori Battle Arena
+
+      Please report back if you stamp even one of them!
+    Original:
+    - >-
+      Bring down the hammer of justice on the evildoers!
+
+      [King Joe] Habitat: Sotenbori Battle Arena
+
+      Please report back if you stamp even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /125/yazawa_quest_a516/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Arminator'
+    Original:
+    - 'Takedown: Arminator'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /125/yazawa_quest_a516/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Bring down the hammer of justice on the evildoers!
+
+      [Arminator] Habitat: Kamurocho
+
+      Please report back if you stamp out even one of them!
+    Original:
+    - >-
+      Bring down the hammer of justice on the evildoers!
+
+      [Arminator] Habitat: Kamurocho
+
+      Please report back if you stamp out even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /130/yazawa_quest_a521/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Kung Fu Disciple'
+    Original:
+    - 'Takedown: Kung Fu Disciple'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /130/yazawa_quest_a521/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these bad guys defeated!
+
+      [Kung Fu Disciple] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+    Original:
+    - >-
+      I want these bad guys defeated!
+
+      [Kung Fu Disciple] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /131/yazawa_quest_a522/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Chinese Mafioso'
+    Original:
+    - 'Takedown: Chinese Mafioso'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /131/yazawa_quest_a522/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these bad guys defeated!
+
+      [Chinese Mafioso] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+    Original:
+    - >-
+      I want these bad guys defeated!
+
+      [Chinese Mafioso] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /132/yazawa_quest_a523/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Kung Fu Master'
+    Original:
+    - 'Takedown: Kung Fu Master'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /132/yazawa_quest_a523/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these bad guys defeated!
+
+      [Kung Fu Master] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+    Original:
+    - >-
+      I want these bad guys defeated!
+
+      [Kung Fu Master] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /133/yazawa_quest_a524/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Mystery Meatsmith'
+    Original:
+    - 'Takedown: Mystery Meatsmith'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /133/yazawa_quest_a524/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these bad guys defeated!
+
+      [Mystery Meatsmith] Habitat: Restaurant Row, Yokohama
+
+      Report to me if you defeat even one of them!
+    Original:
+    - >-
+      I want these bad guys defeated!
+
+      [Mystery Meatsmith] Habitat: Restaurant Row, Yokohama
+
+      Report to me if you defeat even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /134/yazawa_quest_a525/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Chinese Mafia Boss'
+    Original:
+    - 'Takedown: Chinese Mafia Boss'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /134/yazawa_quest_a525/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these bad guys defeated!
+
+      [Chinese Mafia Boss] Habitat: Restaurant Row, Yokohama
+
+      Report to me if you defeat even one of them!
+    Original:
+    - >-
+      I want these bad guys defeated!
+
+      [Chinese Mafia Boss] Habitat: Restaurant Row, Yokohama
+
+      Report to me if you defeat even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /135/yazawa_quest_a526/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Ironclad Chef'
+    Original:
+    - 'Takedown: Ironclad Chef'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /135/yazawa_quest_a526/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these bad guys defeated!
+
+      [Ironclad Chef] Habitat: Restaurant Row, Yokohama
+
+      Report to me if you defeat even one of them!
+    Original:
+    - >-
+      I want these bad guys defeated!
+
+      [Ironclad Chef] Habitat: Restaurant Row, Yokohama
+
+      Report to me if you defeat even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /140/yazawa_quest_a531/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Brawler'
+    Original:
+    - 'Takedown: Brawler'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /140/yazawa_quest_a531/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these troublemakers taken care of.
+
+      [Category: Brawler] Habitat: Koreatown, Yokohama
+
+      Let me know when ten of them are taken care of.
+    Original:
+    - >-
+      I want these troublemakers taken care of.
+
+      [Category: Brawler] Habitat: Koreatown, Yokohama
+
+      Let me know when ten of them are taken care of.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /141/yazawa_quest_a532/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Tattooed'
+    Original:
+    - 'Takedown: Tattooed'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /141/yazawa_quest_a532/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these troublemakers taken care of.
+
+      [Category: Tattooed] Habitat: Koreatown, Yokohama
+
+      Let me know once ten of them are taken care of.
+    Original:
+    - >-
+      I want these troublemakers taken care of.
+
+      [Category: Tattooed] Habitat: Koreatown, Yokohama
+
+      Let me know once ten of them are taken care of.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /142/yazawa_quest_a533/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Hitman'
+    Original:
+    - 'Takedown: Hitman'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /142/yazawa_quest_a533/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these troublemakers taken care of.
+
+      [Category: Hitman] Habitat: Koreatown, Yokohama
+
+      Let me know when ten of them are taken care of.
+    Original:
+    - >-
+      I want these troublemakers taken care of.
+
+      [Category: Hitman] Habitat: Koreatown, Yokohama
+
+      Let me know when ten of them are taken care of.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /143/yazawa_quest_a534/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Technomancer'
+    Original:
+    - 'Takedown: Technomancer'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /143/yazawa_quest_a534/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these troublemakers taken care of.
+
+      [Technomancer] Habitat: Restaurant Row, Yokohama
+
+      Let me know if even 1 of them is taken care of.
+    Original:
+    - >-
+      I want these troublemakers taken care of.
+
+      [Technomancer] Habitat: Restaurant Row, Yokohama
+
+      Let me know if even 1 of them is taken care of.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /144/yazawa_quest_a535/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Wrestlemaniac'
+    Original:
+    - 'Takedown: Wrestlemaniac'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /144/yazawa_quest_a535/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these troublemakers taken care of.
+
+      [Wrestlemaniac] Habitat: Koreatown, Yokohama
+
+      Let me know if even one of them is taken care of.
+    Original:
+    - >-
+      I want these troublemakers taken care of.
+
+      [Wrestlemaniac] Habitat: Koreatown, Yokohama
+
+      Let me know if even one of them is taken care of.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /145/yazawa_quest_a536/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: The Death Knuckle'
+    Original:
+    - 'Takedown: The Death Knuckle'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /145/yazawa_quest_a536/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these troublemakers taken care of.
+
+      [The Death Knuckle] Habitat: Sotenbori
+
+      Let me know if even one of them is taken care of.
+    Original:
+    - >-
+      I want these troublemakers taken care of.
+
+      [The Death Knuckle] Habitat: Sotenbori
+
+      Let me know if even one of them is taken care of.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /150/yazawa_quest_a541/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Spirited Medium'
+    Original:
+    - 'Takedown: Spirited Medium'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /150/yazawa_quest_a541/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Spirited Medium] Habitat: Koreatown, Yokohama
+
+      Let me know if even one of them has been punished.
+    Original:
+    - >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Spirited Medium] Habitat: Koreatown, Yokohama
+
+      Let me know if even one of them has been punished.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /151/yazawa_quest_a542/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Turncoat Titillator'
+    Original:
+    - 'Takedown: Turncoat Titillator'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /151/yazawa_quest_a542/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Turncoat Titillator] Habitat: Hamakita Park, Yokohama
+
+      Let me know if even one of them has been punished.
+    Original:
+    - >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Turncoat Titillator] Habitat: Hamakita Park, Yokohama
+
+      Let me know if even one of them has been punished.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /152/yazawa_quest_a543/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Businessman'
+    Original:
+    - 'Takedown: Businessman'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /152/yazawa_quest_a543/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Category: Businessman] Habitat: Jinnai Station, Yokohama
+
+      Let me know if ten of them have been punished.
+    Original:
+    - >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Category: Businessman] Habitat: Jinnai Station, Yokohama
+
+      Let me know if ten of them have been punished.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /153/yazawa_quest_a544/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Laborer'
+    Original:
+    - 'Takedown: Laborer'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /153/yazawa_quest_a544/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Category: Laborer] Habitat: Bar District, Yokohama
+
+      Let me know when ten of them have been punished.
+    Original:
+    - >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Category: Laborer] Habitat: Bar District, Yokohama
+
+      Let me know when ten of them have been punished.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /154/yazawa_quest_a545/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Gambler'
+    Original:
+    - 'Takedown: Gambler'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /154/yazawa_quest_a545/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Category: Gambler] Habitat: Koreatown, Yokohama
+
+      Let me know if ten of them have been punished.
+    Original:
+    - >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Category: Gambler] Habitat: Koreatown, Yokohama
+
+      Let me know if ten of them have been punished.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /155/yazawa_quest_a546/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Urbane Legend'
+    Original:
+    - 'Takedown: Urbane Legend'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /155/yazawa_quest_a546/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Urbane Legend] Habitat: Kamurocho Underground B2F
+
+      Let me know if even one of them has been punished.
+    Original:
+    - >-
+      Can you punish these hooligans obstructing the bar business?
+
+      [Urbane Legend] Habitat: Kamurocho Underground B2F
+
+      Let me know if even one of them has been punished.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /160/yazawa_quest_a801/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Carriage Highway'
+    Original:
+    - 'SOS: Carriage Highway'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /160/yazawa_quest_a801/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Please get these punks off my case! I'm around Carriage Highway, so get here as soon as possible!
+    Original:
+    - Please get these punks off my case! I'm around Carriage Highway, so get here as soon as possible!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /161/yazawa_quest_a802/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Hakuryo Building'
+    Original:
+    - 'SOS: Hakuryo Building'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /161/yazawa_quest_a802/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Some maniacs are running amok, and now they've set their sights on me! I'm in front of the Hakuryo Building on Carriage Highway! Get rid of them at all costs!
+    Original:
+    - Some maniacs are running amok, and now they've set their sights on me! I'm in front of the Hakuryo Building on Carriage Highway! Get rid of them at all costs!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /162/yazawa_quest_a803/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: West Bayside St.'
+    Original:
+    - 'SOS: West Bayside St.'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /162/yazawa_quest_a803/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's been a while since I've left the house, and as soon as I started enjoying myself, I realized I was being followed! If you have any kindness in your heart, you'll save me! I'm in the West Bayside Street area!
+    Original:
+    - It's been a while since I've left the house, and as soon as I started enjoying myself, I realized I was being followed! If you have any kindness in your heart, you'll save me! I'm in the West Bayside Street area!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /170/yazawa_quest_a811/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Hamakita Park Seaside'
+    Original:
+    - 'SOS: Hamakita Park Seaside'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /170/yazawa_quest_a811/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: These douchebags are harassing me and my date! Jealous much? Anyway, we're at Hamakita Park, so get over here and do your job!
+    Original:
+    - These douchebags are harassing me and my date! Jealous much? Anyway, we're at Hamakita Park, so get over here and do your job!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /171/yazawa_quest_a812/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Hamakita Park Dragon Kart Registry'
+    Original:
+    - 'SOS: Hamakita Park Dragon Kart Registry'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /171/yazawa_quest_a812/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: For some odd reason, my birdwatching regimen attracted the attention of some really foul people. I'm near the Dragon Kart registration in Hamakita Park. Care to shoo them away?
+    Original:
+    - For some odd reason, my birdwatching regimen attracted the attention of some really foul people. I'm near the Dragon Kart registration in Hamakita Park. Care to shoo them away?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /172/yazawa_quest_a813/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Hamakita Park Entrance'
+    Original:
+    - 'SOS: Hamakita Park Entrance'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /172/yazawa_quest_a813/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Some creep wandered up to us and my boyfriend just took off running! What a bastard! Anyway, I'm near the Hamakita Park entrance, so hurry up and beat this guy to a pulp!
+    Original:
+    - Some creep wandered up to us and my boyfriend just took off running! What a bastard! Anyway, I'm near the Hamakita Park entrance, so hurry up and beat this guy to a pulp!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /180/yazawa_quest_a821/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Chinatown Parking Structure'
+    Original:
+    - 'SOS: Chinatown Parking Structure'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /180/yazawa_quest_a821/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: So I was going souvenir shopping when all of a sudden I got mugged, and the police are nowhere to be found! Way to create a safe shopping atmosphere! This happened near the parking structure.
+    Original:
+    - So I was going souvenir shopping when all of a sudden I got mugged, and the police are nowhere to be found! Way to create a safe shopping atmosphere! This happened near the parking structure.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /181/yazawa_quest_a822/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Chinatown Park'
+    Original:
+    - 'SOS: Chinatown Park'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /181/yazawa_quest_a822/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I was doing some location scouting, and next thing I know, I'm being pulled aside by some thugs. This is my first assignment to get approved, so I can't afford to screw things up! I'm at the park in Chinatown and would greatly appreciate some help!
+    Original:
+    - I was doing some location scouting, and next thing I know, I'm being pulled aside by some thugs. This is my first assignment to get approved, so I can't afford to screw things up! I'm at the park in Chinatown and would greatly appreciate some help!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /182/yazawa_quest_a823/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Chinatown Public Restrooms'
+    Original:
+    - 'SOS: Chinatown Public Restrooms'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /182/yazawa_quest_a823/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: So here I am on a food tour, happily munching away, when some weirdo came up and started heckling me for food. I'm in front of the public restrooms and could use some weirdo removal ASAP!
+    Original:
+    - So here I am on a food tour, happily munching away, when some weirdo came up and started heckling me for food. I'm in front of the public restrooms and could use some weirdo removal ASAP!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /190/yazawa_quest_a831/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Yokohama Blvd.'
+    Original:
+    - 'SOS: Yokohama Blvd.'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /190/yazawa_quest_a831/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: All I wanted to do was take a walk, and now these people are threatening me! Why does this always happen!? I may be on Yokohama Boulevard, but I'm in dire straits!
+    Original:
+    - All I wanted to do was take a walk, and now these people are threatening me! Why does this always happen!? I may be on Yokohama Boulevard, but I'm in dire straits!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /191/yazawa_quest_a832/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Isobe Alley'
+    Original:
+    - 'SOS: Isobe Alley'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /191/yazawa_quest_a832/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'm trying to enjoy my solo Korean food tour, but this creep won't leave me alone! What part of solo does he not understand? Anyway, I'm over by Isobe Alley, so can someone come get rid of this guy?
+    Original:
+    - I'm trying to enjoy my solo Korean food tour, but this creep won't leave me alone! What part of solo does he not understand? Anyway, I'm over by Isobe Alley, so can someone come get rid of this guy?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /192/yazawa_quest_a833/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Fukutokucho'
+    Original:
+    - 'SOS: Fukutokucho'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /192/yazawa_quest_a833/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Some punks are demanding a fee from everyone walking by. I'd say I chose the wrong day to go out for kimchi, but I refuse to take this lying down! I'm in Fukutokucho, so hurry and give me some backup!
+    Original:
+    - Some punks are demanding a fee from everyone walking by. I'd say I chose the wrong day to go out for kimchi, but I refuse to take this lying down! I'm in Fukutokucho, so hurry and give me some backup!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /200/yazawa_quest_a841/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Bar District Bike Racks'
+    Original:
+    - 'SOS: Bar District Bike Racks'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /200/yazawa_quest_a841/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I bumped into this one person on my way back from the bar and now he won't leave me alone... I know I started this, but I'm not paying up that much! I'm at the bike racks in the Bar District! Please intervene!
+    Original:
+    - I bumped into this one person on my way back from the bar and now he won't leave me alone... I know I started this, but I'm not paying up that much! I'm at the bike racks in the Bar District! Please intervene!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /201/yazawa_quest_a842/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Near Survive Bar'
+    Original:
+    - 'SOS: Near Survive Bar'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /201/yazawa_quest_a842/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I took a quick glance at some stranger and now he's practically threatening to kill me! I told him it was a misunderstanding, but all he does is shout over me. I'm over by Survive... Fitting name for a bar, because I really hope I make it out alive!
+    Original:
+    - I took a quick glance at some stranger and now he's practically threatening to kill me! I told him it was a misunderstanding, but all he does is shout over me. I'm over by Survive... Fitting name for a bar, because I really hope I make it out alive!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /202/yazawa_quest_a843/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Bar District Parking Lot'
+    Original:
+    - 'SOS: Bar District Parking Lot'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /202/yazawa_quest_a843/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: So I tried this new bar, but now they want to rip me off! You'll see me at the parking lot in the Bar District, so can you come help sort this out?
+    Original:
+    - So I tried this new bar, but now they want to rip me off! You'll see me at the parking lot in the Bar District, so can you come help sort this out?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /210/yazawa_quest_a051/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Egg Delivery 2
+    Original:
+    - Egg Delivery 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /210/yazawa_quest_a051/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: two Quality Eggs! Please bring this to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: two Quality Eggs! Please bring this to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /211/yazawa_quest_a052/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Battle Items Delivery 5
+    Original:
+    - Battle Items Delivery 5
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /211/yazawa_quest_a052/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Rocket Launcher and a Liquid Nitrogen Spray! Please bring these to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Rocket Launcher and a Liquid Nitrogen Spray! Please bring these to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /212/yazawa_quest_a053/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Egg Delivery 3
+    Original:
+    - Egg Delivery 3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /212/yazawa_quest_a053/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'You have a delivery request from a customer: a Golden Egg! Please bring this to a Part-time Hero rep!'
+    Original:
+    - 'You have a delivery request from a customer: a Golden Egg! Please bring this to a Part-time Hero rep!'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /260/yazawa_quest_a551/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Color Gangsman'
+    Original:
+    - 'Takedown: Color Gangsman'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /260/yazawa_quest_a551/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to inflict pain on the menace who threatens us law-abiding citizens.
+
+      [Color Gangsman] Habitat: East Jinnai Station
+
+      Please report in when you defeat one of these.
+    Original:
+    - >-
+      I want you to inflict pain on the menace who threatens us law-abiding citizens.
+
+      [Color Gangsman] Habitat: East Jinnai Station
+
+      Please report in when you defeat one of these.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /261/yazawa_quest_a552/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Assassin'
+    Original:
+    - 'Takedown: Assassin'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /261/yazawa_quest_a552/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to inflict pain on the menace who threatens us law-abiding citizens.
+
+      [Assassin] Habitat: Restaurant Row, Yokohama
+
+      I would like a report when even one of them is defeated.
+    Original:
+    - >-
+      I want you to inflict pain on the menace who threatens us law-abiding citizens.
+
+      [Assassin] Habitat: Restaurant Row, Yokohama
+
+      I would like a report when even one of them is defeated.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /262/yazawa_quest_a553/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "Takedown: Ramblin' Man"
+    Original:
+    - "Takedown: Ramblin' Man"
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /262/yazawa_quest_a553/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to inflict pain on the menace who threatens us law-abiding citizens.
+
+      [Ramblin' Man] Habitat: Isezaki Road, Yokohama
+
+      Please report in when you've defeated one.
+    Original:
+    - >-
+      I want you to inflict pain on the menace who threatens us law-abiding citizens.
+
+      [Ramblin' Man] Habitat: Isezaki Road, Yokohama
+
+      Please report in when you've defeated one.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /263/yazawa_quest_a554/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Pseudotrash'
+    Original:
+    - 'Takedown: Pseudotrash'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /263/yazawa_quest_a554/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to pulverize the menaces who threaten us law-abiding citizens!
+
+      [Pseudotrash] Habitat: Commercial District, Yokohama
+
+      Please report in when you defeat one.
+    Original:
+    - >-
+      I want you to pulverize the menaces who threaten us law-abiding citizens!
+
+      [Pseudotrash] Habitat: Commercial District, Yokohama
+
+      Please report in when you defeat one.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /264/yazawa_quest_a555/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Arch-Vagrant'
+    Original:
+    - 'Takedown: Arch-Vagrant'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /264/yazawa_quest_a555/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to pulverize the menaces who threaten us law-abiding citizens!
+
+      [Arch-Vagrant] Habitat: Commercial District, Yokohama
+
+      I would like a report even if only one of them is subdued.
+    Original:
+    - >-
+      I want you to pulverize the menaces who threaten us law-abiding citizens!
+
+      [Arch-Vagrant] Habitat: Commercial District, Yokohama
+
+      I would like a report even if only one of them is subdued.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /265/yazawa_quest_a556/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Black Blade'
+    Original:
+    - 'Takedown: Black Blade'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /265/yazawa_quest_a556/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to pulverize the menaces who threaten us law-abiding citizens!
+
+      [Black Blade] Habitat: Commercial District, Yokohama
+
+      I would like a report even if only one of them is subdued.
+    Original:
+    - >-
+      I want you to pulverize the menaces who threaten us law-abiding citizens!
+
+      [Black Blade] Habitat: Commercial District, Yokohama
+
+      I would like a report even if only one of them is subdued.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /270/yazawa_quest_a561/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Host'
+    Original:
+    - 'Takedown: Host'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /270/yazawa_quest_a561/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Category: Host] Habitat: Red Light District, Yokohama
+
+      Let me know when you've taken out ten of them.
+    Original:
+    - >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Category: Host] Habitat: Red Light District, Yokohama
+
+      Let me know when you've taken out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /271/yazawa_quest_a562/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Conman'
+    Original:
+    - 'Takedown: Conman'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /271/yazawa_quest_a562/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Category: Conman] Habitat: Red Light District, Yokohama
+
+      Let me know when you've taken out ten of them.
+    Original:
+    - >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Category: Conman] Habitat: Red Light District, Yokohama
+
+      Let me know when you've taken out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /272/yazawa_quest_a563/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Thug'
+    Original:
+    - 'Takedown: Thug'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /272/yazawa_quest_a563/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Category: Thug] Habitat: Isezaki Road, Yokohama
+
+      Let me know when you take out ten of them.
+    Original:
+    - >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Category: Thug] Habitat: Isezaki Road, Yokohama
+
+      Let me know when you take out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /273/yazawa_quest_a564/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Officer of the Lawless'
+    Original:
+    - 'Takedown: Officer of the Lawless'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /273/yazawa_quest_a564/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Officer of the Lawless] Habitat: Koreatown, Yokohama
+
+      Let me know when you've taken out even one of them.
+    Original:
+    - >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Officer of the Lawless] Habitat: Koreatown, Yokohama
+
+      Let me know when you've taken out even one of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /274/yazawa_quest_a565/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Sandwichman'
+    Original:
+    - 'Takedown: Sandwichman'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /274/yazawa_quest_a565/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Category: Sandwichman] Habitat: Red Light District, Yokohama
+
+      Let me know when you've taken out ten of them.
+    Original:
+    - >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Category: Sandwichman] Habitat: Red Light District, Yokohama
+
+      Let me know when you've taken out ten of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /275/yazawa_quest_a566/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Dismemberer'
+    Original:
+    - 'Takedown: Dismemberer'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /275/yazawa_quest_a566/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Dismemberer] Habitat: Isezaki Road, Yokohama
+
+      Let me know when you've taken out even one of them.
+    Original:
+    - >-
+      I want you to stop the scumbags who are making the girls around here cry.
+
+      [Dismemberer] Habitat: Isezaki Road, Yokohama
+
+      Let me know when you've taken out even one of them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /280/yazawa_quest_a571/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Sneak-a-tack'
+    Original:
+    - 'Takedown: Sneak-a-tack'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /280/yazawa_quest_a571/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to pin down this bothersome group.
+
+      [Sneak-a-tack] Habitat: Isezaki Road, Yokohama
+
+      Please report back if even only one of them is stopped.
+    Original:
+    - >-
+      I want you to pin down this bothersome group.
+
+      [Sneak-a-tack] Habitat: Isezaki Road, Yokohama
+
+      Please report back if even only one of them is stopped.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /281/yazawa_quest_a572/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Snipper'
+    Original:
+    - 'Takedown: Snipper'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /281/yazawa_quest_a572/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to pin down the bothersome group.
+
+      [Category: Snipper] Habitat: Isezaki Road, Yokohama
+
+      Please report back once ten of them are stopped.
+    Original:
+    - >-
+      I want you to pin down the bothersome group.
+
+      [Category: Snipper] Habitat: Isezaki Road, Yokohama
+
+      Please report back once ten of them are stopped.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /282/yazawa_quest_a573/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Musclehead'
+    Original:
+    - 'Takedown: Musclehead'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /282/yazawa_quest_a573/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to pin down the bothersome group.
+
+      [Category: Musclehead] Habitat: Isezaki Road, Yokohama
+
+      Please report back when ten of them are stopped.
+    Original:
+    - >-
+      I want you to pin down the bothersome group.
+
+      [Category: Musclehead] Habitat: Isezaki Road, Yokohama
+
+      Please report back when ten of them are stopped.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /283/yazawa_quest_a574/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Slugger'
+    Original:
+    - 'Takedown: Slugger'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /283/yazawa_quest_a574/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to pin down the bothersome group.
+
+      [Category: Slugger] Habitat: Restaurant Row, Yokohama
+
+      Please report back if ten of them are stopped.
+    Original:
+    - >-
+      I want you to pin down the bothersome group.
+
+      [Category: Slugger] Habitat: Restaurant Row, Yokohama
+
+      Please report back if ten of them are stopped.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /284/yazawa_quest_a575/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Feral Felon'
+    Original:
+    - 'Takedown: Feral Felon'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /284/yazawa_quest_a575/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to pin down the bothersome group.
+
+      [Category: Fugitive] Habitat: Restaurant Row, Yokohama
+
+      Please report back if even one of these are stopped.
+    Original:
+    - >-
+      I want you to pin down the bothersome group.
+
+      [Category: Fugitive] Habitat: Restaurant Row, Yokohama
+
+      Please report back if even one of these are stopped.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /285/yazawa_quest_a576/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Gifted Gatherer'
+    Original:
+    - 'Takedown: Gifted Gatherer'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /285/yazawa_quest_a576/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want you to pin down this bothersome group.
+
+      [Gifted Gatherer] Habitat: Restaurant Row, Yokohama
+
+      Please report back if even only one of them is stopped.
+    Original:
+    - >-
+      I want you to pin down this bothersome group.
+
+      [Gifted Gatherer] Habitat: Restaurant Row, Yokohama
+
+      Please report back if even only one of them is stopped.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /286/yazawa_quest_a577/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Break-and-Entryman'
+    Original:
+    - 'Takedown: Break-and-Entryman'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /286/yazawa_quest_a577/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these bad guys defeated!
+
+      [Break-and-Entryman] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+    Original:
+    - >-
+      I want these bad guys defeated!
+
+      [Break-and-Entryman] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /287/yazawa_quest_a578/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Invested Vagabond'
+    Original:
+    - 'Takedown: Invested Vagabond'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /287/yazawa_quest_a578/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these bad guys defeated!
+
+      [Invested Vagabond] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+    Original:
+    - >-
+      I want these bad guys defeated!
+
+      [Invested Vagabond] Habitat: Chinatown, Yokohama
+
+      Report to me if you defeat even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /288/yazawa_quest_a579/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Takedown: Forsaken Samurai'
+    Original:
+    - 'Takedown: Forsaken Samurai'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /288/yazawa_quest_a579/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      I want these bad guys defeated!
+
+      [Forsaken Samurai] Habitat: Sotenbori Battle Arena
+
+      Report to me if you defeat even one of them!
+    Original:
+    - >-
+      I want these bad guys defeated!
+
+      [Forsaken Samurai] Habitat: Sotenbori Battle Arena
+
+      Report to me if you defeat even one of them!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /409/yazawa_quest_a851/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: S Sakura River St.'
+    Original:
+    - 'SOS: S Sakura River St.'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /409/yazawa_quest_a851/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I've been framed as a thief and now I'm being asked to hand over my belongings. Please believe me when I say I haven't stolen a thing! This is happening near the parking structure... I could really use a hero right now!
+    Original:
+    - I've been framed as a thief and now I'm being asked to hand over my belongings. Please believe me when I say I haven't stolen a thing! This is happening near the parking structure... I could really use a hero right now!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /410/yazawa_quest_a852/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Misaki St.'
+    Original:
+    - 'SOS: Misaki St.'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /410/yazawa_quest_a852/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This is going to sound awkward, but I'm being accused of lechery. Like, being a pervert. I'm at Misaki Street, so can you come help me talk this guy down? It's pretty obvious he's just trying to get some hush money out of me.
+    Original:
+    - This is going to sound awkward, but I'm being accused of lechery. Like, being a pervert. I'm at Misaki Street, so can you come help me talk this guy down? It's pretty obvious he's just trying to get some hush money out of me.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /411/yazawa_quest_a853/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Tsurukame Alley'
+    Original:
+    - 'SOS: Tsurukame Alley'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /411/yazawa_quest_a853/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Some scary guy bumped into me, yet he's the one claiming he got hurt. Wants me to pay for damages, too. I'm at a construction site in Tsurukame Alley. Can you help me get rid of this faker?
+    Original:
+    - Some scary guy bumped into me, yet he's the one claiming he got hurt. Wants me to pay for damages, too. I'm at a construction site in Tsurukame Alley. Can you help me get rid of this faker?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /419/yazawa_quest_a861/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Central St.'
+    Original:
+    - 'SOS: Central St.'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /419/yazawa_quest_a861/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This recruiter's being super inappropriate. I keep telling him off, but he isn't taking no for an answer, so maybe you could deliver the message with a little more... force? I'm over here on Central Street.
+    Original:
+    - This recruiter's being super inappropriate. I keep telling him off, but he isn't taking no for an answer, so maybe you could deliver the message with a little more... force? I'm over here on Central Street.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /420/yazawa_quest_a862/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Romance St.'
+    Original:
+    - 'SOS: Romance St.'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /420/yazawa_quest_a862/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Dammit all! I was all set to have Ai-chan knead my dangle dough, but now this thug wants to shake me down instead! Can't a man get massaged in peace!? Urrrrgh! Just hurry down to Romance Street, before I lose my leavening!
+    Original:
+    - Dammit all! I was all set to have Ai-chan knead my dangle dough, but now this thug wants to shake me down instead! Can't a man get massaged in peace!? Urrrrgh! Just hurry down to Romance Street, before I lose my leavening!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /421/yazawa_quest_a863/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Central St. Parking Lot'
+    Original:
+    - 'SOS: Central St. Parking Lot'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /421/yazawa_quest_a863/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Some group claiming to be backed by the Seiryu Clan won't stop trying to recruit me. I'm not even sure if it's legit... Can you take care of these guys in the Parking Lot on Central Street?
+    Original:
+    - Some group claiming to be backed by the Seiryu Clan won't stop trying to recruit me. I'm not even sure if it's legit... Can you take care of these guys in the Parking Lot on Central Street?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /429/yazawa_quest_a871/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: E Tsurukame Highway'
+    Original:
+    - 'SOS: E Tsurukame Highway'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /429/yazawa_quest_a871/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I was doing some investigative journalism on Ijincho, but then some really aggressive people started barking orders at me! I still don't understand what they want! I'm on East Tsurukame Highway! Please hurry!
+    Original:
+    - I was doing some investigative journalism on Ijincho, but then some really aggressive people started barking orders at me! I still don't understand what they want! I'm on East Tsurukame Highway! Please hurry!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /430/yazawa_quest_a872/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Hyakkei Alley'
+    Original:
+    - 'SOS: Hyakkei Alley'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /430/yazawa_quest_a872/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: So these guys are on the street demanding money or blood from anyone walking by. Yeah... I don't get it either. I'm in a small alley off of Hyakkei Street if you think you can help.
+    Original:
+    - So these guys are on the street demanding money or blood from anyone walking by. Yeah... I don't get it either. I'm in a small alley off of Hyakkei Street if you think you can help.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /431/yazawa_quest_a873/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'SOS: Hyakkei St.'
+    Original:
+    - 'SOS: Hyakkei St.'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /431/yazawa_quest_a873/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My beloved and I were to meet not far from here, but some evildoers must have caught wind of it; they now endeavor to seize my coinpurse and all the wherewithal therein! I beg you, make haste to Hyakkei Street before the stars cross my love any further!
+    Original:
+    - My beloved and I were to meet not far from here, but some evildoers must have caught wind of it; they now endeavor to seize my coinpurse and all the wherewithal therein! I beg you, make haste to Hyakkei Street before the stars cross my love any further!
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\part_time_job_quest_quest.json'

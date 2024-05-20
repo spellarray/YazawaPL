@@ -1,0 +1,282 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/yazawa_chapter01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Rozdział 1: Światło i Cień'
+    Original:
+    - 'Chapter 1: Light and Shadow'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/yazawa_chapter01/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ichiban Kasuga, born and raised in a soapland in Kamurocho without ever knowing his real parents. After his life is saved at the age of fifteen by Masumi Arakawa, a yakuza, Kasuga dedicates his life to serving the Arakawa Family... until the first day of the 21st century. Kasuga is asked by Arakawa to take the fall for Sawashiro, captain of the Arakawa Family, for a murder he had committed. Convinced that the day has finally come for him to repay Arakawa, Kasuga happily obliges and turns himself in to the police.
+    Original:
+    - Ichiban Kasuga, born and raised in a soapland in Kamurocho without ever knowing his real parents. After his life is saved at the age of fifteen by Masumi Arakawa, a yakuza, Kasuga dedicates his life to serving the Arakawa Family... until the first day of the 21st century. Kasuga is asked by Arakawa to take the fall for Sawashiro, captain of the Arakawa Family, for a murder he had committed. Convinced that the day has finally come for him to repay Arakawa, Kasuga happily obliges and turns himself in to the police.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/yazawa_chapter02/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Rozdział 2: Krwawe Pojednanie'
+    Original:
+    - 'Chapter 2: A Bloody Reunion'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/yazawa_chapter02/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "The year is 2019. Kasuga is released after serving eighteen years in prison to find that no one from the Arakawa Family is there to welcome him. He is instead met by Adachi, apparently part of the Kanagawa Police, who shares with him the shift in the state of the yakuza world: The Tojo Clan has perished and Kamurocho now belongs to the Omi Allianceâ€”all by the hands of the Tojo Clan traitor, Arakawa. Full of doubts, Kasuga decides to confront Arakawa, now the acting captain of the Omi Alliance. However, Kasuga finds himself at the other end of Arakawa's gun, and the trigger is pulled."
+    Original:
+    - "The year is 2019. Kasuga is released after serving eighteen years in prison to find that no one from the Arakawa Family is there to welcome him. He is instead met by Adachi, apparently part of the Kanagawa Police, who shares with him the shift in the state of the yakuza world: The Tojo Clan has perished and Kamurocho now belongs to the Omi Alliance—all by the hands of the Tojo Clan traitor, Arakawa. Full of doubts, Kasuga decides to confront Arakawa, now the acting captain of the Omi Alliance. However, Kasuga finds himself at the other end of Arakawa's gun, and the trigger is pulled."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/yazawa_chapter03/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 3: The Town at Rock Bottom'
+    Original:
+    - 'Chapter 3: The Town at Rock Bottom'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/yazawa_chapter03/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga awakens and finds himself in the outskirts of Isezaki Ijincho, Yokohama. He is pained by the bullet wound in his chest almost as much as his betrayal at the hands of his hero, Arakawa. Fortunately, the wound is tended to by Nanba, a homeless former nurse. Kasuga's life is saved, but he has no connection to this new city and must rebuild from nothing. The two men set out to find jobs, and with a little help from Hello Work and a local barfly named Hamako, they find themselves getting back on their feet.
+    Original:
+    - Kasuga awakens and finds himself in the outskirts of Isezaki Ijincho, Yokohama. He is pained by the bullet wound in his chest almost as much as his betrayal at the hands of his hero, Arakawa. Fortunately, the wound is tended to by Nanba, a homeless former nurse. Kasuga's life is saved, but he has no connection to this new city and must rebuild from nothing. The two men set out to find jobs, and with a little help from Hello Work and a local barfly named Hamako, they find themselves getting back on their feet.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/yazawa_chapter04/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 4: The Dragon of Yokohama'
+    Original:
+    - 'Chapter 4: The Dragon of Yokohama'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/yazawa_chapter04/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga, Nanba, and the newly laid-off former detective Adachi, need jobs... until they are hired to work at a soapland where the owner, Nonomiya, assigns them to investigate his employee, Nanoha. Digging into her situation, the trio encounter Chairman Hoshino of the Seiryu Clan, who puts a stop to the scam affecting her. Triumphant, the three return to the soapland, where they discover Nonomiya's lifeless body hanging from a noose.
+    Original:
+    - Kasuga, Nanba, and the newly laid-off former detective Adachi, need jobs... until they are hired to work at a soapland where the owner, Nonomiya, assigns them to investigate his employee, Nanoha. Digging into her situation, the trio encounter Chairman Hoshino of the Seiryu Clan, who puts a stop to the scam affecting her. Triumphant, the three return to the soapland, where they discover Nonomiya's lifeless body hanging from a noose.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/yazawa_chapter05/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 5: The Liumang Man'
+    Original:
+    - 'Chapter 5: The Liumang Man'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/yazawa_chapter05/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nanoha's twin sister, Saeko, works for a cabaret club that was also owned by Nonomiya. She is convinced that Nonomiya's death was very likely staged as a suicide by Mabuchi of the Yokohama Liumang. Swearing to avenge Nonomiya, Kasuga adds Saeko to his party and seeks out Mabuchi. They get hired at a warehouse owned by Mabuchi but only to discover that it is, in fact, a den packed with Liumang ruffians...
+    Original:
+    - Nanoha's twin sister, Saeko, works for a cabaret club that was also owned by Nonomiya. She is convinced that Nonomiya's death was very likely staged as a suicide by Mabuchi of the Yokohama Liumang. Swearing to avenge Nonomiya, Kasuga adds Saeko to his party and seeks out Mabuchi. They get hired at a warehouse owned by Mabuchi but only to discover that it is, in fact, a den packed with Liumang ruffians...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/yazawa_chapter06/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 6: Ignition'
+    Original:
+    - 'Chapter 6: Ignition'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/yazawa_chapter06/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga and his party are captured by the Liumang, where Mabuchi, Nonomiya's killer, uses them to create a crack in the Great Wall of Muscle. With the delicate power balance between the Seiryu Clan, the Liumang, and the Geomijul threatened, it's only a matter of time before disaster strikes Ijincho. The boss of the Liumang, Zhao, advises Kasuga that the only way to stop the impending chaos is to seek out intel from the Korean mafia, the Geomijul.
+    Original:
+    - Kasuga and his party are captured by the Liumang, where Mabuchi, Nonomiya's killer, uses them to create a crack in the Great Wall of Muscle. With the delicate power balance between the Seiryu Clan, the Liumang, and the Geomijul threatened, it's only a matter of time before disaster strikes Ijincho. The boss of the Liumang, Zhao, advises Kasuga that the only way to stop the impending chaos is to seek out intel from the Korean mafia, the Geomijul.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/yazawa_chapter07/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "Chapter 7: The Spider's Web"
+    Original:
+    - "Chapter 7: The Spider's Web"
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/yazawa_chapter07/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "Kasuga and his party sneak into the Geomijul, whose information network is spread all throughout Ijincho. The leading lady of this operation, Seong-hui, provides Kasuga with solid evidence that links Mabuchi to Nonomiya's murder. He also acquires information about Nanba: he had voluntarily become homeless to find clues about his younger brother's whereabouts after he was taken by the Geomijul. Nanba's sole reason for tagging along this far with Kasuga is to infiltrate the Geomijul. After being exposed, he abandons Kasuga and disappears into the shadows."
+    Original:
+    - "Kasuga and his party sneak into the Geomijul, whose information network is spread all throughout Ijincho. The leading lady of this operation, Seong-hui, provides Kasuga with solid evidence that links Mabuchi to Nonomiya's murder. He also acquires information about Nanba: he had voluntarily become homeless to find clues about his younger brother's whereabouts after he was taken by the Geomijul. Nanba's sole reason for tagging along this far with Kasuga is to infiltrate the Geomijul. After being exposed, he abandons Kasuga and disappears into the shadows."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/yazawa_chapter08/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 8: Bleached Black'
+    Original:
+    - 'Chapter 8: Bleached Black'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/yazawa_chapter08/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The Great Wall was able to maintain the peace for so long thanks to the counterfeit bill printing operations supported by local politican, Ogikubo. The encroaching Omi Alliance uses Bleach Japan, an NPO, to bring this fact to light. Kasuga and his party break into the main office of Bleach Japan, where they learn that the founder is none other than the current governor of Tokyo himselfâ€”Ryo Aoki. Seeing Aoki's photo for the first time, Kasuga realizes Aoki is identical to Masumi Arakawa's only son, Masato.
+    Original:
+    - The Great Wall was able to maintain the peace for so long thanks to the counterfeit bill printing operations supported by local politican, Ogikubo. The encroaching Omi Alliance uses Bleach Japan, an NPO, to bring this fact to light. Kasuga and his party break into the main office of Bleach Japan, where they learn that the founder is none other than the current governor of Tokyo himself—Ryo Aoki. Seeing Aoki's photo for the first time, Kasuga realizes Aoki is identical to Masumi Arakawa's only son, Masato.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/yazawa_chapter09/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 9: A House of Cards'
+    Original:
+    - 'Chapter 9: A House of Cards'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/yazawa_chapter09/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: After abandoning his previous identity over ten years ago, Masato is now Ryo Aoki. Kasuga suspects that his debut in the political world is merely a front. Meanwhile, Omi Alliance members disguised as Bleach Japan protesters infiltrate Geomijul to reveal the counterfeit bill printing facility to the public. Kasuga and his party fend off these intruders, but Seong-hui is ultimately left with no choice but to burn down the facility to get rid of any evidence.
+    Original:
+    - After abandoning his previous identity over ten years ago, Masato is now Ryo Aoki. Kasuga suspects that his debut in the political world is merely a front. Meanwhile, Omi Alliance members disguised as Bleach Japan protesters infiltrate Geomijul to reveal the counterfeit bill printing facility to the public. Kasuga and his party fend off these intruders, but Seong-hui is ultimately left with no choice but to burn down the facility to get rid of any evidence.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/yazawa_chapter10/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 10: Justice Tempered by Mercy'
+    Original:
+    - 'Chapter 10: Justice Tempered by Mercy'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/yazawa_chapter10/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "After interrogating the delegate for Bleach Japan, Ogasawara, it is confirmed that Aoki and Masato are one and the same. Moreover, the Omi Alliance has been funding Aoki and his mandate for their invasion of Ijincho. When a coup d'Ă©tat breaks out within the Great Wall of Muscle, Kasuga fights to suppress this conflict alongside the now returned Nanba and Geomijul's second-in-command, Joon-gi Han. Amidst the chaos, Kasuga's former subordinate, Mitsu, appears and leaves behind these words: Arakawa will need strong allies."
+    Original:
+    - "After interrogating the delegate for Bleach Japan, Ogasawara, it is confirmed that Aoki and Masato are one and the same. Moreover, the Omi Alliance has been funding Aoki and his mandate for their invasion of Ijincho. When a coup d'état breaks out within the Great Wall of Muscle, Kasuga fights to suppress this conflict alongside the now returned Nanba and Geomijul's second-in-command, Joon-gi Han. Amidst the chaos, Kasuga's former subordinate, Mitsu, appears and leaves behind these words: Arakawa will need strong allies."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/yazawa_chapter11/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 11: The Odds'
+    Original:
+    - 'Chapter 11: The Odds'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/yazawa_chapter11/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Governor Aoki visits Ijincho, and Kasuga grasps this opportunity to meet with him. During their meeting, Kasuga is shocked to learn that he had not taken the fall for Sawashiro eighteen years ago, but for Masato. Aoki warns Kasuga to never go near Masumi Arakawa again, but Kasuga refuses and resolves to fight for Ijincho.
+    Original:
+    - Governor Aoki visits Ijincho, and Kasuga grasps this opportunity to meet with him. During their meeting, Kasuga is shocked to learn that he had not taken the fall for Sawashiro eighteen years ago, but for Masato. Aoki warns Kasuga to never go near Masumi Arakawa again, but Kasuga refuses and resolves to fight for Ijincho.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/yazawa_chapter12/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 12: The End of the Yakuza'
+    Original:
+    - 'Chapter 12: The End of the Yakuza'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/yazawa_chapter12/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hearing that Arakawa is headed for Osaka, Kasuga and his party pursue his trail. Not only do they find Arakawa, but Daigo Dojima and other Tojo Clan patriarchs who have been planning to dissolve the yakuza as they knew it. Agreeing to their plan, Ichiban clashes with the opposing side in a fierce battle. After the smoke clears, the dissolution of the Omi Alliance is officially declared, and Kasuga makes his return to Yokohama alongside Arakawa.
+    Original:
+    - Hearing that Arakawa is headed for Osaka, Kasuga and his party pursue his trail. Not only do they find Arakawa, but Daigo Dojima and other Tojo Clan patriarchs who have been planning to dissolve the yakuza as they knew it. Agreeing to their plan, Ichiban clashes with the opposing side in a fierce battle. After the smoke clears, the dissolution of the Omi Alliance is officially declared, and Kasuga makes his return to Yokohama alongside Arakawa.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/yazawa_chapter13/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 13: Coin Locker Baby'
+    Original:
+    - 'Chapter 13: Coin Locker Baby'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/yazawa_chapter13/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga is overtaken by grief after Arakawa's body is found in the Port of Yokohama. His murderer can be none other than Aoki. In order to make contact with Aoki again, Kasuga registers himself as a candidate to run in the political race. Sawashiro, the apparent assassin, appears before Kasuga and reveals that, when Masato was born, there was a swapping of infantsâ€”Masato is not Arakawa's son, but Sawashiro's. Furthermore, he explains that there is a very high likelihood that the other infant, Arakawa's real son, is Kasuga.
+    Original:
+    - Kasuga is overtaken by grief after Arakawa's body is found in the Port of Yokohama. His murderer can be none other than Aoki. In order to make contact with Aoki again, Kasuga registers himself as a candidate to run in the political race. Sawashiro, the apparent assassin, appears before Kasuga and reveals that, when Masato was born, there was a swapping of infants—Masato is not Arakawa's son, but Sawashiro's. Furthermore, he explains that there is a very high likelihood that the other infant, Arakawa's real son, is Kasuga.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/yazawa_chapter14/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 14: Passing the Torch'
+    Original:
+    - 'Chapter 14: Passing the Torch'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/yazawa_chapter14/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga almost loses himself to his anger towards Aoki until the legend himself, Kazuma Kiryu, appears and brings him back to his senses with an exchange of blows. Kasuga learns that Ishioda, an officer of the Omi Alliance, has snuck into Ijincho. Since Ishioda is likely responsible for issuing the order to assassinate Arakawa, Kasuga infiltrates Ishioda's hideout. There, he learns that the one who actually took Arakawa's life is another officer named Tendo. Shortly after, bombs that had been set up by Tendo detonate, and Kasuga is caught in the explosion...
+    Original:
+    - Kasuga almost loses himself to his anger towards Aoki until the legend himself, Kazuma Kiryu, appears and brings him back to his senses with an exchange of blows. Kasuga learns that Ishioda, an officer of the Omi Alliance, has snuck into Ijincho. Since Ishioda is likely responsible for issuing the order to assassinate Arakawa, Kasuga infiltrates Ishioda's hideout. There, he learns that the one who actually took Arakawa's life is another officer named Tendo. Shortly after, bombs that had been set up by Tendo detonate, and Kasuga is caught in the explosion...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/yazawa_chapter15/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Chapter 15: To the Pinnacle'
+    Original:
+    - 'Chapter 15: To the Pinnacle'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/yazawa_chapter15/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga is spared yet again as he narrowly escapes the blast. Kasuga lures out Tendo and exacts vengeance. Aoki appears afterward, and the final showdown unfolds. Kasuga rises victorious. Right as Aoki has a change of heart, his life is taken by Kume, blinded by his devotion to Bleach Japan's cause. The curtains not only descend on Aoki's life, but also on his ambitions with the Omi Alliance. Kasuga, deciding not to return to Kamurocho nor Osaka, swears to live the rest of his days in Ijincho.
+    Original:
+    - Kasuga is spared yet again as he narrowly escapes the blast. Kasuga lures out Tendo and exacts vengeance. Aoki appears afterward, and the final showdown unfolds. Kasuga rises victorious. Right as Aoki has a change of heart, his life is taken by Kume, blinded by his devotion to Bleach Japan's cause. The curtains not only descend on Aoki's life, but also on his ambitions with the Omi Alliance. Kasuga, deciding not to return to Kamurocho nor Osaka, swears to live the rest of his days in Ijincho.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/padv/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Premium Adventure
+    Original:
+    - Premium Adventure
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\chapter.json'

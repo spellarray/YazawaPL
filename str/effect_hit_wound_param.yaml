@@ -1,0 +1,48 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/hit0/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1SEMlq500000cVKOox2WxI5HIqb91000000000000000000000000000wRMC7HbjJE500000000000g98ZW300000E3Cn3hHVIG5oNVwB100000mSzm6uSKfW5iC2MPbGDfM57OUCSrAE0S5000000
+    Original:
+    - 1SEMlq500000cVKOox2WxI5HIqb91000000000000000000000000000wRMC7HbjJE500000000000g98ZW300000E3Cn3hHVIG5oNVwB100000mSzm6uSKfW5iC2MPbGDfM57OUCSrAE0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/hit1/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1SEMlq500000cVKOox2WxI5HIqb91000000000000000000000000000ebhs5HbjJE500000000000g98ZW3000006NmjJRRhRF5oNVwB100000OWbuQWOZfU5O0mK69V0OL57OUCSrAE0S5000000
+    Original:
+    - 1SEMlq500000cVKOox2WxI5HIqb91000000000000000000000000000ebhs5HbjJE500000000000g98ZW3000006NmjJRRhRF5oNVwB100000OWbuQWOZfU5O0mK69V0OL57OUCSrAE0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/guard/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1q0xSs500000FbscsmHVIG5ekLW6Q1SZQ5gnKb5k77XI5000000000002X800zgMYFGQFzSdAsXLP5YniCNKdY0S5wppIXLdY0S5URQiZLdY0S5SkWQA1000005vShR7esGO5uSdKl9esGO5000000
+    Original:
+    - 1q0xSs500000FbscsmHVIG5ekLW6Q1SZQ5gnKb5k77XI5000000000002X800zgMYFGQFzSdAsXLP5YniCNKdY0S5wppIXLdY0S5URQiZLdY0S5SkWQA1000005vShR7esGO5uSdKl9esGO5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/slash0/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1q0xSs500000FbscsmHVIG5qWXLjz6XgM5kd2dxr2WxI5000000000008cj411xnn6GgzTn5t2WxI5ExqltNdY0S5oZdjWLdY0S5azl2mz6XgM5wLRA8100000ioBcQywsKP56fWjm0xsKP5000000
+    Original:
+    - 1q0xSs500000FbscsmHVIG5qWXLjz6XgM5kd2dxr2WxI5000000000008cj411xnn6GgzTn5t2WxI5ExqltNdY0S5oZdjWLdY0S5azl2mz6XgM5wLRA8100000ioBcQywsKP56fWjm0xsKP5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/slash1/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1q0xSs500000FbscsmHVIG5qWXLjz6XgM5kd2dxr2WxI5000000000008cj411xnn6GgzTn5t2WxI5ExqltNdY0S5oZdjWLdY0S5azl2mz6XgM5wLRA8100000ZmdEOywsKP56fWjm0xsKP5000000
+    Original:
+    - 1q0xSs500000FbscsmHVIG5qWXLjz6XgM5kd2dxr2WxI5000000000008cj411xnn6GgzTn5t2WxI5ExqltNdY0S5oZdjWLdY0S5azl2mz6XgM5wLRA8100000ZmdEOywsKP56fWjm0xsKP5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\effect_hit_wound_param.json'

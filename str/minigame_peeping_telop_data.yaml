@@ -1,0 +1,390 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/test_01/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81żă‚“ă\x81Şă\x81Śă€€ç››ă‚Šä¸Šă\x81’ă\x81¦ă\x81Źă‚Śă\x81¦ĺ¬‰ă\x81—ă\x81„ă\x81Şă\x81\x81â€¦â€¦"
+    Original:
+    - みんなが　盛り上げてくれて嬉しいなぁ……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/test_02/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81\x98ă‚\x83ă\x81‚ă€€ă\x81żă‚“ă\x81Şă\x81®ă\x81Šéˇ\x98ă\x81„ă\x81Ťă\x81„ă\x81ˇă‚\x83ă\x81Šă\x81†ă\x81‹ă\x81Şâ€¦â€¦ďĽź"
+    Original:
+    - じゃあ　みんなのお願いきいちゃおうかな……？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/test_03/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă‚“ă‚‚ă\x81†ĺ\x88†ă\x81‹ă\x81Łă\x81źă‚\x88"
+    Original:
+    - んもう分かったよ
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/test_04/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81\x98ă‚\x83ă\x81‚ă€€ă\x81ˇă‚‡ă\x81Łă\x81¨ă\x81 ă\x81‘ă\x81 ă‚\x88â€¦ďĽź"
+    Original:
+    - じゃあ　ちょっとだけだよ…？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/test_05/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x81Ąă\x81šă\x81‹ă\x81—ă\x81„ă\x81\x83â€¦â€¦"
+    Original:
+    - 恥ずかしいぃ……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/test_06/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x83›ă\x83łă\x83\x88ă\x81«ă\x81ˇă‚‡ă\x81Łă\x81¨ă\x81 ă\x81‘ă\x81 ă\x81‹ă‚‰ă\x81­ďĽź"
+    Original:
+    - ホントにちょっとだけだからね？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/test_07/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81„ă\x81Źă‚\x88ă\x81ŁďĽź"
+    Original:
+    - いくよっ？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/test_08/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81©ă\x81†ă\x81‹ă\x81ŞďĽź"
+    Original:
+    - どうかな？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/test_09/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x81Ąă\x81šă\x81‹ă\x81—ă\x81„ă\x81‘ă\x81©â€¦â€¦ă€€ĺ–śă‚“ă\x81§ă‚‚ă‚‰ă\x81\x88ă‚‹ă\x81Şă‚‰"
+    Original:
+    - 恥ずかしいけど……　喜んでもらえるなら
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/test_10/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă‚‚ă\x81Łă\x81¨ă‚µă\x83Ľă\x83“ă‚ąă\x81—ă\x81ˇă‚\x83ă\x81Šă\x81†ă\x81‹ă\x81Şâ€¦â€¦"
+    Original:
+    - もっとサービスしちゃおうかな……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/test_11/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă‚‚ă\x81Łă\x81¨ă‚‚ă\x81Łă\x81¨â€¦â€¦"
+    Original:
+    - もっともっと……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/test_12/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć‚ äşśă\x81®ă\x81“ă\x81¨ćĄ˝ă\x81—ă\x81ľă\x81›ă\x81¦ă\x81­â€¦â€¦âť¤"
+    Original:
+    - 悠亜のこと楽しませてね……❤
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/test_13/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "çš†ă\x81Śă\x81™ă\x81Łă\x81”ă\x81Źč\x88\x88ĺĄ®ă\x81—ă\x81¦ă\x81Źă‚Śă‚‹ă\x81‹ă‚‰â€¦â€¦"
+    Original:
+    - 皆がすっごく興奮してくれるから……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/test_14/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç§\x81ă\x81ľă\x81§č\x88\x88ĺĄ®ă\x81—ă\x81¦ă\x81Ťă\x81ˇă‚\x83ă\x81Łă\x81źă\x81\x98ă‚\x83ă\x81Şă\x81„ă\x81§ă\x81™ă\x81‹ă\x81\x81â€¦â€¦"
+    Original:
+    - 私まで興奮してきちゃったじゃないですかぁ……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/test_15/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č\x88\x88ĺĄ®ă\x81—ă\x81¦ä˝“ă\x81Śç\x81«ç…§ă\x81Łă\x81¦ă\x81Ťă\x81źă‚\x88ă\x81‰â€¦â€¦"
+    Original:
+    - 興奮して体が火照ってきたよぉ……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/test_16/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x81Ąă\x81šă\x81‹ă\x81—ă\x81„ă\x81‘ă\x81©ă€€ă‚‚ă\x81†ĺ°‘ă\x81—č„±ă\x81„ă\x81\x98ă‚\x83ă\x81Šă\x81†ă\x81‹ă\x81ŞďĽź"
+    Original:
+    - 恥ずかしいけど　もう少し脱いじゃおうかな？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/test_17/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81\x98ă‚\x83ă\x81‚č„±ă\x81\x90ă\x81­â€¦â€¦"
+    Original:
+    - じゃあ脱ぐね……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/test_18/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81ˇă‚\x83ă‚“ă\x81¨č¦‹ă\x81¦ă€€č\x88\x88ĺĄ®ă\x81—ă\x81¦ă\x81­â€¦â€¦ďĽź"
+    Original:
+    - ちゃんと見て　興奮してね……？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/test_19/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č„±ă\x81\x90ă‚\x88â€¦â€¦ďĽź"
+    Original:
+    - 脱ぐよ……？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/test_20/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č¦‹ă\x81\x88ă‚‹ďĽź"
+    Original:
+    - 見える？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/test_21/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81©ă\x81†ă\x81§ă\x81™ă\x81‹ďĽź"
+    Original:
+    - どうですか？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/test_22/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81Şă‚“ă\x81‹ç§\x81ă\x81Śç§\x81ă\x81\x98ă‚\x83ă\x81Şă\x81„ă\x81żă\x81źă\x81„â€¦â€¦"
+    Original:
+    - なんか私が私じゃないみたい……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/test_23/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă‚¨ă\x83\x83ă\x83\x81ă\x81Şç§\x81ă‚’â€¦â€¦ă€€ă‚‚ă\x81Łă\x81¨č¦‹ă\x81¦ă\x81Źă\x81 ă\x81•ă\x81„ă\x81­ďĽź"
+    Original:
+    - エッチな私を……　もっと見てくださいね？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/test_24/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç§\x81â€¦â€¦"
+    Original:
+    - 私……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/test_25/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă‚‚ă\x81†ć\x88‘ć…˘ă\x81§ă\x81Ťă\x81Şă\x81„ă‚\x88ă\x81…â€¦â€¦"
+    Original:
+    - もう我慢できないよぅ……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/test_26/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81­ă\x81‡â€¦â€¦ă€€ă‚­ă\x83Şă\x83Ąă‚¦ă\x81•ă‚“â€¦â€¦"
+    Original:
+    - ねぇ……　キリュウさん……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/test_27/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç§\x81ă\x81¨äşŚäşşă\x81Ťă‚Šă\x81«ă\x81Şă\x81Łă\x81¦ă\x81Źă‚Śă\x81ľă\x81›ă‚“ă\x81‹ďĽź"
+    Original:
+    - 私と二人きりになってくれませんか？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/test_28/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81‚ă\x81Şă\x81źă\x81 ă\x81‘ă\x81«"
+    Original:
+    - あなただけに
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/test_29/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç§\x81ă\x81®ă\x81™ă\x81ąă\x81¦ă‚’č¦‹ă\x81¦ă\x81»ă\x81—ă\x81„ă\x81Şâ€¦â€¦âť¤"
+    Original:
+    - 私のすべてを見てほしいな……❤
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/test_30/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81\x98ă‚\x83ă\x81‚čˇŚă\x81Ťă\x81ľă\x81—ă‚‡âť¤"
+    Original:
+    - じゃあ行きましょ❤
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/test_31/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "äşŚäşşă\x81Ťă‚Šă\x81®ĺ¤©ĺ›˝ă\x81¸â€¦â€¦"
+    Original:
+    - 二人きりの天国へ……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /32/test_32/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćś€é«\x98ă\x81®ć™‚é–“ă\x81§ă\x81—ă\x81źâ€¦â€¦"
+    Original:
+    - 最高の時間でした……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /33/test_33/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81Şă‚“ă\x81©ă‚‚ă€€ĺą¸ă\x81›ă\x81®çµ¶é ‚ă\x81«ă\x81„ă\x81Łă\x81ˇă‚\x83ă\x81Łă\x81źâ€¦â€¦"
+    Original:
+    - なんども　幸せの絶頂にいっちゃった……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /34/test_34/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81\x88ă\x81¸ă\x81¸â€¦â€¦ă€€ć\x81Ąă\x81šă\x81‹ă\x81—ă\x81„ă\x81‘ă\x81©ă€€ćĄ˝ă\x81—ă\x81żâ€¦â€¦âť¤"
+    Original:
+    - えへへ……　恥ずかしいけど　楽しみ……❤
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /35/test_35/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "çµ¶ĺŻľă\x81«ă€€ă\x81ľă\x81źé\x81Šă‚“ă\x81§ă\x81Źă\x81 ă\x81•ă\x81„ă\x81­ďĽź"
+    Original:
+    - 絶対に　また遊んでくださいね？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /36/test_36/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81ťă‚Śă\x81\x98ă‚\x83â€¦â€¦ă€€ć°—ćŚ\x81ă\x81ˇă‚\x88ă\x81Źă\x81—ă\x81¦ă\x81Źă‚Śă\x81¦"
+    Original:
+    - それじゃ……　気持ちよくしてくれて
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /37/test_37/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81‚ă‚Šă\x81Śă\x81¨âť¤"
+    Original:
+    - ありがと❤
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /38/test_38/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x83\x90ă‚¤ă\x83\x90ă‚¤ď˝ž"
+    Original:
+    - バイバイ～
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /39/test_39/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81Żă\x81\x81â€¦â€¦ă€€ă\x81Şă‚“ă\x81 ă\x81‹ă\x81“ă\x81“ă\x81ľă\x81§ćťĄă\x81źă\x81®ă\x81«"
+    Original:
+    - はぁ……　なんだかここまで来たのに
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /40/test_40/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć°—ĺ\x88†ă\x81Śă\x81•ă‚\x81ă\x81¦ă\x81Ťă\x81ˇă‚\x83ă\x81Łă\x81źă‚\x88â€¦â€¦"
+    Original:
+    - 気分がさめてきちゃったよ……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /41/test_41/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81”ă‚\x81ă‚“ă€€ä»Šć—Ąă\x81Żč\x90˝ă\x81ˇă‚‹ă\x81­"
+    Original:
+    - ごめん　今日は落ちるね
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /42/test_42/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81ľă\x81źă€€ä»Šĺş¦ä¸€ç·’ă\x81«é\x81Šă\x81łă\x81ľă\x81—ă‚‡ďĽź"
+    Original:
+    - また　今度一緒に遊びましょ？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /43/test_43/message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81\x98ă‚\x83ă\x81‚ă\x81­ă€€ă\x81•ă‚\x88ă\x81†ă\x81Şă‚‰"
+    Original:
+    - じゃあね　さようなら
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\minigame_peeping_telop_data.json'

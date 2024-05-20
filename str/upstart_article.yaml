@@ -1,0 +1,993 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/afm_shop01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ichiban Confections
+    Original:
+    - Ichiban Confections
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/afm_shop01/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An old senbei shop. Low customer traffic not due to the quality, but the shop seeming too antiquated. Steady growth should lead to improvements.
+    Original:
+    - An old senbei shop. Low customer traffic not due to the quality, but the shop seeming too antiquated. Steady growth should lead to improvements.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/afm_shop01/explanation02
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An old senbei shop. Low customer traffic not due to the quality, but the shop seeming too antiquated. Steady growth should lead to improvements.
+    Original:
+    - An old senbei shop. Low customer traffic not due to the quality, but the shop seeming too antiquated. Steady growth should lead to improvements.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/afm_shop01/explanation03
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An old senbei shop. Low customer traffic not due to the quality, but the shop seeming too antiquated. Steady growth should lead to improvements.
+    Original:
+    - An old senbei shop. Low customer traffic not due to the quality, but the shop seeming too antiquated. Steady growth should lead to improvements.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/afm_shop02/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kanamachi Workshop
+    Original:
+    - Kanamachi Workshop
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/afm_shop02/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An old factory that's been around since prewar Japan. The capability is there, but the equipment is far too outdated. Focusing on investments should yield results.
+    Original:
+    - An old factory that's been around since prewar Japan. The capability is there, but the equipment is far too outdated. Focusing on investments should yield results.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/afm_shop02/explanation02
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An old factory that's been around since prewar Japan. The capability is there, but the equipment is far too outdated. Focusing on investments should yield results.
+    Original:
+    - An old factory that's been around since prewar Japan. The capability is there, but the equipment is far too outdated. Focusing on investments should yield results.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/afm_shop02/explanation03
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An old factory that's been around since prewar Japan. The capability is there, but the equipment is far too outdated. Focusing on investments should yield results.
+    Original:
+    - An old factory that's been around since prewar Japan. The capability is there, but the equipment is far too outdated. Focusing on investments should yield results.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/afm_shop03/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bar Twilight
+    Original:
+    - Bar Twilight
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/afm_shop03/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An old bar in a remote location. The bar itself is pleasant, but due to its poor service, it has no regular customers.
+    Original:
+    - An old bar in a remote location. The bar itself is pleasant, but due to its poor service, it has no regular customers.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/afm_shop03/explanation02
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An old bar in a remote location. The bar itself is pleasant, but due to its poor service, it has no regular customers.
+    Original:
+    - An old bar in a remote location. The bar itself is pleasant, but due to its poor service, it has no regular customers.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/afm_shop03/explanation03
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An old bar in a remote location. The bar itself is pleasant, but due to its poor service, it has no regular customers.
+    Original:
+    - An old bar in a remote location. The bar itself is pleasant, but due to its poor service, it has no regular customers.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/afm_shop04/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Coin Laundry Muto
+    Original:
+    - Coin Laundry Muto
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/afm_shop04/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A coin laundry with well-maintained equipment. Though easy to manage thanks to a steady flow of income, the profit isn't spectacular.
+    Original:
+    - A coin laundry with well-maintained equipment. Though easy to manage thanks to a steady flow of income, the profit isn't spectacular.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/afm_shop04/explanation02
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A coin laundry with well-maintained equipment. Though easy to manage thanks to a steady flow of income, the profit isn't spectacular.
+    Original:
+    - A coin laundry with well-maintained equipment. Though easy to manage thanks to a steady flow of income, the profit isn't spectacular.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/afm_shop04/explanation03
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A coin laundry with well-maintained equipment. Though easy to manage thanks to a steady flow of income, the profit isn't spectacular.
+    Original:
+    - A coin laundry with well-maintained equipment. Though easy to manage thanks to a steady flow of income, the profit isn't spectacular.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/afm_shop05/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Takeya Restaurant
+    Original:
+    - Takeya Restaurant
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/afm_shop05/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A restaurant that's not only buried in debt, but its food and service are severely lacking. Improving all these areas should turn a noticeable profit.
+    Original:
+    - A restaurant that's not only buried in debt, but its food and service are severely lacking. Improving all these areas should turn a noticeable profit.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/afm_shop05/explanation02
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A restaurant that's not only buried in debt, but its food and service are severely lacking. Improving all these areas should turn a noticeable profit.
+    Original:
+    - A restaurant that's not only buried in debt, but its food and service are severely lacking. Improving all these areas should turn a noticeable profit.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/afm_shop05/explanation03
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A restaurant that's not only buried in debt, but its food and service are severely lacking. Improving all these areas should turn a noticeable profit.
+    Original:
+    - A restaurant that's not only buried in debt, but its food and service are severely lacking. Improving all these areas should turn a noticeable profit.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/afm_shop06/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Tokuda Store
+    Original:
+    - Tokuda Store
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/afm_shop06/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A convenience store run by a sole proprietor. Its high points are thanks to the owner's quality customer service and the handmade bento boxes by its poster girl employee.
+    Original:
+    - A convenience store run by a sole proprietor. Its high points are thanks to the owner's quality customer service and the handmade bento boxes by its poster girl employee.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/afm_shop07/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Takiyama's Photos
+    Original:
+    - Takiyama's Photos
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/afm_shop07/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A camera shop with a variety of merchandise that only attracts locals due to its poor location. The key to increasing profit is to improve merchandise quality.
+    Original:
+    - A camera shop with a variety of merchandise that only attracts locals due to its poor location. The key to increasing profit is to improve merchandise quality.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/afm_shop08/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mahjong Club Ling
+    Original:
+    - Mahjong Club Ling
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/afm_shop08/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A mahjong club run by an unmotivated owner who sleeps on the job everyday. Customer traffic is fairly good due to being able to stay for long periods of time at a low rate.
+    Original:
+    - A mahjong club run by an unmotivated owner who sleeps on the job everyday. Customer traffic is fairly good due to being able to stay for long periods of time at a low rate.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/afm_shop09/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yamashita Assembly Hall No. 1
+    Original:
+    - Yamashita Assembly Hall No. 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/afm_shop09/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The recreational spot for the local residents. The building itself is outdated, but it holds various events on the weekends, making the area lively with visitors.
+    Original:
+    - The recreational spot for the local residents. The building itself is outdated, but it holds various events on the weekends, making the area lively with visitors.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/afm_shop10/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Indeed! Sushi
+    Original:
+    - Indeed! Sushi
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/afm_shop10/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Distinguished from the many conveyor belt sushi spots that have turned into a theme park of sorts in recent years, this location serves only sushi. As such, it does not attract customers who do not eat sushi.
+    Original:
+    - Distinguished from the many conveyor belt sushi spots that have turned into a theme park of sorts in recent years, this location serves only sushi. As such, it does not attract customers who do not eat sushi.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/afm_shop11/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Super Hamayasu
+    Original:
+    - Super Hamayasu
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/afm_shop11/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A local supermarket with no particular distinguishing features, but serves as the "community's pantry."
+    Original:
+    - A local supermarket with no particular distinguishing features, but serves as the "community's pantry."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/afm_shop12/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yokodo Bookstore
+    Original:
+    - Yokodo Bookstore
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/afm_shop12/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A large bookstore that's been around since the Meiji period. Ambitious about regional development, it is trusted by the local residents.
+    Original:
+    - A large bookstore that's been around since the Meiji period. Ambitious about regional development, it is trusted by the local residents.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/afm_shop13/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Jibika Picture Gallery
+    Original:
+    - Jibika Picture Gallery
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/afm_shop13/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A gallery with a shady reputation. There are rumors that nobody ever goes in, but according to the intellectual types, this establishment houses valuable commodities.
+    Original:
+    - A gallery with a shady reputation. There are rumors that nobody ever goes in, but according to the intellectual types, this establishment houses valuable commodities.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/afm_shop14/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ryusei Stage Theater
+    Original:
+    - Ryusei Stage Theater
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/afm_shop14/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A show theater with a long history. Though the building is deteriorating and the only customers are regulars, the theater continues to show films that have aged well into timeless classics.
+    Original:
+    - A show theater with a long history. Though the building is deteriorating and the only customers are regulars, the theater continues to show films that have aged well into timeless classics.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/afm_shop15/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Pachinko Pirates
+    Original:
+    - Pachinko Pirates
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/afm_shop15/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A pirate-themed pachinko parlor. Though it could definitely use some cleaning up, it's quite spacious with excellent customer traffic.
+    Original:
+    - A pirate-themed pachinko parlor. Though it could definitely use some cleaning up, it's quite spacious with excellent customer traffic.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/afm_shop16/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mr. Brillio
+    Original:
+    - Mr. Brillio
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/afm_shop16/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A high-end brothel that services its clients with premium companions. Though clients purport only "average" service, reservations fill up quickly on the weekends.
+    Original:
+    - A high-end brothel that services its clients with premium companions. Though clients purport only "average" service, reservations fill up quickly on the weekends.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/afm_shop17/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Fairytale Pinky Rabbit
+    Original:
+    - Fairytale Pinky Rabbit
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/afm_shop17/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A charming, fairytale-themed brothel supported by its fans. The hostesses there, however, don't always ensure a happy ending.
+    Original:
+    - A charming, fairytale-themed brothel supported by its fans. The hostesses there, however, don't always ensure a happy ending.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/afm_shop18/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Oana Security
+    Original:
+    - Oana Security
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/afm_shop18/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A security company run by one President Oana, a former member of the force. His company offers everything from security system installation to various security services.
+    Original:
+    - A security company run by one President Oana, a former member of the force. His company offers everything from security system installation to various security services.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/afm_shop19/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hydrangea
+    Original:
+    - Hydrangea
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/afm_shop19/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A takoyaki shop that offers piping hot takoyaki at a very low price. While the flavor is comparable, the owner is quite the artisan, exchanging as few words with his customers as possible.
+    Original:
+    - A takoyaki shop that offers piping hot takoyaki at a very low price. While the flavor is comparable, the owner is quite the artisan, exchanging as few words with his customers as possible.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/afm_shop20/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Shochu Specialty Imokko-chan
+    Original:
+    - Shochu Specialty Imokko-chan
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/afm_shop20/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An izakaya that serves sweet potato shochu from various regions nationwide. A place of solace to shochu fanatics, but many regulars complain about the owner's endless speeches about shochu.
+    Original:
+    - An izakaya that serves sweet potato shochu from various regions nationwide. A place of solace to shochu fanatics, but many regulars complain about the owner's endless speeches about shochu.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/afm_shop21/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: White Flag
+    Original:
+    - White Flag
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/afm_shop21/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A mysterious shop run by a cheerful sole proprietor. Though customer traffic is meager, those who do stop by have been known to call this place paradise. What they sell is a mystery.
+    Original:
+    - A mysterious shop run by a cheerful sole proprietor. Though customer traffic is meager, those who do stop by have been known to call this place paradise. What they sell is a mystery.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/afm_shop22/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Karaoke GonGon
+    Original:
+    - Karaoke GonGon
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/afm_shop22/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A nationwide karaoke chain. Popular among students for its cheap rates, its popularity is evident in the long wait times.
+    Original:
+    - A nationwide karaoke chain. Popular among students for its cheap rates, its popularity is evident in the long wait times.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/afm_shop23/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mansaku Tokiwa Fortunetelling
+    Original:
+    - Mansaku Tokiwa Fortunetelling
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/afm_shop23/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The fortunetelling hall of Mansaku Tokiwa, an astrologist who has frequently appeared on TV. On top of being open for only a few hours during the night, having him do the readings is rare.
+    Original:
+    - The fortunetelling hall of Mansaku Tokiwa, an astrologist who has frequently appeared on TV. On top of being open for only a few hours during the night, having him do the readings is rare.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/afm_shop24/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hortensia
+    Original:
+    - Hortensia
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/afm_shop24/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A lounge bar with reasonable prices. Several talents have been scouted through the owner's connections from when he used to work in the entertainment industry.
+    Original:
+    - A lounge bar with reasonable prices. Several talents have been scouted through the owner's connections from when he used to work in the entertainment industry.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /32/afm_shop25/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Cat's Servant
+    Original:
+    - Cat's Servant
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /32/afm_shop25/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An unconventional, yet popular cabaret club where guests are served by a hostess and a cat. The club's profit comes from the premium charges for requesting popular cats and their favorite food.
+    Original:
+    - An unconventional, yet popular cabaret club where guests are served by a hostess and a cat. The club's profit comes from the premium charges for requesting popular cats and their favorite food.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /33/afm_shop26/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Leda
+    Original:
+    - Leda
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /33/afm_shop26/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A high-end, fashionable "health center" said to even be frequented by some celebrities. With customer service as top priority, they accommodate any client requests.
+    Original:
+    - A high-end, fashionable "health center" said to even be frequented by some celebrities. With customer service as top priority, they accommodate any client requests.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /34/afm_shop27/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Akebi Capsule Hotel
+    Original:
+    - Akebi Capsule Hotel
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /34/afm_shop27/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A bargain capsule hotel. Many of their guests are foreigners due to the rise in tourism. As such, the employees are constantly barraged by languages they don't understand.
+    Original:
+    - A bargain capsule hotel. Many of their guests are foreigners due to the rise in tourism. As such, the employees are constantly barraged by languages they don't understand.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /35/afm_shop28/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: CafĂ© Piacevole
+    Original:
+    - Café Piacevole
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /35/afm_shop28/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A cafĂ© popular for the uniforms worn by the employees. As with the name, they aim to provide comfort for their customers by having employees actively provide services that put a smile on their faces.
+    Original:
+    - A café popular for the uniforms worn by the employees. As with the name, they aim to provide comfort for their customers by having employees actively provide services that put a smile on their faces.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /36/afm_shop29/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Shokichi Camera
+    Original:
+    - Shokichi Camera
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /36/afm_shop29/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An electronics store found everywhere in the Kanto region. Shokichi-kun, the mascot, is popularly known to gladly do price-matching negotiations.
+    Original:
+    - An electronics store found everywhere in the Kanto region. Shokichi-kun, the mascot, is popularly known to gladly do price-matching negotiations.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /37/afm_shop30/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: GOOD JEWELRY
+    Original:
+    - GOOD JEWELRY
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /37/afm_shop30/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A store that offers nothing but the finest jewelry, hand-picked from some of Yokohama's finest jewelers. As a members only establishment, one cannot enter the store without a referral.
+    Original:
+    - A store that offers nothing but the finest jewelry, hand-picked from some of Yokohama's finest jewelers. As a members only establishment, one cannot enter the store without a referral.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /38/afm_shop31/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mirai Stadium
+    Original:
+    - Mirai Stadium
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /38/afm_shop31/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An oceanside indoor futsal center. Customer traffic is fairly high due to periodic soccer and futsal school programs and meets offered on the premises.
+    Original:
+    - An oceanside indoor futsal center. Customer traffic is fairly high due to periodic soccer and futsal school programs and meets offered on the premises.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /39/afm_shop32/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Handsome Sailor
+    Original:
+    - Handsome Sailor
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /39/afm_shop32/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A unique club where the hosts dress up as men of the sea. The club's catchphrase, "Steady as she goes!" can be heard in nearly every nook and cranny of the establishment.
+    Original:
+    - A unique club where the hosts dress up as men of the sea. The club's catchphrase, "Steady as she goes!" can be heard in nearly every nook and cranny of the establishment.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /40/afm_shop33/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kojiriko Aquarium
+    Original:
+    - Kojiriko Aquarium
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /40/afm_shop33/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An aquarium famous for its elegant atmosphere, making it the perfect date spot for adult couples. This location sees many repeat visitors thanks to the seasonal events and shows.
+    Original:
+    - An aquarium famous for its elegant atmosphere, making it the perfect date spot for adult couples. This location sees many repeat visitors thanks to the seasonal events and shows.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /41/afm_shop34/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: PDCA Trading Company
+    Original:
+    - PDCA Trading Company
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /41/afm_shop34/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A general trading company started by a utilitarian CEO despite having only completed middle school. The company is growing with tremendous momentum and force.
+    Original:
+    - A general trading company started by a utilitarian CEO despite having only completed middle school. The company is growing with tremendous momentum and force.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /42/afm_shop35/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Waipu Production
+    Original:
+    - Waipu Production
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /42/afm_shop35/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A veteran production company in the television industry. Also trusted by the networks, they boast about having broadcast over 1,000 programs.
+    Original:
+    - A veteran production company in the television industry. Also trusted by the networks, they boast about having broadcast over 1,000 programs.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /43/afm_shop36/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Takumi Architectural Design
+    Original:
+    - Takumi Architectural Design
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /43/afm_shop36/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A corporate-minded architectural design office that works to their customers' sensibilities. The quality of their work is backed by the 90% plus satisfaction rate by their customers.
+    Original:
+    - A corporate-minded architectural design office that works to their customers' sensibilities. The quality of their work is backed by the 90% plus satisfaction rate by their customers.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /44/afm_shop37/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Taiyue Zone
+    Original:
+    - Taiyue Zone
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /44/afm_shop37/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A Chinese restaurant that's main selling point is their hearty menu. Though the food is fast, cheap, and good, customers find it uncomfortable to order due to the unfriendly service.
+    Original:
+    - A Chinese restaurant that's main selling point is their hearty menu. Though the food is fast, cheap, and good, customers find it uncomfortable to order due to the unfriendly service.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /45/afm_shop38/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Stonefish
+    Original:
+    - Stonefish
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /45/afm_shop38/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A traditional Japanese restaurant founded in the Taisho period highly regarded by a select few. Despite their years in business, the restaurant offers a friendly, welcoming atmosphere. The fish dishes are exquisite.
+    Original:
+    - A traditional Japanese restaurant founded in the Taisho period highly regarded by a select few. Despite their years in business, the restaurant offers a friendly, welcoming atmosphere. The fish dishes are exquisite.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /46/afm_shop39/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Marin
+    Original:
+    - Marin
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /46/afm_shop39/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This restaurant that has been going for generations and is now run by a young owner. In order to take back their place as the top restaurant, they tirelessly work to come up with new menu items.
+    Original:
+    - This restaurant that has been going for generations and is now run by a young owner. In order to take back their place as the top restaurant, they tirelessly work to come up with new menu items.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /47/afm_shop40/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Earth Shop WESN
+    Original:
+    - Earth Shop WESN
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /47/afm_shop40/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An apparel store using only eco-friendly materials. With self checkout available, there are few employees who work as cashiers.
+    Original:
+    - An apparel store using only eco-friendly materials. With self checkout available, there are few employees who work as cashiers.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /48/afm_shop41/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Dianthus
+    Original:
+    - Dianthus
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /48/afm_shop41/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A member-exclusive high-end club started by a former cabaret hostess. Her client base includes those from her hostess days to corporate executives.
+    Original:
+    - A member-exclusive high-end club started by a former cabaret hostess. Her client base includes those from her hostess days to corporate executives.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /49/afm_shop42/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Chituma Depot
+    Original:
+    - Chituma Depot
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /49/afm_shop42/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A parking structure crowned by the name of the horse cherished by a popular historical general. Open 24 hours with plenty of parking space, but the local workers of Chinatown apparently never use it.
+    Original:
+    - A parking structure crowned by the name of the horse cherished by a popular historical general. Open 24 hours with plenty of parking space, but the local workers of Chinatown apparently never use it.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /50/afm_shop43/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Grande Blu Marino
+    Original:
+    - Grande Blu Marino
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /50/afm_shop43/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A foreigner's hotel with the blue ocean as their motif. It's the go-to spot for tourists who come to Japan. Known for their exceptional engagement with their guests.
+    Original:
+    - A foreigner's hotel with the blue ocean as their motif. It's the go-to spot for tourists who come to Japan. Known for their exceptional engagement with their guests.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /51/afm_shop44/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Industrial Hall Building
+    Original:
+    - Industrial Hall Building
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /51/afm_shop44/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This hall for rent accommodates anything from events and contests to corporate seminars and meetings. Also situated in the ideal location, so business is never slow.
+    Original:
+    - This hall for rent accommodates anything from events and contests to corporate seminars and meetings. Also situated in the ideal location, so business is never slow.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /52/afm_shop45/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Media Barter
+    Original:
+    - Media Barter
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /52/afm_shop45/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A subsidiary of a large advertising agency, specializing in video production. A lot of what they handle include commercials for corporate advertising. They are favored for their relatively low rates.
+    Original:
+    - A subsidiary of a large advertising agency, specializing in video production. A lot of what they handle include commercials for corporate advertising. They are favored for their relatively low rates.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /53/afm_shop46/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Galaxy Land
+    Original:
+    - Galaxy Land
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /53/afm_shop46/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An urban amusement park with a large ferris wheel as their landmark. Free admission draws a huge crowd of couples and families alike.
+    Original:
+    - An urban amusement park with a large ferris wheel as their landmark. Free admission draws a huge crowd of couples and families alike.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /54/afm_shop47/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Jinnai Stadium
+    Original:
+    - Jinnai Stadium
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /54/afm_shop47/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home stadium to the local professional baseball team that boasts an audience capacity of 30,000 people. The food selection is more popular than the team, as some people attend solely to eat.
+    Original:
+    - Home stadium to the local professional baseball team that boasts an audience capacity of 30,000 people. The food selection is more popular than the team, as some people attend solely to eat.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /55/afm_shop48/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Maltese Gull Tower
+    Original:
+    - Maltese Gull Tower
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /55/afm_shop48/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A famous dating and tourist spot for its sweeping view of the spectacular night scape. An icon of the harbor, it used to be a functional lighthouse.
+    Original:
+    - A famous dating and tourist spot for its sweeping view of the spectacular night scape. An icon of the harbor, it used to be a functional lighthouse.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /56/afm_shop49/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Red Park
+    Original:
+    - Red Park
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /56/afm_shop49/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Originally built as a national warehouse, it has been renovated into a commercial facility in recent years. The vast space is used for events, attracting many people each year.
+    Original:
+    - Originally built as a national warehouse, it has been renovated into a commercial facility in recent years. The vast space is used for events, attracting many people each year.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /57/afm_shop50/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mirai Tower
+    Original:
+    - Mirai Tower
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /57/afm_shop50/explanation01
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A skyscraper with quite the presence, it serves as the region's landmark. Aside from offices, it houses hotels and shopping malls which keeps the location lively with the constant coming and going of people.
+    Original:
+    - A skyscraper with quite the presence, it serves as the region's landmark. Aside from offices, it houses hotels and shopping malls which keeps the location lively with the constant coming and going of people.
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\upstart_article.json'

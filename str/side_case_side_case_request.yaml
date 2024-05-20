@@ -1,0 +1,705 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/side_case_a11/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Infidelity Investigation
+    Original:
+    - Infidelity Investigation
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/side_case_a11/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Noriko Taguchi
+    Original:
+    - Noriko Taguchi
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/side_case_a11/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My name Noriko Taguchi. My husband has started going outside frequently recently and I want to know where he's going. It's hard to imagine that he's cheating on me but could you investigate? Thank you.
+    Original:
+    - My name Noriko Taguchi. My husband has started going outside frequently recently and I want to know where he's going. It's hard to imagine that he's cheating on me but could you investigate? Thank you.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/side_case_a35/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Entertainment Industry Job
+    Original:
+    - Entertainment Industry Job
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/side_case_a35/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Misaki Hayama
+    Original:
+    - Misaki Hayama
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/side_case_a35/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: One of my agency's top talents has gotten entangled in quite a mess, so I'd like your assistance. I can't get down to your office, so would you mind coming to the 6th floor of Hotel New Deborah? I'll wait in the hallway. Please come at some point in the day, as I'm quite busy at night.
+    Original:
+    - One of my agency's top talents has gotten entangled in quite a mess, so I'd like your assistance. I can't get down to your office, so would you mind coming to the 6th floor of Hotel New Deborah? I'll wait in the hallway. Please come at some point in the day, as I'm quite busy at night.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/side_case_a01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: There's a Panty Thief on the Loose!
+    Original:
+    - There's a Panty Thief on the Loose!
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/side_case_a01/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yosuke Saotome
+    Original:
+    - Yosuke Saotome
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/side_case_a01/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Not even the police can get this guy, so I'm asking you! He stole my sister's panties and now that he has her in his sights, I'm worried about what'll happen next. I'll wait at M Side Cafe with my sister. I'm the pretty boy with black, short hair, lol. My sister looks like me, but with longer hair.
+    Original:
+    - Not even the police can get this guy, so I'm asking you! He stole my sister's panties and now that he has her in his sights, I'm worried about what'll happen next. I'll wait at M Side Cafe with my sister. I'm the pretty boy with black, short hair, lol. My sister looks like me, but with longer hair.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/side_case_a47/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Where'd My Jacket Go?
+    Original:
+    - Where'd My Jacket Go?
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/side_case_a47/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Takeshi Akagawa
+    Original:
+    - Takeshi Akagawa
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/side_case_a47/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "My special jacket has disappeared. It was given to me by my older brother, and it means a lot to me. It's my soul. More important than my life. Please find it as quickly as possible! I'll be waiting at Wild Jackson on Tenkaichi Street! If you see some gaudy guy with brown hair, gray jacket and red shirt, that's probably me. "
+    Original:
+    - "My special jacket has disappeared. It was given to me by my older brother, and it means a lot to me. It's my soul. More important than my life. Please find it as quickly as possible! I'll be waiting at Wild Jackson on Tenkaichi Street! If you see some gaudy guy with brown hair, gray jacket and red shirt, that's probably me. "
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/side_case_a02/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: There's a Groper on the Loose!
+    Original:
+    - There's a Groper on the Loose!
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/side_case_a02/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yosuke Saotome
+    Original:
+    - Yosuke Saotome
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/side_case_a02/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Another pervert in the Twisted Trio has taken a liking to Tsukino. This one's a groper, and he already got a big handful of her ass. She can't even go outside without an escort. Please catch him, Yagami-san! I'll drop by your office.
+    Original:
+    - Another pervert in the Twisted Trio has taken a liking to Tsukino. This one's a groper, and he already got a big handful of her ass. She can't even go outside without an escort. Please catch him, Yagami-san! I'll drop by your office.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/side_case_a16/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Searching for Missing Nephew
+    Original:
+    - Searching for Missing Nephew
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/side_case_a16/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Fumie Taniyama
+    Original:
+    - Fumie Taniyama
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/side_case_a16/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Could you please search for my missing nephew? He left the house three years ago saying he was going to become the number one host in Kamurocho, and I haven't heard from him since. His parents have long since passed away, and I am his only living relative. Please, help me. I will be waiting at M Side Cafe. Could you please look for a black-haired, middle-aged woman wearing a blue coat?
+    Original:
+    - Could you please search for my missing nephew? He left the house three years ago saying he was going to become the number one host in Kamurocho, and I haven't heard from him since. His parents have long since passed away, and I am his only living relative. Please, help me. I will be waiting at M Side Cafe. Could you please look for a black-haired, middle-aged woman wearing a blue coat?
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/side_case_a14/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Sexual Harassment Investigation
+    Original:
+    - Sexual Harassment Investigation
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/side_case_a14/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Rei Miyamoto
+    Original:
+    - Rei Miyamoto
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/side_case_a14/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I want you to get proof that my superior is sexually harassing me. I would prefer rock-solid evidence he can't weasel out of. However, my boss is the president's son, so I'm not sure how to handle this. I would like to consult you about this issue. I will be waiting at Cafe Mijore. I have black hair and uh, large breasts. Men don't have trouble spotting me.
+    Original:
+    - I want you to get proof that my superior is sexually harassing me. I would prefer rock-solid evidence he can't weasel out of. However, my boss is the president's son, so I'm not sure how to handle this. I would like to consult you about this issue. I will be waiting at Cafe Mijore. I have black hair and uh, large breasts. Men don't have trouble spotting me.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/side_case_a08/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A Publisher's Request
+    Original:
+    - A Publisher's Request
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/side_case_a08/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kawata
+    Original:
+    - Kawata
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/side_case_a08/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Greetings, Yagami-sama. I'm Kawata, and I'm contacting you today in hopes that you'll take on a rather odd request. Can we discuss this further at Cafe Mijore on Nakamichi Street? I'm a middle-aged, average looking man in a suit. Please come at your leisure.
+    Original:
+    - Greetings, Yagami-sama. I'm Kawata, and I'm contacting you today in hopes that you'll take on a rather odd request. Can we discuss this further at Cafe Mijore on Nakamichi Street? I'm a middle-aged, average looking man in a suit. Please come at your leisure.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/side_case_a09/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Another Mystery Event!
+    Original:
+    - Another Mystery Event!
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/side_case_a09/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kawata
+    Original:
+    - Kawata
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/side_case_a09/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Good day, Yagami-sama. This is Kawata from Cloudy Skies Publishing. Thank you for your help the other day. I have contacted you again in hopes to ask for your help once more. I'll await you at Cafe Mijore on Nakamichi Street. Could you please come by when you have time? Thank you.
+    Original:
+    - Good day, Yagami-sama. This is Kawata from Cloudy Skies Publishing. Thank you for your help the other day. I have contacted you again in hopes to ask for your help once more. I'll await you at Cafe Mijore on Nakamichi Street. Could you please come by when you have time? Thank you.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/side_case_a09/condition_message2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Why not pass some time?
+    Original:
+    - Why not pass some time?
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/side_case_a10/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A Final Event
+    Original:
+    - A Final Event
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/side_case_a10/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kawata
+    Original:
+    - Kawata
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/side_case_a10/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Good day, Yagami-san. It is Kawata from Cloudy Skies Publishing. Thank you for the other day! I'm sorry to keep asking you this, but I have another request for you, Yagami-san. I'll be waiting at Cafe Mijore on Nakamichi Street as usual. Could you please come when you have time? Thank you.
+    Original:
+    - Good day, Yagami-san. It is Kawata from Cloudy Skies Publishing. Thank you for the other day! I'm sorry to keep asking you this, but I have another request for you, Yagami-san. I'll be waiting at Cafe Mijore on Nakamichi Street as usual. Could you please come when you have time? Thank you.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/side_case_a10/condition_message2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Why not pass some time?
+    Original:
+    - Why not pass some time?
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/side_case_a32/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A Golden Mouse
+    Original:
+    - A Golden Mouse
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/side_case_a32/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hajime Oobayashi
+    Original:
+    - Hajime Oobayashi
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/side_case_a32/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yagami-san, there's a golden mouse out in the wild, and he's worth a loooot of money. He'll have lots of pursuers, so we've got to move quickly. I'll wait for you on the roof of Stardust! It's easier to get up there from the building's next door neighbor's back entrance.
+    Original:
+    - Yagami-san, there's a golden mouse out in the wild, and he's worth a loooot of money. He'll have lots of pursuers, so we've got to move quickly. I'll wait for you on the roof of Stardust! It's easier to get up there from the building's next door neighbor's back entrance.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/side_case_a32/condition_message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Trigger all of the "????" events
+    Original:
+    - Trigger all of the "????" events
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/side_case_a32/condition_message3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Defeat the Keihin Gang crew.
+    Original:
+    - Defeat the Keihin Gang crew.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/side_case_a03/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Let's Chat About a Pervert
+    Original:
+    - Let's Chat About a Pervert
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/side_case_a03/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yosuke Saotome
+    Original:
+    - Yosuke Saotome
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/side_case_a03/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I have something kinda private to discuss, Yagami-san. I'll wait for you at M Side Cafe. Be discreet, okay?
+    Original:
+    - I have something kinda private to discuss, Yagami-san. I'll wait for you at M Side Cafe. Be discreet, okay?
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/side_case_a13/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Second Infidelity Investigation
+    Original:
+    - Second Infidelity Investigation
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/side_case_a13/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Megumi Hashimoto
+    Original:
+    - Megumi Hashimoto
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/side_case_a13/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'd like to ask you to investigate if my husband is having an affair or not. I'd actually asked another detective to investigate, and he concluded that he wasn't, but something's not sitting right with me... So I'd like to get a second detective's opinion. I know where you office is, so I'll drop by shortly.
+    Original:
+    - I'd like to ask you to investigate if my husband is having an affair or not. I'd actually asked another detective to investigate, and he concluded that he wasn't, but something's not sitting right with me... So I'd like to get a second detective's opinion. I know where you office is, so I'll drop by shortly.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/side_case_a38/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Please Find My Son
+    Original:
+    - Please Find My Son
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/side_case_a38/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Shoji Oohata
+    Original:
+    - Shoji Oohata
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/side_case_a38/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My name is Oohata. I have an urgent request. I'll be waiting at Cafe Mijore at Nakamichi Street. Could you please come? Please look for a man in glasses wearing a brown jacket with green pants. Sorry for the inconvenience. Thank you.
+    Original:
+    - My name is Oohata. I have an urgent request. I'll be waiting at Cafe Mijore at Nakamichi Street. Could you please come? Please look for a man in glasses wearing a brown jacket with green pants. Sorry for the inconvenience. Thank you.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/side_case_a39/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Please Find My Son Again
+    Original:
+    - Please Find My Son Again
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/side_case_a39/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Shoji Oohata
+    Original:
+    - Shoji Oohata
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/side_case_a39/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's Oohata. Thank you for the other day. It happened again, and I'd like to leave it in your hands. I'll be waiting at Cafe Mijore at Nakamichi Street. Thank you.
+    Original:
+    - It's Oohata. Thank you for the other day. It happened again, and I'd like to leave it in your hands. I'll be waiting at Cafe Mijore at Nakamichi Street. Thank you.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/side_case_a40/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Please Find My Son (Again)
+    Original:
+    - Please Find My Son (Again)
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/side_case_a40/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Shoji Oohata
+    Original:
+    - Shoji Oohata
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/side_case_a40/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's Oohata. Thanks for last time. I'm sorry, but can I ask you to do it again? I'll be waiting at Cafe Mijore as usual. Thank you.
+    Original:
+    - It's Oohata. Thanks for last time. I'm sorry, but can I ask you to do it again? I'll be waiting at Cafe Mijore as usual. Thank you.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/side_case_a12/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Photojournalist Job
+    Original:
+    - Photojournalist Job
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/side_case_a12/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hiranuma
+    Original:
+    - Hiranuma
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/side_case_a12/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I need a photographer I can trust, and Yagami-san, you're the man. This one's kind of big, so can I save the details for later? Meet me at Gyuyuen tonight, if you could. Thanks.
+    Original:
+    - I need a photographer I can trust, and Yagami-san, you're the man. This one's kind of big, so can I save the details for later? Meet me at Gyuyuen tonight, if you could. Thanks.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/side_case_a12/condition_message2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Befriend Hiranuma
+    Original:
+    - Befriend Hiranuma
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/side_case_a17/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My Subordinate is Missing
+    Original:
+    - My Subordinate is Missing
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/side_case_a17/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Fuyuhiko Tanaka
+    Original:
+    - Fuyuhiko Tanaka
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/side_case_a17/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My name is Fuyuhiko Tanaka. I would like to talk to you about helping me look for someone. I'll be waiting at M Side Cafe, in a black jacket with a purple shirt. Thank you.
+    Original:
+    - My name is Fuyuhiko Tanaka. I would like to talk to you about helping me look for someone. I'll be waiting at M Side Cafe, in a black jacket with a purple shirt. Thank you.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/side_case_a21/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ghost Capture Request
+    Original:
+    - Ghost Capture Request
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/side_case_a21/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mamoru Shimazu
+    Original:
+    - Mamoru Shimazu
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/side_case_a21/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I heard a rumor that a ghost appears in the apartment I plan to move in next month. No one said anything about that in the lease. Please capture the ghost to prove the place is haunted! Please come to Quadra Garden on the first floor of Hotel New Deborah at night. I'll be waiting, wearing a hoodie with a heart-mark on it.
+    Original:
+    - I heard a rumor that a ghost appears in the apartment I plan to move in next month. No one said anything about that in the lease. Please capture the ghost to prove the place is haunted! Please come to Quadra Garden on the first floor of Hotel New Deborah at night. I'll be waiting, wearing a hoodie with a heart-mark on it.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/side_case_a41/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I Got Honey Trapped!
+    Original:
+    - I Got Honey Trapped!
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/side_case_a41/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Anonymous
+    Original:
+    - Anonymous
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/side_case_a41/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I was tricked by a woman into a trap. Think you can find proof it was a trap? If not, my life is over. Please uncover that woman's evil true nature! Please, I'm begging you! I'll come by your office!
+    Original:
+    - I was tricked by a woman into a trap. Think you can find proof it was a trap? If not, my life is over. Please uncover that woman's evil true nature! Please, I'm begging you! I'll come by your office!
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/side_case_a42/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: So Much Murder
+    Original:
+    - So Much Murder
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/side_case_a42/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Owner of Carp Wife
+    Original:
+    - Owner of Carp Wife
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/side_case_a42/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I want you to solve a mystery that happened at my store. It's a murder, and it's rather macabre. I can't talk about this to the police for... reasons. That's why I want to leave it to your capable hands, great detective. Solve the mystery of this case and capture the true culprit. I'll be waiting in front of Koi Bride.
+    Original:
+    - I want you to solve a mystery that happened at my store. It's a murder, and it's rather macabre. I can't talk about this to the police for... reasons. That's why I want to leave it to your capable hands, great detective. Solve the mystery of this case and capture the true culprit. I'll be waiting in front of Koi Bride.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/side_case_a43/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A Challenge
+    Original:
+    - A Challenge
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/side_case_a43/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ???
+    Original:
+    - ???
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/side_case_a43/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Takayuki Yagami, I await you at Little Asia. Come.
+    Original:
+    - Takayuki Yagami, I await you at Little Asia. Come.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/side_case_a43/condition_message
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Clear 49 side cases.
+    Original:
+    - Clear 49 side cases.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/side_case_a44/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A Valuable Cat
+    Original:
+    - A Valuable Cat
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/side_case_a44/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Wang
+    Original:
+    - Wang
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/side_case_a44/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I want you to find a certain cat. It's a very special cat, but I can't seem to capture it. Please, you must do this. Additionally, I should mention that in case the contents of this request leaks to outsiders, a great danger may befall you. I ask you to please keep it a secret. Please come to the roof of the building that houses the izakaya called Happy Family on Senryo Avenue, and come alone.
+    Original:
+    - I want you to find a certain cat. It's a very special cat, but I can't seem to capture it. Please, you must do this. Additionally, I should mention that in case the contents of this request leaks to outsiders, a great danger may befall you. I ask you to please keep it a secret. Please come to the roof of the building that houses the izakaya called Happy Family on Senryo Avenue, and come alone.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/side_case_a45/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Background Investigation of My Son's Wife
+    Original:
+    - Background Investigation of My Son's Wife
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/side_case_a45/client
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Shizue Kuwayama
+    Original:
+    - Shizue Kuwayama
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/side_case_a45/detail
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Please investigate whether or not my son's wife is trying to kill my son. Ever since my son got married, he's been struck with no shortage of misfortunes. I'm suspecting the wife has something to do with it. I'll be waiting at Cafe Alps, wearing a pink coat and jeans.
+    Original:
+    - Please investigate whether or not my son's wife is trying to kill my son. Ever since my son got married, he's been struck with no shortage of misfortunes. I'm suspecting the wife has something to do with it. I'll be waiting at Cafe Alps, wearing a pink coat and jeans.
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\side_case_side_case_request.json'

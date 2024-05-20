@@ -1,0 +1,759 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/todo_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'TODO: Kasuga Lv 0'
+    Original:
+    - 'TODO: Kasuga Lv 0'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/explanation_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Explanation: Kasuga Lv 0'
+    Original:
+    - 'Explanation: Kasuga Lv 0'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/todo_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'TODO: Kasuga Lv 1'
+    Original:
+    - 'TODO: Kasuga Lv 1'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/explanation_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Explanation: Kasuga Lv 1'
+    Original:
+    - 'Explanation: Kasuga Lv 1'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/todo_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'TODO: Kasuga Lv 2'
+    Original:
+    - 'TODO: Kasuga Lv 2'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/explanation_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Explanation: Kasuga Lv 2'
+    Original:
+    - 'Explanation: Kasuga Lv 2'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/todo_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'TODO: Kasuga Lv 3'
+    Original:
+    - 'TODO: Kasuga Lv 3'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/explanation_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Explanation: Kasuga Lv 3'
+    Original:
+    - 'Explanation: Kasuga Lv 3'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/todo_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'TODO: Kasuga Lv 4'
+    Original:
+    - 'TODO: Kasuga Lv 4'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/explanation_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Explanation: Kasuga Lv 4'
+    Original:
+    - 'Explanation: Kasuga Lv 4'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/complete_todo_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'TODO: Kasuga MAX Lv'
+    Original:
+    - 'TODO: Kasuga MAX Lv'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player0/complete_explanation_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Explanation: Kasuga MAX Level'
+    Original:
+    - 'Explanation: Kasuga MAX Level'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/todo_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Nanba at Survive Bar
+    Original:
+    - Talk to Nanba at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/explanation_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ????
+    Original:
+    - ????
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/todo_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Nanba at Survive Bar
+    Original:
+    - Talk to Nanba at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/explanation_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: One night at Survive Bar, Nanba spotted a bottle of Legend Malt, a high-end whisky priced at 10,000 yen a glass. Nanba decided to sneak a sip while the bartender was away, but the whisky was so tantalizingly delicious that he ended up drinking the whole bottle without giving it a second thought. He then ran off to a convenience store, filled the empty bottle with cheap booze, and returned it to the shelf. Despite his quick thinking, however, Nanba was still worried he would eventually be found out. Upon consulting Kasuga, the two decided to wait and see what happened next...
+    Original:
+    - One night at Survive Bar, Nanba spotted a bottle of Legend Malt, a high-end whisky priced at 10,000 yen a glass. Nanba decided to sneak a sip while the bartender was away, but the whisky was so tantalizingly delicious that he ended up drinking the whole bottle without giving it a second thought. He then ran off to a convenience store, filled the empty bottle with cheap booze, and returned it to the shelf. Despite his quick thinking, however, Nanba was still worried he would eventually be found out. Upon consulting Kasuga, the two decided to wait and see what happened next...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/todo_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Nanba at Survive Bar
+    Original:
+    - Talk to Nanba at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/explanation_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The bottle of Legend Malt turned out to be a sham. Though the bottle was real, the liquor was no more expensive than the stuff Nanba replaced it with. The bartender had picked up the empty bottle in hopes of making the bar look more impressive. Both Nanba and Kasuga were relieved to hear this and couldn't help but feel closer after the whole ordeal, but Kasuga was still bothered by something...
+    Original:
+    - The bottle of Legend Malt turned out to be a sham. Though the bottle was real, the liquor was no more expensive than the stuff Nanba replaced it with. The bartender had picked up the empty bottle in hopes of making the bar look more impressive. Both Nanba and Kasuga were relieved to hear this and couldn't help but feel closer after the whole ordeal, but Kasuga was still bothered by something...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/todo_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Nanba at Survive Bar
+    Original:
+    - Talk to Nanba at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/explanation_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: During his time as a nurse, Nanba had a coworker named Mizue, a young woman who frequently sold the hospital's drugs in order to pay off her parents' debt until she was eventually caught in the act. Harboring feelings for her, Nanba took the fall for Mizue and, as a result, was fired from his job at the hospital. Even now, Nanba claims he doesn't regret doing what he did. He also expressed his wishes to properly send Mizue off as she leaves the country to practice medicine, but he's unsure of when that might be...
+    Original:
+    - During his time as a nurse, Nanba had a coworker named Mizue, a young woman who frequently sold the hospital's drugs in order to pay off her parents' debt until she was eventually caught in the act. Harboring feelings for her, Nanba took the fall for Mizue and, as a result, was fired from his job at the hospital. Even now, Nanba claims he doesn't regret doing what he did. He also expressed his wishes to properly send Mizue off as she leaves the country to practice medicine, but he's unsure of when that might be...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/todo_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Nanba at Survive Bar
+    Original:
+    - Talk to Nanba at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/explanation_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga learned that a bar hostess named Futaba had previously worked at the same hospital as Nanba. Unbeknownst to Nanba, and with the help of the bartender, Kasuga called Futaba over to see if she might know anything about when Mizue might be leaving the country. The uncooperative Futaba promptly left the bar before answering any of Kasuga's questions. Kasuga then planned to get in touch with Futaba again soon...
+    Original:
+    - Kasuga learned that a bar hostess named Futaba had previously worked at the same hospital as Nanba. Unbeknownst to Nanba, and with the help of the bartender, Kasuga called Futaba over to see if she might know anything about when Mizue might be leaving the country. The uncooperative Futaba promptly left the bar before answering any of Kasuga's questions. Kasuga then planned to get in touch with Futaba again soon...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/complete_todo_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A strong bond has been formed with Nanba.
+    Original:
+    - A strong bond has been formed with Nanba.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player1/complete_explanation_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: As fate would have it, Futaba was just a stage name, and the hostess Kasuga thought would bring him closer to Mizue turned out to be Mizue herself. For Nanba's sake, Kasuga had Mizue assume the role of the girl Nanba once knew and pretend to leave the country, though it was clear Nanba must've known the truth. In spite of his awareness, however, Nanba was just happy to know how hard Kasuga worked to give him closure. Moved by Kasuga's generosity, Nanba then began to see Kasuga as one of the truest friends he could ever ask for.
+    Original:
+    - As fate would have it, Futaba was just a stage name, and the hostess Kasuga thought would bring him closer to Mizue turned out to be Mizue herself. For Nanba's sake, Kasuga had Mizue assume the role of the girl Nanba once knew and pretend to leave the country, though it was clear Nanba must've known the truth. In spite of his awareness, however, Nanba was just happy to know how hard Kasuga worked to give him closure. Moved by Kasuga's generosity, Nanba then began to see Kasuga as one of the truest friends he could ever ask for.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/todo_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Adachi at Survive Bar
+    Original:
+    - Talk to Adachi at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/explanation_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ????
+    Original:
+    - ????
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/todo_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Adachi at Survive Bar
+    Original:
+    - Talk to Adachi at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/explanation_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: All this business between Adachi and Horinouchi started with a robbery and homicide incident from twenty years ago. Adachi had arrested a man named Kusumi only to later find out he'd done so on false charges. Adachi tried to get Kusumi released, but Horinouchi, not wanting to look incompetent, denied him. With no chance of being set free, Kusumi killed himself in his cell. Adachi planned to leak Horinouchi's wrongdoings to the media, but unfortunately he never got the chance...
+    Original:
+    - All this business between Adachi and Horinouchi started with a robbery and homicide incident from twenty years ago. Adachi had arrested a man named Kusumi only to later find out he'd done so on false charges. Adachi tried to get Kusumi released, but Horinouchi, not wanting to look incompetent, denied him. With no chance of being set free, Kusumi killed himself in his cell. Adachi planned to leak Horinouchi's wrongdoings to the media, but unfortunately he never got the chance...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/todo_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Adachi at Survive Bar
+    Original:
+    - Talk to Adachi at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/explanation_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kusumi left behind a son, Takashi, who was placed in an orphanage after his father's death. Feeling guilty for his actions, Adachi started sending money to Takashi every month under the name Yamada. Adachi says he plans to keep sending money to Takashi until he graduates from law school, but now that he's out of the job, that's easier said than done.
+    Original:
+    - Kusumi left behind a son, Takashi, who was placed in an orphanage after his father's death. Feeling guilty for his actions, Adachi started sending money to Takashi every month under the name Yamada. Adachi says he plans to keep sending money to Takashi until he graduates from law school, but now that he's out of the job, that's easier said than done.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/todo_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Adachi at Survive Bar
+    Original:
+    - Talk to Adachi at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/explanation_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Upon receiving another letter from Takashi, Adachi learned that Takashi is being pressured into paying 1,000,000 yen to settle an accident. Takashi asked Adachi to lend him the money, but seeing as Adachi is only pretending to be rich, there's simply no way Adachi can afford to pay for it. Thinking 1,000,000 yen might be way too high a price for a scratched bumper, Kasuga and Adachi began to question if Takashi is being conned. Adachi then agreed to meet for an out-of-court settlement.
+    Original:
+    - Upon receiving another letter from Takashi, Adachi learned that Takashi is being pressured into paying 1,000,000 yen to settle an accident. Takashi asked Adachi to lend him the money, but seeing as Adachi is only pretending to be rich, there's simply no way Adachi can afford to pay for it. Thinking 1,000,000 yen might be way too high a price for a scratched bumper, Kasuga and Adachi began to question if Takashi is being conned. Adachi then agreed to meet for an out-of-court settlement.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/todo_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Adachi at Survive Bar
+    Original:
+    - Talk to Adachi at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/explanation_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Assuming the roles of Yamada and his secretary, Adachi and Kasuga agreed to sit in on an out-of-court settlement for Takashi's accident. To their relief, they discovered Takashi was indeed being scammed and went on to resolve the situation without paying a single yen. Unfortunately, it appeared as though it would be a while before Takashi graduated, meaning Adachi would have to keep sending him money for the time being...
+    Original:
+    - Assuming the roles of Yamada and his secretary, Adachi and Kasuga agreed to sit in on an out-of-court settlement for Takashi's accident. To their relief, they discovered Takashi was indeed being scammed and went on to resolve the situation without paying a single yen. Unfortunately, it appeared as though it would be a while before Takashi graduated, meaning Adachi would have to keep sending him money for the time being...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/complete_todo_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A strong bond has been formed with Adachi.
+    Original:
+    - A strong bond has been formed with Adachi.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player2/complete_explanation_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Feeling he owed everything to Adachi, the real Takashi worked his way through law school and successfully passed the bar exam. Adachi expressed how proud he was of Takashi for never giving up and later shared a drink with Kasuga to celebrate Takashi's success.
+    Original:
+    - Feeling he owed everything to Adachi, the real Takashi worked his way through law school and successfully passed the bar exam. Adachi expressed how proud he was of Takashi for never giving up and later shared a drink with Kasuga to celebrate Takashi's success.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/todo_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Saeko at Survive Bar
+    Original:
+    - Talk to Saeko at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/explanation_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ????
+    Original:
+    - ????
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/todo_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Saeko at Survive Bar
+    Original:
+    - Talk to Saeko at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/explanation_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Saeko had always taken care of her twin sister, Nanoha. However, after telling Nanoha to lose her troublemaking boyfriend, Saeko was met with intense backlash from both her sister and her father. Following an intense fight, Saeko left home, and hasn't seen Nanoha since. Though it pains her to say it, Saeko revealed that, even now, Nanoha refuses to ask for her sister's help, no matter how much she may need it.
+    Original:
+    - Saeko had always taken care of her twin sister, Nanoha. However, after telling Nanoha to lose her troublemaking boyfriend, Saeko was met with intense backlash from both her sister and her father. Following an intense fight, Saeko left home, and hasn't seen Nanoha since. Though it pains her to say it, Saeko revealed that, even now, Nanoha refuses to ask for her sister's help, no matter how much she may need it.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/todo_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Saeko at Survive Bar
+    Original:
+    - Talk to Saeko at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/explanation_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The biggest thing causing Nanoha to distance herself from Saeko is Nanoha's boyfriend, Katsuragawa. Katsuragawa claims he runs a consulting firm, but in actuality he's nothing more than a criminalâ€”complete with a bodyguard and whole slew of scandalous rumors to prove it. To make matters worse, Nanoha's still going out with him. Having just learned this, Saeko asked some of the girls from the club to monitor Nanoha's movements, leaving Saeko to wait and worry.
+    Original:
+    - The biggest thing causing Nanoha to distance herself from Saeko is Nanoha's boyfriend, Katsuragawa. Katsuragawa claims he runs a consulting firm, but in actuality he's nothing more than a criminal—complete with a bodyguard and whole slew of scandalous rumors to prove it. To make matters worse, Nanoha's still going out with him. Having just learned this, Saeko asked some of the girls from the club to monitor Nanoha's movements, leaving Saeko to wait and worry.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/todo_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Saeko at Survive Bar
+    Original:
+    - Talk to Saeko at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/explanation_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Katsuragawa's still got Nanoha charmed, and it turns out he's even made a habit of asking her for money since his company entered a slump. He's also learned that Nanoha once worked at Otohime Land and has started pressuring her to work there again. Hearing all of this, Saeko then decided she'd try talking to Nanoha over the phone, hoping her sister might reconsider her relationship with her seedy boyfriend...
+    Original:
+    - Katsuragawa's still got Nanoha charmed, and it turns out he's even made a habit of asking her for money since his company entered a slump. He's also learned that Nanoha once worked at Otohime Land and has started pressuring her to work there again. Hearing all of this, Saeko then decided she'd try talking to Nanoha over the phone, hoping her sister might reconsider her relationship with her seedy boyfriend...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/todo_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Saeko at Survive Bar
+    Original:
+    - Talk to Saeko at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/explanation_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "Saeko tried to convince Nanoha to leave Katsuragawa. However, she was unable to convey her true feelings to Nanoha and thus failed to sway her sister's opinion. Kasuga and Saeko then began thinking of ways to sway Katsuragawa instead, but the possibility of Katsuragawa taking Nanoha and skipping town presented too great a risk. Kasuga then came up with an odd but rather clever plan: Saeko would impersonate Nanoha and break up with Katsuragawa..."
+    Original:
+    - "Saeko tried to convince Nanoha to leave Katsuragawa. However, she was unable to convey her true feelings to Nanoha and thus failed to sway her sister's opinion. Kasuga and Saeko then began thinking of ways to sway Katsuragawa instead, but the possibility of Katsuragawa taking Nanoha and skipping town presented too great a risk. Kasuga then came up with an odd but rather clever plan: Saeko would impersonate Nanoha and break up with Katsuragawa..."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/complete_todo_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A strong bond has been formed with Saeko.
+    Original:
+    - A strong bond has been formed with Saeko.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player3/complete_explanation_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Katsuragawa proved that he was indeed a good-for-nothing who only got close to Nanoha for her money. On the bright side, however, one of Katsuragawa's posse, Yamashita, revealed he'd always had a soft spot for Nanoha and had fallen for her. Yamashita then betrayed Katsuragawa and asked that he let Nanoha go. Kasuga then made Katsuragawa promise to leave Ijincho. Concerned for Nanoha and Saeko's relationship, Yamashita said he'd tell Nanoha that Katsuragawa skipped town on account of his failed business. He also assured Saeko that her sister would know nothing about her involvement in Katsuragawa leaving. No telling quite how Nanoha and Yamashita will end up, but it's clear that Nanoha won't have to worry about her sister as much anymore—someday she'll realize just how helpful her sister has been. Saeko thanked Kasuga for helping her sister out once again, bringing the duo that much closer.
+    Original:
+    - Katsuragawa proved that he was indeed a good-for-nothing who only got close to Nanoha for her money. On the bright side, however, one of Katsuragawa's posse, Yamashita, revealed he'd always had a soft spot for Nanoha and had fallen for her. Yamashita then betrayed Katsuragawa and asked that he let Nanoha go. Kasuga then made Katsuragawa promise to leave Ijincho. Concerned for Nanoha and Saeko's relationship, Yamashita said he'd tell Nanoha that Katsuragawa skipped town on account of his failed business. He also assured Saeko that her sister would know nothing about her involvement in Katsuragawa leaving. No telling quite how Nanoha and Yamashita will end up, but it's clear that Nanoha won't have to worry about her sister as much anymore—someday she'll realize just how helpful her sister has been. Saeko thanked Kasuga for helping her sister out once again, bringing the duo that much closer.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/todo_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Get Ichiban Confections on track.
+    Original:
+    - Get Ichiban Confections on track.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/explanation_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ????
+    Original:
+    - ????
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/todo_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Get Ichiban Confections on track.
+    Original:
+    - Get Ichiban Confections on track.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/explanation_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Eri Kamataki, president of Ichiban Confections, wanted to pass off her company to the all-too-familiar Nonomiya, who dreamed of creating a company that could house Ijincho's down and out. However, news of Nonomiya's death left her feeling so defeated, she considered closing the company, revealing it to be on the verge of bankruptcy and in serious need of staff. Hoping to follow in Nonomiya's footsteps and help Eri in her time of need, Kasuga decided to step in and become the new president of Ichiban Confections, even though he knows next to nothing about business. Determined to support Kasuga, Eri volunteered to be his secretary, taking her first step in what could very well become a beautiful partnership.
+    Original:
+    - Eri Kamataki, president of Ichiban Confections, wanted to pass off her company to the all-too-familiar Nonomiya, who dreamed of creating a company that could house Ijincho's down and out. However, news of Nonomiya's death left her feeling so defeated, she considered closing the company, revealing it to be on the verge of bankruptcy and in serious need of staff. Hoping to follow in Nonomiya's footsteps and help Eri in her time of need, Kasuga decided to step in and become the new president of Ichiban Confections, even though he knows next to nothing about business. Determined to support Kasuga, Eri volunteered to be his secretary, taking her first step in what could very well become a beautiful partnership.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/todo_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Rise through the Share Price Ranking and join the ranks of Yokohama's top companies.
+    Original:
+    - Rise through the Share Price Ranking and join the ranks of Yokohama's top companies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/explanation_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga and Eri managed to take down one of the Mischievous Three and break Ichiban Confections into the top 50 of the Share Price Ranking. Having fulfilled their promise to Nick Ogata and proven themselves capable among some of Japan's biggest companies, the team decided to move company headquarters, change the name to Ichiban Holdings, and continue along the path to greatness. Meanwhile, those who wish to see Kasuga and Eri fail began a plot to crush their up-and-coming company...
+    Original:
+    - Kasuga and Eri managed to take down one of the Mischievous Three and break Ichiban Confections into the top 50 of the Share Price Ranking. Having fulfilled their promise to Nick Ogata and proven themselves capable among some of Japan's biggest companies, the team decided to move company headquarters, change the name to Ichiban Holdings, and continue along the path to greatness. Meanwhile, those who wish to see Kasuga and Eri fail began a plot to crush their up-and-coming company...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/todo_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Rise through the Share Price Ranking and hold your Shareholder Meeting.
+    Original:
+    - Rise through the Share Price Ranking and hold your Shareholder Meeting.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/explanation_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Saiki, another of the Mischievous Three with a keen focus on profit, proved a formidable obstacle for Ichiban Holdings at the Shareholder Meeting, but despite Saiki's skills, Kasuga and Eri managed to take him down, breaking their way into the top 20 of the Share Price Ranking. Celebration was short-lived, however, as another of the Mischievous Three, Reiko Misono, made an appearance. What sort of fight will the Sweatshop Slayer bring to the table? And who's behind the Mischievous Three? Kasuga and Eri steel themselves for the next Shareholder Meeting, where anything could happen.
+    Original:
+    - Saiki, another of the Mischievous Three with a keen focus on profit, proved a formidable obstacle for Ichiban Holdings at the Shareholder Meeting, but despite Saiki's skills, Kasuga and Eri managed to take him down, breaking their way into the top 20 of the Share Price Ranking. Celebration was short-lived, however, as another of the Mischievous Three, Reiko Misono, made an appearance. What sort of fight will the Sweatshop Slayer bring to the table? And who's behind the Mischievous Three? Kasuga and Eri steel themselves for the next Shareholder Meeting, where anything could happen.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/todo_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Defeat Hosho at the Shareholder Meeting.
+    Original:
+    - Defeat Hosho at the Shareholder Meeting.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/explanation_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The one controlling the Mischievous Three was revealed to be none other than Chairman Hosho of the Hosho Conglomerate, the man responsible for tricking Eri and putting Ichiban Confections in the red. Having done her very best to keep cool and avoid getting provoked, Eri swore to take Hosho down fair and square. Nick Ogata also seemed to share in the sentiment of seeing Hosho knocked from his perch, as he revealed his other reason for funding Ichiban Confections was to release Yokohama from Hosho's domineering grip and return the marketplace to its former glory. Each with their own reasons, Kasuga, Eri, and Nick Ogata prepared themselves for the final showdown with Hosho.
+    Original:
+    - The one controlling the Mischievous Three was revealed to be none other than Chairman Hosho of the Hosho Conglomerate, the man responsible for tricking Eri and putting Ichiban Confections in the red. Having done her very best to keep cool and avoid getting provoked, Eri swore to take Hosho down fair and square. Nick Ogata also seemed to share in the sentiment of seeing Hosho knocked from his perch, as he revealed his other reason for funding Ichiban Confections was to release Yokohama from Hosho's domineering grip and return the marketplace to its former glory. Each with their own reasons, Kasuga, Eri, and Nick Ogata prepared themselves for the final showdown with Hosho.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/complete_todo_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A strong bond has been formed with Eri.
+    Original:
+    - A strong bond has been formed with Eri.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player4/complete_explanation_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: With Hosho put in his place, Yokohama's marketplace could finally begin to recover. Ichiban Holdings's work wasn't done yet, however. Having reached the top of the Share Price Ranking, the demands from the shareholders would be even tougher to meet. Kasuga swore to do all he can to make the company the best in the world, and Eri further professed her desire for the company to produce more smiles than any other. Kasuga shared in the sentiment, wanting to make both his customers and employees happy. He also expressed his joy at having Eri at his side. It was clear Eri harbors some other feelings as well, but it may take some time before Kasuga realizes it.
+    Original:
+    - With Hosho put in his place, Yokohama's marketplace could finally begin to recover. Ichiban Holdings's work wasn't done yet, however. Having reached the top of the Share Price Ranking, the demands from the shareholders would be even tougher to meet. Kasuga swore to do all he can to make the company the best in the world, and Eri further professed her desire for the company to produce more smiles than any other. Kasuga shared in the sentiment, wanting to make both his customers and employees happy. He also expressed his joy at having Eri at his side. It was clear Eri harbors some other feelings as well, but it may take some time before Kasuga realizes it.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/todo_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Zhao at Survive Bar
+    Original:
+    - Talk to Zhao at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/explanation_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ????
+    Original:
+    - ????
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/todo_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Zhao at Survive Bar
+    Original:
+    - Talk to Zhao at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/explanation_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zhao didn't choose to become the leader of the Yokohama Liumang. Rather, he inherited the position from his father. As far as he's concerned, Mabuchi was the better choice. Hoping to spare him from death, Zhao had Mabuchi exiled from Ijincho as punishment for his betrayal. Traitor or not, Zhao just couldn't help but take pity on him. The same can't be said for Seong-hui, however. Zhao made it clear that she'd take responsibility for the sake of her people and bring Mabuchi to justice for all that he did. Kasuga then began to sense that Zhao was much kinder than he lets off.
+    Original:
+    - Zhao didn't choose to become the leader of the Yokohama Liumang. Rather, he inherited the position from his father. As far as he's concerned, Mabuchi was the better choice. Hoping to spare him from death, Zhao had Mabuchi exiled from Ijincho as punishment for his betrayal. Traitor or not, Zhao just couldn't help but take pity on him. The same can't be said for Seong-hui, however. Zhao made it clear that she'd take responsibility for the sake of her people and bring Mabuchi to justice for all that he did. Kasuga then began to sense that Zhao was much kinder than he lets off.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/todo_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Zhao at Survive Bar
+    Original:
+    - Talk to Zhao at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/explanation_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zhao explained that back when his father was in charge of the Liumang, Yokohama Chinatown was at the mercy of another group, the Snake Flower Triad. However, by the time Zhao came to power, the Snake Flower Triad had all but disappeared, leaving only the Ijin Three. Many among the Liumang expressed their desire to overthrow both the Seiryu Clan and the Geomijul, but Zhao was obligated to quell their wants, leading many to view him as weak and unambitious. Zhao then revealed he never once enjoyed being in charge. Now freed from his responsibilities, he blissfully knocked one back, feeling he could breathe just a little bit easier.
+    Original:
+    - Zhao explained that back when his father was in charge of the Liumang, Yokohama Chinatown was at the mercy of another group, the Snake Flower Triad. However, by the time Zhao came to power, the Snake Flower Triad had all but disappeared, leaving only the Ijin Three. Many among the Liumang expressed their desire to overthrow both the Seiryu Clan and the Geomijul, but Zhao was obligated to quell their wants, leading many to view him as weak and unambitious. Zhao then revealed he never once enjoyed being in charge. Now freed from his responsibilities, he blissfully knocked one back, feeling he could breathe just a little bit easier.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/todo_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Zhao at Survive Bar
+    Original:
+    - Talk to Zhao at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/explanation_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zhao shared that he'd at one point praised Mabuchi for his intense ambition—so much so, that he'd even made Mabuchi his right-hand man. As fate would have it, however, this decision unfortunately gave Mabuchi the perfect platform to openly question Zhao's leadership. Sensing betrayal on the horizon, the elders of the Liumang sought to have Mabuchi killed, but Zhao ultimately convinced them to reconsider. Regardless of his standing with the elders, Mabuchi gained a number of followers. Wanting only two things, money and power, there was no one else whose goals were more easily understood...
+    Original:
+    - Zhao shared that he'd at one point praised Mabuchi for his intense ambition—so much so, that he'd even made Mabuchi his right-hand man. As fate would have it, however, this decision unfortunately gave Mabuchi the perfect platform to openly question Zhao's leadership. Sensing betrayal on the horizon, the elders of the Liumang sought to have Mabuchi killed, but Zhao ultimately convinced them to reconsider. Regardless of his standing with the elders, Mabuchi gained a number of followers. Wanting only two things, money and power, there was no one else whose goals were more easily understood...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/todo_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Zhao at Survive Bar
+    Original:
+    - Talk to Zhao at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/explanation_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Intel from the Liumang revealed that Mabuchi was seeking to return to Ijincho. Zhao, of course, found this concerning, but even more so was the thought of what would happen if Seong-hui were to find out. Zhao went on to explain that if Seong-hui got word of Mabuchi's attempt to return, Mabuchi was as good as dead. Wanting to save his old friend from certain death, Zhao decided he would have to convince Mabuchi to once again skip town. In an effort to lend his drinking buddy a hand, Kasuga promised he'd help Zhao in whatever way he could. Zhao then said he'd reach out once he found Mabuchi's hideout and took his leave...
+    Original:
+    - Intel from the Liumang revealed that Mabuchi was seeking to return to Ijincho. Zhao, of course, found this concerning, but even more so was the thought of what would happen if Seong-hui were to find out. Zhao went on to explain that if Seong-hui got word of Mabuchi's attempt to return, Mabuchi was as good as dead. Wanting to save his old friend from certain death, Zhao decided he would have to convince Mabuchi to once again skip town. In an effort to lend his drinking buddy a hand, Kasuga promised he'd help Zhao in whatever way he could. Zhao then said he'd reach out once he found Mabuchi's hideout and took his leave...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/complete_todo_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A strong bond has been formed with Zhao.
+    Original:
+    - A strong bond has been formed with Zhao.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player5/complete_explanation_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hoping to return to Ijincho, Mabuchi sent his underling Zheng to Survive Bar to ask for Zhao's forgiveness. However, this ended up being a trap, as Mabuchi's true motive was to take Zhao's head to the Omi Alliance and join their ranks. Left with no other choice, Zhao decided to let his fists do the talking. Regardless of all Mabuchi had done, Zhao professed that he would never kill someone he once called a friend, a fact Seong-hui was well aware of. Mabuchi was defeated and exiled once again, receiving yet another act of undeserved kindness... With all said and done, Kasuga expressed that he enjoyed seeing Zhao's compassionate side, much to Zhao's embarrassment. The two then sat down for some drinks, their friendship now stronger than ever.
+    Original:
+    - Hoping to return to Ijincho, Mabuchi sent his underling Zheng to Survive Bar to ask for Zhao's forgiveness. However, this ended up being a trap, as Mabuchi's true motive was to take Zhao's head to the Omi Alliance and join their ranks. Left with no other choice, Zhao decided to let his fists do the talking. Regardless of all Mabuchi had done, Zhao professed that he would never kill someone he once called a friend, a fact Seong-hui was well aware of. Mabuchi was defeated and exiled once again, receiving yet another act of undeserved kindness... With all said and done, Kasuga expressed that he enjoyed seeing Zhao's compassionate side, much to Zhao's embarrassment. The two then sat down for some drinks, their friendship now stronger than ever.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/todo_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Joon-gi Han at Survive Bar
+    Original:
+    - Talk to Joon-gi Han at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/explanation_text[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ????
+    Original:
+    - ????
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/todo_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Joon-gi Han at Survive Bar
+    Original:
+    - Talk to Joon-gi Han at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/explanation_text[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Joon-gi Han's father was a member of the Jingweon Mafia who had been sent to Kamurocho during the organization's heyday. However, by the end of the 1980s, the Jingweon Mafia in Kamurocho had been virtually wiped out. Unable to receive support from those back home in Korea, Joon-gi Han and his father were left to fend for themselves. How did this man become a body double of the Jingweon Mafia leader? Why does he continue to call himself Joon-gi Han? Joon-gi Han simply smiled in response to these questions, leaving the truth to remain shrouded in mystery...
+    Original:
+    - Joon-gi Han's father was a member of the Jingweon Mafia who had been sent to Kamurocho during the organization's heyday. However, by the end of the 1980s, the Jingweon Mafia in Kamurocho had been virtually wiped out. Unable to receive support from those back home in Korea, Joon-gi Han and his father were left to fend for themselves. How did this man become a body double of the Jingweon Mafia leader? Why does he continue to call himself Joon-gi Han? Joon-gi Han simply smiled in response to these questions, leaving the truth to remain shrouded in mystery...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/todo_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Joon-gi Han at Survive Bar
+    Original:
+    - Talk to Joon-gi Han at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/explanation_text[2]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: According to the Geomijul's intel, some suspicious people have been sniffing around Ijincho. Joon-gi Han surmised that they might be remnants of Kamurocho's Jingweon, and, if that's the case, they've most likely come to punish him for carrying on the mantle of the real Joon-gi Han. Joon-gi Han urged Kasuga to be careful.
+    Original:
+    - According to the Geomijul's intel, some suspicious people have been sniffing around Ijincho. Joon-gi Han surmised that they might be remnants of Kamurocho's Jingweon, and, if that's the case, they've most likely come to punish him for carrying on the mantle of the real Joon-gi Han. Joon-gi Han urged Kasuga to be careful.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/todo_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to Joon-gi Han at Survive Bar
+    Original:
+    - Talk to Joon-gi Han at Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/explanation_text[3]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Joon-gi Han revealed his real name, Yeonsu Kim. Yeonsu then revealed that, in a desperate attempt to stay relevant within the Jingweon Mafia, his father offered him up as a body double to the real Joon-gi Han. Yeonsu was drugged and his face was altered to look like that of the Jingweon's new leader. Sympathetic to the young Yeonsu, the real Joon-gi Han was unable to turn him away, and it was decided the boy would serve as his body double. This plan unfortunately fell apart when the real Joon-gi Han was killed, leaving Yeonsu purposeless and alone. It was then he found out about Geomijul, a place where stray Jingweon Mafia members were welcomed with open arms. Having heard Yeonsu's tragic story, Kasuga felt as though they'd finally become friends.
+    Original:
+    - Joon-gi Han revealed his real name, Yeonsu Kim. Yeonsu then revealed that, in a desperate attempt to stay relevant within the Jingweon Mafia, his father offered him up as a body double to the real Joon-gi Han. Yeonsu was drugged and his face was altered to look like that of the Jingweon's new leader. Sympathetic to the young Yeonsu, the real Joon-gi Han was unable to turn him away, and it was decided the boy would serve as his body double. This plan unfortunately fell apart when the real Joon-gi Han was killed, leaving Yeonsu purposeless and alone. It was then he found out about Geomijul, a place where stray Jingweon Mafia members were welcomed with open arms. Having heard Yeonsu's tragic story, Kasuga felt as though they'd finally become friends.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/todo_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Go to Survive Bar
+    Original:
+    - Go to Survive Bar
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/explanation_text[4]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The suspicious figures tailing Joon-gi Han managed to evade the eyes of the Geomijul, and now lie in wait. Could they really be the Jingweon Mafia, seeking to punish Yeonsu for impersonating their late leader? Why doesn't he just drop the act? Kasuga suggested it may be time to put the routine to an end, but Yeonsu insisted on remaining Joon-gi Han. He knows very well that he could be attacked at any moment or create trouble for his allies, but seeing Kasuga keep calm enticed Yeonsu to flaunt yet another of his signature smiles.
+    Original:
+    - The suspicious figures tailing Joon-gi Han managed to evade the eyes of the Geomijul, and now lie in wait. Could they really be the Jingweon Mafia, seeking to punish Yeonsu for impersonating their late leader? Why doesn't he just drop the act? Kasuga suggested it may be time to put the routine to an end, but Yeonsu insisted on remaining Joon-gi Han. He knows very well that he could be attacked at any moment or create trouble for his allies, but seeing Kasuga keep calm enticed Yeonsu to flaunt yet another of his signature smiles.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/complete_todo_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A strong bond has been formed with Joon-gi Han.
+    Original:
+    - A strong bond has been formed with Joon-gi Han.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player7/complete_explanation_text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yeonsu explained that he continues to play the role of Joon-gi Han for the sake of the Jingweon who have lost their place in the world. Seeing as Geomijul provided a home for him and so many others in the Jingweon Mafia, Yeonsu hoped that continuing the Joon-gi Han routine would bring his scattered comrades to Ijincho and ultimately to the safety of Geomijul. Upon hearing this, the Jingweon who initially saw Yeonsu as a traitor apologized and took hold of his helping hand. With no more secrets between them, Kasuga and Yeonsu, or rather Joon-gi Han, raised a glass to one another and drank the night away.
+    Original:
+    - Yeonsu explained that he continues to play the role of Joon-gi Han for the sake of the Jingweon who have lost their place in the world. Seeing as Geomijul provided a home for him and so many others in the Jingweon Mafia, Yeonsu hoped that continuing the Joon-gi Han routine would bring his scattered comrades to Ijincho and ultimately to the safety of Geomijul. Upon hearing this, the Jingweon who initially saw Yeonsu as a traitor apologized and took hold of his helping hand. With no more secrets between them, Kasuga and Yeonsu, or rather Joon-gi Han, raised a glass to one another and drank the night away.
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\talk_trust_money_drama.json'

@@ -1,0 +1,27 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /0//tips_table/2//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Podpowiedź
+    Original:
+    - Hint
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /0//tips_table/2//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Ruszaj lewą gałką aby odsuwać się od zagrożeń przed czasem.
+
+      Robienie tego sprawi że nie musisz wciskać dodatkowych przycisków.
+    Original:
+    - >-
+      Tilt the left stick to navigate around obstacles preemptively.
+
+      Avoiding these obstacles beforehand will eliminate the need to press any buttons.
+  Status: Review
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\continue_info_tips_condition.json'

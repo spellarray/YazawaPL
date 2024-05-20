@@ -1,0 +1,1011 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76/yazawa_homerun_elementary/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Beginner
+    Original:
+    - Beginner
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76/yazawa_homerun_elementary/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit as many home runs as you can in 10 pitches!
+    Original:
+    - Hit as many home runs as you can in 10 pitches!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76/yazawa_homerun_elementary/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In this course, you'll face some basic breaking balls.
+    Original:
+    - In this course, you'll face some basic breaking balls.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76/yazawa_homerun_elementary/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: '[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_red>Drop</color>'
+    Original:
+    - '[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_red>Drop</color>'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/yazawa_homerun_intermediate/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Intermediate
+    Original:
+    - Intermediate
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/yazawa_homerun_intermediate/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit as many home runs as you can in 10 pitches!
+    Original:
+    - Hit as many home runs as you can in 10 pitches!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/yazawa_homerun_intermediate/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In this course, you'll face breaking balls that slightly curve near your hands.
+    Original:
+    - In this course, you'll face breaking balls that slightly curve near your hands.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/yazawa_homerun_intermediate/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: '[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_blue>Change-up</color> / <color=batting_pitch_red>Hard Slider</color>'
+    Original:
+    - '[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_blue>Change-up</color> / <color=batting_pitch_red>Hard Slider</color>'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/yazawa_homerun_senior/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Advanced
+    Original:
+    - Advanced
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/yazawa_homerun_senior/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit as many home runs as you can in 10 pitches!
+    Original:
+    - Hit as many home runs as you can in 10 pitches!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/yazawa_homerun_senior/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In this course, you'll face pitches that fluctuate wildly in speed.
+    Original:
+    - In this course, you'll face pitches that fluctuate wildly in speed.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/yazawa_homerun_senior/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: '[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_blue>Hard Slider</color>'
+    Original:
+    - '[Pitch Type] <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_blue>Hard Slider</color>'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/yazawa_homerun_super/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Expert
+    Original:
+    - Expert
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/yazawa_homerun_super/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit as many home runs as you can in 10 pitches!
+    Original:
+    - Hit as many home runs as you can in 10 pitches!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/yazawa_homerun_super/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In this course, you'll face a staggering variety of breaking balls.
+    Original:
+    - In this course, you'll face a staggering variety of breaking balls.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/yazawa_homerun_super/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/yazawa_challenge_elementary_1/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Beginner 1
+    Original:
+    - Beginner 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/yazawa_challenge_elementary_1/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/yazawa_challenge_elementary_1/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will face fastballs and two-seams in this course!
+    Original:
+    - You will face fastballs and two-seams in this course!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/yazawa_challenge_elementary_1/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_white>Two-seamer</color>
+    Original:
+    - <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_white>Two-seamer</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/yazawa_challenge_elementary_2/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Beginner 2
+    Original:
+    - Beginner 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/yazawa_challenge_elementary_2/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/yazawa_challenge_elementary_2/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In this course, you'll face fastballs and curveballs.
+    Original:
+    - In this course, you'll face fastballs and curveballs.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/yazawa_challenge_elementary_2/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color>
+    Original:
+    - <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /83/yazawa_challenge_elementary_3/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Beginner 3
+    Original:
+    - Beginner 3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /83/yazawa_challenge_elementary_3/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /83/yazawa_challenge_elementary_3/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will face four types of pitches in this course!
+    Original:
+    - You will face four types of pitches in this course!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /83/yazawa_challenge_elementary_3/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_yellow>Sinker</color>
+    Original:
+    - <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_yellow>Sinker</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/yazawa_challenge_intermediate_1/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Intermediate 1
+    Original:
+    - Intermediate 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/yazawa_challenge_intermediate_1/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/yazawa_challenge_intermediate_1/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will face four types of pitches in this course!
+    Original:
+    - You will face four types of pitches in this course!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/yazawa_challenge_intermediate_1/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_red>Hard Slider</color>
+    Original:
+    - <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_red>Hard Slider</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/yazawa_challenge_intermediate_2/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Intermediate 2
+    Original:
+    - Intermediate 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/yazawa_challenge_intermediate_2/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/yazawa_challenge_intermediate_2/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will face four types of pitches in this course!
+    Original:
+    - You will face four types of pitches in this course!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/yazawa_challenge_intermediate_2/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_yellow>Shootball</color> / <color=batting_pitch_blue>Change-up</color>
+    Original:
+    - <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_yellow>Shootball</color> / <color=batting_pitch_blue>Change-up</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/yazawa_challenge_intermediate_3/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Intermediate 3
+    Original:
+    - Intermediate 3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/yazawa_challenge_intermediate_3/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/yazawa_challenge_intermediate_3/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will face four types of pitches in this course!
+    Original:
+    - You will face four types of pitches in this course!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/yazawa_challenge_intermediate_3/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_blue>Change-up</color> / <color=batting_pitch_yellow>Sinker</color>
+    Original:
+    - <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_blue>Change-up</color> / <color=batting_pitch_yellow>Sinker</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87/yazawa_challenge_senior_1/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Advanced 1
+    Original:
+    - Advanced 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87/yazawa_challenge_senior_1/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87/yazawa_challenge_senior_1/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will face three types of pitches in this course!
+    Original:
+    - You will face three types of pitches in this course!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87/yazawa_challenge_senior_1/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_blue>Splitter</color>
+    Original:
+    - <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Cutter</color> / <color=batting_pitch_blue>Splitter</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/yazawa_challenge_senior_2/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Advanced 2
+    Original:
+    - Advanced 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/yazawa_challenge_senior_2/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/yazawa_challenge_senior_2/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will face three types of pitches in this course!
+    Original:
+    - You will face three types of pitches in this course!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/yazawa_challenge_senior_2/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_blue>Forkball</color>
+    Original:
+    - <color=batting_pitch_white>Fastball</color> / <color=batting_pitch_red>Slider</color> / <color=batting_pitch_blue>Forkball</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/yazawa_challenge_senior_3/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Advanced 3
+    Original:
+    - Advanced 3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/yazawa_challenge_senior_3/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/yazawa_challenge_senior_3/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will face four types of pitches in this course!
+    Original:
+    - You will face four types of pitches in this course!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/yazawa_challenge_senior_3/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_white>One-seamer</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_yellow>Sinker</color>
+    Original:
+    - <color=batting_pitch_white>Two-seamer</color> / <color=batting_pitch_white>One-seamer</color> / <color=batting_pitch_red>Curveball</color> / <color=batting_pitch_yellow>Sinker</color>
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/yazawa_challenge_super_1/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Expert 1
+    Original:
+    - Expert 1
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/yazawa_challenge_super_1/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/yazawa_challenge_super_1/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In this course, you'll face a staggering variety of breaking balls.
+    Original:
+    - In this course, you'll face a staggering variety of breaking balls.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/yazawa_challenge_super_1/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /91/yazawa_challenge_super_2/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Expert 2
+    Original:
+    - Expert 2
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /91/yazawa_challenge_super_2/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /91/yazawa_challenge_super_2/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In this course, you'll face a staggering variety of breaking balls.
+    Original:
+    - In this course, you'll face a staggering variety of breaking balls.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /91/yazawa_challenge_super_2/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /92/yazawa_challenge_super_3/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Expert 3
+    Original:
+    - Expert 3
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /92/yazawa_challenge_super_3/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+    Original:
+    - You have 10 pitches to clear the course with Rank A (8 runs) or higher!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /92/yazawa_challenge_super_3/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In this course, you'll face a staggering variety of breaking balls.
+    Original:
+    - In this course, you'll face a staggering variety of breaking balls.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /92/yazawa_challenge_super_3/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /94/yazawa_homerun_competition_elementary_1/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /94/yazawa_homerun_competition_elementary_1/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /94/yazawa_homerun_competition_elementary_1/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This is just the beginning! A volley of basic breaking balls await!
+    Original:
+    - This is just the beginning! A volley of basic breaking balls await!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /94/yazawa_homerun_competition_elementary_1/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /95/yazawa_homerun_competition_elementary_2/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /95/yazawa_homerun_competition_elementary_2/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /95/yazawa_homerun_competition_elementary_2/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This is just the beginning! A volley of basic breaking balls await!
+    Original:
+    - This is just the beginning! A volley of basic breaking balls await!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /95/yazawa_homerun_competition_elementary_2/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/yazawa_homerun_competition_intermediate_1/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/yazawa_homerun_competition_intermediate_1/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/yazawa_homerun_competition_intermediate_1/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You're getting closer! You'll be facing breaking balls and pitches of varying speeds!
+    Original:
+    - You're getting closer! You'll be facing breaking balls and pitches of varying speeds!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/yazawa_homerun_competition_intermediate_1/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/yazawa_homerun_competition_intermediate_2/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/yazawa_homerun_competition_intermediate_2/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/yazawa_homerun_competition_intermediate_2/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You're getting closer! You'll be facing breaking balls and pitches of varying speeds!
+    Original:
+    - You're getting closer! You'll be facing breaking balls and pitches of varying speeds!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/yazawa_homerun_competition_intermediate_2/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/yazawa_homerun_competition_senior_1/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/yazawa_homerun_competition_senior_1/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/yazawa_homerun_competition_senior_1/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Time for a real challenge! Try these unpredictable breaking balls on for size!
+    Original:
+    - Time for a real challenge! Try these unpredictable breaking balls on for size!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/yazawa_homerun_competition_senior_1/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /99/yazawa_homerun_competition_senior_2/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /99/yazawa_homerun_competition_senior_2/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /99/yazawa_homerun_competition_senior_2/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Time for a real challenge! Try these unpredictable breaking balls on for size!
+    Original:
+    - Time for a real challenge! Try these unpredictable breaking balls on for size!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /99/yazawa_homerun_competition_senior_2/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /100/yazawa_homerun_competition_super_1/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /100/yazawa_homerun_competition_super_1/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /100/yazawa_homerun_competition_super_1/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's the final challenge! Put everything you've learned to the test!
+    Original:
+    - It's the final challenge! Put everything you've learned to the test!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /100/yazawa_homerun_competition_super_1/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /101/yazawa_homerun_competition_super_2/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /101/yazawa_homerun_competition_super_2/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /101/yazawa_homerun_competition_super_2/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's the final challenge! Put everything you've learned to the test!
+    Original:
+    - It's the final challenge! Put everything you've learned to the test!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /101/yazawa_homerun_competition_super_2/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /102/yazawa_homerun_competition_hyper_1/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /102/yazawa_homerun_competition_hyper_1/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /102/yazawa_homerun_competition_hyper_1/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's the final challenge! Put everything you've learned to the test!
+    Original:
+    - It's the final challenge! Put everything you've learned to the test!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /102/yazawa_homerun_competition_hyper_1/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /103/yazawa_homerun_competition_hyper_2/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /103/yazawa_homerun_competition_hyper_2/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /103/yazawa_homerun_competition_hyper_2/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's the final challenge! Put everything you've learned to the test!
+    Original:
+    - It's the final challenge! Put everything you've learned to the test!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /103/yazawa_homerun_competition_hyper_2/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /104/yazawa_homerun_competition_hyper_3/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /104/yazawa_homerun_competition_hyper_3/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /104/yazawa_homerun_competition_hyper_3/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's the final challenge! Put everything you've learned to the test!
+    Original:
+    - It's the final challenge! Put everything you've learned to the test!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /104/yazawa_homerun_competition_hyper_3/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /105/yazawa_homerun_competition_hyper_4/difficulty
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Home Run Competition
+    Original:
+    - Home Run Competition
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /105/yazawa_homerun_competition_hyper_4/text_1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hit 8 or more home runs in 10 pitches to move on!
+    Original:
+    - Hit 8 or more home runs in 10 pitches to move on!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /105/yazawa_homerun_competition_hyper_4/text_2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's the final challenge! Put everything you've learned to the test!
+    Original:
+    - It's the final challenge! Put everything you've learned to the test!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /105/yazawa_homerun_competition_hyper_4/text_3
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â\x98†â\x98…â\x98†Secretâ\x98†â\x98…â\x98†"
+    Original:
+    - ☆★☆Secret☆★☆
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\minigame_batting_center_course.json'

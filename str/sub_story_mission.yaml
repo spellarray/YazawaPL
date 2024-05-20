@@ -1,0 +1,162 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/taikenban_01_01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć“Šç ´äľżĺ\x88©ĺ•†ĺş—ć\x90¶ĺŚŞďĽ\x81"
+    Original:
+    - 擊破便利商店搶匪！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/taikenban_01_01/mission_info
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć˛’ć\x83łĺ\x88°çśźçš„ĺ‹•ć‰‹ć\x90¶äľżĺ\x88©ĺ•†ĺş—äş†ĺ•Šă€‚ć‰“ĺ€’ć‰€ćś‰äşşďĽŚä¸€ĺ€‹é\x83˝ĺ\x88Ąć”ľé\x81Žĺ\x90§ă€‚"
+    Original:
+    - 沒想到真的動手搶便利商店了啊。打倒所有人，一個都別放過吧。
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/taikenban_01_01/mission
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć“Šç ´ć‰€ćś‰äľżĺ\x88©ĺ•†ĺş—ć\x90¶ĺŚŞĺ\x90§"
+    Original:
+    - 擊破所有便利商店搶匪吧
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/taikenban_02_01/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ°‹ć‰ľéźżćťżćť‘çš„ć‹›ç‰ŚďĽ\x81"
+    Original:
+    - 尋找響板村的招牌！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/taikenban_02_01/mission_info
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      éźżćťżćť‘ďĽă‚«ă‚ąă‚żăŤăăćť‘ďĽ‰ĺ•Šă€‚ć‘č¨ĺľ—ĺĄ˝ĺŹĺś¨ĺ¤©ä¸‹ä¸€ç•Şĺ¤§čˇ—çś‹éŽâ€¦â€¦
+
+      ä»”ç´°ç•™ć„Źä¸€ä¸‹ĺ‘¨é­ďĽŚć‰ľĺ‡şé‚Łéť˘ć‹›ç‰Śĺ§ă€‚
+    Original:
+    - >-
+      響板村（カスタネット村）啊。我記得好像在天下一番大街看過……
+
+      仔細留意一下周遭，找出那面招牌吧。
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/taikenban_02_01/mission
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć‰ľĺ\x88°ä¸¦ćł¨č¦–éźżćťżćť‘ďĽ\x88ă‚«ă‚ąă‚żă\x83Ťă\x83\x83ă\x83\x88ćť‘ďĽ‰çš„ć‹›ç‰Śĺ\x90§"
+    Original:
+    - 找到並注視響板村（カスタネット村）的招牌吧
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/taikenban_02_02/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ°‹ć‰ľć­¦č—Źĺ±…é…’ĺ±‹çš„ć‹›ç‰ŚďĽ\x81"
+    Original:
+    - 尋找武藏居酒屋的招牌！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/taikenban_02_02/mission_info
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć­¦č—Źĺ±…é…’ĺ±‹ďĽĺ±…é…’ĺ±‹ăźă‘č”µďĽ‰â€¦â€¦ć‘č¨ĺľ—ĺĄ˝ĺŹĺś¨ä¸­é“ĺ¤§čˇ—çś‹éŽă€‚
+
+      ä»”ç´°ç•™ć„Źä¸€ä¸‹ĺ‘¨é­ďĽŚć‰ľĺ‡şé‚Łéť˘ć‹›ç‰Śĺ§ă€‚
+    Original:
+    - >-
+      武藏居酒屋（居酒屋たけ蔵）……我記得好像在中道大街看過。
+
+      仔細留意一下周遭，找出那面招牌吧。
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/taikenban_02_02/mission
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć‰ľĺ\x88°ä¸¦ćł¨č¦–ć­¦č—Źĺ±…é…’ĺ±‹ďĽ\x88ĺ±…é…’ĺ±‹ă\x81źă\x81‘č”µďĽ‰çš„ć‹›ç‰Śĺ\x90§"
+    Original:
+    - 找到並注視武藏居酒屋（居酒屋たけ蔵）的招牌吧
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/taikenban_02_03/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ°‹ć‰ľçš‡ĺ®¶é›žč‚‰çš„ć‹›ç‰ŚďĽ\x81"
+    Original:
+    - 尋找皇家雞肉的招牌！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/taikenban_02_03/mission_info
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      çš‡ĺ®¶é›žč‚‰ďĽé¶Źč‚‰ă­ăŻă‚¤ă¤ă«ďĽ‰ĺ•Šă€‚ć‘č¨ĺľ—ĺĄ˝ĺŹĺś¨ä¸­é“ĺ¤§čˇ—çś‹éŽă€‚
+
+      ä»”ç´°ç•™ć„Źä¸€ä¸‹ĺ‘¨é­ďĽŚć‰ľĺ‡şé‚Łéť˘ć‹›ç‰Śĺ§ă€‚
+    Original:
+    - >-
+      皇家雞肉（鶏肉ロワイヤル）啊。我記得好像在中道大街看過。
+
+      仔細留意一下周遭，找出那面招牌吧。
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/taikenban_02_03/mission
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć‰ľĺ\x88°ä¸¦ćł¨č¦–çš‡ĺ®¶é›žč‚‰ďĽ\x88é¶Źč‚‰ă\x83­ă\x83Żă‚¤ă\x83¤ă\x83«ďĽ‰çš„ć‹›ç‰Śĺ\x90§"
+    Original:
+    - 找到並注視皇家雞肉（鶏肉ロワイヤル）的招牌吧
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/taikenban_02_04/title
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć‰ľĺ‡şä¸‰éť˘ć‹›ç‰ŚďĽ\x81"
+    Original:
+    - 找出三面招牌！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/taikenban_02_04/mission_info
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ćĺŠźć‰ľĺ‡şć‰€ćś‰ć‹›ç‰Śäş†ă€‚
+
+      çś‹äľ†é€™čŁˇé‚„ćŻćś‰ć‘ä¸ŤçźĄé“çš„ĺş—ĺ®¶ĺ‘˘â€¦â€¦
+    Original:
+    - >-
+      成功找出所有招牌了。
+
+      看來這裡還是有我不知道的店家呢……
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/taikenban_02_04/mission
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćŠŠĺŹ—č¨—ĺ°‹ć‰ľçš„ďĽ“é–“ĺş—çš„ć‹›ç‰Śĺ…¨é\x83¨ć‰ľĺ‡şäľ†ĺ\x90§"
+    Original:
+    - 把受託尋找的３間店的招牌全部找出來吧
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\sub_story_mission.json'

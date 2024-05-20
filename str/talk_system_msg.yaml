@@ -1,0 +1,3833 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /184/system_adv_sub_a18_030_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Collect 7 real Michio-kun figures hidden among the many fakes scattered throughout the plaza. Picking up a fake will cause it to explode, leaving Kasuga in a world of hurt. If his HP drops to 0, he'll be down for the count, so choose carefully.
+    Original:
+    - Collect 7 real Michio-kun figures hidden among the many fakes scattered throughout the plaza. Picking up a fake will cause it to explode, leaving Kasuga in a world of hurt. If his HP drops to 0, he'll be down for the count, so choose carefully.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /185/system_adv_sub_a70_020_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can enjoy all sorts of classic films at this theater, but in a comfy place like this, anyone is sure to get sleepy. Sleeping through these masterpieces would be a shame, so repel the mystical REM Rams before they have a chance to attack. If Kasuga can sit through the whole film without nodding off, his personality may improve.
+    Original:
+    - You can enjoy all sorts of classic films at this theater, but in a comfy place like this, anyone is sure to get sleepy. Sleeping through these masterpieces would be a shame, so repel the mystical REM Rams before they have a chance to attack. If Kasuga can sit through the whole film without nodding off, his personality may improve.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /186/advsubsb02_090_system_0020/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You handed over 10,000 yen.
+    Original:
+    - You handed over 10,000 yen.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /187/system_adv_sub_a17_070_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Taka is now available on Poundmates!
+    Original:
+    - Taka is now available on Poundmates!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /188/system_adv_sub_a78_020_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Otrzymałeś dostęp do Purpurowej Linii.
+    Original:
+    - You now have access to Poundmates.
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /189/system_adv_sub_a81_020_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You need at least Lv. 5 Confidence to get the words out properly.
+    Original:
+    - You need at least Lv. 5 Confidence to get the words out properly.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /190/system_adv_sub_a81_020_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Come back after raising your Confidence by obtaining certificates and playing minigames.
+    Original:
+    - Come back after raising your Confidence by obtaining certificates and playing minigames.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /191/system_adv_sub_a81_060_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Chau Ka Long is now available on Poundmates!
+    Original:
+    - Chau Ka Long is now available on Poundmates!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /192/system_adv_sub_a69_030_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This facility is all about developing one's personality. Passing exams will improve different facets of Kasuga's personality. After the free trial exam, you'll have to pay the exam fee.
+    Original:
+    - This facility is all about developing one's personality. Passing exams will improve different facets of Kasuga's personality. After the free trial exam, you'll have to pay the exam fee.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /193/system_adv_sub_a69_050_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga is now enrolled at Ounabara Vocational School.
+    Original:
+    - Kasuga is now enrolled at Ounabara Vocational School.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /194/system_adv_sub_a69_050_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Additional certification exams are now available. Any passed exams can be taken as a mock exam for free, as many times as you like.
+    Original:
+    - Additional certification exams are now available. Any passed exams can be taken as a mock exam for free, as many times as you like.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /195/system_adv_sub_a71_030_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ikari can now negotiate in Management Mode.
+    Original:
+    - Ikari can now negotiate in Management Mode.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /196/system_adv_ka_scout01_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Honda was added to the recruitment list.
+    Original:
+    - Honda was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /197/system_adv_ka_scout02_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Sally was added to the recruitment list.
+    Original:
+    - Sally was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /198/system_adv_ka_scout03_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kobayashi was added to the recruitment list.
+    Original:
+    - Kobayashi was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /199/system_adv_ka_scout04_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Monika was added to the recruitment list.
+    Original:
+    - Monika was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /200/system_adv_ka_scout05_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yamatani was added to the recruitment list.
+    Original:
+    - Yamatani was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /201/system_adv_ka_scout06_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ryoma was added to the recruitment list.
+    Original:
+    - Ryoma was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /202/system_adv_ka_scout07_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hidemi was added to the recruitment list.
+    Original:
+    - Hidemi was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /203/system_adv_ka_scout08_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Taniguchi was added to the recruitment list.
+    Original:
+    - Taniguchi was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /204/system_adv_ka_scout09_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Chef Kawashima was added to the recruitment list.
+    Original:
+    - Chef Kawashima was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /205/system_adv_ka_scout10_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: HIKARU was added to the recruitment list.
+    Original:
+    - HIKARU was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /206/system_adv_ka_scout11_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yoon was added to the recruitment list.
+    Original:
+    - Yoon was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /207/system_adv_ka_scout12_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Artisan Sako was added to the recruitment list.
+    Original:
+    - Artisan Sako was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /208/system_adv_ka_scout13_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kaicho was added to the recruitment list.
+    Original:
+    - Kaicho was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /209/system_adv_ka_scout14_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Chef Hao was added to the recruitment list.
+    Original:
+    - Chef Hao was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /210/system_adv_ka_scout15_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: IT Nagai was added to the recruitment list.
+    Original:
+    - IT Nagai was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /211/system_adv_ka_scout16_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bill Jobs was added to the recruitment list.
+    Original:
+    - Bill Jobs was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /212/system_adv_ka_scout17_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Smiling Michiru was added to the recruitment list.
+    Original:
+    - Smiling Michiru was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /213/system_adv_ka_scout18_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Poison Mitsuo was added to the recruitment list.
+    Original:
+    - Poison Mitsuo was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /214/system_adv_ka_scout19_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Pulse Fujinami was added to the recruitment list.
+    Original:
+    - Pulse Fujinami was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /215/system_adv_ka_scout20_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Chan was added to the recruitment list.
+    Original:
+    - Chan was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /216/system_adv_ka_scout21_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Machikosu was added to the recruitment list.
+    Original:
+    - Machikosu was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /217/system_adv_ka_scout22_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Tsutsui was added to the recruitment list.
+    Original:
+    - Tsutsui was added to the recruitment list.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /218/system_adv_ka_toushi01_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Investment Outlet: Urchin Cultivation
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+      *Footnote: Success rate up with managers experienced in cultivation
+
+
+      Kurita Cultivation, Inc. Makoto Kurita, President and CEO
+    Original:
+    - >-
+      Investment Outlet: Urchin Cultivation
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+      *Footnote: Success rate up with managers experienced in cultivation
+
+
+      Kurita Cultivation, Inc. Makoto Kurita, President and CEO
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /219/system_adv_ka_toushi02_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Investment Outlet: Jewelry Manufacturing and Sales
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      Persephone, Inc. Sakie Kinoshita, President and CEO
+    Original:
+    - >-
+      Investment Outlet: Jewelry Manufacturing and Sales
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      Persephone, Inc. Sakie Kinoshita, President and CEO
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /220/system_adv_ka_toushi03_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Investment Outlet: Foreign Investment Consulting Firm
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      SMD Japan, Inc. Manabu Fuseki, President and CEO
+    Original:
+    - >-
+      Investment Outlet: Foreign Investment Consulting Firm
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      SMD Japan, Inc. Manabu Fuseki, President and CEO
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /221/system_adv_ka_toushi04_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Investment Outlet: Takoyaki Sales
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      Nittako, Inc. Ko Nittako, President and CEO
+    Original:
+    - >-
+      Investment Outlet: Takoyaki Sales
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      Nittako, Inc. Ko Nittako, President and CEO
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /222/system_adv_ka_toushi05_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Investment Outlet: Tapioca Manufacturing and Sales
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      YZ, Inc. Garyu Ogata, President and CEO
+    Original:
+    - >-
+      Investment Outlet: Tapioca Manufacturing and Sales
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      YZ, Inc. Garyu Ogata, President and CEO
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /223/system_adv_ka_toushi06_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Investment Outlet: Travel and Tourism
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      FunFu, Inc. Mirai Saeki, President and CEO
+    Original:
+    - >-
+      Investment Outlet: Travel and Tourism
+
+      Investment Value: 10 million
+
+      ROI: 30 million
+
+
+      FunFu, Inc. Mirai Saeki, President and CEO
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /224/adv11_0010/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: With the fall of the Great Wall of Muscle and Yokohama's rising crime rate, the city's villains grow even more powerful. Be on the lookout, as you may encounter formidable, never-before-seen foes.
+    Original:
+    - With the fall of the Great Wall of Muscle and Yokohama's rising crime rate, the city's villains grow even more powerful. Be on the lookout, as you may encounter formidable, never-before-seen foes.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /225/nakama01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Koichi Adachi dołącza do drużyny!
+    Original:
+    - Koichi Adachi joined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /226/nakama02/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nanba dołącza do drużyny!
+    Original:
+    - Nanba joined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /227/nakama03/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Saeko Mukoda dołącza do drużyny!
+    Original:
+    - Saeko Mukoda joined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /228/nakama04/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Joon-gi Han dołącza do drużyny!
+    Original:
+    - Joon-gi Han joined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /229/nakama05/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zhao dołącza do drużyny!
+    Original:
+    - Zhao joined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /230/nakama06/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Koichi Adachi opuszcza drużynę.
+    Original:
+    - Koichi Adachi left the party.
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /231/nakama07/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nanba opuszcza drużynę.
+    Original:
+    - Nanba left the party.
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /232/sadv04_0115/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bar karaoke, Survive, jest nowym miejscem spotkań dla Kasugi i jego drużyny!
+    Original:
+    - The karaoke bar, Survive, has become the new hangout spot for Kasuga and his party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /233/sadv04_0117/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to a party member after their bond gauge has filled to initiate a special substory known as a Drink Link. Seize this opportunity, as it will strengthen your ties with them.
+    Original:
+    - Talk to a party member after their bond gauge has filled to initiate a special substory known as a Drink Link. Seize this opportunity, as it will strengthen your ties with them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /234/sadv04_0118/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Możesz słuchać poprzednich pogawędek mówiąc z Irohą.
+    Original:
+    - You can listen to previous party chats by speaking to Iroha.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /235/c04_0007_01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód Kasugi zmienił się na Bohater.
+    Original:
+    - Kasuga's job changed to Hero.
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /236/c04_0007_02/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Wrogowie w mieście będą zmieniać wygląd w trakcie walki według wybujałej wyobraźni Kasugi.
+    Original:
+    - Enemies throughout the city will change their appearance according to Kasuga's wild imagination.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /237/system_adv_sub_a80_200_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Eri dołącza do drużyny!
+    Original:
+    - Eri joined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /238/system_adv_sub_a80_200_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Unlike other party members, bonding with Eri requires a slightly different approach. The more Ichiban Confections grows, the deeper your bond, so flex those management muscles and show her what you can do!
+    Original:
+    - Unlike other party members, bonding with Eri requires a slightly different approach. The more Ichiban Confections grows, the deeper your bond, so flex those management muscles and show her what you can do!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /239/system_adv_sub_a64_040_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can craft and enhance your weapons and gear at the Romance Workshop. Scavenging the streets for materials and investing in the workshop's amenities will allow you to craft a wider variety of gear. Be sure to take full advantage of the workshop and improve your arsenal!
+    Original:
+    - You can craft and enhance your weapons and gear at the Romance Workshop. Scavenging the streets for materials and investing in the workshop's amenities will allow you to craft a wider variety of gear. Be sure to take full advantage of the workshop and improve your arsenal!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /240/system_adv_sub_a64_050_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave a bonsai plant.
+    Original:
+    - You gave a bonsai plant.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /241/system_adv_sub_a64_050_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave five bonsai plants.
+    Original:
+    - You gave five bonsai plants.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /242/system_adv_sub_a64_050_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave ten bonsai plants.
+    Original:
+    - You gave ten bonsai plants.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /243/system_c04_0007_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga's job changed to Hero.
+    Original:
+    - Kasuga's job changed to Hero.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /244/system_c04_0007_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Enemies throughout the city will change their appearance according to Kasuga's wild imagination.
+    Original:
+    - Enemies throughout the city will change their appearance according to Kasuga's wild imagination.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /245/system_sadv04_0115_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bar karaoke, Survive, jest nowym miejscem spotkań dla Kasugi i jego drużyny!
+    Original:
+    - The karaoke bar, Survive, has become the new hangout spot for Kasuga and his party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /246/system_sadv04_0117_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Talk to a party member after their bond gauge has filled to initiate a special substory known as a Drink Link. Seize this opportunity, as it will strengthen your ties with them.
+    Original:
+    - Talk to a party member after their bond gauge has filled to initiate a special substory known as a Drink Link. Seize this opportunity, as it will strengthen your ties with them.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /247/system_sadv04_0118_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Możesz słuchać poprzednich pogawędek mówiąc z Irohą.
+    Original:
+    - You can listen to previous party chats by speaking to Iroha.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /248/system_sadv04_0118_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave a Bouquet of Roses.
+    Original:
+    - You gave a Bouquet of Roses.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /249/system_sadv04_0118_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave five Bouquets of Roses.
+    Original:
+    - You gave five Bouquets of Roses.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /250/system_c05_0067_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave a Bouquet of Pansies.
+    Original:
+    - You gave a Bouquet of Pansies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /251/system_c05_0067_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave five Bouquets of Pansies.
+    Original:
+    - You gave five Bouquets of Pansies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /252/system_c05_0067_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave ten Bouquets of Pansies.
+    Original:
+    - You gave ten Bouquets of Pansies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /253/system_y_playspot_shikaku_help_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga learned Hyper Focus!
+    Original:
+    - Kasuga learned Hyper Focus!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /254/system_y_playspot_shikaku_help_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: During an exam, press <symbol=button_sankaku> to activate Hyper Focus and extend your exam time by 30 seconds. This skill can only be activated once per exam.
+    Original:
+    - During an exam, press <symbol=button_sankaku> to activate Hyper Focus and extend your exam time by 30 seconds. This skill can only be activated once per exam.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /255/system_y_playspot_shikaku_help_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga obtained The Divine Pencil!
+    Original:
+    - Kasuga obtained The Divine Pencil!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /256/system_y_playspot_shikaku_help_004/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: During an exam, press <symbol=button_shikaku> to use The Divine Pencil and eliminate 2 wrong choices of the 4 available ones. This skill can only be activated once per exam.
+    Original:
+    - During an exam, press <symbol=button_shikaku> to use The Divine Pencil and eliminate 2 wrong choices of the 4 available ones. This skill can only be activated once per exam.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /257/system_y_playspot_shikaku_help_005/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: When selecting an exam, you will be able to see which certificate improves which aspect of Kasuga's Personality.
+    Original:
+    - When selecting an exam, you will be able to see which certificate improves which aspect of Kasuga's Personality.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /258/system_y_playspot_shikaku_shop_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave a Bouquet of Lilies.
+    Original:
+    - You gave a Bouquet of Lilies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /259/system_y_playspot_shikaku_shop_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave five Bouquets of Lilies.
+    Original:
+    - You gave five Bouquets of Lilies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /260/system_y_playspot_shikaku_shop_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave ten Bouquets of Lilies.
+    Original:
+    - You gave ten Bouquets of Lilies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /261/system_adv_dragonkart01_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Pegasus Cup Grand Prix unlocked.
+    Original:
+    - Pegasus Cup Grand Prix unlocked.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /262/system_adv_dragonkart02_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Phoenix Cup Grand Prix unlocked.
+    Original:
+    - Phoenix Cup Grand Prix unlocked.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /263/system_adv_dragonkart03_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Dragon Cup Grand Prix unlocked.
+    Original:
+    - Dragon Cup Grand Prix unlocked.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /264/system_adv_dragonkart04_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The Ignition Shadow kart is now available!
+    Original:
+    - The Ignition Shadow kart is now available!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /265/system_adv_dragonkart05_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The Rapid Phantom kart is now available!
+    Original:
+    - The Rapid Phantom kart is now available!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /266/system_adv_dragonkart06_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The Rumble Crasher kart is now available!
+    Original:
+    - The Rumble Crasher kart is now available!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /267/system_adv_dragonkart07_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The Rising Dragon kart is now available!
+    Original:
+    - The Rising Dragon kart is now available!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /268/system_sadv04_0118_004/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You gave ten Bouquets of Roses.
+    Original:
+    - You gave ten Bouquets of Roses.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /269/system_adv_sub_a87_020_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga got a massive defense boost!
+    Original:
+    - Kasuga got a massive defense boost!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /270/system_adv_tgs_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Entering Otohime Land will begin a scene which will conclude the demo. Please keep this in mind if you wish to explore more of the city, play minigames, or spend time battling enemies.
+    Original:
+    - Entering Otohime Land will begin a scene which will conclude the demo. Please keep this in mind if you wish to explore more of the city, play minigames, or spend time battling enemies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /271/system_btl04_0005_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Enemies will look different in battle, thanks to Kasuga's vivid imagination.
+    Original:
+    - Enemies will look different in battle, thanks to Kasuga's vivid imagination.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /272/mj_citron01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Ranking]　[Beginner/Intermediate]　[Advanced]
+
+      　1st　　　　+10,000 pts.　　　　+20,000 pts.
+
+      　2nd　　　　+5,000 pts.　　　　+10,000 pts.
+
+      　3rd　　　　-5,000 pts.　　　　-10,000 pts.
+
+      　4th　　　　-10,000 pts.　　　　-20,000 pts.
+    Original:
+    - >-
+      [Ranking]　[Beginner/Intermediate]　[Advanced]
+
+      　1st　　　　+10,000 pts.　　　　+20,000 pts.
+
+      　2nd　　　　+5,000 pts.　　　　+10,000 pts.
+
+      　3rd　　　　-5,000 pts.　　　　-10,000 pts.
+
+      　4th　　　　-10,000 pts.　　　　-20,000 pts.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /274/mj_kacyo01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Ranking]　[Intermediate]　[Advanced]
+
+      　1st　　+30,000 pts.　　　+30,000 pts.
+
+      　2nd　　+10,000 pts.　　　+10,000 pts.
+
+      　3rd　　-10,000 pts.　　　-10,000 pts.
+
+      　4th　　-30,000 pts.　　　-30,000 pts.
+    Original:
+    - >-
+      [Ranking]　[Intermediate]　[Advanced]
+
+      　1st　　+30,000 pts.　　　+30,000 pts.
+
+      　2nd　　+10,000 pts.　　　+10,000 pts.
+
+      　3rd　　-10,000 pts.　　　-10,000 pts.
+
+      　4th　　-30,000 pts.　　　-30,000 pts.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /275/mj_kacyo02/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Ranking]　　[Royal]
+
+      　　1st　　　+30,000 pts.
+
+      　　2nd　　+20,000 pts.
+
+      　　3rd　　-20,000 pts.
+
+      　　4th　　-30,000 pts.
+    Original:
+    - >-
+      [Ranking]　　[Royal]
+
+      　　1st　　　+30,000 pts.
+
+      　　2nd　　+20,000 pts.
+
+      　　3rd　　-20,000 pts.
+
+      　　4th　　-30,000 pts.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /276/mj_rara01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Ranking]　　[Beginner/Intermediate]
+
+      1st　　　　　+10,000 pts.
+
+      2nd　　　　　+5,000 pts.　
+
+      3rd　　　　　-5,000 pts.　
+
+      4th　　　　　-10,000 pts.
+    Original:
+    - >-
+      [Ranking]　　[Beginner/Intermediate]
+
+      1st　　　　　+10,000 pts.
+
+      2nd　　　　　+5,000 pts.　
+
+      3rd　　　　　-5,000 pts.　
+
+      4th　　　　　-10,000 pts.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /277/mj_reach01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Ranking]　[Intermediate]　[Advanced]
+
+      　1st　　　+10,000 pts.　+20,000 pts.
+
+      　2nd　　　+5,000 pts.　　+10,000 pts.
+
+      　3rd　　　-5,000 pts.　　-10,000 pts.
+
+      　4th　　　-10,000 pts.　-20,000 pts.
+    Original:
+    - >-
+      [Ranking]　[Intermediate]　[Advanced]
+
+      　1st　　　+10,000 pts.　+20,000 pts.
+
+      　2nd　　　+5,000 pts.　　+10,000 pts.
+
+      　3rd　　　-5,000 pts.　　-10,000 pts.
+
+      　4th　　　-10,000 pts.　-20,000 pts.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /278/shogi_rule/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Three ways to play Shogi.
+
+      [Ranked] Played following the basic rules. The difficulty will increase with each defeated opponent. Once you've defeated all opponents in the Kyu rank, you may then face off against those in the Dan rank.
+
+      [Challenge] Played on a special type of board. 
+
+      [Puzzle] Play against opponents on a special type of board and call checkmate within a specified number of moves.
+    Original:
+    - >-
+      Three ways to play Shogi.
+
+      [Ranked] Played following the basic rules. The difficulty will increase with each defeated opponent. Once you've defeated all opponents in the Kyu rank, you may then face off against those in the Dan rank.
+
+      [Challenge] Played on a special type of board. 
+
+      [Puzzle] Play against opponents on a special type of board and call checkmate within a specified number of moves.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /279/system_adv_tgs_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can now change jobs. Speak to Ririka whenever you wish to do so.
+    Original:
+    - You can now change jobs. Speak to Ririka whenever you wish to do so.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /280/nakama08/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Eri Kamataki dołącza do drużyny!
+    Original:
+    - Eri Kamataki joined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /281/system_btl_recover00/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: HP and MP fully recovered!
+    Original:
+    - HP and MP fully recovered!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /282/system_dgn_adv12_s100_010_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      No restrictions
+    Original:
+    - >-
+      Rules
+
+
+      No restrictions
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /283/system_dgn_adv12_s100_010_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 5 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 5 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /284/system_dgn_adv12_s100_015_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 2nd floor?
+    Original:
+    - Proceed to the 2nd floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /285/system_dgn_adv12_s100_020_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win without using any skills or using help from others.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win without using any skills or using help from others.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /287/system_dgn_adv12_s100_025_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 3rd floor?
+    Original:
+    - Proceed to the 3rd floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /288/system_dgn_adv12_s100_030_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Do not switch members during battle.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Do not switch members during battle.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /290/system_dgn_adv12_s100_035_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 4th floor?
+    Original:
+    - Proceed to the 4th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /291/system_dgn_adv12_s100_900_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Going back will mean starting over from the 1st floor or the checkpoint.
+    Original:
+    - Going back will mean starting over from the 1st floor or the checkpoint.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /292/system_dgn_adv12_s100_040_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win using only Kasuga's attacks or skills.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win using only Kasuga's attacks or skills.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /293/system_dgn_adv12_s100_045_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 5th floor?
+    Original:
+    - Proceed to the 5th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /294/system_dgn_adv12_s100_050_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      No switching members during battle.
+    Original:
+    - >-
+      Rules
+
+
+      No switching members during battle.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /295/system_dgn_adv12_s100_050_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 10 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 10 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /296/system_dgn_adv12_s100_055_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 6th floor?
+    Original:
+    - Proceed to the 6th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /297/system_dgn_adv12_s100_060_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Attacks from allies and enemies will always land a critical hit.
+    Original:
+    - >-
+      Rules
+
+
+      Attacks from allies and enemies will always land a critical hit.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /298/system_dgn_adv12_s100_060_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win without using any Recovery skills.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win without using any Recovery skills.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /299/system_dgn_adv12_s100_065_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 7th floor?
+    Original:
+    - Proceed to the 7th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /300/system_dgn_adv12_s100_070_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Allies and enemies will be lighter during battle.
+    Original:
+    - >-
+      Rules
+
+
+      Allies and enemies will be lighter during battle.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /301/system_dgn_adv12_s100_075_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 8th floor?
+    Original:
+    - Proceed to the 8th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /302/system_dgn_adv12_s100_080_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win using only Adachi's attacks or skills.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win using only Adachi's attacks or skills.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /303/system_dgn_adv12_s100_085_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 9th floor?
+    Original:
+    - Proceed to the 9th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /304/system_dgn_adv12_s100_090_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Poison will slowly decrease your health.
+    Original:
+    - >-
+      Rules
+
+
+      Poison will slowly decrease your health.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /305/system_dgn_adv12_s100_090_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 15 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 15 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /306/system_dgn_adv12_s100_095_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 10th floor?
+    Original:
+    - Proceed to the 10th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /307/system_dgn_adv12_s100_100_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 20 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 20 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /308/system_dgn_adv12_s100_105_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 11th floor?
+    Original:
+    - Proceed to the 11th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /309/system_dgn_adv12_s100_110_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win using only Nanba's attacks or skills.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win using only Nanba's attacks or skills.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /310/system_dgn_adv12_s100_115_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 12th floor?
+    Original:
+    - Proceed to the 12th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /311/system_dgn_adv12_s100_120_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win using only Saeko's attacks or skills.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win using only Saeko's attacks or skills.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /312/system_dgn_adv12_s100_125_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 13th floor?
+    Original:
+    - Proceed to the 13th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /313/system_dgn_adv12_s100_130_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Skills may be used without limit.
+    Original:
+    - >-
+      Rules
+
+
+      Skills may be used without limit.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /314/system_dgn_adv12_s100_130_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win without reviving fallen allies.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win without reviving fallen allies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /315/system_dgn_adv12_s100_135_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 14th floor?
+    Original:
+    - Proceed to the 14th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /316/system_dgn_adv12_s100_140_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Poundmates may be used without limit.
+    Original:
+    - >-
+      Rules
+
+
+      Poundmates may be used without limit.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /317/system_dgn_adv12_s100_140_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win without have any allies knocked out.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win without have any allies knocked out.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /318/system_dgn_adv12_s100_145_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 15th floor?
+    Original:
+    - Proceed to the 15th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /319/system_dgn_adv12_s100_150_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 25 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 25 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /320/system_dgn_adv12_s100_155_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 16th floor?
+    Original:
+    - Proceed to the 16th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /321/system_dgn_adv12_s100_160_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 30 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 30 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /322/system_dgn_adv12_s100_165_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 17th floor?
+    Original:
+    - Proceed to the 17th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /323/system_dgn_adv12_s100_175_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 18th floor?
+    Original:
+    - Proceed to the 18th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /324/system_dgn_adv12_s100_180_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 35 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 35 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /325/system_dgn_adv12_s100_185_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 19th floor?
+    Original:
+    - Proceed to the 19th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /326/system_dgn_adv12_s100_190_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Fallen allies cannot be revived.
+    Original:
+    - >-
+      Rules
+
+
+      Fallen allies cannot be revived.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /327/system_dgn_adv12_s100_190_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win using only Joon-gi Han's attacks or skills.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win using only Joon-gi Han's attacks or skills.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /328/system_dgn_adv12_s100_195_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 20th floor?
+    Original:
+    - Proceed to the 20th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /329/system_dgn_adv12_s100_205_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 21st floor?
+    Original:
+    - Proceed to the 21st floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /330/system_dgn_adv12_s100_210_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Susceptibility to fire element every 5 turns.
+    Original:
+    - >-
+      Rules
+
+
+      Susceptibility to fire element every 5 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /331/system_dgn_adv12_s100_215_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 22nd floor?
+    Original:
+    - Proceed to the 22nd floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /332/system_dgn_adv12_s100_220_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Susceptibility to ice element every 5 turns.
+    Original:
+    - >-
+      Rules
+
+
+      Susceptibility to ice element every 5 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /333/system_dgn_adv12_s100_220_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 45 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 45 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /334/system_dgn_adv12_s100_225_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 23rd floor?
+    Original:
+    - Proceed to the 23rd floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /335/system_dgn_adv12_s100_230_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Susceptibility to electric element every 5 turns.
+    Original:
+    - >-
+      Rules
+
+
+      Susceptibility to electric element every 5 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /336/system_dgn_adv12_s100_230_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 50 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 50 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /337/system_dgn_adv12_s100_235_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 24th floor?
+    Original:
+    - Proceed to the 24th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /338/system_dgn_adv12_s100_240_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Rules
+
+
+      Bleed status occurs every 5 turns.
+    Original:
+    - >-
+      Rules
+
+
+      Bleed status occurs every 5 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /339/system_dgn_adv12_s100_240_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win using only Zhao's attacks or skills.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win using only Zhao's attacks or skills.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /340/system_dgn_adv12_s100_245_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 25th floor?
+    Original:
+    - Proceed to the 25th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /341/system_dgn_adv12_s100_255_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 26th floor?
+    Original:
+    - Proceed to the 26th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /342/system_dgn_adv12_s100_265_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 27th floor?
+    Original:
+    - Proceed to the 27th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /343/system_dgn_adv12_s100_275_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 28th floor?
+    Original:
+    - Proceed to the 28th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /344/system_dgn_adv12_s100_285_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 29th floor?
+    Original:
+    - Proceed to the 29th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /345/system_dgn_adv12_s100_295_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Proceed to the 30th floor?
+    Original:
+    - Proceed to the 30th floor?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /346/system_dgn_adv12_s100_200_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Additional Reward Condition
+
+
+      Win within 40 turns.
+    Original:
+    - >-
+      Additional Reward Condition
+
+
+      Win within 40 turns.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /347/nakama09/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Saeko Mukoda opuszcza drużynę.
+    Original:
+    - Saeko Mukoda left the party.
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /348/nakama10/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Saeko Mukoda znowu dołącza do drużyny!
+    Original:
+    - Saeko Mukoda rejoined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /349/nakama11/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Koichi Adachi znowu dołącza do drużyny!
+    Original:
+    - Koichi Adachi rejoined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /350/nakama12/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nanba znowu dołącza do drużyny!
+    Original:
+    - Nanba rejoined the party!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /351/job_change_01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód Kasugi zmienił się z "Miłośnika Arakawy" na "Bezrobotny".
+    Original:
+    - Kasuga's job changed from Arakawa Loyalist to Deadbeat.
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /352/job_change_02/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód Kasugi zmienił się z "Bezrobotny" na "Freelancer".
+    Original:
+    - Kasuga's job changed from Deadbeat to Freelancer.
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /353/system_adv_sub_a16_030_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Aplikacja Sujidex została zainstalowana w telefonie Kasugi.
+    Original:
+    - The Sujidex app was installed on Kasuga's smartphone.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /354/skill01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 'Kasuga can now use the skill Tag Team: Essence of Mayhem.'
+    Original:
+    - 'Kasuga can now use the skill Tag Team: Essence of Mayhem.'
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /355/system_dgn_adv99_y099_010_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Final Millennium Tower
+
+
+      You can now challenge the game's most difficult dungeon. Once you've boarded the elevator, the retry option will be disabled until you defeat the tower's manager waiting for you at the top.
+    Original:
+    - >-
+      Final Millennium Tower
+
+
+      You can now challenge the game's most difficult dungeon. Once you've boarded the elevator, the retry option will be disabled until you defeat the tower's manager waiting for you at the top.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /356/system_adv_demo_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This content is not available in the trial version. The full release awaits!
+    Original:
+    - This content is not available in the trial version. The full release awaits!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /357/nanba_kizuna_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga czuję jak jego więź z Nanbą rośnie w siłę.
+
+      Nanba będzie otrzymywać więcej doświadczenia gdy nie jest w składzie.
+    Original:
+    - >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /361/nanba_kizuna_005a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Nanba's bond is at its strongest.
+
+      Nanba will now gain even more experience when he is not in the active party.
+
+      Nanba can now use the skill Tag Team: Heat Buster.
+    Original:
+    - >-
+      Kasuga and Nanba's bond is at its strongest.
+
+      Nanba will now gain even more experience when he is not in the active party.
+
+      Nanba can now use the skill Tag Team: Heat Buster.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /362/nanba_kizuna_005b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Nanba's bond is at its strongest.
+
+      Nanba will now gain even more experience when he is not in the active party.
+
+      Nanba can now use the skill Tag Team: Heat Buster.
+
+      Nanba can now change to the Foreman job.
+    Original:
+    - >-
+      Kasuga and Nanba's bond is at its strongest.
+
+      Nanba will now gain even more experience when he is not in the active party.
+
+      Nanba can now use the skill Tag Team: Heat Buster.
+
+      Nanba can now change to the Foreman job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /363/nanba_kizuna_005c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Nanba's bond is at its strongest.
+
+      Nanba will now gain even more experience when he is not in the active party.
+
+      Nanba can now use the skill Tag Team: Heat Buster.
+
+      Nanba can now change to the Devil Rocker job.
+    Original:
+    - >-
+      Kasuga and Nanba's bond is at its strongest.
+
+      Nanba will now gain even more experience when he is not in the active party.
+
+      Nanba can now use the skill Tag Team: Heat Buster.
+
+      Nanba can now change to the Devil Rocker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /367/adachi_kizuna_005a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Adachi's bond is at its strongest.
+
+      Adachi will now gain even more experience when he is not in the active party.
+
+      Adachi can now use the skill Tag Team: Nelson Strike.
+    Original:
+    - >-
+      Kasuga and Adachi's bond is at its strongest.
+
+      Adachi will now gain even more experience when he is not in the active party.
+
+      Adachi can now use the skill Tag Team: Nelson Strike.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /368/adachi_kizuna_005b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Adachi's bond is at its strongest.
+
+      Adachi will now gain even more experience when he is not in the active party.
+
+      Adachi can now use the skill Tag Team: Nelson Strike.
+
+      Adachi can now change to the Devil Rocker job.
+    Original:
+    - >-
+      Kasuga and Adachi's bond is at its strongest.
+
+      Adachi will now gain even more experience when he is not in the active party.
+
+      Adachi can now use the skill Tag Team: Nelson Strike.
+
+      Adachi can now change to the Devil Rocker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /372/saeko_kizuna_005a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Saeko's bond is at its strongest.
+
+      Saeko will now gain more experience when she is not in the active party.
+
+      Saeko can now use the skill Tag Team: Bombardier Bash.
+    Original:
+    - >-
+      Kasuga and Saeko's bond is at its strongest.
+
+      Saeko will now gain more experience when she is not in the active party.
+
+      Saeko can now use the skill Tag Team: Bombardier Bash.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /373/saeko_kizuna_005b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Saeko's bond is at its strongest.
+
+      Saeko will now gain more experience when she is not in the active party.
+
+      Saeko can now use the skill Tag Team: Bombardier Bash.
+
+      Saeko can now change to the Matriarch job.
+    Original:
+    - >-
+      Kasuga and Saeko's bond is at its strongest.
+
+      Saeko will now gain more experience when she is not in the active party.
+
+      Saeko can now use the skill Tag Team: Bombardier Bash.
+
+      Saeko can now change to the Matriarch job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /378/han_kizuna_005a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Joon-gi Han's bond is at its strongest.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now use the skill Tag Team: Terrorizing Trample.
+    Original:
+    - >-
+      Kasuga and Joon-gi Han's bond is at its strongest.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now use the skill Tag Team: Terrorizing Trample.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /379/han_kizuna_005b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Joon-gi Han's bond is at its strongest.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now use the skill Tag Team: Terrorizing Trample.
+
+      Joon-gi Han can now change to the Devil Rocker job.
+    Original:
+    - >-
+      Kasuga and Joon-gi Han's bond is at its strongest.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now use the skill Tag Team: Terrorizing Trample.
+
+      Joon-gi Han can now change to the Devil Rocker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /380/han_kizuna_005c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >
+      Kasuga and Joon-gi Han's bond is at its strongest.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now use the skill Tag Team: Terrorizing Trample.
+
+      Joon-gi Han can now change to the Fortuneteller job.
+    Original:
+    - >
+      Kasuga and Joon-gi Han's bond is at its strongest.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now use the skill Tag Team: Terrorizing Trample.
+
+      Joon-gi Han can now change to the Fortuneteller job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /384/chou_kizuna_005a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Zhao's bond is at its strongest.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now use the skill Tag Team: Beast Brothers.
+    Original:
+    - >-
+      Kasuga and Zhao's bond is at its strongest.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now use the skill Tag Team: Beast Brothers.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /385/chou_kizuna_005b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Zhao's bond is at its strongest.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now use the skill Tag Team: Beast Brothers.
+
+      Zhao can now change to the Devil Rocker job.
+    Original:
+    - >-
+      Kasuga and Zhao's bond is at its strongest.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now use the skill Tag Team: Beast Brothers.
+
+      Zhao can now change to the Devil Rocker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /386/chou_kizuna_005c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Zhao's bond is at its strongest.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now use the skill Tag Team: Beast Brothers.
+
+      Zhao can now change to the Enforcer job.
+    Original:
+    - >-
+      Kasuga and Zhao's bond is at its strongest.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now use the skill Tag Team: Beast Brothers.
+
+      Zhao can now change to the Enforcer job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /390/eri_kizuna_005a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Eri's bond is at its strongest.
+
+      Eri will now gain more experience when she is not in the active party.
+
+      Eri can now use the skill Tag Team: Twin Fists.
+    Original:
+    - >-
+      Kasuga and Eri's bond is at its strongest.
+
+      Eri will now gain more experience when she is not in the active party.
+
+      Eri can now use the skill Tag Team: Twin Fists.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /391/eri_kizuna_005b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Eri's bond is at its strongest.
+
+      Eri will now gain more experience when she is not in the active party.
+
+      Eri can now use the skill Tag Team: Twin Fists.
+
+      Eri can now change to the Matriarch job.
+    Original:
+    - >-
+      Kasuga and Eri's bond is at its strongest.
+
+      Eri will now gain more experience when she is not in the active party.
+
+      Eri can now use the skill Tag Team: Twin Fists.
+
+      Eri can now change to the Matriarch job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /393/adachi_kizuna_005c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Adachi's bond is at its strongest.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now use the skill Tag Team: Nelson Strike.
+
+      Adachi can now change to the Fortuneteller job.
+    Original:
+    - >-
+      Kasuga and Adachi's bond is at its strongest.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now use the skill Tag Team: Nelson Strike.
+
+      Adachi can now change to the Fortuneteller job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /394/system_btl04_0010_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Auto-Battle Mode can now be selected. Press <symbol=button_l2> to turn Auto-Battle Mode ON/OFF. Hold down <symbol=button_l2> and use <platform_type_not=pc>the ${platform.term.dpad}</platform_type_not><platform_type=pc><symbol=button_up><symbol=button_down><symbol=button_left><symbol=button_right></platform_type> to make a selection.
+    Original:
+    - Auto-Battle Mode can now be selected. Press <symbol=button_l2> to turn Auto-Battle Mode ON/OFF. Hold down <symbol=button_l2> and use <platform_type_not=pc>the ${platform.term.dpad}</platform_type_not><platform_type=pc><symbol=button_up><symbol=button_down><symbol=button_left><symbol=button_right></platform_type> to make a selection.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /395/system_activesearch_sub_a01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Active Search Mode will place you in first-person view, where you'll be able to move using <symbol=button_l_stick> and look around using <symbol=button_r_stick>. Put on those detective specs and find Nancy-chan!
+    Original:
+    - Active Search Mode will place you in first-person view, where you'll be able to move using <symbol=button_l_stick> and look around using <symbol=button_r_stick>. Put on those detective specs and find Nancy-chan!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /396/system_activesearch_sub_a18/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Active Search Mode will place you in first-person view, where you'll be able to move using <symbol=button_l_stick> and look around using <symbol=button_r_stick>. Put on those detective specs and find the real Michio-kun!
+    Original:
+    - Active Search Mode will place you in first-person view, where you'll be able to move using <symbol=button_l_stick> and look around using <symbol=button_r_stick>. Put on those detective specs and find the real Michio-kun!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /397/job_kizuna_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Devil Rocker job unlocked.
+    Original:
+    - Devil Rocker job unlocked.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /398/job_kizuna_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Matriarch job unlocked.
+    Original:
+    - Matriarch job unlocked.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /399/system_ka_tutorial_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Go to Properties to check the details of your properties. Select Properties.
+    Original:
+    - Go to Properties to check the details of your properties. Select Properties.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /400/system_ka_tutorial_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Go to Assign to change employees assigned to your properties. Select Assign, then Ichiban Confections.
+    Original:
+    - Go to Assign to change employees assigned to your properties. Select Assign, then Ichiban Confections.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /401/system_ka_tutorial_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Each property has ability requirements that affect profit. If your products, services, and reputation are not up to par, you may face difficulties in your business like diminishing sales and unforeseen issues.
+    Original:
+    - Each property has ability requirements that affect profit. If your products, services, and reputation are not up to par, you may face difficulties in your business like diminishing sales and unforeseen issues.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /402/system_ka_tutorial_004/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Make sure to stay above the products, services, and reputation requirements by switching around your assigned employees.
+    Original:
+    - Make sure to stay above the products, services, and reputation requirements by switching around your assigned employees.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /403/system_ka_tutorial_005/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Go to Employees to check the details of your employees. Select Employees, then Employee List.
+    Original:
+    - Go to Employees to check the details of your employees. Select Employees, then Employee List.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /404/system_ka_tutorial_006/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The wages of employees who are not assigned to a property are paid in the form of Surplus Labor Costs, which are deducted from sales. Try to avoid risking your business by laying off these employees when conditions are not satisfactory.
+    Original:
+    - The wages of employees who are not assigned to a property are paid in the form of Surplus Labor Costs, which are deducted from sales. Try to avoid risking your business by laying off these employees when conditions are not satisfactory.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /405/system_ka_learn_skill_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga can now use the skill Stack Slap.
+    Original:
+    - Kasuga can now use the skill Stack Slap.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /406/system_ka_learn_skill_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga can now use the skill Fat Stack Slap.
+    Original:
+    - Kasuga can now use the skill Fat Stack Slap.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /407/system_ka_learn_skill_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga can now use the skill Charismatic Bribe.
+    Original:
+    - Kasuga can now use the skill Charismatic Bribe.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /408/system_ka_learn_skill_004/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga can now use the skill Ultimate Stack Slap.
+    Original:
+    - Kasuga can now use the skill Ultimate Stack Slap.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /409/system_ka_learn_skill_005/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga can now use the skill Essence of Orbital Laser.
+    Original:
+    - Kasuga can now use the skill Essence of Orbital Laser.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /410/nicks_mission_001a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 100 Share Price Ranking within 5 business periods!
+    Original:
+    - >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 100 Share Price Ranking within 5 business periods!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /411/nicks_mission_001b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 100 Share Price Ranking within 4 business periods!
+    Original:
+    - >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 100 Share Price Ranking within 4 business periods!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /412/nicks_mission_001c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 100 Share Price Ranking within 3 business periods!
+    Original:
+    - >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 100 Share Price Ranking within 3 business periods!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /413/nicks_mission_002a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 50 Share Price Ranking within 7 business periods!
+    Original:
+    - >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 50 Share Price Ranking within 7 business periods!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /414/nicks_mission_002b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 50 Share Price Ranking within 6 business periods!
+    Original:
+    - >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 50 Share Price Ranking within 6 business periods!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /415/nicks_mission_002c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 50 Share Price Ranking within 5 business periods!
+    Original:
+    - >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 50 Share Price Ranking within 5 business periods!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /416/nicks_mission_003a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 10 Share Price Ranking within 8 business periods!
+    Original:
+    - >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 10 Share Price Ranking within 8 business periods!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /417/nicks_mission_003b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 10 Share Price Ranking within 7 business periods!
+    Original:
+    - >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 10 Share Price Ranking within 7 business periods!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /418/nicks_mission_003c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 10 Share Price Ranking within 6 business periods!
+    Original:
+    - >-
+      [Nick Ogata's Condition]
+
+
+      Reach top 10 Share Price Ranking within 6 business periods!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /419/nicks_support_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Received 5 million yen in support from Nick Ogata.
+    Original:
+    - Received 5 million yen in support from Nick Ogata.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /420/nicks_support_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Received 50 million yen in support from Nick Ogata.
+    Original:
+    - Received 50 million yen in support from Nick Ogata.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /421/nicks_support_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Received 100 million yen in support from Nick Ogata.
+    Original:
+    - Received 100 million yen in support from Nick Ogata.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /422/company_information_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Property management limit increased from 2 to 4.
+
+      Employee count limit increased from 10 to 25.
+    Original:
+    - >-
+      Property management limit increased from 2 to 4.
+
+      Employee count limit increased from 10 to 25.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /423/company_information_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Company name changed to Ichiban Holdings.
+
+      Property management limit increased from 4 to 5.
+
+      Employee limit increased from 25 to 40.
+    Original:
+    - >-
+      Company name changed to Ichiban Holdings.
+
+      Property management limit increased from 4 to 5.
+
+      Employee limit increased from 25 to 40.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /424/company_information_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Property management limit increased from 5 to 6.
+
+      Employee limit increased from 40 to 50.
+    Original:
+    - >-
+      Property management limit increased from 5 to 6.
+
+      Employee limit increased from 40 to 50.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /425/eri_kizuna_000/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Progress through Management to deepen your bond with Eri.
+    Original:
+    - Progress through Management to deepen your bond with Eri.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /426/nanba_kizuna_000/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga started feeling the bond between him and Nanba.
+
+      Kasuga can now use the skill Tag Team: Essence of Mayhem.
+    Original:
+    - >-
+      Kasuga started feeling the bond between him and Nanba.
+
+      Kasuga can now use the skill Tag Team: Essence of Mayhem.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /427/nanba_kizuna_002a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /428/nanba_kizuna_002b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+
+      Nanba can now change to the Chef job.
+    Original:
+    - >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+
+      Nanba can now change to the Chef job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /429/nanba_kizuna_003a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /430/nanba_kizuna_003b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+
+      Nanba can now change to the Fortuneteller job.
+    Original:
+    - >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+
+      Nanba can now change to the Fortuneteller job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /431/nanba_kizuna_004a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /432/nanba_kizuna_004b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+
+      Nanba can now change to the Host job.
+    Original:
+    - >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+
+      Nanba can now change to the Host job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /433/nanba_kizuna_004c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+
+      Nanba can now change to the Host job.
+
+      Nanba can now change to the Enforcer job.
+    Original:
+    - >-
+      Kasuga feels his bond with Nanba grows stronger.
+
+      Nanba will now gain more experience when he is not in the active party.
+
+      Nanba can now change to the Host job.
+
+      Nanba can now change to the Enforcer job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /434/nanba_kizuna_005d/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Nanba's bond is at its strongest.
+
+      Nanba will now gain even more experience when he is not in the active party.
+
+      Nanba can now use the skill Tag Team: Heat Buster.
+
+      Nanba can now change to the Foreman job.
+
+      Nanba can now change to the Devil Rocker job.
+    Original:
+    - >-
+      Kasuga and Nanba's bond is at its strongest.
+
+      Nanba will now gain even more experience when he is not in the active party.
+
+      Nanba can now use the skill Tag Team: Heat Buster.
+
+      Nanba can now change to the Foreman job.
+
+      Nanba can now change to the Devil Rocker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /435/adachi_kizuna_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga czuję jak jego więź z Adachim rośnie w siłę.
+
+      Adachi będzie otrzymywać więcej doświadczenia gdy nie jest w składzie.
+    Original:
+    - >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /436/adachi_kizuna_002a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /437/adachi_kizuna_002b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now change to the Breaker job.
+    Original:
+    - >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now change to the Breaker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /438/adachi_kizuna_003a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /439/adachi_kizuna_003b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now change to the Musician job.
+    Original:
+    - >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now change to the Musician job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /440/adachi_kizuna_004a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /441/adachi_kizuna_004b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now change to the Host job.
+    Original:
+    - >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now change to the Host job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /442/adachi_kizuna_004c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now change to the Host job.
+
+      Adachi can now change to the Chef job.
+    Original:
+    - >-
+      Kasuga feels his bond with Adachi grows stronger.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now change to the Host job.
+
+      Adachi can now change to the Chef job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /443/adachi_kizuna_005d/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Adachi's bond is at its strongest.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now use the skill Tag Team: Nelson Strike.
+
+      Adachi can now change to the Fortuneteller job.
+
+      Adachi can now change to the Devil Rocker job.
+    Original:
+    - >-
+      Kasuga and Adachi's bond is at its strongest.
+
+      Adachi will now gain more experience when he is not in the active party.
+
+      Adachi can now use the skill Tag Team: Nelson Strike.
+
+      Adachi can now change to the Fortuneteller job.
+
+      Adachi can now change to the Devil Rocker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /444/saeko_kizuna_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga czuję jak jego więź z Saeko rośnie w siłę.
+
+      Saeko bęzdie otrzymywać więcej doświadczenia gdy nie jest w składzie.
+    Original:
+    - >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /445/saeko_kizuna_002a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /446/saeko_kizuna_002b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+
+      Saeko can now change to the Night Queen job.
+    Original:
+    - >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+
+      Saeko can now change to the Night Queen job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /447/saeko_kizuna_003a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /448/saeko_kizuna_003b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /449/saeko_kizuna_004a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /450/saeko_kizuna_004b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+
+      Saeko can now change to the Dealer job.
+    Original:
+    - >-
+      Kasuga feels his bond with Saeko grows stronger.
+
+      Saeko will now gain more experience when she is not in the active party.
+
+      Saeko can now change to the Dealer job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /451/han_kizuna_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga czuję jak jego więź z Joon-gi Hanem rośnie w siłę.
+
+      Joon-gi Han będzie otrzymywać więcej doświadczenia gdy nie jest w składzie.
+    Original:
+    - >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /452/han_kizuna_002a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /453/han_kizuna_002b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now change to the Enforcer job.
+    Original:
+    - >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now change to the Enforcer job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /454/han_kizuna_003a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /455/han_kizuna_003b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now change to the Foreman job.
+    Original:
+    - >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now change to the Foreman job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /456/han_kizuna_004a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /457/han_kizuna_004b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now change to the Musician job.
+    Original:
+    - >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now change to the Musician job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /458/han_kizuna_004c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now change to the Musician job.
+
+      Joon-gi Han can now change to the Chef job.
+    Original:
+    - >-
+      Kasuga feels his bond with Joon-gi Han grows stronger.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now change to the Musician job.
+
+      Joon-gi Han can now change to the Chef job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /459/han_kizuna_005d/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Joon-gi Han's bond is at its strongest.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now use the skill Tag Team: Terrorizing Trample.
+
+      Joon-gi Han can now change to the Fortuneteller job.
+
+
+      Joon-gi Han can now change to the Devil Rocker job.
+    Original:
+    - >-
+      Kasuga and Joon-gi Han's bond is at its strongest.
+
+      Joon-gi Han will now gain more experience when he is not in the active party.
+
+      Joon-gi Han can now use the skill Tag Team: Terrorizing Trample.
+
+      Joon-gi Han can now change to the Fortuneteller job.
+
+
+      Joon-gi Han can now change to the Devil Rocker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /460/chou_kizuna_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga czuję jak jego więź z Zhao rośnie w siłę.
+
+      Zhao będzie otrzymywać więcej doświadczenia gdy nie jest w składzie.
+    Original:
+    - >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /461/chou_kizuna_002a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /462/chou_kizuna_002b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now change to the Breaker job.
+    Original:
+    - >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now change to the Breaker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /463/chou_kizuna_003a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /464/chou_kizuna_003b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now change to the Bodyguard job.
+    Original:
+    - >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now change to the Bodyguard job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /465/chou_kizuna_004a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /466/chou_kizuna_004b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now change to the Fortuneteller job.
+    Original:
+    - >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now change to the Fortuneteller job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /467/chou_kizuna_004c/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now change to the Fortuneteller job.
+
+      Zhao can now change to the Foreman job.
+    Original:
+    - >-
+      Kasuga feels his bond with Zhao grows stronger.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now change to the Fortuneteller job.
+
+      Zhao can now change to the Foreman job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /468/chou_kizuna_005d/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga and Zhao's bond is at its strongest.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now use the skill Tag Team: Beast Brothers.
+
+      Zhao can now change to the Enforcer job.
+
+      Zhao can now change to the Devil Rocker job.
+    Original:
+    - >-
+      Kasuga and Zhao's bond is at its strongest.
+
+      Zhao will now gain more experience when he is not in the active party.
+
+      Zhao can now use the skill Tag Team: Beast Brothers.
+
+      Zhao can now change to the Enforcer job.
+
+      Zhao can now change to the Devil Rocker job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /469/eri_kizuna_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga czuję jak jego więź z Eri rośnie w siłę.
+
+      Eri będzie otrzymywać więcej doświadczenia gdy nie jest w składzie.
+    Original:
+    - >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /470/eri_kizuna_002a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /471/eri_kizuna_002b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+
+      Eri can now change to the Hostess job.
+    Original:
+    - >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+
+      Eri can now change to the Hostess job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /472/eri_kizuna_003a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /473/eri_kizuna_003b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /474/eri_kizuna_004a/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+    Original:
+    - >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /475/eri_kizuna_004b/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+
+      Eri can now change to the Night Queen job.
+    Original:
+    - >-
+      Kasuga feels his bond with Eri grows stronger.
+
+      Eri will now gain more experience when she is not in the active party.
+
+      Eri can now change to the Night Queen job.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /476/company_information_004/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Eri Kamataki can now be hired in Management.
+    Original:
+    - Eri Kamataki can now be hired in Management.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /477/system_btl_dgn00/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yokohama Underground Dungeon unlocked. You can access it through the manhole you used to escape from the Yokohama Liumang. Exploring this dungeon will not only make you stronger, but you might even find rare materials and items.
+    Original:
+    - Yokohama Underground Dungeon unlocked. You can access it through the manhole you used to escape from the Yokohama Liumang. Exploring this dungeon will not only make you stronger, but you might even find rare materials and items.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /478/system_btl_dgn01/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kamurocho Underground Dungeon unlocked. You can access it through the manhole at Theater Alley where you infiltrated the former Heian Tower. Exploring this dungeon will not only make you stronger, but you might even find rare materials and items.
+    Original:
+    - Kamurocho Underground Dungeon unlocked. You can access it through the manhole at Theater Alley where you infiltrated the former Heian Tower. Exploring this dungeon will not only make you stronger, but you might even find rare materials and items.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /479/ginnokagi/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Otrzymałeś Klucz do Srebrnych Sejfów. Klucz ten pozwoli ci otworzyć posrebrzane sejfy rozsiane po całym mieście.
+    Original:
+    - Obtained Silver Safe Skeleton Key. This key will allow you to open all silver safes scattered throughout the city.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /480/system_dgn_y999_999_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Use the ladders you find inside to return to the ground floor. Be careful not to push yourself too far ahead.
+    Original:
+    - Use the ladders you find inside to return to the ground floor. Be careful not to push yourself too far ahead.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /481/company_information_005/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ririka can now be hired in Management.
+    Original:
+    - Ririka can now be hired in Management.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /482/company_information_006/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Sumire Sawa can now be hired in Management.
+    Original:
+    - Sumire Sawa can now be hired in Management.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /483/company_information_007/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Iroha Yanagi can now be hired in Management.
+    Original:
+    - Iroha Yanagi can now be hired in Management.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /484/company_information_008/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Manae Miyakoshi can now be hired in Management.
+    Original:
+    - Manae Miyakoshi can now be hired in Management.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /485/nicks_mission_failed_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Fined 100,000 yen for not meeting Nick Ogata's condition in time.
+    Original:
+    - Fined 100,000 yen for not meeting Nick Ogata's condition in time.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /486/nicks_mission_failed_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Fined 500,000 yen for not meeting Nick Ogata's condition in time.
+    Original:
+    - Fined 500,000 yen for not meeting Nick Ogata's condition in time.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /487/nicks_mission_failed_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Fined 1,000,000 yen for not meeting Nick Ogata's condition in time.
+    Original:
+    - Fined 1,000,000 yen for not meeting Nick Ogata's condition in time.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /488/eri_kizuna/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Unlike the rest of your party members, Eri's bond level only increases as you grow your business. Increasing her bond has many benefits, such as giving her access to new jobs and skills. Keep your business skills sharp to deepen your bond with Eri!
+    Original:
+    - Unlike the rest of your party members, Eri's bond level only increases as you grow your business. Increasing her bond has many benefits, such as giving her access to new jobs and skills. Keep your business skills sharp to deepen your bond with Eri!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /489/lost_item/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your money has been sent to the convenience store ATM, and your items have been sent to the Item Box.
+    Original:
+    - Your money has been sent to the convenience store ATM, and your items have been sent to the Item Box.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /490/nanba_kizuna_010/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Progress through the main story to deepen your bond with Nanba.
+    Original:
+    - Progress through the main story to deepen your bond with Nanba.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /491/system_dgn_adv99_k100_010_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      True Final Millennium Tower
+
+
+      Remember the game's most difficult dungeon? Well that was a joke. The True Final Millennium Tower is this game's real challenge. Badasses only.
+
+      Rec. Level: 99
+
+      Rec. Job Rank: 90
+    Original:
+    - >-
+      True Final Millennium Tower
+
+
+      Remember the game's most difficult dungeon? Well that was a joke. The True Final Millennium Tower is this game's real challenge. Badasses only.
+
+      Rec. Level: 99
+
+      Rec. Job Rank: 90
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /492/system_dgn_adv99_k100_020_001/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Only a true hero could conquer the True Final Millennium Tower.
+    Original:
+    - Only a true hero could conquer the True Final Millennium Tower.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /493/system_dgn_adv99_k100_020_002/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Congratulations! You've earned our respect and admiration!
+    Original:
+    - Congratulations! You've earned our respect and admiration!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /494/system_dgn_adv99_k100_020_003/msg_system
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Obtained Legendary Hero outfit.
+    Original:
+    - Obtained Legendary Hero outfit.
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\talk_system_msg.json'

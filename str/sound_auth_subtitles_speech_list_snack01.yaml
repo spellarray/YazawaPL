@@ -1,0 +1,1197 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /0//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ‘Ľĺ•Šâ€¦â€¦
+    Original:
+    - 呼啊……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ“Žĺ‘€ďĽŚé»‘ćľ¤ĺ…\x88ç”źĺĄ˝ĺ\x83Źĺľ\x88çťŹĺ‘˘"
+    Original:
+    - 哎呀，黑澤先生好像很睏呢
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć˛’ä»€éşĽďĽŚĺŹŞćŻĺ¶ç„¶č˝‰ĺ°ĺŤŠĺ¤ść’­çš„é›»ĺ˝±
+
+      ç™ĽçŹľĺ…§ĺ®ąé‚„ćŚşćś‰č¶Łçš„
+    Original:
+    - >-
+      沒什麼，只是偶然轉到半夜播的電影
+
+      發現內容還挺有趣的
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      çµćžśä¸Ťĺ°Źĺżć•´é¨çś‹ĺ®ŚďĽŚĺ®łć‘çťˇçś ä¸Ťč¶ł
+
+      ä˝ ĺ€‘ćśä¸Ťćśäąźé€™ć¨ŁďĽź
+    Original:
+    - >-
+      結果不小心整部看完，害我睡眠不足
+
+      你們會不會也這樣？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ—ŻďĽŚĺ¸¸ćś‰çš„äş‹
+    Original:
+    - 嗯，常有的事
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ‘µĺ‘µďĽŚçśźçš„çśźçš„
+    Original:
+    - 呵呵，真的真的
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä¸ŤďĽŚć\x88‘ä¸Ťćś\x83é€™ć¨Ł"
+    Original:
+    - 不，我不會這樣
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ’¦â€¦â€¦ć\x98Żĺ—Žâ€¦â€¦ďĽź"
+    Original:
+    - 咦……是嗎……？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ—Żâ”€â”€ć\x88‘ĺ\x81¶ç\x88ľćś\x83é€™ć¨Ł"
+    Original:
+    - 嗯──我偶爾會這樣
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ—ŻďĽź
+    Original:
+    - 嗯？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ—ŻďĽź
+    Original:
+    - 嗯？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć™šä¸Šä¸€çś‹čµ·é›»ĺ˝±ĺ°±ĺśä¸Ťä¸‹äľ†
+
+      é€™ç¨®äş‹ć…ć‘ĺĄ˝ĺŹäąźĺšéŽ
+    Original:
+    - >-
+      晚上一看起電影就停不下來
+
+      這種事情我好像也做過
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x98Żă€\x81ć\x98Żĺ–”â€¦â€¦"
+    Original:
+    - 是、是喔……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é€™éşĽčŞŞäľ†ďĽŚć›ľç™Ľç”źé€™ć¨Łçš„äş‹â€¦â€¦
+    Original:
+    - 這麼說來，曾發生這樣的事……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x98Żă€\x81ć\x98Żĺ–”â€¦â€¦"
+    Original:
+    - 是、是喔……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: â€¦â€¦ć‰€ä»Ąé‚Łä»¶äş‹ĺ’Śé€™ĺ€‹ćś‰ä»€éşĽé—śäż‚ďĽź
+    Original:
+    - ……所以那件事和這個有什麼關係？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ä¸ŤďĽŚć˛’ä»€éşĽé—śäż‚ďĽŚćŠ±ć­‰â€¦â€¦
+    Original:
+    - 不，沒什麼關係，抱歉……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ďĽ\x88čŞŞäş†ç„ˇé—śçš„äş‹ć\x83…č®“ć°Łć°›č®Šĺ\x83µäş†â€¦â€¦ďĽ‰"
+    Original:
+    - （說了無關的事情讓氣氛變僵了……）
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ°±ćŻć¨ĺ¤©çš„é‚Łé¨ć‡¸ç–‘ç‰‡ĺ§?
+
+      ć‘äąźćś‰çś‹ĺ–”
+    Original:
+    - >-
+      就是昨天的那部懸疑片吧?
+
+      我也有看喔
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é‚Łé\x83¨é‚„ćŚşćś‰č¶Łçš„ĺ°Ťĺ\x90§ďĽźé›–ç„¶ĺ…‡ć‰‹č¶…ć\x98ŽéˇŻçš„"
+    Original:
+    - 那部還挺有趣的對吧？雖然兇手超明顯的
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ’¦ďĽźć\x88‘ĺ\x88°ćś€ĺľŚé\x83˝ć˛’çŚśĺ\x88°ĺ…‡ć‰‹č€¶"
+    Original:
+    - 咦？我到最後都沒猜到兇手耶
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      é‚ŁćŻĺ› ç‚şä˝ ĺ¤Şç¬¨
+
+      ĺŹŞč¦čŞŤçśźçś‹é¦¬ä¸Šĺ°±ćśç™ĽçŹľĺ•¦
+    Original:
+    - >-
+      那是因為你太笨
+
+      只要認真看馬上就會發現啦
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ’¦â€¦â€¦
+
+      çŚśä¸Ťĺ°ĺ…‡ć‰‹ĺ°±ä»Łčˇ¨ĺľç¬¨ĺ—Žâ€¦â€¦
+    Original:
+    - >-
+      咦……
+
+      猜不到兇手就代表很笨嗎……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ—ŻďĽŚç˘şĺŻ¦ĺľ\x88ç¬¨"
+    Original:
+    - 嗯，確實很笨
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ–‚ďĽŚćˇ\x90ç”źĺ…\x88ç”źç«źç„¶ä¸€ĺŹŁĺ’¬ĺ®šâ€¦â€¦"
+    Original:
+    - 喂，桐生先生竟然一口咬定……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä¸Ťé\x81Žé‚Łć\x98Żć‡¸ç–‘ç‰‡ĺ\x90§ďĽź"
+    Original:
+    - 不過那是懸疑片吧？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      çŚśä¸Ťĺ°ĺ…‡ć‰‹çš„č©±
+
+      çśźç›¸ćŹ­ć›‰ć™‚çš„éś‡ć’Ľĺ’Ść¨‚č¶ŁäąźćŻ”čĽĺ¤§ĺ•Š
+    Original:
+    - >-
+      猜不到兇手的話
+
+      真相揭曉時的震撼和樂趣也比較大啊
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      äąźă€äąźĺ°Ťâ€¦â€¦
+
+      ä»Łčˇ¨ç¬¨č›‹ćŻ”čĽč˝äş«ĺŹ—é›»ĺ˝±çš„ć¨‚č¶Łâ€¦â€¦
+    Original:
+    - >-
+      也、也對……
+
+      代表笨蛋比較能享受電影的樂趣……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä¸ŤďĽŚć˛’é‚Łĺ›žäş‹ĺ\x90§"
+    Original:
+    - 不，沒那回事吧
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć˛’éŚŻć˛’éŚŻďĽŚä¸€é‚Šć€ťč€ä¸€é‚Šçś‹äąźĺľćś‰č¶Ł
+
+      ćŻŹĺ€‹äşşäş«ĺŹ—çš„ć–ąćł•é˝ä¸Ťä¸€ć¨Ł
+    Original:
+    - >-
+      沒錯沒錯，一邊思考一邊看也很有趣
+
+      每個人享受的方法都不一樣
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ°Ťă€\x81ĺ°Ťĺ•ŠďĽ\x81"
+    Original:
+    - 對、對啊！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ—ŻďĽźć\x98Żĺ—ŽďĽź"
+    Original:
+    - 嗯？是嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /32//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺŹ\x88ä¸Ťć\x98Żč\x83˝çŚśĺ\x88°ĺ…‡ć‰‹çš„äşşĺ°±ćŻ”čĽ\x83ĺŽ˛ĺ®ł"
+    Original:
+    - 又不是能猜到兇手的人就比較厲害
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /33//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ°Ťă€ĺ°Ťĺ•Š
+
+      ĺ°±ç®—ä¸ŤçźĄé“ĺ…‡ć‰‹äąźć˛’é—śäż‚ĺ•¦ďĽ
+    Original:
+    - >-
+      對、對啊
+
+      就算不知道兇手也沒關係啦！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /34//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ’¦ďĽźć€ŽéşĽč¦şĺľ—ĺĄ˝ĺ\x83Źč®Šć\x88\x90ć\x88‘ä¸Ťĺ°ŤďĽź"
+    Original:
+    - 咦？怎麼覺得好像變成我不對？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /35//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć˛’ćś‰ĺ•¦
+
+      ĺŹŞćŻćŻŹĺ€‹äşşçś‹é›»ĺ˝±çš„ć–ąćł•ä¸Ťä¸€ć¨Łç˝·äş†
+    Original:
+    - >-
+      沒有啦
+
+      只是每個人看電影的方法不一樣罷了
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /36//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć€ŽéşĽć¨Łé˝ĺĄ˝
+
+      ä˝†ćś€ĺĄ˝ä¸Ťč¦ĺ¤Şĺ¸¸ç†¬ĺ¤śĺ–”
+    Original:
+    - >-
+      怎麼樣都好
+
+      但最好不要太常熬夜喔
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /37//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      č©±čŞŞĺ›žäľ†ďĽŚĺŚć¨Łä¸€ä»¶äş‹
+
+      ä¸Ťč¦şĺľ—ĺś¨ĺŤŠĺ¤śçš„ć™‚ĺ€™ĺšćśč®Šĺľ—ćŻ”čĽĺĄ˝çŽ©ĺ—ŽďĽź
+    Original:
+    - >-
+      話說回來，同樣一件事
+
+      不覺得在半夜的時候做會變得比較好玩嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /38//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ“¦ĺ“¦ďĽŚć\x88‘ć‡‚ä˝ çš„ć„Źć€ť"
+    Original:
+    - 哦哦，我懂你的意思
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /39//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¦‚ćžśé‚Łé\x83¨é›»ĺ˝±ĺś¨ç™˝ĺ¤©ć’­ďĽŚć\x88‘ĺ¤§ć¦‚ĺ°±ä¸Ťćś\x83çś‹äş†"
+    Original:
+    - 如果那部電影在白天播，我大概就不會看了
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /40//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: çš„ç˘ş
+    Original:
+    - 的確
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /41//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺŞ˝ĺŞ˝ćˇ‘ćś\x83ä¸Ťćś\x83äąźé€™éşĽčŞŤç‚şďĽź"
+    Original:
+    - 媽媽桑會不會也這麼認為？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /42//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä˝†ć\x98Żç†¬ĺ¤śĺŻ¦ĺś¨â€¦â€¦"
+    Original:
+    - 但是熬夜實在……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /43//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ç†¬ĺ¤śćś‰ä»€éşĽä¸ŤĺĄ˝çš„ďĽź
+    Original:
+    - 熬夜有什麼不好的？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /44//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä¸Ťć\x98ŻčŞŞç†¬ĺ¤śĺ°Ťçš®č†šä¸ŤĺĄ˝ĺ—ŽďĽź"
+    Original:
+    - 不是說熬夜對皮膚不好嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /45//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ–”ďĽŚć\x88‘ćś‰č\x81˝čŞŞé\x81Ž"
+    Original:
+    - 喔，我有聽說過
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /46//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ°Ťĺ\x90§ďĽ\x81"
+    Original:
+    - 對吧！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /47//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ä¸ŤďĽŚä¸Ťĺ°Ť
+    Original:
+    - 不，不對
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /48//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä˝ ĺ…\x88č\x81˝ć\x88‘čŞŞĺ®Śĺ\x98›"
+    Original:
+    - 你先聽我說完嘛
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /49//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ—ŻďĽźć\x98Żé€™ć¨Łĺ—ŽďĽź"
+    Original:
+    - 嗯？是這樣嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /50//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺĄ˝ĺ\x83Źć\x98Żé€™ć¨Łĺ–”"
+    Original:
+    - 好像是這樣喔
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /51//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      č˝čŞŞĺ•Š
+
+      ç†¬ĺ¤śćśč®“čŤ·çľč’™č®Šĺľ—ä¸Ťĺąłčˇˇ
+    Original:
+    - >-
+      聽說啊
+
+      熬夜會讓荷爾蒙變得不平衡
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /52//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "čŤ·ç\x88ľč’™ďĽź"
+    Original:
+    - 荷爾蒙？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /53//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć˛’éŚŻć˛’éŚŻďĽŚć“ščŞŞé€™ćśč®“çš®č†šć›´ĺ®ąć“é•·ć–‘
+
+      ć‘ĺś¨é›»č¦–ä¸Šçś‹ĺ°çš„
+    Original:
+    - >-
+      沒錯沒錯，據說這會讓皮膚更容易長斑
+
+      我在電視上看到的
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /54//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ°±ç®—ĺ¦łčŞŞä»€éşĽčŤ·çľč’™é‚„ćŻé•·ć–‘
+
+      ć‘é‚„ćŻä¸Ťĺ¤Şč˝é«”ćśč€¶
+    Original:
+    - >-
+      就算妳說什麼荷爾蒙還是長斑
+
+      我還是不太能體會耶
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /55//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺĄ˝ĺ\x83Źć\x98ŻĺŹ¦ĺ¤–ä¸€ĺ€‹ä¸–ç•Śçš„äş‹ć\x83…"
+    Original:
+    - 好像是另外一個世界的事情
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /56//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č©±é›–é€™éşĽčŞŞďĽŚä˝†ç•˘ç«źć\x98Żč‡Şĺ·±çš„čş«é«”ĺ•Š"
+    Original:
+    - 話雖這麼說，但畢竟是自己的身體啊
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /57//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é‚„ć\x98Żć—©ä¸€é»žçťˇćś\x83ćŻ”čĽ\x83ĺĄ˝ĺ\x90§ďĽź"
+    Original:
+    - 還是早一點睡會比較好吧？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /58//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ—ŻďĽŚäąźĺ°Ť
+    Original:
+    - 嗯，也對
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /59//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: čŞŞĺľ—ć˛’éŚŻ
+    Original:
+    - 說得沒錯
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /60//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ä¸ŤďĽŚć˛’ćś‰é‚Łĺ›žäş‹
+    Original:
+    - 不，沒有那回事
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /61//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ’¦ďĽźä˝ ć€ŽéşĽćś\x83é€™éşĽčŞŤç‚şďĽź"
+    Original:
+    - 咦？你怎麼會這麼認為？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /62//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺŹŞć\x98Żä¸‹ć„Źč­\x98â€¦â€¦"
+    Original:
+    - 只是下意識……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /63//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä¸Ťč¦\x81č¦şĺľ—çš®č†šć\x98Żĺ\x88Ąäşşçš„ďĽŚĺ°±éš¨äľżć•·čˇŤĺ•¦"
+    Original:
+    - 不要覺得皮膚是別人的，就隨便敷衍啦
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /64//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ—ŻďĽźć\x98Żé€™ć¨Łĺ—ŽďĽź"
+    Original:
+    - 嗯？是這樣嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /65//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺĄ˝ĺ\x83Źć\x98Żé€™ć¨Łĺ–”"
+    Original:
+    - 好像是這樣喔
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /66//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      é€™éşĽčŞŞäľ†č—Ąĺ±€č€é—†äąźčŞŞä»–ć—©é»žçťˇ
+
+      çµćžśçš®č†šč®Šĺľ—éťžĺ¸¸ĺ…‰ć»‘
+    Original:
+    - >-
+      這麼說來藥局老闆也說他早點睡
+
+      結果皮膚變得非常光滑
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /67//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "çśźçš„ĺ—ŽďĽźé‚Łć\x88‘ĺľ—č¶•ĺż«é—śĺş—ĺŽ»çťˇč¦şďĽ\x81"
+    Original:
+    - 真的嗎？那我得趕快關店去睡覺！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /68//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ–‚ĺ–‚ďĽŚć\x88‘ć‰Ťĺ‰›äľ†ĺ‘˘ďĽŚĺ\x88Ąé€™ć¨Łĺ•¦â€¦â€¦"
+    Original:
+    - 喂喂，我才剛來呢，別這樣啦……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /69//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺŞ˝ĺŞ˝ćˇ‘çš„çš®č†šĺŤłä˝żĺť‘ĺť‘ç–¤ç–¤äąźĺľ\x88ćĽ‚äş®ďĽ\x81"
+    Original:
+    - 媽媽桑的皮膚即使坑坑疤疤也很漂亮！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /70//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä˝ é‚Łč©±ć ąćś¬ç®—ä¸Ťä¸Šĺ®‰ć…°ĺ•¦â”€â”€ďĽ\x81"
+    Original:
+    - 你那話根本算不上安慰啦──！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /71//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ“\x88ĺ“\x88ĺ“\x88ďĽ\x81"
+    Original:
+    - 哈哈哈！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /72//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä¸Ťé\x81Žçš„ç˘şďĽŚć„źč¦şć—©é»žçťˇĺ°Ťčş«é«”ćŻ”čĽ\x83ĺĄ˝"
+    Original:
+    - 不過的確，感覺早點睡對身體比較好
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /73//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć€ŽéşĽçŞ\x81ç„¶é€™éşĽčŞŞďĽźä˝ ä¸Ťć\x98Żç†¬ĺ¤ść´ľçš„ĺ—ŽďĽź"
+    Original:
+    - 怎麼突然這麼說？你不是熬夜派的嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /74//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ› ç‚şé‚Łĺ€‹ĺ•Š
+
+      ĺžĺśľéŁźç‰©ä¸ŤćŻé˝č¶…ĺĄ˝ĺçš„ĺ—ŽďĽź
+    Original:
+    - >-
+      因為那個啊
+
+      垃圾食物不是都超好吃的嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /75//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺľ\x88ĺĄ˝ĺ\x90\x83"
+    Original:
+    - 很好吃
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ć‰€ä»Ąĺ‘˘ďĽź
+    Original:
+    - 所以呢？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć‘ĺś¨ćłďĽŚč©˛ä¸ŤćśćŻčş«é«”č¶Šĺ·®
+
+      č¶Šćśč¦şĺľ—é€™äş›éŁźç‰©ĺľĺĄ˝ĺ
+    Original:
+    - >-
+      我在想，該不會是身體越差
+
+      越會覺得這些食物很好吃
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć‰€ä»Ąĺż«ć¨‚ĺś°ç†¬ĺ¤ść‰Ťćś\x83ĺ°Ťçš®č†šä¸ŤĺĄ˝ĺ—ŽďĽź"
+    Original:
+    - 所以快樂地熬夜才會對皮膚不好嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ¦‚ćžśćŻé€™ć¨ŁďĽŚé‚Łć™šä¸Šć‰ŤĺĄ˝çŽ©çš„ĺ°Źé…’é¤¨č¦ć€ŽéşĽčľ¦ĺ›ď˝žďĽź
+
+      é–‹ĺľ—ć™šé›Łé“éŚŻäş†ĺ—ŽďĽź
+    Original:
+    - >-
+      如果是這樣，那晚上才好玩的小酒館要怎麼辦嘛～？
+
+      開得晚難道錯了嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /80//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ—ŻďĽŚĺ°Ťĺ•Š
+    Original:
+    - 嗯，對啊
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ–‚ĺ–‚ďĽŚćˇç”źĺ…ç”źďĽŚä˝ ć”ľéŽć‘ĺ§
+
+      é€™ć¨ŁćŻĺ¦¨ç¤™ç‡źćĄ­ĺ–”ďĽä˝ ć‰“ç®—ĺ®łé€™čŁˇĺ€’ćŽ‰ĺ—ŽďĽź
+    Original:
+    - >-
+      喂喂，桐生先生，你放過我吧
+
+      這樣是妨礙營業喔！你打算害這裡倒掉嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č¦\x81ć\x98Żć˛’äş†é€™é–“ĺş—ďĽŚć\x88‘ĺ€‘äąźćś\x83ĺľ\x88ĺ‚·č…¦ç­‹â€¦â€¦"
+    Original:
+    - 要是沒了這間店，我們也會很傷腦筋……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /83//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ°Ťĺ•Šâ€¦â€¦
+    Original:
+    - 對啊……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ć„źč¦şćś‰é»žćŠ±ć­‰â€¦â€¦
+    Original:
+    - 感覺有點抱歉……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ä¸ŤďĽŚć˛’ćś‰é‚Łĺ›žäş‹ĺ–”
+    Original:
+    - 不，沒有那回事喔
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č\x81˝čŞŞĺ¤§ç¬‘ä¸Ťć\x98Żäąźćś‰ç›Šć–Ľĺ\x81Ąĺş·ĺ—ŽďĽź"
+    Original:
+    - 聽說大笑不是也有益於健康嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć—˘ç„¶ć™šçťˇĺ°Ťčş«é«”ä¸ŤĺĄ˝çš„č©±
+
+      é‚Łĺ°±ç›ˇć…ĺ¤§ç¬‘ďĽŚä¸Ťĺ°±ć‰Żĺąłäş†
+    Original:
+    - >-
+      既然晚睡對身體不好的話
+
+      那就盡情大笑，不就扯平了
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ä»€éşĽĺ\x98›ď˝žć˛’ć\x83łĺ\x88°ćˇ\x90ç”źĺ…\x88ç”źé€™éşĽćś\x83čŞŞč©±ďĽ\x81"
+    Original:
+    - 什麼嘛～沒想到桐生先生這麼會說話！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘ć­Łć‰“ç®—é‚ŁéşĽčŞŞçš„č€¶ď˝žďĽ\x81"
+    Original:
+    - 我正打算那麼說的耶～！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: é¨™äşş
+    Original:
+    - 騙人
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /91//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ—ŻďĽźä¸ŤčˇŚĺ—ŽďĽź
+    Original:
+    - 嗯？不行嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /92//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é€™ć¨Łč¬›ć\x98Żĺ¤ŞčŞ‡ĺĽµäş†ĺ•¦"
+    Original:
+    - 這樣講是太誇張了啦
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /93//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      č‡ĺ…¶ä¸Ťč˝ĺ†Ťäľ†é€™é–“ĺş—
+
+      ć‘ĺŻ§ĺŹŻč®“çš®č†šč®Šĺ·®ä¸€é»žäąźç„ˇć‰€č¬‚
+    Original:
+    - >-
+      與其不能再來這間店
+
+      我寧可讓皮膚變差一點也無所謂
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /94//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ćł\x81ä¸”ć ąćś¬ć˛’äşşĺś¨äąŽä˝ çš„çš®č†šĺ•Š"
+    Original:
+    - 況且根本沒人在乎你的皮膚啊
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /95//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘ć\x83łĺ\x88°äş†ďĽ\x81ĺ¤§ĺ®¶ć”ľĺż\x83ďĽ\x81"
+    Original:
+    - 我想到了！大家放心！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ—ŻďĽź
+    Original:
+    - 嗯？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ć—˘ç„¶é˝čŞŞĺ°é€™ĺ€‹ĺś°ć­Ą
+
+      ć‘äľ†č®“é€™é–“ĺş—č®Šćč¶…é¤Šç”źĺ°Źé…’é¤¨ĺ§ďĽ
+    Original:
+    - >-
+      既然都說到這個地步
+
+      我來讓這間店變成超養生小酒館吧！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: č¶…é¤Šç”źďĽźä»€éşĽć„Źć€ťďĽź
+    Original:
+    - 超養生？什麼意思？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /99//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      é¦–ĺ…ćŠŠčŹśĺ–®ćŹ›ćä»Ąč”¬čŹśç‚şä¸­ĺż
+
+      é…’éˇžäąźć”ąç‚şĺŠ ĺ…Ąĺ¤©ç„¶č—Ąćťçš„č—Ąé…’
+    Original:
+    - >-
+      首先把菜單換成以蔬菜為中心
+
+      酒類也改為加入天然藥材的藥酒
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /100//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ’¦â€¦â€¦
+    Original:
+    - 咦……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /101//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "č€Śä¸”ĺś¨ĺş—ĺ…§č¦\x81ç¦\x81čŹ¸ďĽŚé‚„ćś‰â€¦â€¦"
+    Original:
+    - 而且在店內要禁菸，還有……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /102//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ç­‰ä¸€ä¸‹ç­‰ä¸€ä¸‹ďĽŚĺŞ˝ĺŞ˝ćˇ‘ďĽ\x81"
+    Original:
+    - 等一下等一下，媽媽桑！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /103//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ—ŻďĽź
+    Original:
+    - 嗯？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /104//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é‚Łć¨Łçš„č©±ďĽŚĺŞ˝ĺŞ˝ćˇ‘ä¸Ťćś\x83äąźĺľ\x88é›ŁĺŹ—ĺ—ŽďĽź"
+    Original:
+    - 那樣的話，媽媽桑不會也很難受嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /105//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â€¦â€¦ĺĄ˝ĺ\x83Źç˘şĺŻ¦ć\x98Żé€™ć¨ŁďĽŚć‡‰č©˛čŞŞć ąćś¬čľ¦ä¸Ťĺ\x88°"
+    Original:
+    - ……好像確實是這樣，應該說根本辦不到
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /106//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ç¶­ćŚçŹľç‹€ĺ°±čˇŚäş†ĺ•¦
+
+      ĺŹć˛’ćś‰ä»€éşĽĺ•ŹéˇŚ
+    Original:
+    - >-
+      維持現狀就行了啦
+
+      又沒有什麼問題
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /107//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺ°Ťĺ•Šĺ°Ťĺ•ŠďĽŚč¦ćŻçˇ¬ĺšĺ‡şć”ąč®Š
+
+      é€ ćĺŁ“ĺŠ›çš„č©±ďĽŚĺŹŤč€Śćśč®“çš®č†šć›´çłźçł•ĺ–”
+    Original:
+    - >-
+      對啊對啊，要是硬做出改變
+
+      造成壓力的話，反而會讓皮膚更糟糕喔
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /108//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ—Żď˝žé‚Łć¨Łĺ°±ć˛’ćś‰ć„Źçľ©äş†
+    Original:
+    - 嗯～那樣就沒有意義了
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /109//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "â€¦â€¦ĺ‘\x83ďĽŚä˝ ĺ‰›ĺ‰›čŞŞă€Ść›´çłźçł•ă€Ťĺ—ŽďĽź"
+    Original:
+    - ……呃，你剛剛說「更糟糕」嗎？
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /110//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć˛’ă€\x81ć˛’ćś‰ďĽŚć\x88‘ĺŹŞć\x98Żä¸€ć™‚ĺŹŁčŞ¤ĺ•¦â€¦â€¦"
+    Original:
+    - 沒、沒有，我只是一時口誤啦……
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /111//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      ĺŹŤć­Łç„ˇč«–ĺ¦‚ä˝•
+
+      é€™é–“ĺş—č˝ć°¸é ä¸Ťč®ŠďĽŚĺ°±ćŻćś€ĺĄ˝çš„ďĽ
+    Original:
+    - >-
+      反正無論如何
+
+      這間店能永遠不變，就是最好的！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /112//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é‚Łćś¬ĺş—äą‹ĺľŚäąźćś\x83çąĽçşŚç‡źćĄ­ä¸‹ĺŽ»â”€â”€ďĽ\x81"
+    Original:
+    - 那本店之後也會繼續營業下去──！
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /113//4
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88‘č´Šć\x88\x90â”€â”€ďĽ\x81"
+    Original:
+    - 我贊成──！
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\sound_auth_subtitles_speech_list_snack01.json'

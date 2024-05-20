@@ -1,0 +1,1173 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/1//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Vocational School
+    Original:
+    - Vocational School
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/1//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This facility is all about developing one's self as an individual. Passing exams will provide a huge boost to different facets of Kasuga's personality.
+    Original:
+    - This facility is all about developing one's self as an individual. Passing exams will provide a huge boost to different facets of Kasuga's personality.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/2//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Poundmates
+    Original:
+    - Poundmates
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/2//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: For a price, you can use your smartphone and call in backup via the "Etc." command in battle. The roster of allies will grow more and more as you progress through the main story or clear substories. Now, get out there and pound 'em!
+    Original:
+    - For a price, you can use your smartphone and call in backup via the "Etc." command in battle. The roster of allies will grow more and more as you progress through the main story or clear substories. Now, get out there and pound 'em!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/3//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Dragon Kart
+    Original:
+    - Dragon Kart
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/3//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Race through the streets of Yokohama in a pedal-to-the-medal battle for first place! Speed your way to victory and use whatever crazy items you can to leave your rivals in the dust! Check it out near the garage in Hamakita Park.
+    Original:
+    - Race through the streets of Yokohama in a pedal-to-the-medal battle for first place! Speed your way to victory and use whatever crazy items you can to leave your rivals in the dust! Check it out near the garage in Hamakita Park.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/4//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Party Chat
+    Original:
+    - Party Chat
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/4//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can listen in on short conversations that happen among your party members around the city. Listen until the end, and you'll strengthen the bond between you and your party members. Interrupting these conversations by opening menus or triggering a battle will not only force everyone to stop talking, but it's also just plain rude.
+    Original:
+    - You can listen in on short conversations that happen among your party members around the city. Listen until the end, and you'll strengthen the bond between you and your party members. Interrupting these conversations by opening menus or triggering a battle will not only force everyone to stop talking, but it's also just plain rude.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/5//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Drink Links
+    Original:
+    - Drink Links
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/5//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Interacting with a party member will fill your bond gauge with them. Fill up a certain amount, and you will trigger a Drink Link. Learning about your party members' secret pasts or grievances will further deepen your bonds with them. Strong bonds can give excellent status boosts in battle, so it never hurts to be a friend.
+    Original:
+    - Interacting with a party member will fill your bond gauge with them. Fill up a certain amount, and you will trigger a Drink Link. Learning about your party members' secret pasts or grievances will further deepen your bonds with them. Strong bonds can give excellent status boosts in battle, so it never hurts to be a friend.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/6//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Personality
+    Original:
+    - Personality
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/6//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Different facets of Kasuga's personality will improve depending on your actions and choices. Improving Kasuga's personality will unlock a variety of helpful things like new events, additional shops, and much, much more, so make our hero the best he can be.
+    Original:
+    - Different facets of Kasuga's personality will improve depending on your actions and choices. Improving Kasuga's personality will unlock a variety of helpful things like new events, additional shops, and much, much more, so make our hero the best he can be.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/7//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Gifts
+    Original:
+    - Gifts
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/7//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The flowers you grow can be taken to the bartender at Survive Bar to be arranged into bouquets. You can then give these bouquets to the different love interests Kasuga meets along his journey to deepen your bonds with them. Who knows? You just might see some sparks fly.
+    Original:
+    - The flowers you grow can be taken to the bartender at Survive Bar to be arranged into bouquets. You can then give these bouquets to the different love interests Kasuga meets along his journey to deepen your bonds with them. Who knows? You just might see some sparks fly.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/8//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Can Quest
+    Original:
+    - Can Quest
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/tips_etc/sub_table/8//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If you're really serious about collecting cans, you can use boost to ram into your rivals and take theirs. Check your surroundings, chug an energy drink, and get crashing!
+    Original:
+    - If you're really serious about collecting cans, you can use boost to ram into your rivals and take theirs. Check your surroundings, chug an energy drink, and get crashing!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/1//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Wanna See My CD Collection?
+    Original:
+    - Wanna See My CD Collection?
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/1//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: While strolling around town, you can collect CDs which you can listen to at Survive Bar.
+    Original:
+    - While strolling around town, you can collect CDs which you can listen to at Survive Bar.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/2//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: DIY Harvest
+    Original:
+    - DIY Harvest
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/2//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can take up gardening with one of the many planters scattered around Yokohama and some seeds. You can then harvest the flowers or vegetables to be used for bouquets, spices for bentos, or medicine.
+    Original:
+    - You can take up gardening with one of the many planters scattered around Yokohama and some seeds. You can then harvest the flowers or vegetables to be used for bouquets, spices for bentos, or medicine.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/3//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Treasure Hunt
+    Original:
+    - Treasure Hunt
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/3//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can find items by checking specific locations such as vending machines. If you find an area where the ground has a shining circle, approach it and try pressing <symbol=button_shikaku>.
+    Original:
+    - You can find items by checking specific locations such as vending machines. If you find an area where the ground has a shining circle, approach it and try pressing <symbol=button_shikaku>.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/4//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Gold and Silver Safes
+    Original:
+    - Gold and Silver Safes
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/4//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: There are safes locked and secured throughout the city. By using a gold or silver key with their respective safes, you'll collect the items within.
+    Original:
+    - There are safes locked and secured throughout the city. By using a gold or silver key with their respective safes, you'll collect the items within.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/5//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Briefcases
+    Original:
+    - Briefcases
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/5//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In the city you may come across abandoned briefcases which contain useful items.
+    Original:
+    - In the city you may come across abandoned briefcases which contain useful items.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/6//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bugcatching
+    Original:
+    - Bugcatching
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/6//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: At times, you may encounter and capture insects resting on trees. Not only can you sell the rarer ones at a high price, some of them may prove useful.
+    Original:
+    - At times, you may encounter and capture insects resting on trees. Not only can you sell the rarer ones at a high price, some of them may prove useful.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/7//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Part-time Hero Quests
+    Original:
+    - Part-time Hero Quests
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/7//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Fulfill requests and rid the city of its social ills. A quest might be anything from taking down thugs to searching for missing persons. Requests are automatically undertaken, so make sure to periodically check these from the Pause Menu.
+    Original:
+    - Fulfill requests and rid the city of its social ills. A quest might be anything from taking down thugs to searching for missing persons. Requests are automatically undertaken, so make sure to periodically check these from the Pause Menu.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/8//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Challenge Quests
+    Original:
+    - Challenge Quests
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/tips_town/sub_table/8//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can check out these challenges from the Pause Menu. By clearing the specified conditions and objectives, Kasuga's personality will improve.
+    Original:
+    - You can check out these challenges from the Pause Menu. By clearing the specified conditions and objectives, Kasuga's personality will improve.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/1//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Save! It's the Wise Thing to Do!
+    Original:
+    - Save! It's the Wise Thing to Do!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/1//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This game uses autosave features. Data will automatically save after certain points in the game such as at the end of event scenarios. You can also save manually from the Pause Menu or at the save points found inside safe rooms in certain areas of the city.
+    Original:
+    - This game uses autosave features. Data will automatically save after certain points in the game such as at the end of event scenarios. You can also save manually from the Pause Menu or at the save points found inside safe rooms in certain areas of the city.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/2//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Item Boxes
+    Original:
+    - Item Boxes
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/2//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will find an Item Box in your hideout and also throughout the game's various dungeons. Accessing these boxes will allow you to store or take out any of the items you own.
+    Original:
+    - You will find an Item Box in your hideout and also throughout the game's various dungeons. Accessing these boxes will allow you to store or take out any of the items you own.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/3//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Night and Day
+    Original:
+    - Night and Day
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/3//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Accessing the closet on the 2nd floor of Survive Bar will cause time to shift.
+    Original:
+    - Accessing the closet on the 2nd floor of Survive Bar will cause time to shift.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/4//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hey, Taxi!
+    Original:
+    - Hey, Taxi!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/4//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Various parked taxis will allow you to travel around the city at warp-speed. You can even do this via the Pause Menu. Taxi locations will be added to your map each time you access a new one.
+    Original:
+    - Various parked taxis will allow you to travel around the city at warp-speed. You can even do this via the Pause Menu. Taxi locations will be added to your map each time you access a new one.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/5//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Never Get Lost Again
+    Original:
+    - Never Get Lost Again
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/5//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The mini map displayed in the lower-left corner shows your surroundings, points of interest, and enemies. Use both forms of the map to figure out where you're headed and how to get there!
+    Original:
+    - The mini map displayed in the lower-left corner shows your surroundings, points of interest, and enemies. Use both forms of the map to figure out where you're headed and how to get there!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/6//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You'll Be Running Marathons in No Time!
+    Original:
+    - You'll Be Running Marathons in No Time!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/6//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Holding down <symbol=button_batsu> or <symbol=button_r2> will cause you to sprint!
+    Original:
+    - Holding down <symbol=button_batsu> or <symbol=button_r2> will cause you to sprint!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/7//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A Fresh Perspective
+    Original:
+    - A Fresh Perspective
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/7//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Pressing <symbol=button_l3> will put you in first-person mode, allowing you to move around and see the city through Kasuga's eyes.
+    Original:
+    - Pressing <symbol=button_l3> will put you in first-person mode, allowing you to move around and see the city through Kasuga's eyes.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/8//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Invaluable Valuables
+    Original:
+    - Invaluable Valuables
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/8//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will obtain various Valuables throughout the game. Valuables may neither be discarded nor sold.
+    Original:
+    - You will obtain various Valuables throughout the game. Valuables may neither be discarded nor sold.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/9//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: New Look, New You
+    Original:
+    - New Look, New You
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/9//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You may change into outfits obtained from downloadable content at Hello Work. However, this is a privilege offered only to those who have cleared the game.
+    Original:
+    - You may change into outfits obtained from downloadable content at Hello Work. However, this is a privilege offered only to those who have cleared the game.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/10//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The Adventure Doesn't End Here
+    Original:
+    - The Adventure Doesn't End Here
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/10//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will be able to explore the world beyond the game's final chapter in Premium Adventure. Take this opportunity to catch up on substories and master minigames.
+    Original:
+    - You will be able to explore the world beyond the game's final chapter in Premium Adventure. Take this opportunity to catch up on substories and master minigames.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/11//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Work, Work, Work
+    Original:
+    - Work, Work, Work
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/11//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will be able to assign jobs to Kasuga and his party members at Hello Work. There are special attacks and skills unique to each job, so choose the jobs best suited to the situation at hand.
+    Original:
+    - You will be able to assign jobs to Kasuga and his party members at Hello Work. There are special attacks and skills unique to each job, so choose the jobs best suited to the situation at hand.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/12//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Party Up
+    Original:
+    - Party Up
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/12//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga will befriend many allies throughout his adventure, and up to three of them can join him around town or in battle. Kasuga cannot be removed as the party's leader. You may choose who will accompany him by accessing Party from the Pause Menu.
+    Original:
+    - Kasuga will befriend many allies throughout his adventure, and up to three of them can join him around town or in battle. Kasuga cannot be removed as the party's leader. You may choose who will accompany him by accessing Party from the Pause Menu.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/13//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Gearing Up
+    Original:
+    - Gearing Up
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/tips_system/sub_table/13//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can equip Kasuga and his fellow party members with a wide variety of gear. Each piece of gear has different status boosts and effects, so be sure to try them all out and see which gear best fits each party member.
+    Original:
+    - You can equip Kasuga and his fellow party members with a wide variety of gear. Each piece of gear has different status boosts and effects, so be sure to try them all out and see which gear best fits each party member.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/1//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A Guy's Gotta Eat!
+    Original:
+    - A Guy's Gotta Eat!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/1//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Indulging in food and drink at restaurants will not only restore lost health, but also give you experience points. Certain combinations of items ordered will net you bonus experience points, so don't be afraid to mix and match! As the saying goes, "A good conscience is a continual feast."
+    Original:
+    - Indulging in food and drink at restaurants will not only restore lost health, but also give you experience points. Certain combinations of items ordered will net you bonus experience points, so don't be afraid to mix and match! As the saying goes, "A good conscience is a continual feast."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/2//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Drink 'Til You Drop!
+    Original:
+    - Drink 'Til You Drop!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/2//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Drinking alcoholic beverages will make you temporarily drunk. You may end up attacking your party members during battle in this state.
+    Original:
+    - Drinking alcoholic beverages will make you temporarily drunk. You may end up attacking your party members during battle in this state.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/3//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Be Wise and Save!
+    Original:
+    - Be Wise and Save!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/3//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You will be able to deposit your money via an ATM at Convenience Stores. Anything stored away will be safe and sound even upon being eliminated in battle.
+    Original:
+    - You will be able to deposit your money via an ATM at Convenience Stores. Anything stored away will be safe and sound even upon being eliminated in battle.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/4//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: There's Always the Pawn Shop!
+    Original:
+    - There's Always the Pawn Shop!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/4//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can sell everything except for Valuables at Pawn Shops. If you need immediate funds, selling off items you don't need there would be the quickest way.
+    Original:
+    - You can sell everything except for Valuables at Pawn Shops. If you need immediate funds, selling off items you don't need there would be the quickest way.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/5//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Romance Workshop
+    Original:
+    - Romance Workshop
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/5//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can craft weapons and gear at the Romance Workshop. By scavenging the streets for materials and investing in the workshop's facility, you'll be able to craft a wider variety of gear. Be aggressive in utilizing the workshop and improve your arsenal! As the saying goes, "Iron sharpens iron."
+    Original:
+    - You can craft weapons and gear at the Romance Workshop. By scavenging the streets for materials and investing in the workshop's facility, you'll be able to craft a wider variety of gear. Be aggressive in utilizing the workshop and improve your arsenal! As the saying goes, "Iron sharpens iron."
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/6//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Table Talk
+    Original:
+    - Table Talk
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/6//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Dining at certain restaurants around Yokohama with your friends and ordering certain combinations of menu items will cause a Table Talk to unfold. Your bond between you and participating party members will deepen, so be sure to try everything on the menu with your friends!
+    Original:
+    - Dining at certain restaurants around Yokohama with your friends and ordering certain combinations of menu items will cause a Table Talk to unfold. Your bond between you and participating party members will deepen, so be sure to try everything on the menu with your friends!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/7//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Menu Sets
+    Original:
+    - Menu Sets
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/tips_shop/sub_table/7//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ordering a certain combination of menu items can trigger a Menu Set. When this happens, you and your party will gain temporary stat boosts, increased money and EXP gained from battle, and other benefits. So get creative and order some delicious combinations.
+    Original:
+    - Ordering a certain combination of menu items can trigger a Menu Set. When this happens, you and your party will gain temporary stat boosts, increased money and EXP gained from battle, and other benefits. So get creative and order some delicious combinations.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/1//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Inputs Displayed During An Attack Skill
+    Original:
+    - Inputs Displayed During An Attack Skill
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/1//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Press the inputs displayed at the moment your attack connects to inflict more damage. This applies even when Autobattle is active. Look for <symbol=button_shikaku> when you have to press rapidly, versus <symbol=button_sankaku> which relies on precise timing.
+    Original:
+    - Press the inputs displayed at the moment your attack connects to inflict more damage. This applies even when Autobattle is active. Look for <symbol=button_shikaku> when you have to press rapidly, versus <symbol=button_sankaku> which relies on precise timing.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/2//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Perfect Guard
+    Original:
+    - Perfect Guard
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/2//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If you press <symbol=button_cancel> at the moment you're attacked, you'll take less damage. This applies even when Autobattle is active.
+    Original:
+    - If you press <symbol=button_cancel> at the moment you're attacked, you'll take less damage. This applies even when Autobattle is active.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/3//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: When Poundmates Fail
+    Original:
+    - When Poundmates Fail
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/3//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If Kasuga is in an area with weak cellphone service, he cannot use Poundmates to call for help. Some enemies also emit signal-blocking waves that render smartphones useless.
+    Original:
+    - If Kasuga is in an area with weak cellphone service, he cannot use Poundmates to call for help. Some enemies also emit signal-blocking waves that render smartphones useless.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/4//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Enemies That Cut You Off
+    Original:
+    - Enemies That Cut You Off
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/4//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Some enemies can interrupt your actions if you attempt to target their nearby allies. If the enemies are protecting each other, you'll have to take them out first. Skills, however, may still break through.
+    Original:
+    - Some enemies can interrupt your actions if you attempt to target their nearby allies. If the enemies are protecting each other, you'll have to take them out first. Skills, however, may still break through.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/5//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: When The Enemy Steals Your Items
+    Original:
+    - When The Enemy Steals Your Items
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/5//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Any items stolen from Kasuga or his party by enemies can be reclaimed by defeating them and winning the battle. However, you cannot reclaim stolen items once the enemy flees the battle.
+    Original:
+    - Any items stolen from Kasuga or his party by enemies can be reclaimed by defeating them and winning the battle. However, you cannot reclaim stolen items once the enemy flees the battle.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/6//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Chain Attacks
+    Original:
+    - Chain Attacks
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/6//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If one party member knocks down an enemy and another party member is nearby, the latter may follow up with a chain attack. The likelihood of a chain attack depends on your bond with your party.
+    Original:
+    - If one party member knocks down an enemy and another party member is nearby, the latter may follow up with a chain attack. The likelihood of a chain attack depends on your bond with your party.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/7//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Status Effects
+    Original:
+    - Status Effects
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/7//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You may incur other negative effects in addition to damage. These status effects may range from extra damage to restriction of your actions. However, status effects can be removed with the right items or skills.
+    Original:
+    - You may incur other negative effects in addition to damage. These status effects may range from extra damage to restriction of your actions. However, status effects can be removed with the right items or skills.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/8//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nearby Objects During Battle
+    Original:
+    - Nearby Objects During Battle
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/8//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: After you attack, you may follow up with another if there happen to be objects like signs, bicycles, or furniture nearby. Kasuga in particular tends to use these objects to inflict a lot of damage to enemies.
+    Original:
+    - After you attack, you may follow up with another if there happen to be objects like signs, bicycles, or furniture nearby. Kasuga in particular tends to use these objects to inflict a lot of damage to enemies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/9//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Knocking Back Enemies
+    Original:
+    - Knocking Back Enemies
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/9//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An enemy who is knocked back might be struck by vehicle traffic, causing grave injury. In fact, depending on the environment, several different effects may occur when an enemy is knocked back, such as hitting and damaging other enemies who are in the way!
+    Original:
+    - An enemy who is knocked back might be struck by vehicle traffic, causing grave injury. In fact, depending on the environment, several different effects may occur when an enemy is knocked back, such as hitting and damaging other enemies who are in the way!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/10//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Encounters
+    Original:
+    - Encounters
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/10//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A battle begins when you encounter enemies roaming the streets. Losing these battles will not result in game over, but you will lose half your money.
+    Original:
+    - A battle begins when you encounter enemies roaming the streets. Losing these battles will not result in game over, but you will lose half your money.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/11//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Losing A Battle
+    Original:
+    - Losing A Battle
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/11//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A battle is lost if Kasuga is knocked out. Losing battles which occur from random encounters in the city will result in the loss of half your money. Other battles, however, will give you the choice to retry or return to the title screen.
+    Original:
+    - A battle is lost if Kasuga is knocked out. Losing battles which occur from random encounters in the city will result in the loss of half your money. Other battles, however, will give you the choice to retry or return to the title screen.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/12//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Level Disparities
+    Original:
+    - Level Disparities
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/12//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The chance of knocking back an enemy depends on the difference between the attacking character's level and that of the target. If a character's level is lower than the target's, the chances of a knock back are low. Likewise, chances are high if the character's level is higher than the target's. Watch out when you challenge people who are more than 5 levels above you!
+    Original:
+    - The chance of knocking back an enemy depends on the difference between the attacking character's level and that of the target. If a character's level is lower than the target's, the chances of a knock back are low. Likewise, chances are high if the character's level is higher than the target's. Watch out when you challenge people who are more than 5 levels above you!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/13//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Being Drunk
+    Original:
+    - Being Drunk
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/13//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Drunk characters will attack on their own or not attack at all, making their actions unpredictable. Drinking alcohol at restaurants will incur this status effect so be careful not to get too sloshed!
+    Original:
+    - Drunk characters will attack on their own or not attack at all, making their actions unpredictable. Drinking alcohol at restaurants will incur this status effect so be careful not to get too sloshed!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/14//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Silence
+    Original:
+    - Silence
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/14//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Silence temporarily removes a character's ability to use certain skills. To be cured of this status effect, you can use appropriate items or skills to remove it, or just wait it out!
+    Original:
+    - Silence temporarily removes a character's ability to use certain skills. To be cured of this status effect, you can use appropriate items or skills to remove it, or just wait it out!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/15//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Charm
+    Original:
+    - Charm
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/15//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: When characters have this status effect, they will not attack the charmer. Thankfully, they have a chance of snapping out of it if they get attacked.
+    Original:
+    - When characters have this status effect, they will not attack the charmer. Thankfully, they have a chance of snapping out of it if they get attacked.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/16//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Rage
+    Original:
+    - Rage
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/16//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Characters who are enraged will only use standard attacks on the person who enraged them. They may also block attacks directed at other party members. Characters will be free of their rage once they are knocked out.
+    Original:
+    - Characters who are enraged will only use standard attacks on the person who enraged them. They may also block attacks directed at other party members. Characters will be free of their rage once they are knocked out.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/17//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Brainwashed
+    Original:
+    - Brainwashed
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/17//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Characters who are brainwashed can't differentiate between friend and foe, so they might attack anyone. Thankfully, they snap out of it if they themselves get attacked.
+    Original:
+    - Characters who are brainwashed can't differentiate between friend and foe, so they might attack anyone. Thankfully, they snap out of it if they themselves get attacked.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/18//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Passion in Battle
+    Original:
+    - Passion in Battle
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/18//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Improving Kasuga's Passion will make him more resistant to silence.
+    Original:
+    - Improving Kasuga's Passion will make him more resistant to silence.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/19//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Confidence in Battle
+    Original:
+    - Confidence in Battle
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/19//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Improving Kasuga's Confidence will make him more resistant to sleep.
+    Original:
+    - Improving Kasuga's Confidence will make him more resistant to sleep.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/20//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kindness in Battle
+    Original:
+    - Kindness in Battle
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/20//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Improving Kasuga's Kindness will make him more resistant to rage.
+    Original:
+    - Improving Kasuga's Kindness will make him more resistant to rage.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/21//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Charisma in Battle
+    Original:
+    - Charisma in Battle
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/21//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Improving Kasuga's Charisma will make him more resistant to fear.
+    Original:
+    - Improving Kasuga's Charisma will make him more resistant to fear.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/22//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Intellect in Battle
+    Original:
+    - Intellect in Battle
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/22//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Improving Kasuga's Intellect will make him more resistant to brainwashing.
+    Original:
+    - Improving Kasuga's Intellect will make him more resistant to brainwashing.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/23//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Style in Battle
+    Original:
+    - Style in Battle
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/23//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Improving Kasuga's Style will make him more resistant to charm.
+    Original:
+    - Improving Kasuga's Style will make him more resistant to charm.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/24//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nanba's Immunity
+    Original:
+    - Nanba's Immunity
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/24//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nanba's life on the street has strengthened his body against Cold and Poison.
+    Original:
+    - Nanba's life on the street has strengthened his body against Cold and Poison.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/25//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Adachi's Experience
+    Original:
+    - Adachi's Experience
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/25//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Adachi's many years as a detective have given him a professional defense against rage, fear, and sleep.
+    Original:
+    - Adachi's many years as a detective have given him a professional defense against rage, fear, and sleep.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/26//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Saeko's Strength
+    Original:
+    - Saeko's Strength
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/26//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Saeko's inherent boldness makes her more resistant to fear, charm, and silence. She's also particularly good at holding her liquor.
+    Original:
+    - Saeko's inherent boldness makes her more resistant to fear, charm, and silence. She's also particularly good at holding her liquor.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/27//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Joon-gi Han's Discipline
+    Original:
+    - Joon-gi Han's Discipline
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/27//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Joon-gi Han's extensive training in covert operations have given him a tactical edge over charm, brainwash, and rage.
+    Original:
+    - Joon-gi Han's extensive training in covert operations have given him a tactical edge over charm, brainwash, and rage.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/28//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zhao's Knowhow
+    Original:
+    - Zhao's Knowhow
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/28//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zhao's rather demanding experience as the leader of Yokohama Liumang has toughened him up against bleeding, fear, rage, and silence.
+    Original:
+    - Zhao's rather demanding experience as the leader of Yokohama Liumang has toughened him up against bleeding, fear, rage, and silence.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/29//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Eri's Devotion
+    Original:
+    - Eri's Devotion
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/tips_battle/sub_table/29//2
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Eri's sweet and caring disposition has given her a natural aversion to sleep and rage. Nevertheless, she seems more prone to being stunned.
+    Original:
+    - Eri's sweet and caring disposition has given her a natural aversion to sleep and rage. Nevertheless, she seems more prone to being stunned.
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\tips_context.json'

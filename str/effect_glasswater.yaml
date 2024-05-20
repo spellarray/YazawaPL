@@ -1,0 +1,48 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/water/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1Ma4z9100000mBj9gsTYTR500000000000eaKQW300000oFgM6t2WxI5O276A1000004OZ2HVOZfU58Ed9YLdY0S5YniCNKdY0S5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5YniCNKdY0S5000000
+    Original:
+    - 1Ma4z9100000mBj9gsTYTR500000000000eaKQW300000oFgM6t2WxI5O276A1000004OZ2HVOZfU58Ed9YLdY0S5YniCNKdY0S5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/whisky/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1Ma4z9100000gti8xsAS6R500000000000eaKQW300000kPyKEl77XI5O276A1000004OZ2HVOZfU58Ed9YLdY0S5UXZLeKKSdR5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5YniCNKdY0S5000000
+    Original:
+    - 1Ma4z9100000gti8xsAS6R500000000000eaKQW300000kPyKEl77XI5O276A1000004OZ2HVOZfU58Ed9YLdY0S5UXZLeKKSdR5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/milk/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1H0Ra9100000HrUDvQ69SP5vF1GXLdY0S5qB2ly8i9aR5oFgM6t2WxI5O276A1000004OZ2HVOZfU58Ed9YLdY0S5YniCNKdY0S5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5YniCNKdY0S5000000
+    Original:
+    - 1H0Ra9100000HrUDvQ69SP5vF1GXLdY0S5qB2ly8i9aR5oFgM6t2WxI5O276A1000004OZ2HVOZfU58Ed9YLdY0S5YniCNKdY0S5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/whisky_talk_A/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1UyYJXA00000gti8xsAS6R500000000000eaKQW300000kPyKEl77XI5wppIXLdY0S54OZ2HVOZfU58Ed9YLdY0S5UXZLeKKSdR5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5zRVVXLdY0S5000000
+    Original:
+    - 1UyYJXA00000gti8xsAS6R500000000000eaKQW300000kPyKEl77XI5wppIXLdY0S54OZ2HVOZfU58Ed9YLdY0S5UXZLeKKSdR5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5zRVVXLdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/whisky_talk_B/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1UyYJXA00000gti8xsAS6R5VByhE9P3DR5ANTIOIL8nM5oFgM6t2WxI5O276A1000004OZ2HVOZfU58Ed9YLdY0S5C220VI5pKV5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5YniCNKdY0S5100000
+    Original:
+    - 1UyYJXA00000gti8xsAS6R5VByhE9P3DR5ANTIOIL8nM5oFgM6t2WxI5O276A1000004OZ2HVOZfU58Ed9YLdY0S5C220VI5pKV5GUpiYLdY0S50000000000000000000000u4uMC1000002DsMT9sXLP5YniCNKdY0S5100000
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\effect_glasswater.json'

@@ -1,0 +1,1821 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player00_attack1_by_good/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Here's an achievement! Our money's going to all the right places!
+    Original:
+    - Here's an achievement! Our money's going to all the right places!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/player00_attack1_by_good/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I would like to remind you all that professionals need the proper tools! Our management is seeing to it that the money is well spent.
+    Original:
+    - I would like to remind you all that professionals need the proper tools! Our management is seeing to it that the money is well spent.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player00_attack2_by_normal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Steady as she goes! The results speak for themselvesâ€”the money's in good hands.
+    Original:
+    - Steady as she goes! The results speak for themselves—the money's in good hands.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/player00_attack2_by_normal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Our current investments are still within the field! But keep building on them, and I'm sure we'll have a home run on our hands!
+    Original:
+    - Our current investments are still within the field! But keep building on them, and I'm sure we'll have a home run on our hands!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player00_attack3_by_bad/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Even the best swing strikes out every now and then. Rest assured we'll bounce back twice as strong.
+    Original:
+    - Even the best swing strikes out every now and then. Rest assured we'll bounce back twice as strong.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/player00_attack3_by_bad/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: We're fully recovered and ready to get back into the action!
+    Original:
+    - We're fully recovered and ready to get back into the action!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/player00_counter1_to_money/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I disagree! I say we put the money toward tools and equipment first and foremost!
+    Original:
+    - I disagree! I say we put the money toward tools and equipment first and foremost!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/player00_counter2_to_people/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Of course our employees are important, but, right now, we need to focus on boosting efficiency by investing in our facilities!
+    Original:
+    - Of course our employees are important, but, right now, we need to focus on boosting efficiency by investing in our facilities!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/player00_counter3_to_goods/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hold on! I agree, having the proper equipment is important. I assure you the president will see to it this next period!
+    Original:
+    - Hold on! I agree, having the proper equipment is important. I assure you the president will see to it this next period!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/player02_attack1_by_good/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Here's an achievement! Our money's going to all the right places!
+    Original:
+    - Here's an achievement! Our money's going to all the right places!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/player02_attack1_by_good/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Professionals require the proper tools! Our management is seeing to it that the money is well spent.
+    Original:
+    - Professionals require the proper tools! Our management is seeing to it that the money is well spent.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player02_attack2_by_normal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Steady as she goes! The results speak for themselvesâ€”the money's in good hands.
+    Original:
+    - Steady as she goes! The results speak for themselves—the money's in good hands.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/player02_attack2_by_normal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Our current investments are still within the field! But keep building on them, and I'm sure we'll have a home run on our hands!
+    Original:
+    - Our current investments are still within the field! But keep building on them, and I'm sure we'll have a home run on our hands!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/player02_attack3_by_bad/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Even the best swing strikes out every now and then. Rest assured we'll bounce back twice as strong.
+    Original:
+    - Even the best swing strikes out every now and then. Rest assured we'll bounce back twice as strong.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/player02_attack3_by_bad/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: We're fully recovered and ready to get back into the action!
+    Original:
+    - We're fully recovered and ready to get back into the action!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/player02_counter1_to_money/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I disagree! I say we put the money toward tools and equipment first and foremost!
+    Original:
+    - I disagree! I say we put the money toward tools and equipment first and foremost!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/player02_counter2_to_people/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Of course our employees are important, but, right now, we need to focus on boosting efficiency by investing in our facilities!
+    Original:
+    - Of course our employees are important, but, right now, we need to focus on boosting efficiency by investing in our facilities!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/player02_counter3_to_goods/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hold on! I agree, having the proper equipment is important. I assure you the president will see to it this next period!
+    Original:
+    - Hold on! I agree, having the proper equipment is important. I assure you the president will see to it this next period!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/player04_attack1_by_good/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'm confident they have what it takes. And as a single mother, I can't afford to be wrong.
+    Original:
+    - I'm confident they have what it takes. And as a single mother, I can't afford to be wrong.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/player04_attack1_by_good/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I must say I'm relieved. It seems Kasuga-san knows the importance of money.
+    Original:
+    - I must say I'm relieved. It seems Kasuga-san knows the importance of money.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/player04_attack2_by_normal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Keeping things level is actually quite difficult! Nevertheless, consistent and steady profit should be your top priority.
+    Original:
+    - Keeping things level is actually quite difficult! Nevertheless, consistent and steady profit should be your top priority.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/player04_attack2_by_normal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The next step is key! I'm confident Kasuga-san has what it takes.
+    Original:
+    - The next step is key! I'm confident Kasuga-san has what it takes.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/player04_attack3_by_bad/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Come what may, we have to try! Things may be difficult right now, but Kasuga-san won't abandon us.
+    Original:
+    - Come what may, we have to try! Things may be difficult right now, but Kasuga-san won't abandon us.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/player04_attack3_by_bad/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Raising a child is an endurance game! You'll stick it out with us, won't you, Kasuga-san?
+    Original:
+    - Raising a child is an endurance game! You'll stick it out with us, won't you, Kasuga-san?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/player04_counter1_to_money/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: That's right! As long as we're here to provide support, Kasuga-san will surely bring in the sales.
+    Original:
+    - That's right! As long as we're here to provide support, Kasuga-san will surely bring in the sales.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/player04_counter2_to_people/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I understand, but... no income means we can't pay steady wages.
+    Original:
+    - I understand, but... no income means we can't pay steady wages.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/player04_counter3_to_goods/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Wait a second! Would it hurt to focus on increasing our profits?
+    Original:
+    - Wait a second! Would it hurt to focus on increasing our profits?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/player11_attack1_by_good/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's all smiles over here! This company's got everything under control.
+    Original:
+    - It's all smiles over here! This company's got everything under control.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/player11_attack1_by_good/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bravo to management!
+    Original:
+    - Bravo to management!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/player11_attack2_by_normal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga-san's doing just fine! I don't see any grounds for complaint!
+    Original:
+    - Kasuga-san's doing just fine! I don't see any grounds for complaint!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/player11_attack2_by_normal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The company's performance up until now has been satisfactory. I look forward to seeing what the future has in store!
+    Original:
+    - The company's performance up until now has been satisfactory. I look forward to seeing what the future has in store!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/player11_attack3_by_bad/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kasuga-san will push through! This was misstep, sure, but the next one will bring us back on track!
+    Original:
+    - Kasuga-san will push through! This was misstep, sure, but the next one will bring us back on track!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/player11_attack3_by_bad/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This is where we go all in! Don't underestimate Kasuga-san's genius!
+    Original:
+    - This is where we go all in! Don't underestimate Kasuga-san's genius!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/player11_counter1_to_money/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Trust over wealth! A business is nothing without trust!
+    Original:
+    - Trust over wealth! A business is nothing without trust!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /23/player11_counter2_to_people/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I see your point. But rest assured, Kasuga-san will take care of it!
+    Original:
+    - I see your point. But rest assured, Kasuga-san will take care of it!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /24/player11_counter3_to_goods/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You're right. An employee can't do their best without the proper facilities.
+    Original:
+    - You're right. An employee can't do their best without the proper facilities.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/kabunusi01_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Not too concerned with the facilities, are you?
+    Original:
+    - Not too concerned with the facilities, are you?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /25/kabunusi01_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I don't like this one bit. Spending just to spend is almost never the solution.
+    Original:
+    - I don't like this one bit. Spending just to spend is almost never the solution.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/kabunusi01_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's a real blunder on your part. Can't you see that ignoring your facilities hurts efficiency?
+    Original:
+    - It's a real blunder on your part. Can't you see that ignoring your facilities hurts efficiency?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /26/kabunusi01_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You're not investing enough into your facilities! Could you be any more clueless!?
+    Original:
+    - You're not investing enough into your facilities! Could you be any more clueless!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/kabunusi01_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Very disappointing. I won't stand for a business that doesn't understand the importance of proper facilities.
+    Original:
+    - Very disappointing. I won't stand for a business that doesn't understand the importance of proper facilities.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /27/kabunusi01_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Consider me out. If you're not taking care of the facilities, then what that hell are you doing?
+    Original:
+    - Consider me out. If you're not taking care of the facilities, then what that hell are you doing?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /28/kabunusi01_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Okay. No more questions!
+    Original:
+    - Okay. No more questions!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/kabunusi02_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Business is on the right track, but there must be some way we can rake in more money.
+    Original:
+    - Business is on the right track, but there must be some way we can rake in more money.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/kabunusi02_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Cash flow seems low. I'd like to see more effort in this area!
+    Original:
+    - Cash flow seems low. I'd like to see more effort in this area!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/kabunusi02_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Do you even care about making a sale? In fact, do you even know how to run a business?
+    Original:
+    - Do you even care about making a sale? In fact, do you even know how to run a business?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /30/kabunusi02_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: There's an art to making money. One must believe in absolute success. Tell me, do you really have that kind of drive?
+    Original:
+    - There's an art to making money. One must believe in absolute success. Tell me, do you really have that kind of drive?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/kabunusi02_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your sales numbers are embarrassing. Please take this business more seriously!
+    Original:
+    - Your sales numbers are embarrassing. Please take this business more seriously!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /31/kabunusi02_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Do you really know how to spend money? You're certainly good at wasting it.
+    Original:
+    - Do you really know how to spend money? You're certainly good at wasting it.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /32/kabunusi02_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I see now. Yes, I do believe I can trust you.
+    Original:
+    - I see now. Yes, I do believe I can trust you.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /33/kabunusi04_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You need a better handling on your numbers if you want to increase profit. Perhaps you should go back to business school?
+    Original:
+    - You need a better handling on your numbers if you want to increase profit. Perhaps you should go back to business school?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /33/kabunusi04_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Business is too sloppy. You need a tighter grip on money management.
+    Original:
+    - Business is too sloppy. You need a tighter grip on money management.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /34/kabunusi04_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Are you checking the ratio between sales and expenses? Do you have control over your cash flow?
+    Original:
+    - Are you checking the ratio between sales and expenses? Do you have control over your cash flow?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /34/kabunusi04_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It seems like it'll be a while before we can refinance. Our finances are practically in shambles.
+    Original:
+    - It seems like it'll be a while before we can refinance. Our finances are practically in shambles.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /35/kabunusi04_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: These numbers are downright tragic! It seems trusting you was a mistake.
+    Original:
+    - These numbers are downright tragic! It seems trusting you was a mistake.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /35/kabunusi04_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: In a manner of speaking, this company's pockets are full of holes! I'm surprised you decided to show your face today.
+    Original:
+    - In a manner of speaking, this company's pockets are full of holes! I'm surprised you decided to show your face today.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /36/kabunusi04_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nothing else on my end. I have no further questions.
+    Original:
+    - Nothing else on my end. I have no further questions.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /40/kabunusi03_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: What's with all the complaints!? It's nothing but despair this and bleak that. Just look at your employees' faces!
+    Original:
+    - What's with all the complaints!? It's nothing but despair this and bleak that. Just look at your employees' faces!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /40/kabunusi03_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Why are there so many complaints!? Are you overworking your employees? Did you cook the performance report or what?
+    Original:
+    - Why are there so many complaints!? Are you overworking your employees? Did you cook the performance report or what?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /41/kabunusi03_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Complaints, complaints, complaints! How about you stop wasting money and start focusing on your employees!? Get your act together!
+    Original:
+    - Complaints, complaints, complaints! How about you stop wasting money and start focusing on your employees!? Get your act together!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /41/kabunusi03_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: All these complaints! What are you some kind of slave driver? If so, shame on you!
+    Original:
+    - All these complaints! What are you some kind of slave driver? If so, shame on you!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /42/kabunusi03_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Care to explain all these complaints? Employees are a company's lifeblood! Without them, you're nothing!
+    Original:
+    - Care to explain all these complaints? Employees are a company's lifeblood! Without them, you're nothing!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /42/kabunusi03_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Do something about these complaints, will you!? They're employees, not slaves! Tyrannical companies deserve to be shut down!
+    Original:
+    - Do something about these complaints, will you!? They're employees, not slaves! Tyrannical companies deserve to be shut down!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /43/kabunusi03_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It seems I've had my fill! This is an excellent company!
+    Original:
+    - It seems I've had my fill! This is an excellent company!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /44/kabunusi05_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Employee benefits seem to be lacking. That's my primary concern.
+    Original:
+    - Employee benefits seem to be lacking. That's my primary concern.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /44/kabunusi05_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I hope you're properly training your employees. An incompetent staff is the last thing we need.
+    Original:
+    - I hope you're properly training your employees. An incompetent staff is the last thing we need.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /45/kabunusi05_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Are you properly investing in your employees? If not, I'd say it's all downhill from here.
+    Original:
+    - Are you properly investing in your employees? If not, I'd say it's all downhill from here.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /45/kabunusi05_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I would hope your employees have been properly assigned. It's quite easy to tell if they aren't, and guess what, I can tell they aren't. Learn how to use your staff!
+    Original:
+    - I would hope your employees have been properly assigned. It's quite easy to tell if they aren't, and guess what, I can tell they aren't. Learn how to use your staff!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /46/kabunusi05_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Are you investing in developing a better staff? Looks to me like you don't have much of a game plan.
+    Original:
+    - Are you investing in developing a better staff? Looks to me like you don't have much of a game plan.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /46/kabunusi05_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Have you considered that you could use some more capable personnel? Surely you can sense the danger around the corner?
+    Original:
+    - Have you considered that you could use some more capable personnel? Surely you can sense the danger around the corner?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /47/kabunusi05_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My word, you're right! Well, that's all I needed to hear!
+    Original:
+    - My word, you're right! Well, that's all I needed to hear!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /48/kabunusi06_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Huge gains are reliant on the company's size. Do you think it will grow from here?
+    Original:
+    - Huge gains are reliant on the company's size. Do you think it will grow from here?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /48/kabunusi06_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Would you say your financial situation is stable? Are you enforcing compliance?
+    Original:
+    - Would you say your financial situation is stable? Are you enforcing compliance?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /49/kabunusi06_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Cash flow seems unstable. I'd wager you're too wet behind the ears to run a business.
+    Original:
+    - Cash flow seems unstable. I'd wager you're too wet behind the ears to run a business.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /49/kabunusi06_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You can only rely on your employees for so long. Are you educated in proper business management?
+    Original:
+    - You can only rely on your employees for so long. Are you educated in proper business management?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /50/kabunusi06_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your incompetence is affecting profit. I can refer you to a notable CEO if you want.
+    Original:
+    - Your incompetence is affecting profit. I can refer you to a notable CEO if you want.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /50/kabunusi06_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I don't sense any desire to keep this company going. That said, I can't trust this business.
+    Original:
+    - I don't sense any desire to keep this company going. That said, I can't trust this business.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /51/kabunusi06_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You've made a believer out of me. Things are going exactly as I'd expect them to.
+    Original:
+    - You've made a believer out of me. Things are going exactly as I'd expect them to.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /52/kabunusi07_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You seem somewhat capable... However, you could still stand to learn a thing or two when it comes to collecting profit.
+    Original:
+    - You seem somewhat capable... However, you could still stand to learn a thing or two when it comes to collecting profit.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /52/kabunusi07_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Tch, what is this, amateur hour? Face it, the future looks bleak!
+    Original:
+    - Tch, what is this, amateur hour? Face it, the future looks bleak!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /53/kabunusi07_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Making money is about staying three steps ahead. I'd like to see a little more strategy at play!
+    Original:
+    - Making money is about staying three steps ahead. I'd like to see a little more strategy at play!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /53/kabunusi07_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Is refinancing even possible? I can't help but see our funds slowly dwindling away! You're not looking ahead!
+    Original:
+    - Is refinancing even possible? I can't help but see our funds slowly dwindling away! You're not looking ahead!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /54/kabunusi07_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's too late now! Management is clearly incapable of producing sales. Take the opportunity and bow out while you still can!
+    Original:
+    - It's too late now! Management is clearly incapable of producing sales. Take the opportunity and bow out while you still can!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /54/kabunusi07_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Perhaps it's time to call it quits? You're already at rock bottom, and it's not like you have the sense to make any money!
+    Original:
+    - Perhaps it's time to call it quits? You're already at rock bottom, and it's not like you have the sense to make any money!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /55/kabunusi07_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I suppose you'll live to see another day!
+    Original:
+    - I suppose you'll live to see another day!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /56/kabunusi08_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Are you paying your employees enough? You're not treating them unfairly, are you? Should that be the case, I fear you're in for quite a few pitfalls.
+    Original:
+    - Are you paying your employees enough? You're not treating them unfairly, are you? Should that be the case, I fear you're in for quite a few pitfalls.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /56/kabunusi08_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: What are you doing to motivate your employees? Do you think you'll last till next period?
+    Original:
+    - What are you doing to motivate your employees? Do you think you'll last till next period?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /57/kabunusi08_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your employees are essential to both products and profit. If you don't take care of them, you're liable to suffer for it.
+    Original:
+    - Your employees are essential to both products and profit. If you don't take care of them, you're liable to suffer for it.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /57/kabunusi08_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Is your employee retention rate stable? Or perhaps the turnover rate is higher? I hope your HR isn't playing things by ear.
+    Original:
+    - Is your employee retention rate stable? Or perhaps the turnover rate is higher? I hope your HR isn't playing things by ear.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /58/kabunusi08_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: We're past the era of "good products equals good business"! These days, one must understand consumer needs! If you can't take care of your employees, consider your company forfeit!
+    Original:
+    - We're past the era of "good products equals good business"! These days, one must understand consumer needs! If you can't take care of your employees, consider your company forfeit!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /58/kabunusi08_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your employees look like a bunch of dead fish... What the hell kind of show are you running?
+    Original:
+    - Your employees look like a bunch of dead fish... What the hell kind of show are you running?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /59/kabunusi08_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Okay, good. Keep it up.
+    Original:
+    - Okay, good. Keep it up.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /60/kabunusi09_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You lack product appeal! Are you really after sales?
+    Original:
+    - You lack product appeal! Are you really after sales?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /60/kabunusi09_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A business is a living, breathing thing! Neglect it, and it dies!
+    Original:
+    - A business is a living, breathing thing! Neglect it, and it dies!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /61/kabunusi09_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You seem to be satisfied only with the profit before you. Let's mix it up a bit, shall we!?
+    Original:
+    - You seem to be satisfied only with the profit before you. Let's mix it up a bit, shall we!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /61/kabunusi09_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If your leadership was sound, there wouldn't be any mistakes, would there? I'd say you don't have what it takes.
+    Original:
+    - If your leadership was sound, there wouldn't be any mistakes, would there? I'd say you don't have what it takes.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /62/kabunusi09_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Products are everything! You need to invest more! You're losing our trust by the minute!
+    Original:
+    - Products are everything! You need to invest more! You're losing our trust by the minute!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /62/kabunusi09_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: My experience tells me this company is in danger. Do the right thing and step down!
+    Original:
+    - My experience tells me this company is in danger. Do the right thing and step down!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /63/kabunusi09_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: No problem! You have my utmost confidence!
+    Original:
+    - No problem! You have my utmost confidence!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /64/kabunusi10_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Learn to use your employees! Your management style is atrocious!
+    Original:
+    - Learn to use your employees! Your management style is atrocious!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /64/kabunusi10_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Don't tell me you're proud of yourself? If your employees actually knew what they were doing, we would've seen different results!
+    Original:
+    - Don't tell me you're proud of yourself? If your employees actually knew what they were doing, we would've seen different results!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /65/kabunusi10_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I hear the employee turnover rate's rather intense. If even your employees aren't interested in your company, you can kiss the whole thing goodbye!
+    Original:
+    - I hear the employee turnover rate's rather intense. If even your employees aren't interested in your company, you can kiss the whole thing goodbye!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /65/kabunusi10_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Are you providing a comfortable work environment for your employees? Management needs to be mindful about these things.
+    Original:
+    - Are you providing a comfortable work environment for your employees? Management needs to be mindful about these things.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /66/kabunusi10_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Are the employees aware of your vision for the future? A manager who can't be transparent doesn't belong at this company!
+    Original:
+    - Are the employees aware of your vision for the future? A manager who can't be transparent doesn't belong at this company!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /66/kabunusi10_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This company's current and future objectives are extremely vague! I'll have no part in this!
+    Original:
+    - This company's current and future objectives are extremely vague! I'll have no part in this!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /67/kabunusi10_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Fine! Do what you believe is best!
+    Original:
+    - Fine! Do what you believe is best!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /68/kabunusi11_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: What's with all the surplus inventory? I can't say that leaves me feeling confident!
+    Original:
+    - What's with all the surplus inventory? I can't say that leaves me feeling confident!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /68/kabunusi11_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You're not investing enough into the facilities! This company's barely making ends meet!
+    Original:
+    - You're not investing enough into the facilities! This company's barely making ends meet!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /69/kabunusi11_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I don't think you have what it takes to beat out the competition. Needless to say, we're all becoming very skeptical of you!
+    Original:
+    - I don't think you have what it takes to beat out the competition. Needless to say, we're all becoming very skeptical of you!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /69/kabunusi11_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your management methods are questionable at best. It's difficult enough to see things through the eyes of the customer, but you need to improve this company's product appeal!
+    Original:
+    - Your management methods are questionable at best. It's difficult enough to see things through the eyes of the customer, but you need to improve this company's product appeal!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /70/kabunusi11_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your products and facilities are all half-assed since money seems to be the only thing you care about! This manager's not worth my time!
+    Original:
+    - Your products and facilities are all half-assed since money seems to be the only thing you care about! This manager's not worth my time!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /70/kabunusi11_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Management isn't seeing the big picture! On top of that, this company has next to no foundation. I suggest you focus on your infrastructure and start proving some actual service!
+    Original:
+    - Management isn't seeing the big picture! On top of that, this company has next to no foundation. I suggest you focus on your infrastructure and start proving some actual service!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /71/kabunusi11_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This is all I've got...
+    Original:
+    - This is all I've got...
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /72/kabunusi12_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Not good. Your services are basically nonexistent! You're missing all the important factors!
+    Original:
+    - Not good. Your services are basically nonexistent! You're missing all the important factors!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /72/kabunusi12_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: What are you hoping to accomplish? This place has negative reviews across the board, especially online!
+    Original:
+    - What are you hoping to accomplish? This place has negative reviews across the board, especially online!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /73/kabunusi12_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This is terrible. You're not providing the slightest bit of service. What business school did you attend?
+    Original:
+    - This is terrible. You're not providing the slightest bit of service. What business school did you attend?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /73/kabunusi12_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: What's wrong with you!? Customer service is king. What you offer is completely disingenuous!
+    Original:
+    - What's wrong with you!? Customer service is king. What you offer is completely disingenuous!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /74/kabunusi12_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Complete and utter garbage. A child could see past this snake oil racket! I say we hire someone who actually knows what they're doing!
+    Original:
+    - Complete and utter garbage. A child could see past this snake oil racket! I say we hire someone who actually knows what they're doing!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /74/kabunusi12_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "What's going on!? Here's an idea: why don't you let me take over? Yes, hurry up and resign!"
+    Original:
+    - "What's going on!? Here's an idea: why don't you let me take over? Yes, hurry up and resign!"
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /75/kabunusi12_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Very well. You've won back my support.
+    Original:
+    - Very well. You've won back my support.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76/kabunusi13_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Management isn't all fun and games! A company needs to make money!
+    Original:
+    - Management isn't all fun and games! A company needs to make money!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76/kabunusi13_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Are you running things by trial and error? If so, you're worse than I thought!
+    Original:
+    - Are you running things by trial and error? If so, you're worse than I thought!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/kabunusi13_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Why are the sales so low!? This situation's going from bad to worse!
+    Original:
+    - Why are the sales so low!? This situation's going from bad to worse!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/kabunusi13_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: We're on the brink of ruin thanks to your carelessness. Surely you have at least one good idea in that empty head of yours?
+    Original:
+    - We're on the brink of ruin thanks to your carelessness. Surely you have at least one good idea in that empty head of yours?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/kabunusi13_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: We don't need an ignoramus like you calling the shots! Everyone's had enough!
+    Original:
+    - We don't need an ignoramus like you calling the shots! Everyone's had enough!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/kabunusi13_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I say we replace this numbskull! Why should the investors have to suffer for this moron's mistakes!?
+    Original:
+    - I say we replace this numbskull! Why should the investors have to suffer for this moron's mistakes!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/kabunusi13_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Heh... See what happens when you actually try? No complaints on my end.
+    Original:
+    - Heh... See what happens when you actually try? No complaints on my end.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /80/kabunusi14_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You need to stand out more! Show off your products! Entice the customers!
+    Original:
+    - You need to stand out more! Show off your products! Entice the customers!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /80/kabunusi14_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's rude to the manufacturers if you can't properly relay their product's value to the consumers. You either do it and do it well, or you can get ready to apologize! Your choice!
+    Original:
+    - It's rude to the manufacturers if you can't properly relay their product's value to the consumers. You either do it and do it well, or you can get ready to apologize! Your choice!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/kabunusi14_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If your facilities aren't in order, how is anything else going to work? How long before you get it through your thick skull!?
+    Original:
+    - If your facilities aren't in order, how is anything else going to work? How long before you get it through your thick skull!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/kabunusi14_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The facilities are all style and no substance! I don't think you're taking this seriously enough!
+    Original:
+    - The facilities are all style and no substance! I don't think you're taking this seriously enough!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/kabunusi14_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: How are we supposed to stand out with such crap products!? If you've been aiming for laughs, then this show was over well before it began!
+    Original:
+    - How are we supposed to stand out with such crap products!? If you've been aiming for laughs, then this show was over well before it began!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/kabunusi14_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your struggling to keep things afloat tells us you're not capable! Now, what are you going to do to change our minds!?
+    Original:
+    - Your struggling to keep things afloat tells us you're not capable! Now, what are you going to do to change our minds!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /83/kabunusi14_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I can rest easy knowing you're in charge!
+    Original:
+    - I can rest easy knowing you're in charge!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/kabunusi15_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Be careful. The way you handle your employees raises a few red flags.
+    Original:
+    - Be careful. The way you handle your employees raises a few red flags.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/kabunusi15_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You're too naive. Trust me when I say this isn't my first rodeo!
+    Original:
+    - You're too naive. Trust me when I say this isn't my first rodeo!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/kabunusi15_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Look around you. It's only a matter of time before your employees start a riot!
+    Original:
+    - Look around you. It's only a matter of time before your employees start a riot!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/kabunusi15_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You're too rough with your employees! Your naivety will have you making the same mistakes over and over again!
+    Original:
+    - You're too rough with your employees! Your naivety will have you making the same mistakes over and over again!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/kabunusi15_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This management style is abysmal! None of your employees are happy. If you can't see that, you're already on your way out!
+    Original:
+    - This management style is abysmal! None of your employees are happy. If you can't see that, you're already on your way out!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/kabunusi15_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I suggest you resign! You don't have what it takes to be a leader!
+    Original:
+    - I suggest you resign! You don't have what it takes to be a leader!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87/kabunusi15_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hm. Satisfactory. That's all you'll get from me!
+    Original:
+    - Hm. Satisfactory. That's all you'll get from me!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/kabunusi16_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Investing needs to be done with care. If you're going to half-ass it, I'd rather you do nothing at all.
+    Original:
+    - Investing needs to be done with care. If you're going to half-ass it, I'd rather you do nothing at all.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/kabunusi16_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The world is full of trends. It'd be great if you didn't miss any investment opportunities.
+    Original:
+    - The world is full of trends. It'd be great if you didn't miss any investment opportunities.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/kabunusi16_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I don't want to hear that the results were "unexpected." You should know what's coming next!
+    Original:
+    - I don't want to hear that the results were "unexpected." You should know what's coming next!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/kabunusi16_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Perhaps you're not ambitious enough. I don't see any effort to increase cash flow!
+    Original:
+    - Perhaps you're not ambitious enough. I don't see any effort to increase cash flow!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/kabunusi16_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If you're calling the shots, then you've got to live for the money! A company isn't some toy for its president to play around with!
+    Original:
+    - If you're calling the shots, then you've got to live for the money! A company isn't some toy for its president to play around with!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/kabunusi16_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You give up now, and it's safe to say this company's finished! Push through right to the very end!
+    Original:
+    - You give up now, and it's safe to say this company's finished! Push through right to the very end!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /92/kabunusi17_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Seems to me that a great deal of your employees fail to understand the value of merchandise. A company full of boneheads simply won't last! Just wait!
+    Original:
+    - Seems to me that a great deal of your employees fail to understand the value of merchandise. A company full of boneheads simply won't last! Just wait!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /92/kabunusi17_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You manage to pull off one good meeting, and suddenly you're hot stuff? You know this company is in the red, right?
+    Original:
+    - You manage to pull off one good meeting, and suddenly you're hot stuff? You know this company is in the red, right?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /93/kabunusi17_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your facilities are a disaster. I ought to sell my shares before things really go to shit!
+    Original:
+    - Your facilities are a disaster. I ought to sell my shares before things really go to shit!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /93/kabunusi17_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I hear you go around hiring just about anyone. All that leaves us is a bunch of amateurs! How much more incompetent can you get!?
+    Original:
+    - I hear you go around hiring just about anyone. All that leaves us is a bunch of amateurs! How much more incompetent can you get!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /94/kabunusi17_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your facilities and services are absolute travesties, just like your management. This is no place for an amateur!
+    Original:
+    - Your facilities and services are absolute travesties, just like your management. This is no place for an amateur!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /94/kabunusi17_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nakanowatari-san said it loud and clear—you have zero chance of climbing back up!
+    Original:
+    - Nakanowatari-san said it loud and clear—you have zero chance of climbing back up!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /95/kabunusi17_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Dammit! I've had enough of this!
+    Original:
+    - Dammit! I've had enough of this!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/kabunusi18_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'm pretty sure you could increase profit if you actually used your head for once!
+    Original:
+    - I'm pretty sure you could increase profit if you actually used your head for once!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/kabunusi18_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The results are fine for now, but I'm sure things'll take a turn for the worse sooner or later!
+    Original:
+    - The results are fine for now, but I'm sure things'll take a turn for the worse sooner or later!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/kabunusi18_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I'm sorry, did I say I came here to hear your excuses? Don't waste my time!
+    Original:
+    - I'm sorry, did I say I came here to hear your excuses? Don't waste my time!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/kabunusi18_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: We don't want to hear it! Quit disappointing your investors!
+    Original:
+    - We don't want to hear it! Quit disappointing your investors!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/kabunusi18_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You sure you want to play catch up with this company? Maybe it'd be better to start over from scratch? Say the word, and I can wipe this company off the map just like that.
+    Original:
+    - You sure you want to play catch up with this company? Maybe it'd be better to start over from scratch? Say the word, and I can wipe this company off the map just like that.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/kabunusi18_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's such a mess, I almost feel sorry for you. Admit it—no one really cares about this company anymore. Or am I wrong!?
+    Original:
+    - It's such a mess, I almost feel sorry for you. Admit it—no one really cares about this company anymore. Or am I wrong!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /99/kabunusi18_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: D-Dammit...
+    Original:
+    - D-Dammit...
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /100/kabunusi19_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Having the final say in management is both good and bad. That said, I can't trust a president who neglects his employees.
+    Original:
+    - Having the final say in management is both good and bad. That said, I can't trust a president who neglects his employees.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /100/kabunusi19_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You need a handle on the present before you start talking about the future. In fact, it looks to me like you have a long way to go!
+    Original:
+    - You need a handle on the present before you start talking about the future. In fact, it looks to me like you have a long way to go!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /101/kabunusi19_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Happy employees make for happy customers. And from the looks of things, you have neither. My guess is your employees are overworked!
+    Original:
+    - Happy employees make for happy customers. And from the looks of things, you have neither. My guess is your employees are overworked!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /101/kabunusi19_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This is what I'm talking about! You can see the sorrow in the employees eyes! No mistake, this company is a sweatshop!
+    Original:
+    - This is what I'm talking about! You can see the sorrow in the employees eyes! No mistake, this company is a sweatshop!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /102/kabunusi19_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Your thoughts should always be centered on taking care of the customer. The fact that I even have to tell you this gives me little hope for this company!
+    Original:
+    - Your thoughts should always be centered on taking care of the customer. The fact that I even have to tell you this gives me little hope for this company!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /102/kabunusi19_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A failing company will always be defined by its failures. Take our advice and step down.
+    Original:
+    - A failing company will always be defined by its failures. Take our advice and step down.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /103/kabunusi19_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Can't say I expected to lose this debate...
+    Original:
+    - Can't say I expected to lose this debate...
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /104/kabunusi20_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Are you running things based on data? Is this the best you could come up with!?
+    Original:
+    - Are you running things based on data? Is this the best you could come up with!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /104/kabunusi20_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Employees are just a means to an end. I say you prioritize profit above all else!
+    Original:
+    - Employees are just a means to an end. I say you prioritize profit above all else!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /105/kabunusi20_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Employees are pawns, plain and simple! Keep the best, cut the rest, and watch those profits soar!
+    Original:
+    - Employees are pawns, plain and simple! Keep the best, cut the rest, and watch those profits soar!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /105/kabunusi20_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Assets speak volumes for a company. A certified tax accountant such as myself would make a much better president than this buffoon!
+    Original:
+    - Assets speak volumes for a company. A certified tax accountant such as myself would make a much better president than this buffoon!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /106/kabunusi20_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Employee benefits? Don't make me laugh! A job's benefit enough! This company should only focus on growing itself!
+    Original:
+    - Employee benefits? Don't make me laugh! A job's benefit enough! This company should only focus on growing itself!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /106/kabunusi20_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I don't see how you could possibly hope to compete in today's market... Your decision-making is absolutely deplorable!
+    Original:
+    - I don't see how you could possibly hope to compete in today's market... Your decision-making is absolutely deplorable!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /107/kabunusi20_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Damn... I lost...
+    Original:
+    - Damn... I lost...
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /108/kabunusi21_atk1_nomal/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I can't take this president seriously. He's acting like this is some kind of game! Well, it's game over, as far as I'm concerned!
+    Original:
+    - I can't take this president seriously. He's acting like this is some kind of game! Well, it's game over, as far as I'm concerned!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /108/kabunusi21_atk1_nomal/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: How long have you fooled yourself into thinking this company was worth a damn? Your results, or lack thereof, weren't enough to clue you in!?
+    Original:
+    - How long have you fooled yourself into thinking this company was worth a damn? Your results, or lack thereof, weren't enough to clue you in!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /109/kabunusi21_atk2_angry1/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Money doesn't just fall out of the sky! A company should focus solely on profit! Profit, I say!
+    Original:
+    - Money doesn't just fall out of the sky! A company should focus solely on profit! Profit, I say!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /109/kabunusi21_atk2_angry1/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Don't tell me you didn't see this coming? You might think twice before making your next move!
+    Original:
+    - Don't tell me you didn't see this coming? You might think twice before making your next move!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /110/kabunusi21_atk3_angry2/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This company's biggest weakness is its dumbass president! He's a complete joke! A baboon in a cheap red suit!
+    Original:
+    - This company's biggest weakness is its dumbass president! He's a complete joke! A baboon in a cheap red suit!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /110/kabunusi21_atk3_angry2/messages[1]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Everything about this company is lacking. What made you think your shares would sell!?
+    Original:
+    - Everything about this company is lacking. What made you think your shares would sell!?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /111/kabunusi21_dead/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Me, lose? Inconceivable...
+    Original:
+    - Me, lose? Inconceivable...
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /112/kabunusi01_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: If you ask me, this company is finished!
+    Original:
+    - If you ask me, this company is finished!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /113/kabunusi02_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's over isn't it? We're all doomed.
+    Original:
+    - It's over isn't it? We're all doomed.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /114/kabunusi03_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Don't you think you're taking this business too lightly? You'd better watch that I don't eat this company for all it's worth!
+    Original:
+    - Don't you think you're taking this business too lightly? You'd better watch that I don't eat this company for all it's worth!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /115/kabunusi04_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: About time you close up shop, don't you think?
+    Original:
+    - About time you close up shop, don't you think?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /116/kabunusi05_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: It's too late to recuperate, isn't it?
+    Original:
+    - It's too late to recuperate, isn't it?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /117/kabunusi06_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I fear bankruptcy's on the horizon.
+    Original:
+    - I fear bankruptcy's on the horizon.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /118/kabunusi07_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I was stupid to trust you.
+    Original:
+    - I was stupid to trust you.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /119/kabunusi08_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: This company's a mess.
+    Original:
+    - This company's a mess.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /120/kabunusi09_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The management is just too incompetent!
+    Original:
+    - The management is just too incompetent!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /121/kabunusi10_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: These results show the limits of your capabilities!
+    Original:
+    - These results show the limits of your capabilities!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /122/kabunusi11_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: An inept manager must take responsibility and step down!
+    Original:
+    - An inept manager must take responsibility and step down!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /123/kabunusi12_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I say it's high time you threw in the towel.
+    Original:
+    - I say it's high time you threw in the towel.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /124/kabunusi13_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Do us all a favor and get lost!
+    Original:
+    - Do us all a favor and get lost!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /125/kabunusi14_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Time for management to resign!
+    Original:
+    - Time for management to resign!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /126/kabunusi15_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You're just a caterpillar wishing he were a butterfly!
+    Original:
+    - You're just a caterpillar wishing he were a butterfly!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /128/kabunusi17_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: You call this a shareholder meeting? Don't make me laugh!
+    Original:
+    - You call this a shareholder meeting? Don't make me laugh!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /129/kabunusi18_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Just accept that this company is finished!
+    Original:
+    - Just accept that this company is finished!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /130/kabunusi19_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The sweatshops must go!
+    Original:
+    - The sweatshops must go!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /131/kabunusi20_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: I expect you all to resign immediately!
+    Original:
+    - I expect you all to resign immediately!
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /132/kabunusi21_finishing_blow/messages[0]
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Such a pitiful, worthless company!
+    Original:
+    - Such a pitiful, worthless company!
+  Status: Review
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\upstart_battle_speech.json'

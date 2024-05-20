@@ -1,0 +1,687 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/kiryu/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kazuma Kiryu
+    Original:
+    - Kazuma Kiryu
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/kiryu/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Former fourth chairman of the Tojo Clan. Known as the Dragon of Dojima, he became a legend in the yakuza underworld. Although he and Watase used to be rivals, they now have mutual respect for each other. Kiryu was officially declared dead in 2016, but there has been no body to confirm this.
+    Original:
+    - Former fourth chairman of the Tojo Clan. Known as the Dragon of Dojima, he became a legend in the yakuza underworld. Although he and Watase used to be rivals, they now have mutual respect for each other. Kiryu was officially declared dead in 2016, but there has been no body to confirm this.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/saejima/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Taiga Saejima
+    Original:
+    - Taiga Saejima
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/saejima/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Patriarch of the Saejima Family, a former Tojo Clan subsidiary. He is a legendary yakuza who spent 25 years in prison, only to emerge with the tainted title of 18 Count Saejima, a reference to his slaying of 18 people in the Ueno Seiwa massacre. He's been living in secret ever since the implementation of the Tokyo PD's Kamurocho 3K Plan, but throughout that time he's been plotting the dissolution of the Tojo Clan and Omi Alliance, alongside Daigo and Majima.
+    Original:
+    - Patriarch of the Saejima Family, a former Tojo Clan subsidiary. He is a legendary yakuza who spent 25 years in prison, only to emerge with the tainted title of 18 Count Saejima, a reference to his slaying of 18 people in the Ueno Seiwa massacre. He's been living in secret ever since the implementation of the Tokyo PD's Kamurocho 3K Plan, but throughout that time he's been plotting the dissolution of the Tojo Clan and Omi Alliance, alongside Daigo and Majima.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/majima/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Goro Majima
+    Original:
+    - Goro Majima
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/majima/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Patriarch of the Majima Family, a former Tojo Clan subsidiary. He was nicknamed the Mad Dog of Shimano due to his vicious personality, and he's been flying under the radar ever since Tokyo PD's Kamurocho 3K Plan was implemented. But alongside Daigo and his oath brother Taiga Saejima, Majima has been quietly plotting the dissolution of the Tojo Clan and the Omi Alliance.
+    Original:
+    - Patriarch of the Majima Family, a former Tojo Clan subsidiary. He was nicknamed the Mad Dog of Shimano due to his vicious personality, and he's been flying under the radar ever since Tokyo PD's Kamurocho 3K Plan was implemented. But alongside Daigo and his oath brother Taiga Saejima, Majima has been quietly plotting the dissolution of the Tojo Clan and the Omi Alliance.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/daigo/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Daigo Dojima
+    Original:
+    - Daigo Dojima
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /29/daigo/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Former sixth chairman of the Tojo Clan. He's been operating under the radar ever since the Tojo Clan was annihilated by the Kamurocho 3K Plan, but all the while Daigo was quietly planning the dissolution of the Tojo Clan and Omi Alliance with the participation of Masumi Arakawa and Masaru Watase. In the end, their plan succeeds.
+    Original:
+    - Former sixth chairman of the Tojo Clan. He's been operating under the radar ever since the Tojo Clan was annihilated by the Kamurocho 3K Plan, but all the while Daigo was quietly planning the dissolution of the Tojo Clan and Omi Alliance with the participation of Masumi Arakawa and Masaru Watase. In the end, their plan succeeds.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /64/kasuga0/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ichiban Kasuga
+    Original:
+    - Ichiban Kasuga
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /64/kasuga0/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Member of the Arakawa Family, a relatively small family within the Tojo Clan, the largest yakuza organization in Kanto. He was born and raised in Shangri-La, a soapland in Kamurocho where he was affectionately known as Soapy Ichi to the locals. To this day, Kasuga has never known his real parents. He joined the Arakawa Family at age 15, after a life-changing experience instilled in him a deep admiration for Masumi Arakawa. Ever since, Kasuga has dedicated his life to serving his teenage hero, but his many mistakes have earned him harsh words from Jo Sawashiro, the captain and fervent treasurer of the family. Thankfully, there's one job Kasuga never fails at—looking after Arakawa's only son, Masato!
+    Original:
+    - Member of the Arakawa Family, a relatively small family within the Tojo Clan, the largest yakuza organization in Kanto. He was born and raised in Shangri-La, a soapland in Kamurocho where he was affectionately known as Soapy Ichi to the locals. To this day, Kasuga has never known his real parents. He joined the Arakawa Family at age 15, after a life-changing experience instilled in him a deep admiration for Masumi Arakawa. Ever since, Kasuga has dedicated his life to serving his teenage hero, but his many mistakes have earned him harsh words from Jo Sawashiro, the captain and fervent treasurer of the family. Thankfully, there's one job Kasuga never fails at—looking after Arakawa's only son, Masato!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /65/arakawa0/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Masumi Arakawa
+    Original:
+    - Masumi Arakawa
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /65/arakawa0/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Patriarch of the Tojo Clan's Arakawa Family. Born into a family of stage actors, he lived the life of a rising child star, until his father was shot dead by an unknown assailant. The trauma of the event prompted young Arakawa to join the yakuza world. Some years later, as a young adult, he experienced yet more trauma when his wife Akane died after childbirth, leaving him with their only son, Masato. He raised Masato all by himself, all while developing a fearsome reputation as Arakawa the Assassin despite the small size of his family. But one day, as fate would have it, Masumi Arakawa saved the life of a young Ichiban Kasuga...
+    Original:
+    - Patriarch of the Tojo Clan's Arakawa Family. Born into a family of stage actors, he lived the life of a rising child star, until his father was shot dead by an unknown assailant. The trauma of the event prompted young Arakawa to join the yakuza world. Some years later, as a young adult, he experienced yet more trauma when his wife Akane died after childbirth, leaving him with their only son, Masato. He raised Masato all by himself, all while developing a fearsome reputation as Arakawa the Assassin despite the small size of his family. But one day, as fate would have it, Masumi Arakawa saved the life of a young Ichiban Kasuga...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /66/masato0/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Masato Arakawa
+    Original:
+    - Masato Arakawa
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /66/masato0/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Masumi Arakawa's one and only son. Much of his life was spent in a wheelchair due to severe hypothermia at birth. Having been pampered with extreme wealth since childhood, he now regularly fails to treat Kasuga with anything resembling respect. Masato himself is not involved as a yakuza, and therefore he places much of his trust in Jo Sawashiro, Captain of the Arakawa Family.
+    Original:
+    - Masumi Arakawa's one and only son. Much of his life was spent in a wheelchair due to severe hypothermia at birth. Having been pampered with extreme wealth since childhood, he now regularly fails to treat Kasuga with anything resembling respect. Masato himself is not involved as a yakuza, and therefore he places much of his trust in Jo Sawashiro, Captain of the Arakawa Family.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /67/mitsu0/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mitsuo Yasumura
+    Original:
+    - Mitsuo Yasumura
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /67/mitsu0/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Member of the Tojo Clan's Arakawa Family. Nicknamed Mitsu, he is Kasuga's only oath brother. Well-accustomed to Kasuga's impulsiveness, he's always willing to help, but like any honest friend he'll call Kasuga on his bullshit, too. That happens more often than he'd like, because making money is never Kasuga's top priority, and Mitsu hates getting chewed out by Captain Sawashiro for it!
+    Original:
+    - Member of the Tojo Clan's Arakawa Family. Nicknamed Mitsu, he is Kasuga's only oath brother. Well-accustomed to Kasuga's impulsiveness, he's always willing to help, but like any honest friend he'll call Kasuga on his bullshit, too. That happens more often than he'd like, because making money is never Kasuga's top priority, and Mitsu hates getting chewed out by Captain Sawashiro for it!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /68/sawashiro0/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Jo Sawashiro
+    Original:
+    - Jo Sawashiro
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /68/sawashiro0/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Captain of the Tojo Clan's Arakawa Family. While Arakawa himself stays balanced between duty and empathy, Sawashiro only cares about the former. As the disciplinarian of the Arakawa Family, Sawashiro's fists are ready to punish Kasuga on a daily basis. However, he shows compassion to Arakawa's only son, Masato.
+    Original:
+    - Captain of the Tojo Clan's Arakawa Family. While Arakawa himself stays balanced between duty and empathy, Sawashiro only cares about the former. As the disciplinarian of the Arakawa Family, Sawashiro's fists are ready to punish Kasuga on a daily basis. However, he shows compassion to Arakawa's only son, Masato.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /69/kasuga/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ichiban Kasuga
+    Original:
+    - Ichiban Kasuga
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /69/kasuga/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Former member of the Tojo Clan's Arakawa Family. Because of his passionate dedication to Masumi Arakawa, Kasuga agreed to take the fall for Sawashiro's crimes. He then spent the next eighteen years of his life in prison. Upon his release, Kasuga learned the Tojo Clan has dissolved and Kamurocho is now controlled by the Omi Alliance, a faction from the Kansai region. Apparently the Tojo were betrayed by Arakawa, who now dons the Omi Alliance emblem. Shocked by this devastating news, Kasuga is now on a mission to confirm the truth of it.
+    Original:
+    - Former member of the Tojo Clan's Arakawa Family. Because of his passionate dedication to Masumi Arakawa, Kasuga agreed to take the fall for Sawashiro's crimes. He then spent the next eighteen years of his life in prison. Upon his release, Kasuga learned the Tojo Clan has dissolved and Kamurocho is now controlled by the Omi Alliance, a faction from the Kansai region. Apparently the Tojo were betrayed by Arakawa, who now dons the Omi Alliance emblem. Shocked by this devastating news, Kasuga is now on a mission to confirm the truth of it.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /70/arakawa/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Masumi Arakawa
+    Original:
+    - Masumi Arakawa
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /70/arakawa/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Acting captain for the Omi Alliance. Formerly the head of a third-rate family in the Tojo Clan, Arakawa leaked internal information to the Tokyo PD, allowing them to advance their Kamurocho 3K Plan. Arakawa's betrayal led to the annihilation of the Tojo Clan, opening the way for the Omi Alliance to take over all of Kamurocho. Apparently, the Omi rewarded him with a lieutenant position.
+    Original:
+    - Acting captain for the Omi Alliance. Formerly the head of a third-rate family in the Tojo Clan, Arakawa leaked internal information to the Tokyo PD, allowing them to advance their Kamurocho 3K Plan. Arakawa's betrayal led to the annihilation of the Tojo Clan, opening the way for the Omi Alliance to take over all of Kamurocho. Apparently, the Omi rewarded him with a lieutenant position.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /71/masato/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Masato Arakawa
+    Original:
+    - Masato Arakawa
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /71/masato/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Masumi Arakawa's one and only son. He spent his life in a wheelchair due to severe hypothermia at birth. Although he survived to young adulthood, his medical troubles took a turn for the worse fifteen years ago, and he died from complications.
+    Original:
+    - Masumi Arakawa's one and only son. He spent his life in a wheelchair due to severe hypothermia at birth. Although he survived to young adulthood, his medical troubles took a turn for the worse fifteen years ago, and he died from complications.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /72/mitsu/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mitsuo Yasumura
+    Original:
+    - Mitsuo Yasumura
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /72/mitsu/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A member of the Omi Alliance's Arakawa Family. Nicknamed Mitsu, he was Kasuga's only oath brother back when the family was part of the Tojo Clan. He continued to serve Masumi Arakawa even after the family switched factions, most likely because he is one of the few non-executive members who knows Arakawa's true motive.
+    Original:
+    - A member of the Omi Alliance's Arakawa Family. Nicknamed Mitsu, he was Kasuga's only oath brother back when the family was part of the Tojo Clan. He continued to serve Masumi Arakawa even after the family switched factions, most likely because he is one of the few non-executive members who knows Arakawa's true motive.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /73/sawashiro/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Jo Sawashiro
+    Original:
+    - Jo Sawashiro
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /73/sawashiro/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Captain of the Arakawa Family and lieutenant of the Omi Alliance. Sawashiro is a militant yakuza who has served the family since its days with the Tojo Clan. After Arakawa became the acting captain for the Omi Alliance, Sawashiro gained the same authority as their officers.
+    Original:
+    - Captain of the Arakawa Family and lieutenant of the Omi Alliance. Sawashiro is a militant yakuza who has served the family since its days with the Tojo Clan. After Arakawa became the acting captain for the Omi Alliance, Sawashiro gained the same authority as their officers.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /74/nanba/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nanba
+    Original:
+    - Nanba
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /74/nanba/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Former nurse, now a homeless bum. His nurse's license was revoked when he was caught making illegal sales of medicine from the hospital where he worked. After Kasuga took a bullet to the chest, Nanba provided life-saving first aid. The experience led to the two of them working odd jobs together.
+    Original:
+    - Former nurse, now a homeless bum. His nurse's license was revoked when he was caught making illegal sales of medicine from the hospital where he worked. After Kasuga took a bullet to the chest, Nanba provided life-saving first aid. The experience led to the two of them working odd jobs together.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /75/adachi/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Koichi Adachi
+    Original:
+    - Koichi Adachi
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /75/adachi/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Former police officer. He was demoted to working at the driver's license center after he disobeyed his supervisor in the Criminal Investigation Department. That supervisor, Horinouchi, is now the police commissioner, and Adachi will stop at nothing to seek vengeance on him.
+    Original:
+    - Former police officer. He was demoted to working at the driver's license center after he disobeyed his supervisor in the Criminal Investigation Department. That supervisor, Horinouchi, is now the police commissioner, and Adachi will stop at nothing to seek vengeance on him.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76/saeko/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Saeko Mukoda
+    Original:
+    - Saeko Mukoda
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /76/saeko/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A former hostess at a cabaret club owned by Nonomiya. She later became the establishment's mama, which underlines how much faith Nonomiya had in her. She made her acquaintance with Kasuga after her twin sister, Nanoha, was involved in a disturbing incident at Otohime Land.
+    Original:
+    - A former hostess at a cabaret club owned by Nonomiya. She later became the establishment's mama, which underlines how much faith Nonomiya had in her. She made her acquaintance with Kasuga after her twin sister, Nanoha, was involved in a disturbing incident at Otohime Land.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/hamako/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hamako
+    Original:
+    - Hamako
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /77/hamako/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Owner of a "small restaurant" on the outskirts of Ijincho. The business is just a front and is actually a safe haven for women who have nowhere left to go. She looks out for those who find themselves in the sex trade.
+    Original:
+    - Owner of a "small restaurant" on the outskirts of Ijincho. The business is just a front and is actually a safe haven for women who have nowhere left to go. She looks out for those who find themselves in the sex trade.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/nonomiya/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nonomiya
+    Original:
+    - Nonomiya
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /78/nonomiya/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Owner of Otohime Land, a soapland in Ijincho. Though he speaks harshly to his soapland hostesses, deep down he is a benevolent man who wants the best for his employees. He's also the owner of a cabaret club where Saeko works as the mama. Soon after the Sunlight Castle incident, he was found dead, apparently from suicide.
+    Original:
+    - Owner of Otohime Land, a soapland in Ijincho. Though he speaks harshly to his soapland hostesses, deep down he is a benevolent man who wants the best for his employees. He's also the owner of a cabaret club where Saeko works as the mama. Soon after the Sunlight Castle incident, he was found dead, apparently from suicide.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/ryuhei/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ryuhei Hoshino
+    Original:
+    - Ryuhei Hoshino
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /79/ryuhei/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Chairman of the Yokohama Seiryu Clan, the only Japanese yakuza organization in Ijincho. Ryuhei first encountered Kasuga during the Sunlight Castle incident, when his traditional ways of unflinching chivalry made a deep impression on Kasuga.
+    Original:
+    - Chairman of the Yokohama Seiryu Clan, the only Japanese yakuza organization in Ijincho. Ryuhei first encountered Kasuga during the Sunlight Castle incident, when his traditional ways of unflinching chivalry made a deep impression on Kasuga.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /80/totsuka/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yamato Totsuka
+    Original:
+    - Yamato Totsuka
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /80/totsuka/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Chairman of the Ryuto Family and Seiryu Clan Chief of HQ (third in command). Totsuka had been managing the retirement home Sunlight Castle on behalf of the Seiryu Clan, but he was removed from his post when his chairman learned the retirement home was being used for murder under the guise of voluntary euthanasia.
+    Original:
+    - Chairman of the Ryuto Family and Seiryu Clan Chief of HQ (third in command). Totsuka had been managing the retirement home Sunlight Castle on behalf of the Seiryu Clan, but he was removed from his post when his chairman learned the retirement home was being used for murder under the guise of voluntary euthanasia.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/takabe/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mamoru Takabe
+    Original:
+    - Mamoru Takabe
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /81/takabe/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Captain of the Yokohama Seiryu Clan. A young but shrewd man who stands second in the Seiryu Clan's line of succession. Though he's had squabbles with his superior, Yamato Totsuka, he persevered and eventually surpassed Totsuka in authority. Their antagonistic relationship remains unchanged to this day.
+    Original:
+    - Captain of the Yokohama Seiryu Clan. A young but shrewd man who stands second in the Seiryu Clan's line of succession. Though he's had squabbles with his superior, Yamato Totsuka, he persevered and eventually surpassed Totsuka in authority. Their antagonistic relationship remains unchanged to this day.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/han/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Joon-gi Han
+    Original:
+    - Joon-gi Han
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /82/han/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Strategist and second-in-command of the Korean mafia known as the Geomijul. Though he calls himself Joon-gi Han, he is actually the body double of the man who once led the Jingweon Mafia. After that man's death, the new Joon-gi Han took refuge among the Geomijul.
+    Original:
+    - Strategist and second-in-command of the Korean mafia known as the Geomijul. Though he calls himself Joon-gi Han, he is actually the body double of the man who once led the Jingweon Mafia. After that man's death, the new Joon-gi Han took refuge among the Geomijul.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /83/sonhi/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Seong-hui
+    Original:
+    - Seong-hui
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /83/sonhi/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Commander of the Geomijul, a faction formed from the surviving members of the Jingweon Mafia. Though she doesn't fight on the front lines, her smart and quick decision-making distinguishes her as a leader. She places a great deal of trust in Joon-gi Han, her number two.
+    Original:
+    - Commander of the Geomijul, a faction formed from the surviving members of the Jingweon Mafia. Though she doesn't fight on the front lines, her smart and quick decision-making distinguishes her as a leader. She places a great deal of trust in Joon-gi Han, her number two.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/chou/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Tianyou Zhao
+    Original:
+    - Tianyou Zhao
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /84/chou/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Commander of the Yokohama Liumang, the Chinese mafia. Despite being their leader, Zhao's nature leaves him indifferent to such matters as profits or turf wars. This personality is the opposite of that of Mabuchi, Zhao's number two and childhood friend. Despite all of Zhao's airs of indifference, he cares deeply about the wellbeing of his underlings as well as those in the Seiryu Clan and the Geomijul.
+    Original:
+    - Commander of the Yokohama Liumang, the Chinese mafia. Despite being their leader, Zhao's nature leaves him indifferent to such matters as profits or turf wars. This personality is the opposite of that of Mabuchi, Zhao's number two and childhood friend. Despite all of Zhao's airs of indifference, he cares deeply about the wellbeing of his underlings as well as those in the Seiryu Clan and the Geomijul.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/mah/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Akira Mabuchi
+    Original:
+    - Akira Mabuchi
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /85/mah/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Strategist and second-in-command of the Yokohama Liumang. As part of the organization's business, he runs Yokohama Trading Company, which is a secret money-laundering business converting special paper to fake Chinese yuan. Mabuchi is responsible for murdering Nonomiya just to weaken the longstanding Great Wall of Muscle.
+    Original:
+    - Strategist and second-in-command of the Yokohama Liumang. As part of the organization's business, he runs Yokohama Trading Company, which is a secret money-laundering business converting special paper to fake Chinese yuan. Mabuchi is responsible for murdering Nonomiya just to weaken the longstanding Great Wall of Muscle.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/tendo/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yosuke Tendo
+    Original:
+    - Yosuke Tendo
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /86/tendo/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Patriarch of the Ryudo Family and one of the three lieutenants of the Omi Alliance. A former super heavyweight boxer, he once beat an opponent to death after he was cheated out of the money he had bet on the fight, which he'd helped rig in the first place.
+    Original:
+    - Patriarch of the Ryudo Family and one of the three lieutenants of the Omi Alliance. A former super heavyweight boxer, he once beat an opponent to death after he was cheated out of the money he had bet on the fight, which he'd helped rig in the first place.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87/ishioda/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Reiji Ishioda
+    Original:
+    - Reiji Ishioda
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /87/ishioda/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Patriarch of the Ishioda Family and one of the three lieutenants of the Omi Alliance. The methods he resorts to are scarily unpredictable, even going so far as to destroy the Geomijul barricade with a crane.
+    Original:
+    - Patriarch of the Ishioda Family and one of the three lieutenants of the Omi Alliance. The methods he resorts to are scarily unpredictable, even going so far as to destroy the Geomijul barricade with a crane.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/sawashiro2/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Jo Sawashiro
+    Original:
+    - Jo Sawashiro
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /88/sawashiro2/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Captain of the Arakawa Family and lieutenant of the Omi Alliance. Sawashiro is a militant yakuza who has served the family since its days with the Tojo Clan. After Arakawa became the acting captain for the Omi Alliance, Sawashiro gained the same authority as their officers. His deep dislike of Ichiban Kasuga hasn't changed, even after eighteen years.
+    Original:
+    - Captain of the Arakawa Family and lieutenant of the Omi Alliance. Sawashiro is a militant yakuza who has served the family since its days with the Tojo Clan. After Arakawa became the acting captain for the Omi Alliance, Sawashiro gained the same authority as their officers. His deep dislike of Ichiban Kasuga hasn't changed, even after eighteen years.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/watase/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Masaru Watase
+    Original:
+    - Masaru Watase
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /89/watase/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Patriarch of the Watase Family and captain of the Omi Alliance. Though he is number two in the Omi Alliance, he has spent the last several years behind bars. After his release, he declared the dissolution of the Omi Alliance.
+    Original:
+    - Patriarch of the Watase Family and captain of the Omi Alliance. Though he is number two in the Omi Alliance, he has spent the last several years behind bars. After his release, he declared the dissolution of the Omi Alliance.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/ogasawara/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hajime Ogasawara
+    Original:
+    - Hajime Ogasawara
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /90/ogasawara/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Second director of Bleach Japan and co-founder of the organization along with Ryo Aoki. Ogasawara was appointed the director when Ryo Aoki entered his first political race, and he also is the only person who knows Aoki's true identity is Masato Arakawa.
+    Original:
+    - Second director of Bleach Japan and co-founder of the organization along with Ryo Aoki. Ogasawara was appointed the director when Ryo Aoki entered his first political race, and he also is the only person who knows Aoki's true identity is Masato Arakawa.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /91/kume/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Sota Kume
+    Original:
+    - Sota Kume
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /91/kume/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Branch manager of Bleach Japan. He is blindly devoted to "bleaching the gray areas," even resorting to violence in pursuit of this goal.
+    Original:
+    - Branch manager of Bleach Japan. He is blindly devoted to "bleaching the gray areas," even resorting to violence in pursuit of this goal.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /92/aoki/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ryo Aoki
+    Original:
+    - Ryo Aoki
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /92/aoki/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Current governor of Tokyo and co-founder of Bleach Japan. After gaining popularity as Bleach Japan's first director, he entered politics and became the city's youngest governor in history. The success of his Kamurocho 3K Plan instantly made him a hero. But behind his politician's grin is a litany of dark secrets, including his true identity as Masumi Arakawa's only son, Masato. His second life as Ryo Aoki was made possible by medical treatments in the USA which restored mobility to his lower body.
+    Original:
+    - Current governor of Tokyo and co-founder of Bleach Japan. After gaining popularity as Bleach Japan's first director, he entered politics and became the city's youngest governor in history. The success of his Kamurocho 3K Plan instantly made him a hero. But behind his politician's grin is a litany of dark secrets, including his true identity as Masumi Arakawa's only son, Masato. His second life as Ryo Aoki was made possible by medical treatments in the USA which restored mobility to his lower body.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /93/horinouchi/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Juro Horinouchi
+    Original:
+    - Juro Horinouchi
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /93/horinouchi/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Commissioner of Tokyo PD and head of the police force. He was Adachi's superior during his time as chief of Kanagawa Police, a tenure which ended with his promotion to the Public Security Division where he eventually ascended to the rank of police commissioner. After the implementation of the Kamurocho 3K Plan, Horinouchi began receiving large sums of money from the Arakawa Family as bribes to allow the Omi Alliance invasion.
+    Original:
+    - Commissioner of Tokyo PD and head of the police force. He was Adachi's superior during his time as chief of Kanagawa Police, a tenure which ended with his promotion to the Public Security Division where he eventually ascended to the rank of police commissioner. After the implementation of the Kamurocho 3K Plan, Horinouchi began receiving large sums of money from the Arakawa Family as bribes to allow the Omi Alliance invasion.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /94/nick/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nick Ogata
+    Original:
+    - Nick Ogata
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /94/nick/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: A Japanese-American entrepreneur who looks and acts a bit shady. He is involved with several successful businesses in Kamurocho. He struck up a casual friendship with Kasuga after teaching him how to use a smartphone. Nick is a wealthy man who involves himself in anything that strikes his fancy.
+    Original:
+    - A Japanese-American entrepreneur who looks and acts a bit shady. He is involved with several successful businesses in Kamurocho. He struck up a casual friendship with Kasuga after teaching him how to use a smartphone. Nick is a wealthy man who involves himself in anything that strikes his fancy.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/eri/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Eri Kamataki
+    Original:
+    - Eri Kamataki
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /96/eri/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: The successor to one of Isezaki Ijincho's long-established businesses, Ichiban Confections. Her naĂŻvety and lack of experience allowed her to be deceived by the president of a certain company, who convinced her to take out a hefty loan. After the death of her savior and longtime friend, Nonomiya, she nearly lost all hope. But then Ichiban Kasuga showed up...
+    Original:
+    - The successor to one of Isezaki Ijincho's long-established businesses, Ichiban Confections. Her naïvety and lack of experience allowed her to be deceived by the president of a certain company, who convinced her to take out a hefty loan. After the death of her savior and longtime friend, Nonomiya, she nearly lost all hope. But then Ichiban Kasuga showed up...
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/nanba2/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Nanba
+    Original:
+    - Nanba
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /97/nanba2/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Former nurse, now a homeless bum. His full name is Yu Nanba, and his nurse's license was revoked when he was caught making illegal sales of medicine from the hospital where he worked. After Kasuga took a bullet to the chest, Nanba provided life-saving first aid. The experience led to the two of them working odd jobs together.
+    Original:
+    - Former nurse, now a homeless bum. His full name is Yu Nanba, and his nurse's license was revoked when he was caught making illegal sales of medicine from the hospital where he worked. After Kasuga took a bullet to the chest, Nanba provided life-saving first aid. The experience led to the two of them working odd jobs together.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/adachi2/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Koichi Adachi
+    Original:
+    - Koichi Adachi
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /98/adachi2/explanation
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Former police officer. He was demoted to working at the driver's license center after he disobeyed his supervisor, Horinouchi, in the Criminal Investigation Department. Then, when he found out Horinouchi had been taking bribes from Masumi Arakawa, he was summarily dismissed on disciplinary charges. Now, with his future in law enforcement ruined, Adachi will stop at nothing to seek vengeance on Horinouchi.
+    Original:
+    - Former police officer. He was demoted to working at the driver's license center after he disobeyed his supervisor, Horinouchi, in the Criminal Investigation Department. Then, when he found out Horinouchi had been taking bribes from Masumi Arakawa, he was summarily dismissed on disciplinary charges. Now, with his future in law enforcement ruined, Adachi will stop at nothing to seek vengeance on Horinouchi.
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\pause_profile.json'

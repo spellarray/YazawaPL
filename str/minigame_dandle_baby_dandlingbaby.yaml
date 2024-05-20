@@ -1,0 +1,129 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/allow_value_high/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "é«\x98ă\x81„é«\x98ă\x81„ĺ…ĄĺŠ›č¨±ĺ®ąĺ€¤"
+    Original:
+    - 高い高い入力許容値
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/allow_value_up_down/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ä¸Šä¸‹ĺ…ĄĺŠ›č¨±ĺ®ąĺ€¤
+    Original:
+    - 上下入力許容値
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/allow_value_right_left/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: ĺ·¦ĺŹłĺ…ĄĺŠ›č¨±ĺ®ąĺ€¤
+    Original:
+    - 左右入力許容値
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/time_using_garaga/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă‚¬ă\x83©ă‚¬ă\x83©ă\x81®ĺŠąćžść™‚é–“ďĽ\x88ç§’ďĽ‰"
+    Original:
+    - ガラガラの効果時間（秒）
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/time_limit/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă‚˛ă\x83Ľă\x83 ĺ\x88¶é™\x90ć™‚é–“ďĽ\x88ç§’ďĽ‰"
+    Original:
+    - ゲーム制限時間（秒）
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/max_feeling_value/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x81”ć©źĺ«Śă‚˛ă\x83Ľă\x83 ă\x81®ä¸Šé™\x90ĺ€¤"
+    Original:
+    - ご機嫌ゲームの上限値
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/default_feeling_value/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă‚˛ă\x83Ľă\x83 é–‹ĺ§‹ć™‚ă\x81®ă\x81”ć©źĺ«Śă‚˛ă\x83Ľă‚¸ĺ€¤"
+    Original:
+    - ゲーム開始時のご機嫌ゲージ値
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/effect_feeling_value_milk/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x83źă\x83«ă‚Żă\x81®ä˝żç”¨ĺŠąćžśĺ€¤"
+    Original:
+    - ミルクの使用効果値
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/increase_feeling_value/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ć\x88\x90ĺŠźć™‚ă\x81§1ç§’é–“ă\x81«ä¸Šă\x81Śă‚‹ă‚˛ă\x83Ľă‚¸ă\x81®ä¸Šć\x98‡ĺ€¤"
+    Original:
+    - 成功時で1秒間に上がるゲージの上昇値
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/decrease_feeling_value/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ĺ¤±ć•—ć™‚ă\x81§1ç§’é–“ă\x81«ä¸‹ă\x81Śă‚‹ă‚˛ă\x83Ľă‚¸ă\x81®ä¸Šć\x98‡ĺ€¤"
+    Original:
+    - 失敗時で1秒間に下がるゲージの上昇値
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/order_cycle_time/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x83Źă\x83«ă\x83\x88ă\x81Śč¦\x81ćś›ă‚’ĺ¤‰ă\x81\x88ă‚‹ă\x81ľă\x81§ă\x81®ć™‚é–“ďĽ\x88ç§’ďĽ‰"
+    Original:
+    - ハルトが要望を変えるまでの時間（秒）
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/change_motion_blend_ratio/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x83Źă\x83«ă\x83\x88ă\x81®čˇ¨ć\x83…ă\x81Śĺ¤‰ă‚Źă‚‹é€źĺş¦ďĽ\x88ćś€é€ź0ď˝žä¸Ťĺ‹•1ďĽ‰"
+    Original:
+    - ハルトの表情が変わる速度（最速0～不動1）
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/max_hate_value/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "ă\x83źă\x83\x83ă‚·ă\x83§ă\x83łčµ·ĺ‹•ă\x81ľă\x81§ă\x81«ćşśă\x81ľă‚‹ä¸Ťć©źĺ«Śĺ€¤ă\x81®ćś€ĺ¤§ĺ€¤"
+    Original:
+    - ミッション起動までに溜まる不機嫌値の最大値
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/running_add_value/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: "čµ°ă\x81Łă\x81źă\x81¨ă\x81Ťă\x81«ćşśă\x81ľă‚‹ä¸Ťć©źĺ«Śĺ€¤ă\x81®ĺ€ŤçŽ‡"
+    Original:
+    - 走ったときに溜まる不機嫌値の倍率
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\minigame_dandle_baby_dandlingbaby.json'

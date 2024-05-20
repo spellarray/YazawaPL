@@ -1,0 +1,129 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/weak/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000k9Uzwgu7cC5UfFfeQPFpP5IDWnvYqNeX5oD9qWSIN9b50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+    Original:
+    - 10Gm5EF00000k9Uzwgu7cC5UfFfeQPFpP5IDWnvYqNeX5oD9qWSIN9b50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/normal/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000k9Uzwgu7cC5cvREfQPFpP5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+    Original:
+    - 10Gm5EF00000k9Uzwgu7cC5cvREfQPFpP5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/strong/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000k9Uzwgu7cC5nZhOMh9aKX5KkiXSxBetX5ryuf53BFZc5rsMnZ7PxtR5ainGFGGU6UGchiEl2MU0PGYniCNKdY0S5000000
+    Original:
+    - 10Gm5EF00000k9Uzwgu7cC5nZhOMh9aKX5KkiXSxBetX5ryuf53BFZc5rsMnZ7PxtR5ainGFGGU6UGchiEl2MU0PGYniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/judge01/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1aOK2EF00000k9Uzwgu7cC5gRhEpPKYwQ5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5mwJhd3xSwUGC8lDzv04LT5YniCNKdY0S5000000
+    Original:
+    - 1aOK2EF00000k9Uzwgu7cC5gRhEpPKYwQ5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5mwJhd3xSwUGC8lDzv04LT5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/lexus2_A/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000k9Uzwgu7cC5EDDPuZn8OO56himShqkmW5oD9qWSIN9b5iBBzD5PxtR59Ow19100000U1KINQiLCQ5wppIXLdY0S5O276A1
+    Original:
+    - 10Gm5EF00000k9Uzwgu7cC5EDDPuZn8OO56himShqkmW5oD9qWSIN9b5iBBzD5PxtR59Ow19100000U1KINQiLCQ5wppIXLdY0S5O276A1
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/lexus2_B/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000xBzqxgu7cC5gRhEpPKYwQ56tS98uSKfW5oD9qWSIN9b5g0V1Z7PxtR59Ow19100000I9eSaSfsINGwppIXLdY0S5O276A1
+    Original:
+    - 10Gm5EF00000xBzqxgu7cC5gRhEpPKYwQ56tS98uSKfW5oD9qWSIN9b5g0V1Z7PxtR59Ow19100000I9eSaSfsINGwppIXLdY0S5O276A1
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/lexus2_C/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000k9Uzwgu7cC5UfFfeQPFpP5IDWnvYqNeX5oD9qWSIN9b50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+    Original:
+    - 10Gm5EF00000k9Uzwgu7cC5UfFfeQPFpP5IDWnvYqNeX5oD9qWSIN9b50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/lexus2_D/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000k9Uzwgu7cC5UfFfeQPFpP5IDWnvYqNeX5oD9qWSIN9b50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+    Original:
+    - 10Gm5EF00000k9Uzwgu7cC5UfFfeQPFpP5IDWnvYqNeX5oD9qWSIN9b50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/judge02/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1aOK2EF00000k9Uzwgu7cC5gRhEpPKYwQ5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5mwJhd3xSwUGC8lDzv04LT5YniCNKdY0S5000000
+    Original:
+    - 1aOK2EF00000k9Uzwgu7cC5gRhEpPKYwQ5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5mwJhd3xSwUGC8lDzv04LT5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/judge03/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000k9Uzwgu7cC5cvREfQPFpP5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+    Original:
+    - 10Gm5EF00000k9Uzwgu7cC5cvREfQPFpP5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5iqHBDKsxfUGC8lDzv04LT5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/judge04/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000k9Uzwgu7cC5nZhOMh9aKX5KkiXSxBetX5ryuf53BFZc5rsMnZ7PxtR5ainGFGGU6UGchiEl2MU0PGYniCNKdY0S5000000
+    Original:
+    - 10Gm5EF00000k9Uzwgu7cC5nZhOMh9aKX5KkiXSxBetX5ryuf53BFZc5rsMnZ7PxtR5ainGFGGU6UGchiEl2MU0PGYniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/Yazawa01/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 10Gm5EF00000k9Uzwgu7cC5nZhOMh9aKX5KkiXSxBetX5ryuf53BFZc5rsMnZ7PxtR5ainGFGGU6UGchiEl2MU0PGYniCNKdY0S5000000
+    Original:
+    - 10Gm5EF00000k9Uzwgu7cC5nZhOMh9aKX5KkiXSxBetX5ryuf53BFZc5rsMnZ7PxtR5ainGFGGU6UGchiEl2MU0PGYniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/Yazawa02/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1aOK2EF00000k9Uzwgu7cC5gRhEpPKYwQ5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5mwJhd3xSwUGC8lDzv04LT5YniCNKdY0S5000000
+    Original:
+    - 1aOK2EF00000k9Uzwgu7cC5gRhEpPKYwQ5IDWnvYqNeX5SscZZLdY0S50oJFF5PxtR5mwJhd3xSwUGC8lDzv04LT5YniCNKdY0S5000000
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/yazawa_btl_reborn/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1jpJHAF00000jcZmNBvf7A5MC4yYhXvEW5jzc4eYLIOX5O2xsJaWb7c5SofQINUGGP5rPbl51C6FRGItmsI0uf1MGOCUNEzE1UU5O276A1
+    Original:
+    - 1jpJHAF00000jcZmNBvf7A5MC4yYhXvEW5jzc4eYLIOX5O2xsJaWb7c5SofQINUGGP5rPbl51C6FRGItmsI0uf1MGOCUNEzE1UU5O276A1
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\effect_charge_dust_generator.json'

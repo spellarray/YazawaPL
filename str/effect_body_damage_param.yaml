@@ -1,0 +1,48 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/blood/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 16DG4U300000SMYJWDfggOGaSjYR62w6N54cCpnx2WxI5bz8gDl77XI5eYVEB100000qkKPKh9aKX55cdj8100000298GLh9aKX5wppIXLdY0S5
+    Original:
+    - 16DG4U300000SMYJWDfggOGaSjYR62w6N54cCpnx2WxI5bz8gDl77XI5eYVEB100000qkKPKh9aKX55cdj8100000298GLh9aKX5wppIXLdY0S5
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/blood/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: blood
+    Original:
+    - blood
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/damage_face/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1Gd5jU300000Bs245KQ9hRG0cOkU96xpQ5kOLu6xxODK5ztZSNg2KLK5O276A100000DKMiCjhJ0U5nhS1VIHxmI5mqCLt6m40W50OGkKPFJPS5
+    Original:
+    - 1Gd5jU300000Bs245KQ9hRG0cOkU96xpQ5kOLu6xxODK5ztZSNg2KLK5O276A100000DKMiCjhJ0U5nhS1VIHxmI5mqCLt6m40W50OGkKPFJPS5
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/damage_mune/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1J2Ik9100000OgxcwLysMOG2iEMkhiXoO5SmSYgHVWYK5ztZSNg2KLK5WIJfA100000pn9nWLdY0S5BnzmDMCglJ5UNakdAsXLP50OGkKPFJPS5
+    Original:
+    - 1J2Ik9100000OgxcwLysMOG2iEMkhiXoO5SmSYgHVWYK5ztZSNg2KLK5WIJfA100000pn9nWLdY0S5BnzmDMCglJ5UNakdAsXLP50OGkKPFJPS5
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/damage_body/data
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: 1LHc5V300000mQ2PpfQtxPGiouvapPXkN5y5SOnx2WxI5R82lYGjv2M56r12lqPXkN5aOWWs6m40W52iYV8100000iei5t6m40W5wzwdpbr97S5
+    Original:
+    - 1LHc5V300000mQ2PpfQtxPGiouvapPXkN5y5SOnx2WxI5R82lYGjv2M56r12lqPXkN5aOWWs6m40W52iYV8100000iei5t6m40W5wzwdpbr97S5
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\effect_body_damage_param.json'

@@ -1,0 +1,272 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /0//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Any content purchased in an in-game store will be purchased from 
+
+      Sony Interactive Entertainment Network Europe Limited ("SIENE") and 
+
+      be subject to PlayStationâ„˘Network Terms of Service and User 
+
+      Agreement which is available on the PlayStationâ„˘Store. Please check 
+
+      usage rights for each purchase as these may differ from item to item. 
+
+      Unless otherwise shown, content available in any in-game store has the 
+
+      same age rating as the game.
+    Original:
+    - >-
+      Any content purchased in an in-game store will be purchased from 
+
+      Sony Interactive Entertainment Network Europe Limited ("SIENE") and 
+
+      be subject to PlayStation™Network Terms of Service and User 
+
+      Agreement which is available on the PlayStation™Store. Please check 
+
+      usage rights for each purchase as these may differ from item to item. 
+
+      Unless otherwise shown, content available in any in-game store has the 
+
+      same age rating as the game.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Tout contenu achetĂ© dans la boutique d'un jeu est achetĂ© Ă  Sony 
+
+      Interactive Entertainment Network Europe Limited ("SIENE") et est 
+
+      soumis aux Conditions d'utilisation et Accord utilisateur de 
+
+      PlayStationâ„˘Network disponibles sur PlayStationâ„˘Store. VĂ©rifiez les 
+
+      droits d'utilisation lors de chaque achat car ceux-ci peuvent varier d'un 
+
+      article Ă  l'autre. Sauf indication contraire, la classification du contenu 
+
+      disponible dans la boutique d'un jeu est identique Ă  celle du jeu lui-mĂŞme.
+    Original:
+    - >-
+      Tout contenu acheté dans la boutique d'un jeu est acheté à Sony 
+
+      Interactive Entertainment Network Europe Limited ("SIENE") et est 
+
+      soumis aux Conditions d'utilisation et Accord utilisateur de 
+
+      PlayStation™Network disponibles sur PlayStation™Store. Vérifiez les 
+
+      droits d'utilisation lors de chaque achat car ceux-ci peuvent varier d'un 
+
+      article à l'autre. Sauf indication contraire, la classification du contenu 
+
+      disponible dans la boutique d'un jeu est identique à celle du jeu lui-même.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Tutti i contenuti acquistati in un negozio in-game saranno acquistati da 
+
+      Sony Interactive Entertainment Network Europe Limited ("SIENE") e 
+
+      saranno soggetti ai Termini di servizio e alle Condizioni d'uso di 
+
+      PlayStationâ„˘Network disponibili su PlayStationâ„˘Store. Consulta i diritti 
+
+      d'uso per ogni acquisto effettuato, poichĂ© possono differire in base al 
+
+      contenuto. Se non diversamente specificato, i contenuti disponibili nei 
+
+      negozi in-game sono rivolti ad utenti con la stessa etĂ  consigliata per il
+
+      gioco.
+    Original:
+    - >-
+      Tutti i contenuti acquistati in un negozio in-game saranno acquistati da 
+
+      Sony Interactive Entertainment Network Europe Limited ("SIENE") e 
+
+      saranno soggetti ai Termini di servizio e alle Condizioni d'uso di 
+
+      PlayStation™Network disponibili su PlayStation™Store. Consulta i diritti 
+
+      d'uso per ogni acquisto effettuato, poiché possono differire in base al 
+
+      contenuto. Se non diversamente specificato, i contenuti disponibili nei 
+
+      negozi in-game sono rivolti ad utenti con la stessa età consigliata per il
+
+      gioco.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Alle Inhalte, die in In-Game-Shops kĂ¤uflich erworben werden, 
+
+      werden von Sony Interactive Entertainment Network Europe Limited (â€žSIENEâ€ś) 
+
+      erworben und unterliegen den Nutzungsbedingungen und der 
+
+      Endbenutzervereinbarung von PlayStationâ„˘Network, die ĂĽber 
+
+      PlayStationâ„˘Store eingesehen werden kĂ¶nnen. Wir empfehlen, die 
+
+      Nutzungsrechte fĂĽr jedes erworbene Produkt zu ĂĽberprĂĽfen, da sie sich 
+
+      von Fall zu Fall unterscheiden kĂ¶nnen. Sofern nicht anders angegeben, 
+
+      gilt fĂĽr sĂ¤mtliche Inhalte, die in In-Game-Shops erhĂ¤ltlich sind, 
+
+      dieselbe Altersfreigabe wie fĂĽr das entsprechende Spiel.
+    Original:
+    - >-
+      Alle Inhalte, die in In-Game-Shops käuflich erworben werden, 
+
+      werden von Sony Interactive Entertainment Network Europe Limited („SIENE“) 
+
+      erworben und unterliegen den Nutzungsbedingungen und der 
+
+      Endbenutzervereinbarung von PlayStation™Network, die über 
+
+      PlayStation™Store eingesehen werden können. Wir empfehlen, die 
+
+      Nutzungsrechte für jedes erworbene Produkt zu überprüfen, da sie sich 
+
+      von Fall zu Fall unterscheiden können. Sofern nicht anders angegeben, 
+
+      gilt für sämtliche Inhalte, die in In-Game-Shops erhältlich sind, 
+
+      dieselbe Altersfreigabe wie für das entsprechende Spiel.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Cualquier contenido adquirido en una tienda del juego se le comprarĂˇ a 
+
+      Sony Interactive Entertainment Network Europe Limited (â€śSIENEâ€ť) y 
+
+      estarĂˇ sujeto a los TĂ©rminos de servicio / Acuerdo de usuario de 
+
+      PlayStationâ„˘Network que estĂˇ disponible en PlayStationâ„˘Store. Le 
+
+      rogamos que compruebe los derechos de uso en cada compra, ya que 
+
+      pueden variar segĂşn el producto. A menos que se indique lo contrario, 
+
+      el contenido disponible en una tienda del juego tiene la misma 
+
+      clasificaciĂłn por edades que el juego.
+    Original:
+    - >-
+      Cualquier contenido adquirido en una tienda del juego se le comprará a 
+
+      Sony Interactive Entertainment Network Europe Limited (“SIENE”) y 
+
+      estará sujeto a los Términos de servicio / Acuerdo de usuario de 
+
+      PlayStation™Network que está disponible en PlayStation™Store. Le 
+
+      rogamos que compruebe los derechos de uso en cada compra, ya que 
+
+      pueden variar según el producto. A menos que se indique lo contrario, 
+
+      el contenido disponible en una tienda del juego tiene la misma 
+
+      clasificación por edades que el juego.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Đ›ŃŽĐ±ĐľĐą Ń‚ĐľĐ˛Đ°Ń€, ĐżŃ€Đ¸ĐľĐ±Ń€ĐµŃ‚ĐµĐ˝Đ˝Ń‹Đą Đ˛Đľ Đ˛Đ˝ŃŃ‚Ń€Đ¸Đ¸ĐłŃ€ĐľĐ˛ĐľĐĽ ĐĽĐ°ĐłĐ°Đ·Đ¸Đ˝Đµ, Đ±ŃĐ´ĐµŃ‚ 
+
+      ŃŹĐ˛Đ»ŃŹŃ‚ŃŚŃŃŹ ĐżĐľĐşŃĐżĐşĐľĐą Ń ĐşĐľĐĽĐżĐ°Đ˝Đ¸Đ¸ Sony Interactive Entertainment 
+
+      Network Europe Limited (â€śSIENEâ€ť) Đ¸ ĐżĐľĐ´Ń‡Đ¸Đ˝ŃŹŃ‚ŃŚŃŃŹ ĐŁŃĐ»ĐľĐ˛Đ¸ŃŹĐĽ 
+
+      ĐżŃ€ĐµĐ´ĐľŃŃ‚Đ°Đ˛Đ»ĐµĐ˝Đ¸ŃŹ ŃŃĐ»ŃĐł PlayStationâ„˘Network, Ń ĐşĐľŃ‚ĐľŃ€Ń‹ĐĽĐ¸ ĐĽĐľĐ¶Đ˝Đľ 
+
+      ĐľĐ·Đ˝Đ°ĐşĐľĐĽĐ¸Ń‚ŃŚŃŃŹ Đ˛ PlayStationâ„˘Store. ĐźĐľĐ¶Đ°Đ»ŃĐąŃŃ‚Đ°, ĐľĐ·Đ˝Đ°ĐşĐľĐĽŃŚŃ‚ĐµŃŃŚ Ń 
+
+      ĐżŃ€Đ°Đ˛Đ°ĐĽĐ¸ Đ¸ŃĐżĐľĐ»ŃŚĐ·ĐľĐ˛Đ°Đ˝Đ¸ŃŹ - ĐľĐ˝Đ¸ ĐĽĐľĐłŃŃ‚ Đ±Ń‹Ń‚ŃŚ Ń€Đ°Đ·Đ»Đ¸Ń‡Đ˝Ń‹ĐĽĐ¸ Đ´Đ»ŃŹ Ń€Đ°Đ·Đ˝Ń‹Ń… 
+
+      ĐżŃ€ĐľĐ´ŃĐşŃ‚ĐľĐ˛. Đ•ŃĐ»Đ¸ Đ˝Đµ ŃĐşĐ°Đ·Đ°Đ˝Đľ Đ¸Đ˝ĐľĐµ, Ń‚ĐľĐ˛Đ°Ń€ Đ˛ Đ»ŃŽĐ±ĐľĐĽ Đ˛Đ˝ŃŃ‚Ń€Đ¸Đ¸ĐłŃ€ĐľĐ˛ĐľĐĽ 
+
+      ĐĽĐ°ĐłĐ°Đ·Đ¸Đ˝Đµ Đ¸ĐĽĐµĐµŃ‚ Ń‚Ń Đ¶Đµ Đ˛ĐľĐ·Ń€Đ°ŃŃ‚Đ˝ŃŃŽ ĐşĐ°Ń‚ĐµĐłĐľŃ€Đ¸ŃŽ, Ń‡Ń‚Đľ Đ¸ Đ¸ĐłŃ€Đ°.
+    Original:
+    - >-
+      Любой товар, приобретенный во внутриигровом магазине, будет 
+
+      являться покупкой у компании Sony Interactive Entertainment 
+
+      Network Europe Limited (“SIENE”) и подчиняться Условиям 
+
+      предоставления услуг PlayStation™Network, с которыми можно 
+
+      ознакомиться в PlayStation™Store. Пожалуйста, ознакомьтесь с 
+
+      правами использования - они могут быть различными для разных 
+
+      продуктов. Если не указано иное, товар в любом внутриигровом 
+
+      магазине имеет ту же возрастную категорию, что и игра.
+  Status: DoNotTranslate
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6//text
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
+      Qualquer conteĂşdo comprado numa loja de jogo Ă© comprado Ă  Sony 
+
+      Interactive Entertainment Network Europe Limited (â€śSIENEâ€ť) e estĂˇ 
+
+      sujeito aos Termos de ServiĂ§o e Acordo de Utilizador da 
+
+      PlayStationâ„˘Network, disponĂ­veis na PlayStationâ„˘Store. Verifique os 
+
+      direitos de utilizaĂ§ĂŁo relativos a cada compra, uma vez que estes 
+
+      podem diferir de um artigo para outro. Salvo indicaĂ§ĂŁo em contrĂˇrio, o 
+
+      conteĂşdo disponĂ­vel em qualquer loja de jogo possui a mesma 
+
+      classificaĂ§ĂŁo etĂˇria que o prĂłprio jogo.
+    Original:
+    - >-
+      Qualquer conteúdo comprado numa loja de jogo é comprado à Sony 
+
+      Interactive Entertainment Network Europe Limited (“SIENE”) e está 
+
+      sujeito aos Termos de Serviço e Acordo de Utilizador da 
+
+      PlayStation™Network, disponíveis na PlayStation™Store. Verifique os 
+
+      direitos de utilização relativos a cada compra, uma vez que estes 
+
+      podem diferir de um artigo para outro. Salvo indicação em contrário, o 
+
+      conteúdo disponível em qualquer loja de jogo possui a mesma 
+
+      classificação etária que o próprio jogo.
+  Status: DoNotTranslate
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\pause_siee_eula.json'

@@ -1,0 +1,426 @@
+!YTT.Files.Structure,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+Files:
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/kasuga_freeter/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Yakuza
+    Original:
+    - Yakuza
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/kasuga_freeter/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód tylko dla Ichibana. Nastawiony na czystą siłę, Kasuga używa ruchów wrestlingowych by pokonać wrogów. Potrafi też używać otoczenia do ataków.
+    Original:
+    - Ichiban Kasuga exclusive job. Relies on bare-knuckle brawling and Kasuga's pro wrestling moves to knock enemies senseless. A high-offense job that allows Kasuga to learn terrain-based Skills.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/kasuga_freeter/name_change_tbl/1//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Freelancer
+    Original:
+    - Freelancer
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/kasuga_freeter/name_change_tbl/2//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bezrobotny
+    Original:
+    - Deadbeat
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /1/kasuga_freeter/name_change_tbl/3//1
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Miłośnik Arakawy
+    Original:
+    - Arakawa Loyalist
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/kasuga_braver/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bohater
+    Original:
+    - Hero
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /2/kasuga_braver/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód tylko dla Ichibana. Walczy batem niczym mieczem. Zawód idealny na każdą okazję z szeroką paletą zdolności, którymi pokonasz wrogów i wspomożesz sojuszników.
+    Original:
+    - Ichiban Kasuga exclusive job. Fights using a bat like a sword. An all-purpose job capable of learning various techniques to battle the enemy and assist one's allies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/nanba_01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Bezdomny
+    Original:
+    - Homeless Guy
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /3/nanba_01/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód tylko dla Nanby. Włada parasolem niczym laską. Jest gotów na plucie ogniem, kontrolę gołębi czy nie mycie zębów!
+    Original:
+    - Nanba exclusive job. Fights wielding umbrellas and canes. Capable of learning homeless tricks of the trade like fire breathing, pigeon control, and smelly breath!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/adachi_01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Detektyw
+    Original:
+    - Detective
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /4/adachi_01/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód tylko dla Adachiego. Zbija wrogów na kwaśne jabłko używając judo i swojej pałki. Używa potężnych ataków ale też takich które przeszkodzą wrogą lub ochronią sojuszników.
+    Original:
+    - Koichi Adachi exclusive job. Brings the beatdown using both a police baton and judo. Capable of learning not only extremely powerful attacks but also techniques that can disrupt the enemy and protect one's allies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/saeko_01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Barmanka
+    Original:
+    - Barmaid
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /5/saeko_01/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód tylko dla Saeko. Rzuca się na wrogów torebką. Niech ta niewinna broń nie zwodzi gdyż oprócz użycia jej zawartości potrafi też sztuki walki.
+    Original:
+    - Saeko exclusive job. Smacks enemies around with a handbag. Capable of learning powerful martial arts performed in tandem with a wide array of cosmetic tools.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/jyungi_01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zabójca
+    Original:
+    - Hitman
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /6/jyungi_01/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód tylko dla Joon-gi Hana. Używa połączenia boksu i kastetów. Łączy ze sobą tajniki cichego zabijania nożem jak i nowoczesnego użycia broni.
+    Original:
+    - Joon-gi Han exclusive job. Boxes enemies with brass knuckles. Capable of learning a slew of assassination techniques using karambits and pistols.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/chou_01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Gangster
+    Original:
+    - Gangster
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /7/chou_01/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód tylko dla Zhao. Ćwiartuje wrogów swoją szablą. Rozwija się w akrobatycznej sztucę Chińskiego Kenpo.
+    Original:
+    - Zhao exclusive job. Slashes enemies with a saber. Capable of learning acrobatic martial arts based on Chinese Kenpo.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/woman_a_01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Sekretarka
+    Original:
+    - Clerk
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /8/woman_a_01/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Zawód tylko dla Eri. Wycina przeciwników swoim nożykiem. Jej ruchy są szybkie a jej przybory biurowe zabójcze.
+    Original:
+    - Eri Kamataki exclusive job. Cuts down enemies with a box cutter. Capable of learning speedy physical attacks with an arsenal of office supplies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/man_01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ochroniarz
+    Original:
+    - Bodyguard
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /9/man_01/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Mistrz katany. Gotowy na zniszczenie wrogów poprzez zadanie im bólu który będą czuć nawet w zaświatach.
+    Original:
+    - Excels with a katana. Capable of learning techniques that harm oneself to inflict even worse pain on the enemy.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/man_02/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Host
+    Original:
+    - Host
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /10/man_02/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Prośba a podanie butelki nabiera nowego znaczenia. Używa specjalnych technik pozwalając na ochłodę gdy zaczyna robić się gorąco.
+    Original:
+    - Brings a whole new meaning to bottle service. Capable of learning special host techniques to stay cool and collected while toppling enemies or stealing their shit.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/man_kaitaiya/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Majster
+    Original:
+    - Foreman
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /11/man_kaitaiya/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Swoim potężnym młotem rozwali wszystko! Nic nie staje mu na drodze, choć musisz uważać na alkohol.
+    Original:
+    - Wields a mighty hammer to get the job done. Capable of learning techniques to crush anything and everything that stands in the way!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/man_musician/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Muzykant
+    Original:
+    - Musician
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /12/man_musician/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Przemierza przez świat z gitarą u boku. Swoimi piosenkami potrafi głęboko dotknąć swoich słuchaczy wspomagając towarzyszy lub uspokajając przeciwników.
+    Original:
+    - Takes on the world with a trusty guitar and the power of music. Capable of learning techniques to inspire your allies with song or dampen the enemy's fighting spirit.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/man_05/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Breakdancer
+    Original:
+    - Breaker
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /13/man_05/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Ruchy jak kot, flow na wyższym poziomie. Pokona każdego, kto stanie mu na drodze.
+    Original:
+    - Pops, locks, and drops the enemies to the floor. Capable of learning a variety of funky fresh dance techniques to toy with and take down the enemy.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/man_06/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Strażnik
+    Original:
+    - Enforcer
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /14/man_06/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Dzięki przydziałowej tarczy i pale jest gotów ochronić swoich ludzi i obezwładnić przeciwników.
+    Original:
+    - Employs standard-issue shields and batons. Capable of learning techniques to protect one's allies or overwhelm one's foes.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/man_07/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Kucharz
+    Original:
+    - Chef
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /15/man_07/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Przenieś żar kuchni na pole walki! Jest w stanie poszatkować i flambirować swoich przeciwników!
+    Original:
+    - Brings the heat from the kitchen to the street! Capable of learning various cooking techniques to flambé and dice one's enemies to oblivion!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/man_08/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Jasnowidz
+    Original:
+    - Fortuneteller
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /16/man_08/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: W swojej kuli widzi co czeka resztę. Może i brzmi to jak oszustwo ale jest w stanie używać swojej cudownej mocy by wspomóc sojuszników.
+    Original:
+    - Allows one to gaze into the future using a precious jewel. Might sound bogus, but it's apparently capable of learning miraculous powers to bless one's allies.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/woman_idol/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Idol
+    Original:
+    - Idol
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /17/woman_idol/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Niech swoim głosem poprowadzi drużynę do zwycięstwa. Gotowa na użycie swoich ruchów aby oczarować przeciwników i dać siłę sojusznikom.
+    Original:
+    - Lets one sing and dance their way to victory using an assortment of microphones. Capable of learning techniques to make complete fools of the enemy with cutesy movements or heal allies with an overflow of charm.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/woman_02/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Hostessa
+    Original:
+    - Hostess
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /18/woman_02/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Na jej widok wrogowie padają na kolana dzięki swojej kopertówce i aurze. Swój cel może zwinnie opleść wokół palca.
+    Original:
+    - Brings enemies to their knees, thanks to a trendy clutch bag and hospitable spirit. Capable of learning special hostess skills that will have the enemy completely wrapped around one's finger.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/woman_dealer/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Dealer
+    Original:
+    - Dealer
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /19/woman_dealer/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Karty przynoszą tej Pani szczęście. Może używać kart i swojego szczęścia aby zgotować piekło przeciwnikom.
+    Original:
+    - Leaves it all to the cards and the divine will of lady luck. Capable of learning very hit-or-miss techniques that can turn the tables in the blink of an eye!
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/woman_nightqueen/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Królowa Nocy
+    Original:
+    - Night Queen
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /20/woman_nightqueen/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Aktywuje jej wewnętrznego sadystę łącząc ból z przyjemnością. Potrafi wykorzystywać wrogów i przyjaciół zadając im ból który prowadzi do nieba, piekła i wszędzie pomiędzy.
+    Original:
+    - Breaks out the whips and one's inner sadist to bring both the pain and the pleasure. Capable of learning techniques that will send enemies and allies alike to heaven, hell, and everywhere in between through violent kicks and more-than-suggestive service.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/dlc_01/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Diabelski Rockowiec
+    Original:
+    - Devil Rocker
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /21/dlc_01/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Niech piekło przyjdzie na ziemie poprzez muzykę. Niech diabeł przejmie jego ciało i nauczy technik destrukcji!
+    Original:
+    - Unleashes all hell through the power of rock. Making one proclaim to be the Devil himself, it's capable of learning techniques that torment enemies with highly destructive performances, consequences be damned.
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/woman_martial/name
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Matriarcha
+    Original:
+    - Matriarch
+  Status: Untranslated
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path:
+  - /22/woman_martial/explain
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Jej orężem jest naginata która paruje się z jej nieporównywalnym stylem i gracją. Potrafi łapać wrogów oraz atakować na dystans.
+    Original:
+    - Swings around a naginata with unmatched style and grace. Capable of learning a vast repertoire of attacks that catch enemies within their exceptionally long reach.
+  Status: Untranslated
+  Visibility: Visible
+ReferenceName: '\db.yazawa.en.par\en\rpg_job.json'
