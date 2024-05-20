@@ -1984,19 +1984,19 @@ Files:
   Path:
   - /1587/adv04_0080_select_01/opt[0]
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Yeah.
+    Translated: Tak.
     Original:
     - Yeah.
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1587/adv04_0080_select_01/opt[1]
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Give me a little more time.
+    Translated: Jeszcze chwila.
     Original:
     - Give me a little more time.
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

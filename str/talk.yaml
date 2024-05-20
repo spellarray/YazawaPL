@@ -40831,127 +40831,127 @@ Files:
   Path:
   - /397/yazawa_main_c04/text/395//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Here it is.
+    Translated: To tutaj.
     Original:
     - Here it is.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/396//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Wow, that's a helluva gate.
+    Translated: Robi wrażenie.
     Original:
     - Wow, that's a helluva gate.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/397//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: This place has that yakuza HQ feeling down. Can't hurt to be cautious.
+    Translated: To baza yakuzy. Musimy zachować czujność.
     Original:
     - This place has that yakuza HQ feeling down. Can't hurt to be cautious.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/398//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Let's make sure we're really good to go, then.
+    Translated: Upewnijmy się że jesteśmy gotowi.
     Original:
     - Let's make sure we're really good to go, then.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/399//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Okay. Hey, you wait right here, Totsuka.
+    Translated: Dobra. Poczekaj tu Totsuka.
     Original:
     - Okay. Hey, you wait right here, Totsuka.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/400//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: I told you what'll happen if you try to run, right?
+    Translated: Wiesz co będzie jak uciekniesz, tak?
     Original:
     - I told you what'll happen if you try to run, right?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/402//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: (We don't know what might be waiting for us in there. Better make sure we're ready before we bust in.)
+    Translated: (Nie wiemy na co się piszemy. Musimy być gotowi na wszystko co może się tam wydarzyć.)
     Original:
     - (We don't know what might be waiting for us in there. Better make sure we're ready before we bust in.)
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/403//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Show us in already.
+    Translated: Wprowadź nas wreszcie.
     Original:
     - Show us in already.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/404//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: I know. I can't have you saying whatever you please to the chairman, after all.
+    Translated: Wiem. Nie mogę pozwolić wam na mówienie byle czego przy przewodniczącym.
     Original:
     - I know. I can't have you saying whatever you please to the chairman, after all.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/405//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Yeah.
+    Translated: Dobra.
     Original:
     - Yeah.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/407//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: You ready yet?
+    Translated: Gotowi?
     Original:
     - You ready yet?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/408//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Tch.
+    Translated: Dobra.
     Original:
     - Tch.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/409//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Eh, not feeling it just yet.
+    Translated: Nie, potrzebujemy jeszcze chwilę.
     Original:
     - Eh, not feeling it just yet.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/410//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: C'mon, hurry it up.
+    Translated: Pośpieszcie się!
     Original:
     - C'mon, hurry it up.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -41812,10 +41812,10 @@ Files:
   Path:
   - /397/yazawa_main_c04/text/587//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Hey, you really think that's good enough? What do you take the Seiryu Clan for?
+    Translated: To na pewno wszystko? Nie myśl sobie że Seiryu to jakaś popierdółka.
     Original:
     - Hey, you really think that's good enough? What do you take the Seiryu Clan for?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -41830,19 +41830,19 @@ Files:
   Path:
   - /397/yazawa_main_c04/text/590//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Okay, looks like you're taking this seriously. I'll show you in. Ready?
+    Translated: Dobra, jesteście gotowi. Mogę was już wprowadzić?
     Original:
     - Okay, looks like you're taking this seriously. I'll show you in. Ready?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /397/yazawa_main_c04/text/591//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: (Could see if there's anything we can use as weapons lying around, or stop by somewhere that sells medicine.)
+    Translated: (Może gdzieś znajdziemy jakieś uzbrojenie. Po drodze możemy też znaleźć jakieś lecznicze rzeczy.)
     Original:
     - (Could see if there's anything we can use as weapons lying around, or stop by somewhere that sells medicine.)
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
