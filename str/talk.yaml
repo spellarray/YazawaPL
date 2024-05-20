@@ -57042,109 +57042,109 @@ Files:
   Path:
   - /425/yazawa_dgn_y010/text/1//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Doesn't look like they want to let us through!
+    Translated: Ale na przejście przez nie, musimy chwile poczekać!
     Original:
     - Doesn't look like they want to let us through!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/2//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Then it's time to give 'em hell again!
+    Translated: Czas rozpętać piekło!
     Original:
     - Then it's time to give 'em hell again!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/3//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: You guys stupid!? Let's just run!
+    Translated: Posrało was!? Uciekajmy!
     Original:
     - You guys stupid!? Let's just run!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/4//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Hm, now what?
+    Translated: Dobra, co teraz?
     Original:
     - Hm, now what?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/5//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Should we try the corridor that connects above us? Maybe we can get to the chairman's room by going up the left side.
+    Translated: Spróbujemy iść korytarzem nad nami? Będzie krótsza droga do przewodniczącego.
     Original:
     - Should we try the corridor that connects above us? Maybe we can get to the chairman's room by going up the left side.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/6//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Yeah, kinda roundabout, but it'll work. Seems like the Seiryu Clan members unlocked the doors for us, too.
+    Translated: Będziemy musieli iść trochę okrężną drogą żeby się tam dostać. Pozamykali nam drzwi.
     Original:
     - Yeah, kinda roundabout, but it'll work. Seems like the Seiryu Clan members unlocked the doors for us, too.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/7//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Hold up. Security might be tighter that way. Let's see if we can enter from that door over there first.
+    Translated: Chwila. Musimy być ostrożni. Na pewno w środku roi się od ochrony. Może spróbujemy innym wejściem.
     Original:
     - Hold up. Security might be tighter that way. Let's see if we can enter from that door over there first.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/8//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Going that way is pointless. Let's keep going!
+    Translated: Nie ma sensu iść tędy. Ruszajmy!
     Original:
     - Going that way is pointless. Let's keep going!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/9//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Phew... Thought I was a goner...
+    Translated: O matko... Już myślałem że po mnie...
     Original:
     - Phew... Thought I was a goner...
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/10//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: You said it... Does this mean we have to climb back up?
+    Translated: Czyli co? Teraz wspinamy się raz jeszcze?
     Original:
     - You said it... Does this mean we have to climb back up?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/11//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Seems like it. Let's look for another way.
+    Translated: Na to wygląda. Znajdziemy stąd wyjście.
     Original:
     - Seems like it. Let's look for another way.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/12//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: What's this key go to?
+    Translated: Do czego ten klucz?
     Original:
     - What's this key go to?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -57159,19 +57159,19 @@ Files:
   Path:
   - /425/yazawa_dgn_y010/text/14//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Maybe that iron door we saw along the corridor?
+    Translated: Może do tamtych żelaznych drzwi na korytarzu?
     Original:
     - Maybe that iron door we saw along the corridor?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/15//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Right. Let's check it out! We might find our way up!
+    Translated: Sprawdzimy to. Będziemy krok bliżej celu!
     Original:
     - Right. Let's check it out! We might find our way up!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -57204,55 +57204,55 @@ Files:
   Path:
   - /425/yazawa_dgn_y010/text/19//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Hey...
+    Translated: Hej...
     Original:
     - Hey...
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/20//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: It's some sort of blueprint for this facility.
+    Translated: To jakieś plany budynku.
     Original:
     - It's some sort of blueprint for this facility.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/21//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: That's interesting... There's a ladder icon at the edge here.
+    Translated: Ciekawe... Zobacz, tam w rogu jest narysowana drabina.
     Original:
     - That's interesting... There's a ladder icon at the edge here.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/22//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Looks like it connects with the room where we found the key... But I don't remember seeing a door.
+    Translated: Wygląda na to że w pokoju z kluczem jest sekretna drabina... Ale nie widziałem tam żadnych drzwi.
     Original:
     - Looks like it connects with the room where we found the key... But I don't remember seeing a door.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/23//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Maybe it's hidden. This building's a goddamn fortress, so a hidden passage wouldn't even surprise me.
+    Translated: Może są ukryte? Ten budynek to jebana forteca, nie zdziwiło by mnie gdyby jakieś tu były.
     Original:
     - Maybe it's hidden. This building's a goddamn fortress, so a hidden passage wouldn't even surprise me.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/24//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: That's gotta be it! Let's hurry back to that room and check it out!
+    Translated: Tak musi być! Wróćmy tam sprawdzić!
     Original:
     - That's gotta be it! Let's hurry back to that room and check it out!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -57267,64 +57267,64 @@ Files:
   Path:
   - /425/yazawa_dgn_y010/text/26//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Hmm... No doors.
+    Translated: Hmm... Nie ma drzwi.
     Original:
     - Hmm... No doors.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/27//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: That's weird... The blueprint pointed right here...
+    Translated: Dziwne... Powinny być tutaj...
     Original:
     - That's weird... The blueprint pointed right here...
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/28//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Whoa! Check this out. It's a button.
+    Translated: Są! Patrzecie! Przycisk.
     Original:
     - Whoa! Check this out. It's a button.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/29//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: You're right. Kasuga, press it.
+    Translated: Masz dobre oko Nanba. Kasuga, wciskaj.
     Original:
     - You're right. Kasuga, press it.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/30//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Uh, sure. Here goes.
+    Translated: Ee, no dobra.
     Original:
     - Uh, sure. Here goes.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/31//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Seriously? It worked.
+    Translated: Łał! Zadziałało!
     Original:
     - Seriously? It worked.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/32//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: All right. Now we can go up!
+    Translated: No to w górę!
     Original:
     - All right. Now we can go up!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -57339,118 +57339,118 @@ Files:
   Path:
   - /425/yazawa_dgn_y010/text/34//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: You're such a pain in the ass. We just wanna see the chairman. Outta the way!
+    Translated: Jesteś jak wrzód na dupie. Z drogi! Chemy się widzieć z przewodniczącym!
     Original:
     - You're such a pain in the ass. We just wanna see the chairman. Outta the way!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/35//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Tch. You made it this far... And that's far enough.
+    Translated: Ta? Dotarliście daleko... Za daleko.
     Original:
     - Tch. You made it this far... And that's far enough.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/36//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: They're still standing after all that?
+    Translated: Oni jeszcze się trzymają?
     Original:
     - They're still standing after all that?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/37//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Heh... Long time no see.
+    Translated: Heh... Kopę lat.
     Original:
     - Heh... Long time no see.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/38//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: This time'll be different.
+    Translated: Tym razem, będzie po naszemu.
     Original:
     - This time'll be different.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/39//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: The three of us together are unstoppable!
+    Translated: We trzech, jesteśmy nie do pokonania!
     Original:
     - The three of us together are unstoppable!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/40//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Heh, then it's unstoppable trio against unstoppable trio! C'mon, Nanba, Adachi-san!
+    Translated: Heh, zobaczymy czy dacie rade naszej trójce! Nanba, Adachi!
     Original:
     - Heh, then it's unstoppable trio against unstoppable trio! C'mon, Nanba, Adachi-san!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/41//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Okay!
+    Translated: No dobra!
     Original:
     - Okay!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/42//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Okay!
+    Translated: A jak!
     Original:
     - Okay!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/43//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: (All right. Let's see if this key works.)
+    Translated: (Dobra, zobaczmy czy działa.)
     Original:
     - (All right. Let's see if this key works.)
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/44//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Hey, this door's open.
+    Translated: Te drzwi da się otworzyć.
     Original:
     - Hey, this door's open.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/45//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: (Dammit, the electricity's cut off...)
+    Translated: (Cholera, wyłączona...)
     Original:
     - (Dammit, the electricity's cut off...)
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /425/yazawa_dgn_y010/text/46//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: (...Looks like it's locked.)
+    Translated: (Zamknięte...)
     Original:
     - (...Looks like it's locked.)
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

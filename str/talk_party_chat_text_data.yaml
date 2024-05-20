@@ -459,23 +459,23 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /56/dgn_ptc04_y010_010_000/text
-  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: >-
-      You gotta be kidding me.
-
-      How are we supposed to get through...
-    Original:
-    - >-
-      You gotta be kidding me.
-
-      How are we supposed to get through...
-  Status: Untranslated
-  Visibility: Visible
-- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path:
   - /56/dgn_ptc04_y010_010_000/text_for_audio_language_en
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
+      Co to ma być?
+
+      Jak się przez to przebijemy...
+    Original:
+    - >-
+      You gotta be kidding me.
+
+      How are we supposed to get through...
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path: &o0 []
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
       You gotta be kidding me.
 
       How are we supposed to get through...
@@ -484,28 +484,28 @@ Files:
       You gotta be kidding me.
 
       How are we supposed to get through...
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /57/dgn_ptc04_y010_010_001/text
-  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: >-
-      Well standing around won't solve anything...
-
-      Let's find another way around.
-    Original:
-    - >-
-      Well standing around won't solve anything...
-
-      Let's find another way around.
-  Status: Untranslated
-  Visibility: Visible
-- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path:
   - /57/dgn_ptc04_y010_010_001/text_for_audio_language_en
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
+      Nie mamy czasu na rozkminę...
+
+      Znajdźmy inne przejście.
+    Original:
+    - >-
+      Well standing around won't solve anything...
+
+      Let's find another way around.
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path: *o0
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
       Well standing around won't solve anything...
 
       Let's find another way around.
@@ -514,7 +514,7 @@ Files:
       Well standing around won't solve anything...
 
       Let's find another way around.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -523,7 +523,7 @@ Files:
     Translated: End
     Original:
     - End
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -537,23 +537,23 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /59/dgn_ptc04_y010_020_000/text
-  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: >-
-      Hey, this place looks safe enough.
-
-      Why don't we take a breather?
-    Original:
-    - >-
-      Hey, this place looks safe enough.
-
-      Why don't we take a breather?
-  Status: Untranslated
-  Visibility: Visible
-- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path:
   - /59/dgn_ptc04_y010_020_000/text_for_audio_language_en
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
+      To miejsce wygląda względnie bezpiecznie.
+
+      Odpocznijmy chwilę, co?
+    Original:
+    - >-
+      Hey, this place looks safe enough.
+
+      Why don't we take a breather?
+  Status: Review
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path: *o0
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: >-
       Hey, this place looks safe enough.
 
       Why don't we take a breather?
@@ -562,7 +562,7 @@ Files:
       Hey, this place looks safe enough.
 
       Why don't we take a breather?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -571,7 +571,7 @@ Files:
     Translated: End
     Original:
     - End
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28091,15 +28091,15 @@ Files:
   - /1361/ptc_dungeon_y010_001_000/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
-      No one else is comin'?
+      To wszyscy?
 
-      Pretty weak ambush, if you ask me.
+      Słaba zasadzka, moim zdaniem.
     Original:
     - >-
       No one else is comin'?
 
       Pretty weak ambush, if you ask me.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28114,22 +28114,22 @@ Files:
       No one else is comin'?
 
       Pretty weak ambush, if you ask me.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1362/ptc_dungeon_y010_001_001/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
-      Bet those idiots wanted to hog
+      Pewnie chcieli zaskarbić się
 
-      the credit for taking out the intruders.
+      tym że nas pokonali.
     Original:
     - >-
       Bet those idiots wanted to hog
 
       the credit for taking out the intruders.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28144,16 +28144,16 @@ Files:
       Bet those idiots wanted to hog
 
       the credit for taking out the intruders.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1363/ptc_dungeon_y010_001_002/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Oh, is that what it is?
+    Translated: Tak myślisz?
     Original:
     - Oh, is that what it is?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28162,22 +28162,22 @@ Files:
     Translated: Oh, is that what it is?
     Original:
     - Oh, is that what it is?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1364/ptc_dungeon_y010_001_003/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
-      Wouldn't it be easier for them
+      Nie było by im łatwiej
 
-      if they all ganged up on us?
+      gdyby było ich więcej?
     Original:
     - >-
       Wouldn't it be easier for them
 
       if they all ganged up on us?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28192,22 +28192,22 @@ Files:
       Wouldn't it be easier for them
 
       if they all ganged up on us?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1365/ptc_dungeon_y010_001_004/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
-      Nobody climbs the corporate ladder
+      Nikt nie wspina się po szczeblach
 
-      in a group. Criminals included.
+      w grupie. Nawet w yakuzie.
     Original:
     - >-
       Nobody climbs the corporate ladder
 
       in a group. Criminals included.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28222,22 +28222,22 @@ Files:
       Nobody climbs the corporate ladder
 
       in a group. Criminals included.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1366/ptc_dungeon_y010_001_005/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
-      Huh.
+      Ah, tak.
 
-      No wonder I've never been promoted.
+      Nic dziwnego że nigdy nie miałem awansu.
     Original:
     - >-
       Huh.
 
       No wonder I've never been promoted.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28252,7 +28252,7 @@ Files:
       Huh.
 
       No wonder I've never been promoted.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28261,7 +28261,7 @@ Files:
     Translated: End
     Original:
     - End
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28277,15 +28277,15 @@ Files:
   - /1368/ptc_dungeon_y010_002_000/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
-      Back again, huh?
+      Wróciliśmy, co?
 
-      So this is where we are.
+      Do punktu wyjścia.
     Original:
     - >-
       Back again, huh?
 
       So this is where we are.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28300,16 +28300,16 @@ Files:
       Back again, huh?
 
       So this is where we are.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1369/ptc_dungeon_y010_002_001/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Wait, we've been here already?
+    Translated: Chwila, już tu byliśmy?
     Original:
     - Wait, we've been here already?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28318,16 +28318,16 @@ Files:
     Translated: Wait, we've been here already?
     Original:
     - Wait, we've been here already?
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1370/ptc_dungeon_y010_002_002/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Hm... Doesn't seem too familiar to me...
+    Translated: Hm... Też nie kojarzę...
     Original:
     - Hm... Doesn't seem too familiar to me...
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28336,22 +28336,22 @@ Files:
     Translated: Hm... Doesn't seem too familiar to me...
     Original:
     - Hm... Doesn't seem too familiar to me...
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1371/ptc_dungeon_y010_002_003/text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
-      We were just here a minute ago!
+      Przecież przed chwilą tu byliśmy!
 
-      You guys have terrible memory...
+      Pamięć złotej rybki...
     Original:
     - >-
       We were just here a minute ago!
 
       You guys have terrible memory...
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28366,7 +28366,7 @@ Files:
       We were just here a minute ago!
 
       You guys have terrible memory...
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28375,7 +28375,7 @@ Files:
     Translated: End
     Original:
     - End
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -28840,7 +28840,7 @@ Files:
   Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path: &o0 []
+  Path: &o1 []
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       What's he got in front of him...
@@ -28863,7 +28863,7 @@ Files:
   Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path: *o0
+  Path: *o1
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Is he playing shogi outdoors?
     Original:
@@ -28886,7 +28886,7 @@ Files:
   Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path: *o0
+  Path: *o1
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Huh, maybe I should
@@ -28909,7 +28909,7 @@ Files:
   Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path: *o0
+  Path: *o1
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: End
     Original:
