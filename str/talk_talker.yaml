@@ -6349,10 +6349,10 @@ Files:
   Path:
   - /1774/耳が良いお姉さん/talk_talker
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Lady with Good Hearing
+    Translated: Wszystko Słysząca Kobieta
     Original:
     - Lady with Good Hearing
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

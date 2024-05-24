@@ -53785,10 +53785,10 @@ Files:
   Path:
   - /413/yazawa_murabito/text/26//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Good morning. Looks like you had a good night's sleep... Hehe. ❤
+    Translated: Doberek! Wygląda na to że jesteś wypoczęty... Hehe. ❤
     Original:
     - Good morning. Looks like you had a good night's sleep... Hehe. ❤
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
