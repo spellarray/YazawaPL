@@ -445,10 +445,10 @@ Files:
   Path:
   - /273/yazawa_y_taxi_poket/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Pocket CafĂ©
+    Translated: Kawiarna Pocket
     Original:
     - Pocket Café
-  Status: Review
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

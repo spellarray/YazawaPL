@@ -256,10 +256,10 @@ Files:
   Path:
   - /156/ホスト風の男/talk_talker
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Host Wannabe
+    Translated: Host o Wygórowanym Ego
     Original:
     - Host Wannabe
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -715,10 +715,10 @@ Files:
   Path:
   - /525/マスター/talk_talker
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Bartender
+    Translated: Barman
     Original:
     - Bartender
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -4468,10 +4468,10 @@ Files:
   Path:
   - /1549/喫茶ポケット店員/talk_talker
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Pocket Café Employee
+    Translated: Pracownik Kawiarni Pocket
     Original:
     - Pocket Café Employee
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -6268,19 +6268,19 @@ Files:
   Path:
   - /1765/チラシくばり/talk_talker
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Flyer Distributor
+    Translated: Rozdawacz Ulotek
     Original:
     - Flyer Distributor
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1766/電話の男/talk_talker
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Man on the Phone
+    Translated: Człowiek Przy Telefonie
     Original:
     - Man on the Phone
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -6385,10 +6385,10 @@ Files:
   Path:
   - /1778/夢見るおじさん/talk_talker
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Dreaming Man
+    Translated: Zamyślony Pan
     Original:
     - Dreaming Man
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

@@ -39373,7 +39373,7 @@ Files:
   Path:
   - /397/yazawa_main_c04/text/233//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Jeżeli będziecie koczować przy Pocket Cafe, napewno ją znajdziecie.
+    Translated: Jeżeli będziecie koczować przy Kawiarni Pocket, napewno ją znajdziecie.
     Original:
     - If you keep an eye on the Pocket Café, she'll show up.
   Status: Review
@@ -41839,10 +41839,10 @@ Files:
   Path:
   - /397/yazawa_main_c04/text/591//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: (Może gdzieś znajdziemy jakieś uzbrojenie. Po drodze możemy też znaleźć jakieś lecznicze rzeczy.)
+    Translated: (Może gdzieś znajdziemy jakieś uzbrojenie. Po drodze możemy wziąć coś orzeźwiającego na czas walki.)
     Original:
     - (Could see if there's anything we can use as weapons lying around, or stop by somewhere that sells medicine.)
-  Status: Review
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -57222,10 +57222,10 @@ Files:
   Path:
   - /425/yazawa_dgn_y010/text/21//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Ciekawe... Zobacz, tam w rogu jest narysowana drabina.
+    Translated: Ciekawe... Zobaczcie, tam w rogu jest narysowana drabina.
     Original:
     - That's interesting... There's a ladder icon at the edge here.
-  Status: Review
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -60858,19 +60858,19 @@ Files:
   Path:
   - /478/yazawa_dgn_y020/text/4//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: From whips to canes, we've got it all! Come to Love Magic for all your adult weapon needs!
+    Translated: Od biczy po kneble, mamy wszystko! Zapraszamy do Love Magic by spełnić wszystkie zabawkowe fantazje!
     Original:
     - From whips to canes, we've got it all! Come to Love Magic for all your adult weapon needs!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /478/yazawa_dgn_y020/text/5//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: (Whips and canes, huh? Sounds painful. Might be worth swinging by.)
+    Translated: (Kneble może nie ale bicze? Brzmi trochę, boleśnie. Może znajdziemy tam jakąś broń?)
     Original:
     - (Whips and canes, huh? Sounds painful. Might be worth swinging by.)
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -60885,10 +60885,10 @@ Files:
   Path:
   - /478/yazawa_dgn_y020/text/12//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: (Could see if there's anything we can use as weapons lying around, or stop by somewhere that sells medicine.)
+    Translated: (Może gdzieś znajdziemy jakieś uzbrojenie. Po drodze możemy wziąć coś orzeźwiającego na czas walki.)
     Original:
     - (Could see if there's anything we can use as weapons lying around, or stop by somewhere that sells medicine.)
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -77426,20 +77426,21 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /608/yazawa_pt_tfd_food_itadakimasu001/text/1//3
-  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Who's hungry!?
-    Original:
-    - Who's hungry!?
-  Status: Untranslated
-  Visibility: Visible
-- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path:
   - /608/yazawa_pt_tfd_food_itadakimasu001/text/2//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Me!
+    Translated: Smacznego!
+    Original:
+    - Who's hungry!?
+    - Me!
+  Status: Finished
+  Visibility: Visible
+- !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+  Path: []
+  Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
+    Translated: Smacznego!
     Original:
     - Me!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

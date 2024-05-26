@@ -7,7 +7,7 @@ Files:
     Translated: 'Test: Attack Up (Slightly)'
     Original:
     - 'Test: Attack Up (Slightly)'
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -16,7 +16,7 @@ Files:
     Translated: 'Test: Attack Up (Slightly)'
     Original:
     - 'Test: Attack Up (Slightly)'
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -25,7 +25,7 @@ Files:
     Translated: 'Test: Defense Up (Slightly)'
     Original:
     - 'Test: Defense Up (Slightly)'
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

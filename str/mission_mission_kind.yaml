@@ -1327,10 +1327,10 @@ Files:
   Path:
   - /1866/yazawa_c04_0020/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Go to Pocket CafĂ©
+    Translated: Idź do Kawiarni Pocket
     Original:
     - Go to Pocket Café
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -7552,10 +7552,10 @@ Files:
   Path:
   - /2130/yazawa_adv_sub_a16_end/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Who's That Sujimon!?
+    Translated: Złap Je Wszystkie!
     Original:
     - Who's That Sujimon!?
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -8122,7 +8122,7 @@ Files:
     Translated: Puszkobranie
     Original:
     - A Can-Do Attitude
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

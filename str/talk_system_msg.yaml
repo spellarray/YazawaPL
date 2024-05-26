@@ -1966,7 +1966,7 @@ Files:
   Path:
   - /353/system_adv_sub_a16_030_001/msg_system
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Aplikacja Sujidex została zainstalowana w telefonie Kasugi.
+    Translated: Aplikacja Sujidex została zainstalowana na telefonie Kasugi.
     Original:
     - The Sujidex app was installed on Kasuga's smartphone.
   Status: Untranslated

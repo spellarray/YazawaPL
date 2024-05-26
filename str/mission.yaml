@@ -238,10 +238,10 @@ Files:
   Path:
   - /14/yazawa_sub_a16/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Who's That Sujimon!?
+    Translated: Złap Je Wszystkie!
     Original:
     - Who's That Sujimon!?
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -643,7 +643,7 @@ Files:
     Translated: Puszkobranie
     Original:
     - A Can-Do Attitude
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

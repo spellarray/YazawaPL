@@ -4,10 +4,10 @@ Files:
   Path:
   - /1/general_setting/gochisousama_text
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Thanks for the meal!
+    Translated: Dziękujemy za posiłek!
     Original:
     - Thanks for the meal!
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

@@ -13262,15 +13262,15 @@ Files:
   - /35/a04_0050/cinema_telop/17//4
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
-      Dziś, splamiłeś zarówno
+      Dziś, splamiłeś honor zarówno
 
-      mnie jak i cały Klan Seiryu.
+      mój jak i całego Klan Seiryu.
     Original:
     - >-
       Today you disgraced me
 
       and the Seiryu Clan.
-  Status: Review
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

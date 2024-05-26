@@ -1147,10 +1147,10 @@ Files:
   Path:
   - /968/yazawa_eat_at_pocket/explanation
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Zjedz i wypij każdą pozycję na menu Pocket CafĂ© w Yokohamie. Bohater musi mieć siłę.
+    Translated: Zjedz i wypij każdą pozycję na menu Kawiarni Pocket w Yokohamie. Bohater musi mieć siłę.
     Original:
     - Eat and drink everything on Pocket Café Yokohama's menu. A true hero knows where to get his fill.
-  Status: Review
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
