@@ -925,7 +925,7 @@ Files:
     Original:
     - How much you want for all of it?
     - How much you want for all of it?
-  Status: Review
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -970,7 +970,7 @@ Files:
     - Cooperate
     - Cooperate
     - Decline
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -2986,7 +2986,7 @@ Files:
     Translated: Odpocznij.
     Original:
     - Maybe not...
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -4219,7 +4219,7 @@ Files:
     Translated: Pomóż
     Original:
     - Help Out
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -5260,19 +5260,19 @@ Files:
   Path:
   - /1735/dgn_adv04_y010_050_select_001/opt[0]
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Don't Use
+    Translated: Nie używaj
     Original:
     - Don't Use
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1735/dgn_adv04_y010_050_select_001/opt[1]
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Use
+    Translated: Użyj
     Original:
     - Use
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

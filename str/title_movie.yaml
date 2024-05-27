@@ -7,7 +7,7 @@ Files:
     Translated: Utalentowani Aktorzy
     Original:
     - A Talented Actress
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -16,7 +16,7 @@ Files:
     Translated: Dysfunkcyjna Rodzina
     Original:
     - Dysfunctional Family
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -25,7 +25,7 @@ Files:
     Translated: Ostatnia Wieczerza
     Original:
     - The Last Supper
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -34,7 +34,7 @@ Files:
     Translated: Ichiban Kasuga
     Original:
     - Ichiban Kasuga
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -43,7 +43,7 @@ Files:
     Translated: Masato Arakawa
     Original:
     - Masato Arakawa
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -52,7 +52,7 @@ Files:
     Translated: Zaprzeczanie
     Original:
     - Denial
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -61,16 +61,16 @@ Files:
     Translated: Yumeno
     Original:
     - Yumeno
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /487/a01_0065/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Duma w Kawałkach
+    Translated: Roztrzaskana Duma
     Original:
     - Broken Pride
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -79,7 +79,7 @@ Files:
     Translated: Gniew Sawashiro
     Original:
     - Sawashiro's Rage
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -88,7 +88,7 @@ Files:
     Translated: Młodość Kasugi
     Original:
     - Kasuga's Childhood
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -97,7 +97,7 @@ Files:
     Translated: Spotkanie z Arakawą
     Original:
     - Encounter with Arakawa
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -106,7 +106,7 @@ Files:
     Translated: Zmierzch XX wieku
     Original:
     - 21st Century Dawn
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -115,7 +115,7 @@ Files:
     Translated: Cicha Noc
     Original:
     - A Calm Night
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -124,7 +124,7 @@ Files:
     Translated: Omen
     Original:
     - An Omen
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -133,7 +133,7 @@ Files:
     Translated: Dla Niego
     Original:
     - For the Old Man
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -142,7 +142,7 @@ Files:
     Translated: Wół Roboczy
     Original:
     - Prison Labor
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -151,7 +151,7 @@ Files:
     Translated: Proste Zasady
     Original:
     - Prison Rules
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -160,7 +160,7 @@ Files:
     Translated: Izolatka
     Original:
     - To Solitary Confinement
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -169,7 +169,7 @@ Files:
     Translated: Ważny List
     Original:
     - Letter From Arakawa
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -178,7 +178,7 @@ Files:
     Translated: Wizyta u Fryzjera
     Original:
     - Punch Perm
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -187,7 +187,7 @@ Files:
     Translated: Niespodziewane Pojednanie
     Original:
     - Unexpected Reunion
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -196,7 +196,7 @@ Files:
     Translated: Kamurocho, 18 lat później
     Original:
     - Kamurocho After 18 Years
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -205,97 +205,97 @@ Files:
     Translated: Adachi na Ratunek
     Original:
     - Covered By Adachi
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /512/a02_0090/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Kula Lojalności
+    Translated: Cena Lojalności
     Original:
     - Loyalty's Bullet
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /513/a03_0010/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Unfamiliar City
+    Translated: Nieznane Miasto
     Original:
     - Unfamiliar City
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /517/a03_0015/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Repayment
+    Translated: Odwzajemnienie
     Original:
     - Repayment
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /518/a03_0020/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: The Counterfeit Bill
+    Translated: Fałszywy Banknot
     Original:
     - The Counterfeit Bill
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /519/a04_0010/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Adachi's Visit
+    Translated: Wizyta Adachiego
     Original:
     - Adachi's Visit
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /522/a04_0020/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Kasuga and Nonomiya
+    Translated: Kasuga i Nonomiya
     Original:
     - Kasuga and Nonomiya
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /525/a04_0030/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: An Ominous Door
+    Translated: Tajemnicze Drzwi
     Original:
     - An Ominous Door
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /533/a04_0050/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Old-school Yakuza
+    Translated: Yakuza Czasów Świetności
     Original:
     - Old-school Yakuza
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /535/f04_0020/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: The CafĂ© Meeting
+    Translated: Spotkanie Przy Kawie
     Original:
     - The Café Meeting
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /536/a04_0060/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: End of His Rope
+    Translated: Drugi Koniec Liny
     Original:
     - End of His Rope
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -616,28 +616,28 @@ Files:
   Path:
   - /668/a01_0068/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Coin Locker Baby
+    Translated: Dziecko z Szafki
     Original:
     - Coin Locker Baby
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /669/a01_0100/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Returning the Favor
+    Translated: Wdzięczność
     Original:
     - Returning the Favor
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /674/a03_0025/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Persuasion
+    Translated: Perswazja
     Original:
     - Persuasion
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -646,25 +646,25 @@ Files:
     Translated: Bleach Japan
     Original:
     - Bleach Japan
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /679/a03_0040/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: A New Home
+    Translated: Nowy Dom
     Original:
     - A New Home
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /680/a03_0050/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Matsuo's Execution
+    Translated: Egzekucja Matsuo
     Original:
     - Matsuo's Execution
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

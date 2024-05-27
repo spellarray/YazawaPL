@@ -341,7 +341,7 @@ Files:
     Translated: CHAPTER 2
     Original:
     - CHAPTER 2
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -350,7 +350,7 @@ Files:
     Translated: Play Chapter 2 of the Majima Saga.
     Original:
     - Play Chapter 2 of the Majima Saga.
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

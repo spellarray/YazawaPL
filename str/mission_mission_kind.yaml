@@ -7,7 +7,7 @@ Files:
     Translated: Test 01
     Original:
     - Test 01
-  Status: Untranslated
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -169,7 +169,7 @@ Files:
     Translated: Goń Ushio
     Original:
     - Pursue the Target
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -196,7 +196,7 @@ Files:
     Translated: Pokonaj Ushio
     Original:
     - Defeat Ushio
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -223,7 +223,7 @@ Files:
     Translated: Idź do Baru Michiyo
     Original:
     - Go to Michiyo's Bar
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -250,7 +250,7 @@ Files:
     Translated: Idź do Shangri-La
     Original:
     - Go to Shangri-La
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -277,7 +277,7 @@ Files:
     Translated: Idź do Sklepu Tytoniowego
     Original:
     - Go to the Cigarette Shop
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -304,7 +304,7 @@ Files:
     Translated: Pokonaj Łotrzyków
     Original:
     - Defeat the Thugs
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -331,7 +331,7 @@ Files:
     Translated: Idź do Parku Publicznego 3
     Original:
     - Go to Public Park 3
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -358,7 +358,7 @@ Files:
     Translated: Pokonaj Hiratsukę
     Original:
     - Defeat Hiratsuka
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -385,7 +385,7 @@ Files:
     Translated: Idź do Apartamentu Masato
     Original:
     - Go to Masato's Apartment
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -412,7 +412,7 @@ Files:
     Translated: Znajdź Yumeno
     Original:
     - Find Yumeno
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -439,7 +439,7 @@ Files:
     Translated: Spotkaj się z Mitsu
     Original:
     - Meet Mitsu
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -466,7 +466,7 @@ Files:
     Translated: Znajdź Restaurację z Kaczką
     Original:
     - Find a Peking Duck Restaurant
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -493,7 +493,7 @@ Files:
     Translated: Pokonaj Łotrzyków
     Original:
     - Defeat the Hooligans
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -520,7 +520,7 @@ Files:
     Translated: Idź do Biura Rodziny Arakawa
     Original:
     - Go to the Arakawa Family Office
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -547,7 +547,7 @@ Files:
     Translated: Pokonaj Ludzi z Rodziny Sakaki
     Original:
     - Defeat the Sakaki Family Members
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -574,7 +574,7 @@ Files:
     Translated: Pokonaj Yakuzę
     Original:
     - Defeat the Yakuza
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -601,7 +601,7 @@ Files:
     Translated: Idź do Biura Rodziny Arakawa
     Original:
     - Go to the Arakawa Family Office
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -628,7 +628,7 @@ Files:
     Translated: Idź do Sklepu Tytoniowego
     Original:
     - Go to the Cigarette Shop
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -655,7 +655,7 @@ Files:
     Translated: Pokonaj Yakuzę
     Original:
     - Defeat the Yakuza
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -682,7 +682,7 @@ Files:
     Translated: Idź do Parku Dziecięcego
     Original:
     - Go to Children's Park
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -709,7 +709,7 @@ Files:
     Translated: Idź do Shangri-La
     Original:
     - Go to Shangri-La
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -736,7 +736,7 @@ Files:
     Translated: Przygoruj się na Infiltracje
     Original:
     - Prepare to Infiltrate the Officers' Meeting
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -763,7 +763,7 @@ Files:
     Translated: Idź na Górę
     Original:
     - Head to the Top Floor
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -790,7 +790,7 @@ Files:
     Translated: Pokonaj Sawashiro
     Original:
     - Defeat Sawashiro
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -817,7 +817,7 @@ Files:
     Translated: Zarób Trochę Kasy
     Original:
     - Make Some Money
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -844,7 +844,7 @@ Files:
     Translated: Pokonaj Zhenga
     Original:
     - Defeat Zheng
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -871,7 +871,7 @@ Files:
     Translated: Idź do Hello Work
     Original:
     - Go to Hello Work
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -898,7 +898,7 @@ Files:
     Translated: Idź do baru
     Original:
     - Go to the Bar
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -925,7 +925,7 @@ Files:
     Translated: Pokonaj Matsuo
     Original:
     - Defeat Matsuo
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -952,7 +952,7 @@ Files:
     Translated: Idź do Obozu
     Original:
     - Go Home
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -979,7 +979,7 @@ Files:
     Translated: Idź do Hamako
     Original:
     - Go to Hamako's Place
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -1006,7 +1006,7 @@ Files:
     Translated: Pokonaj Protestujących
     Original:
     - Defeat the Protesters
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -1276,7 +1276,7 @@ Files:
     Translated: Idź do Hello Work
     Original:
     - Go to Hello Work
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -1303,13 +1303,13 @@ Files:
     Translated: Idź do Otohime Land
     Original:
     - Go to Otohime Land
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1865/yazawa_c04_0010/mission
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Interview for the Otohime Land job
+    Translated: Odbądź rozmowę o pracę w Otohime Land
     Original:
     - Interview for the Otohime Land job
   Status: Untranslated
@@ -1318,7 +1318,7 @@ Files:
   Path:
   - /1865/yazawa_c04_0010/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Otohime Land is on Ohama Street. Okay! Just gotta ace this interview!
+    Translated: Otohime Land jest na ulicy Ohama. Świetnie! Zaraz ta praca będzie nasza!
     Original:
     - Otohime Land is on Ohama Street. Okay! Just gotta ace this interview!
   Status: Untranslated
@@ -1336,7 +1336,7 @@ Files:
   Path:
   - /1866/yazawa_c04_0020/mission
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Investigate why Nanoha is missing work
+    Translated: Zbadaj czemu Nanoha opuszcza pracę
     Original:
     - Investigate why Nanoha is missing work
   Status: Untranslated
@@ -1345,7 +1345,7 @@ Files:
   Path:
   - /1866/yazawa_c04_0020/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Time to get to the bottom of why Nanoha is missing work! Pocket CafĂ© is on Isezaki Road.
+    Translated: Musimy dojść do sedna tej sprawy. Nanoha za często opuszcza pracę, to podejrzane! Zacznijmy śledztwo od Kawiarni Pocket na Isezaki.
     Original:
     - Time to get to the bottom of why Nanoha is missing work! Pocket Café is on Isezaki Road.
   Status: Untranslated
@@ -1354,163 +1354,163 @@ Files:
   Path:
   - /1867/yazawa_sadv04_0080/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Return to Otohime Land
+    Translated: Wróć do Otohime Land
     Original:
     - Return to Otohime Land
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1867/yazawa_sadv04_0080/mission
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Continue the investigation
+    Translated: Kontynuuj śledztwo
     Original:
     - Continue the investigation
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1867/yazawa_sadv04_0080/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: We can't even tour the facilities at Sunlight Castle... Better head back to Otohime Land so we can check out their website.
+    Translated: Nie wejdziemy do Zamku... Wracamy do Otohime Land żeby sprawdzić ich stronę.
     Original:
     - We can't even tour the facilities at Sunlight Castle... Better head back to Otohime Land so we can check out their website.
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1868/yazawa_sadv04_0090/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Go to Hello Work
+    Translated: Idź do Hello Work
     Original:
     - Go to Hello Work
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1868/yazawa_sadv04_0090/mission
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Get a job at Sunlight Castle
+    Translated: Dostań pracę w Zamku Słonecznego Blasku
     Original:
     - Get a job at Sunlight Castle
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1868/yazawa_sadv04_0090/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: If we can get jobs at Sunlight Castle, we'll be able to get closer to Nanoha's old man. Time to call in a favor from Kanbe at Hello Work!
+    Translated: Jeżeli uda nam się zinfiltrować Zamek, będziemy bliżej ojca Nanohy. Trzeba poprosić o pomoc Kanbe z Hello Work!
     Original:
     - If we can get jobs at Sunlight Castle, we'll be able to get closer to Nanoha's old man. Time to call in a favor from Kanbe at Hello Work!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1869/yazawa_sadv04_0115/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Go to the Karaoke Bar
+    Translated: Idź do Baru Karaoke
     Original:
     - Go to the Karaoke Bar
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1869/yazawa_sadv04_0115/mission
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Relax at the bar Adachi knows
+    Translated: Odpocznij w barze o którym mówił Adachi
     Original:
     - Relax at the bar Adachi knows
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1869/yazawa_sadv04_0115/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: So Adachi-san is a regular at this place, huh? Let's go check it out!
+    Translated: Adachi jest stałym bywalcem w barze, co? Sprawdźmy to!
     Original:
     - So Adachi-san is a regular at this place, huh? Let's go check it out!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1870/yazawa_sadv04_0120/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Go to Sunlight Castle
+    Translated: Idź do Zamku Słonecznego Blasku
     Original:
     - Go to Sunlight Castle
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1870/yazawa_sadv04_0120/mission
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Rescue Nanoha's father
+    Translated: Uratuj ojca Nanohy
     Original:
     - Rescue Nanoha's father
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1870/yazawa_sadv04_0120/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: It's on us to save Nanoha's old man! Better prepare and head over to Sunlight Castle, quick style!
+    Translated: Idziemy po ciebie staruszku! Musimy być gotowi na szybką akcję!
     Original:
     - It's on us to save Nanoha's old man! Better prepare and head over to Sunlight Castle, quick style!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1873/yazawa_c04_0080/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Meet the Seiryu Clan Chairman
+    Translated: Spotkaj się z Głową Klanu Seiryu
     Original:
     - Meet the Seiryu Clan Chairman
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1873/yazawa_c04_0080/mission
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Meet the chairman at Seiryu Clan headquarters, south of Otohime Land
+    Translated: Spotkaj się z Głową Seiryu w bazie na południe od Otohime Land
     Original:
     - Meet the chairman at Seiryu Clan headquarters, south of Otohime Land
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1873/yazawa_c04_0080/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Time to settle up with the chairman of the Seiryu Clan. Anything could happen, so I better be ready!
+    Translated: Czas rozwiązać sprawę "domu starców" z Przewodniczącym Seiryu. Nie wiem co nas może tam czekać, lepiej być gotowym!
     Original:
     - Time to settle up with the chairman of the Seiryu Clan. Anything could happen, so I better be ready!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1875/yazawa_adv04_0090/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Report about Nanoha to Nonomiya
+    Translated: Zdaj raport Nonomiyi
     Original:
     - Report about Nanoha to Nonomiya
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1875/yazawa_adv04_0090/mission
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Head back to Otohime Land to report on the situation
+    Translated: Wróć do Otohime Land i zdaj raport
     Original:
     - Head back to Otohime Land to report on the situation
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1875/yazawa_adv04_0090/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Nonomiya-san's gonna wanna hear this! Heh, here comes a full-house bonus!
+    Translated: Nonomiya się ucieszy! No, jeszcze ten bonus!
     Original:
     - Nonomiya-san's gonna wanna hear this! Heh, here comes a full-house bonus!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -3736,7 +3736,8 @@ Files:
   Status: Untranslated
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path: &o0 []
+  Path:
+  - /1972/yazawa_adv_sub_a24_015/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dla Jednego Śmieciem...
     Original:
@@ -3762,7 +3763,8 @@ Files:
   Status: Untranslated
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path: *o0
+  Path:
+  - /1973/yazawa_adv_sub_a24_015/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: One Man's Trash...
     Original:
@@ -3788,7 +3790,8 @@ Files:
   Status: Untranslated
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path: *o0
+  Path:
+  - /1974/yazawa_adv_sub_a24_015/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: One Man's Trash...
     Original:
@@ -9283,7 +9286,7 @@ Files:
     Translated: Idź do Restauracji z Gyudonem
     Original:
     - Head to the Beef Bowl Shop
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -9307,28 +9310,28 @@ Files:
   Path:
   - /2209/yazawa_sadv04_0117/title
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Have a drink with Adachi
+    Translated: Wypij z Adachim
     Original:
     - Have a drink with Adachi
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2209/yazawa_sadv04_0117/mission
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Hear Adachi out and deepen your bond
+    Translated: Wysłuchaj Adachiego
     Original:
     - Hear Adachi out and deepen your bond
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2209/yazawa_sadv04_0117/mission_info
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Nanba's asleep, so now's a good time to hash it out with Adachi-san!
+    Translated: Nanba zasnął, mam okazję pogadać z Adachim w cztery oczy!
     Original:
     - Nanba's asleep, so now's a good time to hash it out with Adachi-san!
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

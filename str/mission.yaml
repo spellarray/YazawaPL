@@ -631,7 +631,7 @@ Files:
   Path:
   - /35/yazawa_sub_a78/explanation_for_completed
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Poundmates, huh? I was thinking it was something else, but looks like it'll come in handy. I should use it when I'm in a pinch.
+    Translated: TEST - Poundmates, huh? I was thinking it was something else, but looks like it'll come in handy. I should use it when I'm in a pinch.
     Original:
     - Poundmates, huh? I was thinking it was something else, but looks like it'll come in handy. I should use it when I'm in a pinch.
   Status: Untranslated

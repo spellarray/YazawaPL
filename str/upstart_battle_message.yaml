@@ -7,7 +7,7 @@ Files:
     Translated: Within Rank ${rank}
     Original:
     - Within Rank ${rank}
-  Status: Review
+  Status: Untranslated
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -25,7 +25,7 @@ Files:
     Translated: Approval rating dropped by ${percentage} due to not having reached the target Share Price Ranking for the current period.
     Original:
     - Approval rating dropped by ${percentage} due to not having reached the target Share Price Ranking for the current period.
-  Status: Review
+  Status: Untranslated
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -52,6 +52,6 @@ Files:
     Translated: 'Persuasiveness: ${attack_point}'
     Original:
     - 'Persuasiveness: ${attack_point}'
-  Status: Review
+  Status: Untranslated
   Visibility: Visible
 ReferenceName: '\db.yazawa.en.par\en\upstart_battle_message.json'

@@ -39904,10 +39904,10 @@ Files:
   Path:
   - /397/yazawa_main_c04/text/292//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Chila! A ja? Dla mnie też coś musi być!
+    Translated: Chwila! A ja? Dla mnie też coś musi być!
     Original:
     - Wait a sec! I'm the only one left in the cold? There's gotta be an agency for me too!
-  Status: Review
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -40282,10 +40282,10 @@ Files:
   Path:
   - /397/yazawa_main_c04/text/334//3
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: Dokadniej są z Rodiny Ryuto, jedna z rodzin pod szyldem Klanu Seiryu.
+    Translated: Dokadniej są z Rodziny Ryuto, jednej z rodzin pod szyldem Klanu Seiryu.
     Original:
     - They're from the Ryuto Family, one of the families serving the Seiryu Clan.
-  Status: Review
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

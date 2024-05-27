@@ -16,7 +16,7 @@ Files:
     Translated: ${num}
     Original:
     - ${num}
-  Status: Review
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -25,7 +25,7 @@ Files:
     Translated: '[${lineup_name}]'
     Original:
     - '[${lineup_name}]'
-  Status: Review
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -34,7 +34,7 @@ Files:
     Translated: ${money} (${interest})
     Original:
     - ${money} (${interest})
-  Status: Review
+  Status: DoNotTranslate
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

@@ -3,6 +3,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/1//4
+  - /1/a01_0010/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dzień ten był nam pisany.
     Original:
@@ -21,6 +22,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/2//4
+  - /1/a01_0010/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wiem że mą twarz pamiętasz.
     Original:
@@ -42,6 +44,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/3//4
+  - /1/a01_0010/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Posłańca w Surudze zabiłeś. Zwał się Iemon.
@@ -75,6 +78,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/4//4
+  - /1/a01_0010/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To Ty... Ty jesteś tą Panną!
     Original:
@@ -99,6 +103,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/5//4
+  - /1/a01_0010/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie Panną jestem lecz Włóczęgą z misją zemsty.
@@ -136,6 +141,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/6//4
+  - /1/a01_0010/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dziś, ziszczą się moje sny!
     Original:
@@ -157,6 +163,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/7//4
+  - /1/a01_0010/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Zamknij się!
@@ -190,6 +197,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/8//4
+  - /1/a01_0010/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ha. Myślisz że byle kobieta mnie zgładzi?
     Original:
@@ -217,6 +225,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/9//4
+  - /1/a01_0010/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Znaj swe miejsce, jako jam Ginji, legendarny Rzeźnik z Edo!
     Original:
@@ -244,6 +253,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/11//4
+  - /1/a01_0010/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Głupiec.
     Original:
@@ -262,6 +272,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/12//4
+  - /1/a01_0010/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wszakże jam jest Ginji, Rzeźnik z Edo.
     Original:
@@ -283,6 +294,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/13//4
+  - /1/a01_0010/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Widziałeś...
     Original:
@@ -301,6 +313,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/14//4
+  - /1/a01_0010/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ojcze?
     Original:
@@ -319,6 +332,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/15//4
+  - /1/a01_0010/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Brawa!
@@ -346,6 +360,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /1/a01_0010/cinema_telop/16//4
+  - /1/a01_0010/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Niesamowite!
     Original:
@@ -364,6 +379,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/1//4
+  - /2/a01_0020/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Masumi.
     Original:
@@ -382,6 +398,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/2//4
+  - /2/a01_0020/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie, nie.
     Original:
@@ -400,6 +417,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/3//4
+  - /2/a01_0020/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To rusz dupę!
     Original:
@@ -418,6 +436,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/4//4
+  - /2/a01_0020/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Rano wyjeżdżamy do Osaki!
     Original:
@@ -436,6 +455,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/6//4
+  - /2/a01_0020/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No proszę. Przyszło paru,
@@ -469,6 +489,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/7//4
+  - /2/a01_0020/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To tutaj to gówno, nie pieniądze!
     Original:
@@ -493,6 +514,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/8//4
+  - /2/a01_0020/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie pozwól żeby parę groszy
@@ -520,6 +542,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/9//4
+  - /2/a01_0020/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Myślisz że nie znam tego spojrzenia?
     Original:
@@ -538,6 +561,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/10//4
+  - /2/a01_0020/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tak chcesz traktować matkę?
     Original:
@@ -562,6 +586,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/11//4
+  - /2/a01_0020/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Czy wolisz raczej bliznę,
@@ -595,6 +620,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/12//4
+  - /2/a01_0020/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wystarczy, Yoko!
     Original:
@@ -613,6 +639,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/13//4
+  - /2/a01_0020/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       A tobie przypadkiem
@@ -646,6 +673,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/14//4
+  - /2/a01_0020/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Bo kto tutaj zajmuje się wszystkim?
     Original:
@@ -670,6 +698,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/15//4
+  - /2/a01_0020/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tora-chan!
     Original:
@@ -688,6 +717,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/16//4
+  - /2/a01_0020/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Na pewno?
     Original:
@@ -706,6 +736,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/17//4
+  - /2/a01_0020/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Kogo obchodzą oni?
     Original:
@@ -724,6 +755,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/18//4
+  - /2/a01_0020/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wszystko w porządku, Masumi?
     Original:
@@ -742,6 +774,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/19//4
+  - /2/a01_0020/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: O konfetti się nie martw.
     Original:
@@ -761,6 +794,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/20//4
+  - /2/a01_0020/cinema_telop/20//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Może i nie mam nagród za aktorstwo,
@@ -794,6 +828,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/21//4
+  - /2/a01_0020/cinema_telop/21//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No to może... Wyskoczymy razem pozwiedzać
@@ -827,6 +862,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/23//4
+  - /2/a01_0020/cinema_telop/23//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Jasne.
     Original:
@@ -845,6 +881,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/68//4
+  - /2/a01_0020/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Pociąłeś to konfetti?
     Original:
@@ -866,6 +903,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/69//4
+  - /2/a01_0020/cinema_telop/69//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Idziemy dzisiaj
@@ -893,6 +931,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /2/a01_0020/cinema_telop/70//4
+  - /2/a01_0020/cinema_telop/70//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Jutro w drodze je potne.
     Original:
@@ -917,6 +956,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/1//4
+  - /3/a01_0030/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Hej, Masumi, nie lepiej
@@ -950,6 +990,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/2//4
+  - /3/a01_0030/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Przystawki są tego nie warte.
@@ -983,6 +1024,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/3//4
+  - /3/a01_0030/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Tak, wiem. Pójdę do toalety,
@@ -1016,6 +1058,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/6//4
+  - /3/a01_0030/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tato?
     Original:
@@ -1034,6 +1077,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/8//4
+  - /3/a01_0030/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ostatni dzień dwudziestego wieku...
     Original:
@@ -1058,6 +1102,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/9//4
+  - /3/a01_0030/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: A ja myślę tylko o obiedzie.
     Original:
@@ -1085,6 +1130,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/10//4
+  - /3/a01_0030/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Kazałem mu zbierać długi.
     Original:
@@ -1103,6 +1149,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/11//4
+  - /3/a01_0030/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: W Sylwestra?
     Original:
@@ -1121,6 +1168,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/12//4
+  - /3/a01_0030/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dzień jak dzień, a pieniądz nie śpi.
     Original:
@@ -1142,6 +1190,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/13//4
+  - /3/a01_0030/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: W naszej branży nie ma urlopów.
     Original:
@@ -1163,6 +1212,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/14//4
+  - /3/a01_0030/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Taki już jest nasz los.
     Original:
@@ -1181,6 +1231,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/68//4
+  - /3/a01_0030/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tato?
     Original:
@@ -1199,6 +1250,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /3/a01_0030/cinema_telop/69//4
+  - /3/a01_0030/cinema_telop/69//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Hej, Ichi.
     Original:
@@ -1217,6 +1269,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/2//4
+  - /5/a01_0050/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ichiban-aniki!
@@ -1250,6 +1303,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/3//4
+  - /5/a01_0050/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Hej, Mitsu.
@@ -1283,6 +1337,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/4//4
+  - /5/a01_0050/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Łał! Niezłą kase miał skurczybyk!
     Original:
@@ -1310,6 +1365,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/5//4
+  - /5/a01_0050/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ta, ten to zawsze coś wymyśli.
@@ -1343,6 +1399,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/6//4
+  - /5/a01_0050/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No, niezła robota. Mamy kasę.
@@ -1376,6 +1433,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/8//4
+  - /5/a01_0050/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Wszystko dobrze pod czupryną?
@@ -1409,6 +1467,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/9//4
+  - /5/a01_0050/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Tak o?
@@ -1433,6 +1492,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/10//4
+  - /5/a01_0050/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ta.
     Original:
@@ -1451,6 +1511,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/11//4
+  - /5/a01_0050/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Chwila moment,
@@ -1484,6 +1545,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/12//4
+  - /5/a01_0050/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dokładnie!
@@ -1517,6 +1579,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/13//4
+  - /5/a01_0050/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dobra, już dobra...
     Original:
@@ -1535,6 +1598,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/14//4
+  - /5/a01_0050/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Powiedz, Mitsu.
@@ -1568,6 +1632,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/15//4
+  - /5/a01_0050/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Miał kastety jebany.
     Original:
@@ -1586,6 +1651,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/16//4
+  - /5/a01_0050/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: No, będzie z tego ładny guz.
     Original:
@@ -1604,6 +1670,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/17//4
+  - /5/a01_0050/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie o to chodzi idioto!
@@ -1634,6 +1701,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /5/a01_0050/cinema_telop/18//4
+  - /5/a01_0050/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dopiero co byłem u fryzjera!
@@ -1667,6 +1735,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /6/a01_0055/cinema_telop/1//4
+  - /6/a01_0055/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Gdzie on jest?
     Original:
@@ -1685,6 +1754,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /6/a01_0055/cinema_telop/2//4
+  - /6/a01_0055/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Przepraszam Panią!
     Original:
@@ -1703,6 +1773,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /6/a01_0055/cinema_telop/3//4
+  - /6/a01_0055/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gdzie zna—
@@ -1736,6 +1807,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /6/a01_0055/cinema_telop/4//4
+  - /6/a01_0055/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Przykro mi.
@@ -1766,6 +1838,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /6/a01_0055/cinema_telop/5//4
+  - /6/a01_0055/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Eh, dobra...
     Original:
@@ -1784,6 +1857,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /6/a01_0055/cinema_telop/6//4
+  - /6/a01_0055/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Coś jeszcze chcesz oznajmić światu?
     Original:
@@ -1802,6 +1876,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /6/a01_0055/cinema_telop/8//4
+  - /6/a01_0055/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Przepraszam...
     Original:
@@ -1820,6 +1895,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /6/a01_0055/cinema_telop/68//4
+  - /6/a01_0055/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Przepraszam Paniczu za spóźnienie!
@@ -1853,6 +1929,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/1//4
+  - /7/a01_0060/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wszystko w porządku, Paniczu?
     Original:
@@ -1871,6 +1948,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/2//4
+  - /7/a01_0060/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tak.
     Original:
@@ -1889,6 +1967,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/3//4
+  - /7/a01_0060/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Już prawie jesteśmy.
     Original:
@@ -1907,6 +1986,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/4//4
+  - /7/a01_0060/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Czekaj, jeszcze nie.
     Original:
@@ -1925,6 +2005,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/5//4
+  - /7/a01_0060/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wjedź tam.
     Original:
@@ -1943,6 +2024,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/6//4
+  - /7/a01_0060/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co? Dobrze.
     Original:
@@ -1961,6 +2043,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/7//4
+  - /7/a01_0060/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ej, co to jest!?
     Original:
@@ -1985,6 +2068,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/8//4
+  - /7/a01_0060/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Najnowsze i najlepsze zastrzyki z efedryną.
@@ -2018,6 +2102,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/9//4
+  - /7/a01_0060/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Efe... co?
     Original:
@@ -2036,6 +2121,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/10//4
+  - /7/a01_0060/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To najwyższej klasy doping.
     Original:
@@ -2054,6 +2140,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/11//4
+  - /7/a01_0060/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Pobudza współczulny układ nerwowy,
@@ -2087,6 +2174,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/12//4
+  - /7/a01_0060/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Niestety nie trwa długo,
@@ -2120,6 +2208,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/13//4
+  - /7/a01_0060/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ale, jak?
@@ -2153,6 +2242,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/14//4
+  - /7/a01_0060/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dzisiaj moja kobieta ma urodziny.
     Original:
@@ -2171,6 +2261,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/15//4
+  - /7/a01_0060/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No dobra, ale...
@@ -2204,6 +2295,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/16//4
+  - /7/a01_0060/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Po prostu jest nie zatwierdzone
@@ -2237,6 +2329,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/17//4
+  - /7/a01_0060/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Kłuj.
     Original:
@@ -2255,6 +2348,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/18//4
+  - /7/a01_0060/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co!?
     Original:
@@ -2264,6 +2358,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/19//4
+  - /7/a01_0060/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie mogę Paniczu!
@@ -2297,6 +2392,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/20//4
+  - /7/a01_0060/cinema_telop/20//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Pizda...
     Original:
@@ -2315,6 +2411,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/22//4
+  - /7/a01_0060/cinema_telop/22//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Paniczu!? Paniczu!?
@@ -2348,6 +2445,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/23//4
+  - /7/a01_0060/cinema_telop/23//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Idziemy.
     Original:
@@ -2366,6 +2464,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/24//4
+  - /7/a01_0060/cinema_telop/24//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Paniczu...
     Original:
@@ -2384,6 +2483,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /7/a01_0060/cinema_telop/68//4
+  - /7/a01_0060/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie zawstydzę jej
@@ -2417,6 +2517,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/1//4
+  - /8/a01_0063/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wybacz, mam dzisiaj urwanie głowy.
     Original:
@@ -2435,6 +2536,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/2//4
+  - /8/a01_0063/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie masz za co przepraszać.
     Original:
@@ -2453,6 +2555,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/3//4
+  - /8/a01_0063/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Bardziej martwiło by mnie,
@@ -2486,6 +2589,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/4//4
+  - /8/a01_0063/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Słucham?
     Original:
@@ -2504,6 +2608,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/5//4
+  - /8/a01_0063/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Hmm, jak by to wytłumaczyć...?
     Original:
@@ -2522,6 +2627,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/6//4
+  - /8/a01_0063/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ja tu odebrać tę Panią.
     Original:
@@ -2540,6 +2646,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/8//4
+  - /8/a01_0063/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Przestań, Icchan...
     Original:
@@ -2558,6 +2665,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/9//4
+  - /8/a01_0063/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       "Kto pierwszy, ten lepszy",
@@ -2591,6 +2699,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/10//4
+  - /8/a01_0063/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie musimy rozdrabniać się na drobne.
     Original:
@@ -2612,6 +2721,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /8/a01_0063/cinema_telop/11//4
+  - /8/a01_0063/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Więc, powiedzmy że byłem tu pierwszy! Co?
     Original:
@@ -2639,6 +2749,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /9/a01_0065/cinema_telop/1//4
+  - /9/a01_0065/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Chwila!? Paniczu!
@@ -2672,6 +2783,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /9/a01_0065/cinema_telop/2//4
+  - /9/a01_0065/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Um... Paniczu?
     Original:
@@ -2690,6 +2802,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /9/a01_0065/cinema_telop/3//4
+  - /9/a01_0065/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Skończyłeś?
     Original:
@@ -2717,6 +2830,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /9/a01_0065/cinema_telop/4//4
+  - /9/a01_0065/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Wracam.
@@ -2750,6 +2864,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /9/a01_0065/cinema_telop/5//4
+  - /9/a01_0065/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Resztą wytrzyj dupę.
     Original:
@@ -2777,6 +2892,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/1//4
+  - /10/a01_0068/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Akane!
     Original:
@@ -2795,6 +2911,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/5//4
+  - /10/a01_0068/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Trzymaj się!
     Original:
@@ -2813,6 +2930,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/6//4
+  - /10/a01_0068/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Jeszcze chwila!
     Original:
@@ -2831,6 +2949,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/7//4
+  - /10/a01_0068/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co się dzieje?
     Original:
@@ -2849,6 +2968,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/8//4
+  - /10/a01_0068/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Jakiś szaleniec.
     Original:
@@ -2867,6 +2987,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/9//4
+  - /10/a01_0068/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Kurwa! Otwieraj się!
@@ -2894,6 +3015,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/10//4
+  - /10/a01_0068/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wezwać policję?
     Original:
@@ -2912,6 +3034,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/13//4
+  - /10/a01_0068/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To... mój syn!
     Original:
@@ -2930,6 +3053,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/14//4
+  - /10/a01_0068/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Hej, mały!?
@@ -2957,6 +3081,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /10/a01_0068/cinema_telop/15//4
+  - /10/a01_0068/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Z drogi!
     Original:
@@ -2975,6 +3100,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /11/a01_0070/cinema_telop/1//4
+  - /11/a01_0070/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Pięć! Cztery! Trzy! Dwa! Jeden!
     Original:
@@ -2993,6 +3119,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /13/a01_0090/cinema_telop/1//4
+  - /13/a01_0090/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tu Ichiban!
     Original:
@@ -3011,6 +3138,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /13/a01_0090/cinema_telop/2//4
+  - /13/a01_0090/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Szefie?
     Original:
@@ -3029,6 +3157,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /13/a01_0090/cinema_telop/3//4
+  - /13/a01_0090/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dzień dobry, Szefie!
     Original:
@@ -3047,6 +3176,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /13/a01_0090/cinema_telop/4//4
+  - /13/a01_0090/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Hej, Ichi. Siadaj.
     Original:
@@ -3065,6 +3195,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /13/a01_0090/cinema_telop/5//4
+  - /13/a01_0090/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tak jest!
     Original:
@@ -3083,6 +3214,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /13/a01_0090/cinema_telop/6//4
+  - /13/a01_0090/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Siadaj.
     Original:
@@ -3101,6 +3233,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /13/a01_0090/cinema_telop/7//4
+  - /13/a01_0090/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Uh, dobrze.
     Original:
@@ -3119,6 +3252,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /14/a01_0100/cinema_telop/1//4
+  - /14/a01_0100/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Niem mogę pozwolić
@@ -3152,6 +3286,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /14/a01_0100/cinema_telop/2//4
+  - /14/a01_0100/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Zajął byś jego miejsce, Ichi?
     Original:
@@ -3179,6 +3314,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /14/a01_0100/cinema_telop/3//4
+  - /14/a01_0100/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co Szef robi?
     Original:
@@ -3203,6 +3339,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /14/a01_0100/cinema_telop/4//4
+  - /14/a01_0100/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To ja powinienem się kłaniać!
     Original:
@@ -3221,6 +3358,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /14/a01_0100/cinema_telop/6//4
+  - /14/a01_0100/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Czekałem na ten dzień.
@@ -3254,6 +3392,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /14/a01_0100/cinema_telop/8//4
+  - /14/a01_0100/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Niech zamkną mnie na
@@ -3281,6 +3420,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /14/a01_0100/cinema_telop/9//4
+  - /14/a01_0100/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Zrobię to z przyjemnością!
     Original:
@@ -3299,6 +3439,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /14/a01_0100/cinema_telop/10//4
+  - /14/a01_0100/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ichi...
     Original:
@@ -3317,6 +3458,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/1//4
+  - /15/a01_0120/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ostatni posiłek
@@ -3350,6 +3492,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/2//4
+  - /15/a01_0120/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Jebać.
@@ -3383,6 +3526,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/4//4
+  - /15/a01_0120/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Co? Dobrze! Już podaje!
@@ -3416,6 +3560,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/5//4
+  - /15/a01_0120/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Mówię to z bólem, ale zostałeś wydalony z rodziny,
@@ -3449,6 +3594,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/6//4
+  - /15/a01_0120/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co? Wydalony!?
     Original:
@@ -3467,6 +3613,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/7//4
+  - /15/a01_0120/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wybacz.
     Original:
@@ -3491,6 +3638,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/8//4
+  - /15/a01_0120/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gdyby tylko był z poza Tojo,
@@ -3524,6 +3672,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/9//4
+  - /15/a01_0120/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ale czy wydalenie nie
@@ -3557,6 +3706,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/10//4
+  - /15/a01_0120/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Spokojnie. Porozmawiam z kim
@@ -3590,6 +3740,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/11//4
+  - /15/a01_0120/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dziękuję, Szefie!
     Original:
@@ -3608,6 +3759,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/12//4
+  - /15/a01_0120/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Z dobrych wieści, sąd pójdzie ci na
@@ -3641,6 +3793,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/13//4
+  - /15/a01_0120/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Mogą mnie wrzucić na ile lat tylko chcą!
     Original:
@@ -3668,6 +3821,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/14//4
+  - /15/a01_0120/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie wolno niczego żałować, co?
     Original:
@@ -3692,6 +3846,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/15//4
+  - /15/a01_0120/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Na mnie czas.
     Original:
@@ -3710,6 +3865,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/17//4
+  - /15/a01_0120/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Zapraszamy ponownie!
     Original:
@@ -3728,6 +3884,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/18//4
+  - /15/a01_0120/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       O, kolego.
@@ -3761,6 +3918,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/19//4
+  - /15/a01_0120/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: W środku możesz zgłosić kradzież.
     Original:
@@ -3785,6 +3943,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/20//4
+  - /15/a01_0120/cinema_telop/20//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Uznajemy oskarżonego, Ichibana Kasuge, winnym morderstwa.
@@ -3818,6 +3977,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/a01_0120/cinema_telop/68//4
+  - /15/a01_0120/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Moim zdaniem,
@@ -3845,6 +4005,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /16/a02_0010/cinema_telop/1//4
+  - /16/a02_0010/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Te też zrób młody.
     Original:
@@ -3863,6 +4024,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /16/a02_0010/cinema_telop/3//4
+  - /16/a02_0010/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ej, słyszysz ty—
     Original:
@@ -3881,6 +4043,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /16/a02_0010/cinema_telop/4//4
+  - /16/a02_0010/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Wykonałem dzisiejszą normę.
@@ -3914,6 +4077,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /16/a02_0010/cinema_telop/5//4
+  - /16/a02_0010/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: W porządku.
     Original:
@@ -3932,6 +4096,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/1//4
+  - /17/a02_0020/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Prawda to?
@@ -3965,6 +4130,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/3//4
+  - /17/a02_0020/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Śpieszy ci się na zewnątrz,
@@ -3998,6 +4164,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/5//4
+  - /17/a02_0020/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Możesz sobie być tu aniołkiem
@@ -4031,6 +4198,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/6//4
+  - /17/a02_0020/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Więc najlepiej będzie
@@ -4064,6 +4232,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/8//4
+  - /17/a02_0020/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Mało mówny?
@@ -4097,6 +4266,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/9//4
+  - /17/a02_0020/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Na to mi chyba możesz odpowiedzieć?
     Original:
@@ -4124,6 +4294,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/10//4
+  - /17/a02_0020/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Rodziny Arakawa.
     Original:
@@ -4142,6 +4313,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/11//4
+  - /17/a02_0020/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Arakawa...
     Original:
@@ -4160,6 +4332,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/13//4
+  - /17/a02_0020/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Arakawa i jego cyrk z małpkami?
     Original:
@@ -4181,6 +4354,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/14//4
+  - /17/a02_0020/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       A ja już myślałem że będziesz
@@ -4214,6 +4388,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/15//4
+  - /17/a02_0020/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co żeś powiedział?
     Original:
@@ -4232,6 +4407,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/16//4
+  - /17/a02_0020/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Że twoja rodzina jest gówno warta.
     Original:
@@ -4256,6 +4432,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/17//4
+  - /17/a02_0020/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Może i kiedyś twój patriarcha był
@@ -4289,6 +4466,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/18//4
+  - /17/a02_0020/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dałeś się zamknąć za tą starą kurwę,
@@ -4322,6 +4500,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/19//4
+  - /17/a02_0020/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ty kurwo... Zajebie cię.
     Original:
@@ -4340,6 +4519,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/20//4
+  - /17/a02_0020/cinema_telop/20//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ta? To sobie próbuj?
     Original:
@@ -4358,6 +4538,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /17/a02_0020/cinema_telop/21//4
+  - /17/a02_0020/cinema_telop/21//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Skurwy...
     Original:
@@ -4376,6 +4557,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/1//4
+  - /18/a02_0030/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Cały rok dawałeś sobą pomiatać.
@@ -4409,6 +4591,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/2//4
+  - /18/a02_0030/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Tamci musieli iść do szpitala.
@@ -4442,6 +4625,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/3//4
+  - /18/a02_0030/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Obrazili mojego Szefa.
     Original:
@@ -4460,6 +4644,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/4//4
+  - /18/a02_0030/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Patriarcha na ciebie czeka?
     Original:
@@ -4487,6 +4672,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/5//4
+  - /18/a02_0030/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tak.
     Original:
@@ -4505,6 +4691,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/6//4
+  - /18/a02_0030/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Mieszali jego reputację z błotem.
@@ -4538,6 +4725,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/7//4
+  - /18/a02_0030/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Na pewno byłby zły gdyby się dowiedział.
     Original:
@@ -4562,6 +4750,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/8//4
+  - /18/a02_0030/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dokładnie!
@@ -4595,6 +4784,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/9//4
+  - /18/a02_0030/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie.
     Original:
@@ -4613,6 +4803,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/10//4
+  - /18/a02_0030/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Mówię o tym że
@@ -4646,6 +4837,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/11//4
+  - /18/a02_0030/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie wiem czemu zabiłeś.
     Original:
@@ -4673,6 +4865,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/12//4
+  - /18/a02_0030/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ale skoro czeka ktoś na ciebie,
@@ -4706,6 +4899,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /18/a02_0030/cinema_telop/14//4
+  - /18/a02_0030/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie zawiedź kogoś,
@@ -4739,6 +4933,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/1//4
+  - /19/a02_0040/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Więzień 1119.
@@ -4772,6 +4967,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/2//4
+  - /19/a02_0040/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Pewnie od kogoś ważnego.
     Original:
@@ -4796,6 +4992,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/3//4
+  - /19/a02_0040/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Arakawa-san napisał!
     Original:
@@ -4814,6 +5011,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/4//4
+  - /19/a02_0040/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Drogi Ichibanie...
     Original:
@@ -4832,6 +5030,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/5//4
+  - /19/a02_0040/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Mówiłem że nie będę pisać aż nie wyjdziesz,
@@ -4865,6 +5064,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/6//4
+  - /19/a02_0040/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gdyby nie przedłużyli Ci wyroku,
@@ -4898,6 +5098,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/7//4
+  - /19/a02_0040/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Serce mi się kraje że to jeszcze nie teraz.
@@ -4931,6 +5132,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/8//4
+  - /19/a02_0040/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Czasami słyszę twój śmiech ale
@@ -4964,6 +5166,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/9//4
+  - /19/a02_0040/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Tylko rodzic wie jak pusty
@@ -4997,6 +5200,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/10//4
+  - /19/a02_0040/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Bez nich, rodzic nie
@@ -5024,6 +5228,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/11//4
+  - /19/a02_0040/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Mam nadzieje że pewnego dnia
@@ -5057,6 +5262,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/12//4
+  - /19/a02_0040/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: P.S.
     Original:
@@ -5075,6 +5281,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/13//4
+  - /19/a02_0040/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gdy już wyjdziesz, uczcimy ten dzień
@@ -5108,6 +5315,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/14//4
+  - /19/a02_0040/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Szefie! Przepraszam!
     Original:
@@ -5126,6 +5334,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/15//4
+  - /19/a02_0040/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Powinienem był pomyśleć
@@ -5153,6 +5362,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/16//4
+  - /19/a02_0040/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Byłem głupi że musiał
@@ -5186,6 +5396,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/17//4
+  - /19/a02_0040/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Szczerze przepraszam!
     Original:
@@ -5204,6 +5415,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/18//4
+  - /19/a02_0040/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Kazałem na siebie czekać!
@@ -5237,6 +5449,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/19//4
+  - /19/a02_0040/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co?
     Original:
@@ -5255,6 +5468,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /19/a02_0040/cinema_telop/20//4
+  - /19/a02_0040/cinema_telop/20//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Czemu?
     Original:
@@ -5273,6 +5487,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /20/a02_0050/cinema_telop/1//4
+  - /20/a02_0050/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Proszę Pani...
@@ -5300,6 +5515,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /20/a02_0050/cinema_telop/2//4
+  - /20/a02_0050/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co to ma być!?
     Original:
@@ -5318,6 +5534,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /20/a02_0050/cinema_telop/3//4
+  - /20/a02_0050/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Przepraszam Pana! Nikt już
@@ -5351,6 +5568,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /20/a02_0050/cinema_telop/5//4
+  - /20/a02_0050/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nigdy takiej nie robiłam...
     Original:
@@ -5369,6 +5587,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /20/a02_0050/cinema_telop/6//4
+  - /20/a02_0050/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Jak mam pójść do Szefa
@@ -5402,6 +5621,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/2//4
+  - /21/a02_0060/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: '...Szef!'
     Original:
@@ -5420,6 +5640,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/3//4
+  - /21/a02_0060/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Arakawa?
     Original:
@@ -5438,6 +5659,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/4//4
+  - /21/a02_0060/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Jakiś problem!?
     Original:
@@ -5456,6 +5678,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/5//4
+  - /21/a02_0060/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To Patriarcha Arakawa, nie!?
     Original:
@@ -5474,6 +5697,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/6//4
+  - /21/a02_0060/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Co!?
@@ -5504,6 +5728,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/7//4
+  - /21/a02_0060/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dziennikarz?
     Original:
@@ -5522,6 +5747,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/8//4
+  - /21/a02_0060/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie będzie żadnego wywiadu.
@@ -5555,6 +5781,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/9//4
+  - /21/a02_0060/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie! Byłem członkiem Rodziny Arakawa!
     Original:
@@ -5579,6 +5806,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/10//4
+  - /21/a02_0060/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gdybyś był,
@@ -5612,6 +5840,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/11//4
+  - /21/a02_0060/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Byłem w więzieniu!
@@ -5645,6 +5874,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/12//4
+  - /21/a02_0060/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Słabo ci idzie
@@ -5678,6 +5908,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/13//4
+  - /21/a02_0060/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dajcie mi z nim porozmawiać!
@@ -5711,6 +5942,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/15//4
+  - /21/a02_0060/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Co? Rodzina zdrowa?
@@ -5744,6 +5976,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/16//4
+  - /21/a02_0060/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dzisiaj składamy hołd
@@ -5777,6 +6010,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/18//4
+  - /21/a02_0060/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Pożałujecie...
@@ -5810,6 +6044,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /21/a02_0060/cinema_telop/19//4
+  - /21/a02_0060/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Bo jak nie prośbą,
@@ -5843,6 +6078,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /22/a02_0070/cinema_telop/1//4
+  - /22/a02_0070/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co to jest?
     Original:
@@ -5861,6 +6097,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /22/a02_0070/cinema_telop/2//4
+  - /22/a02_0070/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: On to pali?
     Original:
@@ -5879,6 +6116,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /23/a02_0080/cinema_telop/2//4
+  - /23/a02_0080/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dajesz radę!?
     Original:
@@ -5897,6 +6135,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /23/a02_0080/cinema_telop/3//4
+  - /23/a02_0080/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ta. Spotkanie jest
@@ -5930,6 +6169,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /23/a02_0080/cinema_telop/4//4
+  - /23/a02_0080/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Tu Policja! Wy dwaj
@@ -5963,6 +6203,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /23/a02_0080/cinema_telop/5//4
+  - /23/a02_0080/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Spokojnie!
@@ -5996,6 +6237,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /23/a02_0080/cinema_telop/6//4
+  - /23/a02_0080/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Kupię ci czas.
@@ -6029,6 +6271,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /23/a02_0080/cinema_telop/7//4
+  - /23/a02_0080/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Adachi-san!
     Original:
@@ -6047,6 +6290,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /23/a02_0080/cinema_telop/8//4
+  - /23/a02_0080/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No idź że!
@@ -6080,6 +6324,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/1//4
+  - /24/a02_0090/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Na pewno tego chcesz!?
     Original:
@@ -6098,6 +6343,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/2//4
+  - /24/a02_0090/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gdy otworzysz te drzwi,
@@ -6131,6 +6377,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/3//4
+  - /24/a02_0090/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Osiemnaście lat...
     Original:
@@ -6149,6 +6396,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/4//4
+  - /24/a02_0090/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Szefie!
     Original:
@@ -6167,6 +6415,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/5//4
+  - /24/a02_0090/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Kto to jest?
     Original:
@@ -6185,6 +6434,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/6//4
+  - /24/a02_0090/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Przepraszam Państwa.
@@ -6218,6 +6468,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/7//4
+  - /24/a02_0090/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       A więc jesteś.
@@ -6251,6 +6502,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/8//4
+  - /24/a02_0090/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Szefie, powiedz mi!
@@ -6284,6 +6536,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/9//4
+  - /24/a02_0090/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Kapitanie, będą
@@ -6317,6 +6570,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/10//4
+  - /24/a02_0090/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie, to nic poważnego.
@@ -6350,6 +6604,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/11//4
+  - /24/a02_0090/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Szefie...
     Original:
@@ -6368,6 +6623,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/12//4
+  - /24/a02_0090/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Wszystko idzie
@@ -6395,6 +6651,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/14//4
+  - /24/a02_0090/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wybacz, Ichi.
     Original:
@@ -6413,6 +6670,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/15//4
+  - /24/a02_0090/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Musisz dla mnie umrzeć.
     Original:
@@ -6431,6 +6689,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/68//4
+  - /24/a02_0090/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ichi, jesteś gotów
@@ -6464,6 +6723,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/69//4
+  - /24/a02_0090/cinema_telop/69//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Czekałem na ten dzień
@@ -6497,6 +6757,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/70//4
+  - /24/a02_0090/cinema_telop/70//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wystarczy czekania!
     Original:
@@ -6515,6 +6776,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /24/a02_0090/cinema_telop/71//4
+  - /24/a02_0090/cinema_telop/71//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Lojalny jak pies.
     Original:
@@ -6533,6 +6795,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/5//4
+  - /25/a03_0010/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wreszcie wstałeś, co?
     Original:
@@ -6551,6 +6814,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/6//4
+  - /25/a03_0010/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Masz szczęście że dzisiaj nie Środa.
     Original:
@@ -6575,6 +6839,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/8//4
+  - /25/a03_0010/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: W Środy zbierają bio.
     Original:
@@ -6605,6 +6870,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/9//4
+  - /25/a03_0010/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Rana jeszcze nie doleczona ale skoro wstałeś,
@@ -6638,6 +6904,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/10//4
+  - /25/a03_0010/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co?
     Original:
@@ -6656,6 +6923,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/11//4
+  - /25/a03_0010/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Do matki, żony, dzieci...
@@ -6689,6 +6957,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/12//4
+  - /25/a03_0010/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie chcę kłopotów.
     Original:
@@ -6713,6 +6982,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/13//4
+  - /25/a03_0010/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       A jeszcze jedno,
@@ -6746,6 +7016,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/14//4
+  - /25/a03_0010/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Chwila moment...
     Original:
@@ -6764,6 +7035,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/15//4
+  - /25/a03_0010/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ej! Ten chłop w końcu padł?
@@ -6797,6 +7069,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/16//4
+  - /25/a03_0010/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie, sam zobacz!
     Original:
@@ -6815,6 +7088,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/17//4
+  - /25/a03_0010/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Serio!? Psia mać...
@@ -6848,6 +7122,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/18//4
+  - /25/a03_0010/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dogadamy się potem.
     Original:
@@ -6866,6 +7141,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/19//4
+  - /25/a03_0010/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Niech ci będzie.
     Original:
@@ -6890,6 +7166,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/20//4
+  - /25/a03_0010/cinema_telop/20//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ciekawe że udało ci się go zaszyć zwykłą
@@ -6917,6 +7194,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/21//4
+  - /25/a03_0010/cinema_telop/21//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No, gdyby nie miał w sobie
@@ -6950,6 +7228,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/22//4
+  - /25/a03_0010/cinema_telop/22//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Cholera, a mogłeś się nie opierać?
@@ -6983,6 +7262,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/23//4
+  - /25/a03_0010/cinema_telop/23//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Łatwiej byłoby umrzeć, co?
     Original:
@@ -7001,6 +7281,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/24//4
+  - /25/a03_0010/cinema_telop/24//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Że co!?
     Original:
@@ -7019,6 +7300,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/25//4
+  - /25/a03_0010/cinema_telop/25//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Hej, spokojnie no!
@@ -7052,6 +7334,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/26//4
+  - /25/a03_0010/cinema_telop/26//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Daj se siana!
     Original:
@@ -7070,6 +7353,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/27//4
+  - /25/a03_0010/cinema_telop/27//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dobra, patrz jakie sztuki złapałem dzisiaj.
@@ -7103,6 +7387,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/28//4
+  - /25/a03_0010/cinema_telop/28//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ooo! I tak o się podzielisz!?
     Original:
@@ -7121,6 +7406,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/29//4
+  - /25/a03_0010/cinema_telop/29//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: No prawie, skończyło mi się paliwo.
     Original:
@@ -7145,6 +7431,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/30//4
+  - /25/a03_0010/cinema_telop/30//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Aj, serio? No dobra.
@@ -7178,6 +7465,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/31//4
+  - /25/a03_0010/cinema_telop/31//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Przepraszam!
     Original:
@@ -7196,6 +7484,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/32//4
+  - /25/a03_0010/cinema_telop/32//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: He? No co?
     Original:
@@ -7214,6 +7503,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/33//4
+  - /25/a03_0010/cinema_telop/33//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No więc...
@@ -7247,6 +7537,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/34//4
+  - /25/a03_0010/cinema_telop/34//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Po pierwsze, gdzie jesteśmy?
     Original:
@@ -7265,6 +7556,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/35//4
+  - /25/a03_0010/cinema_telop/35//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: W Ijincho.
     Original:
@@ -7283,6 +7575,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/36//4
+  - /25/a03_0010/cinema_telop/36//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ijincho?
     Original:
@@ -7301,6 +7594,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/37//4
+  - /25/a03_0010/cinema_telop/37//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ijincho!
@@ -7328,6 +7622,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/38//4
+  - /25/a03_0010/cinema_telop/38//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Jesteś w Yokohamie!
@@ -7361,6 +7656,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /25/a03_0010/cinema_telop/68//4
+  - /25/a03_0010/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Za pełen kanister,
@@ -7394,6 +7690,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/1//4
+  - /26/a03_0015/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Hm?
     Original:
@@ -7412,6 +7709,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/2//4
+  - /26/a03_0015/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nanba.
@@ -7445,6 +7743,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/3//4
+  - /26/a03_0015/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Trafiło mi się parę gratów.
     Original:
@@ -7463,6 +7762,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/4//4
+  - /26/a03_0015/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gratów, powiadasz?
@@ -7496,6 +7796,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/5//4
+  - /26/a03_0015/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Czekajcie no.
@@ -7529,6 +7830,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/6//4
+  - /26/a03_0015/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Śmieci nie zasługują
@@ -7562,6 +7864,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/7//4
+  - /26/a03_0015/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Stój! Zostaw!
     Original:
@@ -7580,6 +7883,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/8//4
+  - /26/a03_0015/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: No, cześć!
     Original:
@@ -7598,6 +7902,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/11//4
+  - /26/a03_0015/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Wybacz, Nanba-san. Już nie musisz
@@ -7631,6 +7936,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/12//4
+  - /26/a03_0015/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Coś za jeden?
     Original:
@@ -7649,6 +7955,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/13//4
+  - /26/a03_0015/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Tylko ktoś kogo
@@ -7682,6 +7989,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/14//4
+  - /26/a03_0015/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       A, tak? W której
@@ -7715,6 +8023,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/15//4
+  - /26/a03_0015/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie mam. A nawet gdybym
@@ -7748,6 +8057,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/16//4
+  - /26/a03_0015/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Heh.
     Original:
@@ -7766,6 +8076,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/17//4
+  - /26/a03_0015/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Prawdziwy z niego kawał chuja.
     Original:
@@ -7790,6 +8101,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/18//4
+  - /26/a03_0015/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: A ty go jeszcze kryłeś...
     Original:
@@ -7817,6 +8129,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/19//4
+  - /26/a03_0015/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Policzymy się za to później.
     Original:
@@ -7841,6 +8154,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/20//4
+  - /26/a03_0015/cinema_telop/20//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Łapy precz od człowieka,
@@ -7874,6 +8188,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/21//4
+  - /26/a03_0015/cinema_telop/21//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: No proszę, proszę.
     Original:
@@ -7892,6 +8207,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/22//4
+  - /26/a03_0015/cinema_telop/22//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Mocny to ty jesteś w tej gębie,
@@ -7925,6 +8241,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/23//4
+  - /26/a03_0015/cinema_telop/23//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Może przekonamy się,
@@ -7958,6 +8275,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/24//4
+  - /26/a03_0015/cinema_telop/24//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie powstrzymasz mnie, Nanba-san!
     Original:
@@ -7976,6 +8294,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/25//4
+  - /26/a03_0015/cinema_telop/25//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ciebie?
     Original:
@@ -7994,6 +8313,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/26//4
+  - /26/a03_0015/cinema_telop/26//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Zanim umrę, chcę sprzedać
@@ -8027,6 +8347,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/27//4
+  - /26/a03_0015/cinema_telop/27//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nanba ty chuju!
@@ -8060,6 +8381,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/28//4
+  - /26/a03_0015/cinema_telop/28//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Jak z wami skończymy,
@@ -8093,6 +8415,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/29//4
+  - /26/a03_0015/cinema_telop/29//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Powodzenia!
     Original:
@@ -8111,6 +8434,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/68//4
+  - /26/a03_0015/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Bo czas opłacić czynsz.
     Original:
@@ -8138,6 +8462,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/69//4
+  - /26/a03_0015/cinema_telop/69//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Hej, Nanba?
     Original:
@@ -8156,6 +8481,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/70//4
+  - /26/a03_0015/cinema_telop/70//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Rzadko widujemy tutaj buntowników.
     Original:
@@ -8183,6 +8509,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/71//4
+  - /26/a03_0015/cinema_telop/71//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie stać mnie.
     Original:
@@ -8192,6 +8519,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /26/a03_0015/cinema_telop/72//4
+  - /26/a03_0015/cinema_telop/72//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Zabije nas i wrzuci do rzeki!
     Original:
@@ -8213,6 +8541,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/1//4
+  - /27/a03_0020/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co to?
     Original:
@@ -8231,6 +8560,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/2//4
+  - /27/a03_0020/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Psia krew...
     Original:
@@ -8249,6 +8579,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/3//4
+  - /27/a03_0020/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Chowaj to, Ichiban!
     Original:
@@ -8267,6 +8598,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/4//4
+  - /27/a03_0020/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: He?
     Original:
@@ -8285,6 +8617,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/5//4
+  - /27/a03_0020/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       To 10,000 jenów!
@@ -8318,6 +8651,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/6//4
+  - /27/a03_0020/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ej, tylko spokój!
     Original:
@@ -8336,6 +8670,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/7//4
+  - /27/a03_0020/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Wiesz, niedawno zgubiłem
@@ -8369,6 +8704,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/8//4
+  - /27/a03_0020/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Jaja se robisz!?
@@ -8402,6 +8738,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/9//4
+  - /27/a03_0020/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       He? Najdziwniejsze że,
@@ -8435,6 +8772,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/10//4
+  - /27/a03_0020/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dawaj mi to!
     Original:
@@ -8453,6 +8791,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/11//4
+  - /27/a03_0020/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No weź!
@@ -8480,6 +8819,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/12//4
+  - /27/a03_0020/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Oo, kopę lat Yukichi-chan!
@@ -8513,6 +8853,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/13//4
+  - /27/a03_0020/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ogarniemy cię...
@@ -8546,6 +8887,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/14//4
+  - /27/a03_0020/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co to jest?
     Original:
@@ -8564,6 +8906,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/15//4
+  - /27/a03_0020/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co jest?
     Original:
@@ -8582,6 +8925,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/16//4
+  - /27/a03_0020/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie ma tyłu.
@@ -8615,6 +8959,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/17//4
+  - /27/a03_0020/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Czekaj, chwila moment.
     Original:
@@ -8633,6 +8978,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/18//4
+  - /27/a03_0020/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To żadna zabawka.
     Original:
@@ -8651,6 +8997,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/19//4
+  - /27/a03_0020/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Przód jest zdecydowanie prawdziwy.
     Original:
@@ -8675,6 +9022,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/20//4
+  - /27/a03_0020/cinema_telop/20//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nawet jest znak wodny.
     Original:
@@ -8693,6 +9041,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/21//4
+  - /27/a03_0020/cinema_telop/21//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Serio? Na zabawkach
@@ -8726,6 +9075,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/22//4
+  - /27/a03_0020/cinema_telop/22//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No to czemu nie ma tyłu,
@@ -8759,6 +9109,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/23//4
+  - /27/a03_0020/cinema_telop/23//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Czyli jest warty połowę?
     Original:
@@ -8777,6 +9128,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/24//4
+  - /27/a03_0020/cinema_telop/24//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Głupi!
@@ -8810,6 +9162,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/25//4
+  - /27/a03_0020/cinema_telop/25//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Fałszywka.
     Original:
@@ -8828,6 +9181,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/26//4
+  - /27/a03_0020/cinema_telop/26//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co!? Że fałszywka!?
     Original:
@@ -8846,6 +9200,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/27//4
+  - /27/a03_0020/cinema_telop/27//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Stary, skąd ty to masz!?
     Original:
@@ -8870,6 +9225,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/28//4
+  - /27/a03_0020/cinema_telop/28//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie! To nie moje!
     Original:
@@ -8888,6 +9244,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/29//4
+  - /27/a03_0020/cinema_telop/29//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ale to ty mówiłeś
@@ -8921,6 +9278,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/30//4
+  - /27/a03_0020/cinema_telop/30//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gdybym miał 10,000,
@@ -8954,6 +9312,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/31//4
+  - /27/a03_0020/cinema_telop/31//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Oczywiste.
@@ -8987,6 +9346,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/32//4
+  - /27/a03_0020/cinema_telop/32//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       To twoje, nie!? Czemu to masz!?
@@ -9020,6 +9380,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/33//4
+  - /27/a03_0020/cinema_telop/33//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Gdybym wiedział...
     Original:
@@ -9038,6 +9399,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/34//4
+  - /27/a03_0020/cinema_telop/34//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Jeżeli tu zostanie będziemy mieli kłopoty!
@@ -9071,6 +9433,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/35//4
+  - /27/a03_0020/cinema_telop/35//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nawet nie wiem skąd to mam!
@@ -9104,6 +9467,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/36//4
+  - /27/a03_0020/cinema_telop/36//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Kłamca! A skąd
@@ -9137,6 +9501,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/37//4
+  - /27/a03_0020/cinema_telop/37//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Cisza.
     Original:
@@ -9155,6 +9520,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/38//4
+  - /27/a03_0020/cinema_telop/38//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ichiban miał to w kieszeni.
@@ -9188,6 +9554,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/39//4
+  - /27/a03_0020/cinema_telop/39//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gdyby miał to wcześniej,
@@ -9221,6 +9588,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/40//4
+  - /27/a03_0020/cinema_telop/40//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: A jak widać, jej nie ma.
     Original:
@@ -9239,6 +9607,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/41//4
+  - /27/a03_0020/cinema_telop/41//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Wątpię że włożył go sobie do kieszeni
@@ -9272,6 +9641,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/42//4
+  - /27/a03_0020/cinema_telop/42//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Co znaczy że włożył go
@@ -9305,6 +9675,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/43//4
+  - /27/a03_0020/cinema_telop/43//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ale kto? I czemu?
     Original:
@@ -9323,6 +9694,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/44//4
+  - /27/a03_0020/cinema_telop/44//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Bo ja wiem?
@@ -9356,6 +9728,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/45//4
+  - /27/a03_0020/cinema_telop/45//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Pewnie ten kto cię tu przywiózł.
     Original:
@@ -9374,6 +9747,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/46//4
+  - /27/a03_0020/cinema_telop/46//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ale nie wiemy kto to, nie?
     Original:
@@ -9401,6 +9775,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/47//4
+  - /27/a03_0020/cinema_telop/47//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Właśnie. Nawet nie wiem czemu rzucili mnie tu.
@@ -9438,6 +9813,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/48//4
+  - /27/a03_0020/cinema_telop/48//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Szczerze, to za bardzo nic nie wiem.
     Original:
@@ -9465,6 +9841,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/49//4
+  - /27/a03_0020/cinema_telop/49//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tak czy siak, nie chcemy tu policji!
     Original:
@@ -9486,6 +9863,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/50//4
+  - /27/a03_0020/cinema_telop/50//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wyrzućcie to zanim zrobi się bajzel!
     Original:
@@ -9513,6 +9891,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/51//4
+  - /27/a03_0020/cinema_telop/51//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       A kto go zaczął?
@@ -9546,6 +9925,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/52//4
+  - /27/a03_0020/cinema_telop/52//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nanba-san, nie rób nam tego...
     Original:
@@ -9570,6 +9950,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/53//4
+  - /27/a03_0020/cinema_telop/53//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dobra, rozumiem.
@@ -9603,6 +9984,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/54//4
+  - /27/a03_0020/cinema_telop/54//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nie chcę żadnych kłopotów.
     Original:
@@ -9639,6 +10021,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /27/a03_0020/cinema_telop/71//4
+  - /27/a03_0020/cinema_telop/71//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: 10,000!?
     Original:
@@ -9657,6 +10040,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /28/a03_0025/cinema_telop/2//4
+  - /28/a03_0025/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Dogadani!?
     Original:
@@ -9675,6 +10059,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /28/a03_0025/cinema_telop/3//4
+  - /28/a03_0025/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co!? Serio!?
     Original:
@@ -9693,6 +10078,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /28/a03_0025/cinema_telop/4//4
+  - /28/a03_0025/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dzięki!
@@ -9726,6 +10112,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /28/a03_0025/cinema_telop/5//4
+  - /28/a03_0025/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nic tu już po nas.
     Original:
@@ -9753,6 +10140,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /28/a03_0025/cinema_telop/6//4
+  - /28/a03_0025/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ni chuja...
     Original:
@@ -9771,6 +10159,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/1//4
+  - /29/a03_0030/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       To jest tak wilgotne
@@ -9804,6 +10193,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/2//4
+  - /29/a03_0030/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Hej, Ichiban.
@@ -9837,6 +10227,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/3//4
+  - /29/a03_0030/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Sam je weź!
@@ -9870,6 +10261,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/4//4
+  - /29/a03_0030/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Moja twoja, nieważne.
@@ -9903,6 +10295,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/5//4
+  - /29/a03_0030/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Jeżeli ciągle będziesz tylko beczeć,
@@ -9936,6 +10329,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/6//4
+  - /29/a03_0030/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Bezdomny, ale mam zasady!
     Original:
@@ -9963,6 +10357,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/7//4
+  - /29/a03_0030/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Mięczak.
     Original:
@@ -9981,6 +10376,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/8//4
+  - /29/a03_0030/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Prostytucji mówmy precz!
@@ -10014,6 +10410,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/9//4
+  - /29/a03_0030/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Uwaga, właściciele firm!
     Original:
@@ -10035,6 +10432,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/10//4
+  - /29/a03_0030/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Tu Sota Kume,
@@ -10068,6 +10466,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/11//4
+  - /29/a03_0030/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: A ci to kto?
     Original:
@@ -10086,6 +10485,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/12//4
+  - /29/a03_0030/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie wiesz?
@@ -10119,6 +10519,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /29/a03_0030/cinema_telop/13//4
+  - /29/a03_0030/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Bleach Japan?
     Original:
@@ -10137,6 +10538,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/1//4
+  - /30/a03_0040/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Taaaak!
     Original:
@@ -10164,6 +10566,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/2//4
+  - /30/a03_0040/cinema_telop/2//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Patrz, Ichiban! Dach!
@@ -10197,6 +10600,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/3//4
+  - /30/a03_0040/cinema_telop/3//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Co nie!? Prawie jak
@@ -10221,6 +10625,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/4//4
+  - /30/a03_0040/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Umarłem i obudziłem się w niebie!
     Original:
@@ -10239,6 +10644,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/5//4
+  - /30/a03_0040/cinema_telop/5//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Chociaż nie, jest wilgotny.
     Original:
@@ -10266,6 +10672,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/6//4
+  - /30/a03_0040/cinema_telop/6//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To się lubi co się ma!
     Original:
@@ -10293,6 +10700,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/7//4
+  - /30/a03_0040/cinema_telop/7//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Jestem bakteriofobem, pamiętasz?
     Original:
@@ -10311,6 +10719,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/8//4
+  - /30/a03_0040/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Niech zapach ten przypomina ci
@@ -10344,6 +10753,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/9//4
+  - /30/a03_0040/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Z innej beczki...
     Original:
@@ -10371,6 +10781,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/10//4
+  - /30/a03_0040/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       To twoja zasługa.
@@ -10395,6 +10806,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/11//4
+  - /30/a03_0040/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Głupi, ja powinienem
@@ -10428,6 +10840,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/12//4
+  - /30/a03_0040/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Gdyby nie ty,
@@ -10461,6 +10874,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/13//4
+  - /30/a03_0040/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Mów, naprawdę
@@ -10482,6 +10896,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/14//4
+  - /30/a03_0040/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Może.
     Original:
@@ -10500,6 +10915,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/15//4
+  - /30/a03_0040/cinema_telop/15//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Czemu odszedłeś?
     Original:
@@ -10518,6 +10934,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/16//4
+  - /30/a03_0040/cinema_telop/16//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Sprzedawałem na lewo
@@ -10551,6 +10968,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/17//4
+  - /30/a03_0040/cinema_telop/17//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       W końcu nawet udało
@@ -10584,6 +11002,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/18//4
+  - /30/a03_0040/cinema_telop/18//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Poczułem się zbyt pewnie,
@@ -10617,6 +11036,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/19//4
+  - /30/a03_0040/cinema_telop/19//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Straciłem prawo do zawodu.
     Original:
@@ -10644,6 +11064,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/20//4
+  - /30/a03_0040/cinema_telop/20//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No wiesz? Słabo ci szło
@@ -10677,6 +11098,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/21//4
+  - /30/a03_0040/cinema_telop/21//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: No. Żałuję.
     Original:
@@ -10695,6 +11117,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/22//4
+  - /30/a03_0040/cinema_telop/22//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: To może zaczniesz od nowa?
     Original:
@@ -10716,6 +11139,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/23//4
+  - /30/a03_0040/cinema_telop/23//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Niekoniecznie jako pielęgniarz,
@@ -10749,6 +11173,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/24//4
+  - /30/a03_0040/cinema_telop/24//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Bo to takie łatwe...
     Original:
@@ -10767,6 +11192,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/25//4
+  - /30/a03_0040/cinema_telop/25//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: No? Ten...
     Original:
@@ -10785,6 +11211,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/26//4
+  - /30/a03_0040/cinema_telop/26//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ścieszka którą szedłem
@@ -10818,6 +11245,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/27//4
+  - /30/a03_0040/cinema_telop/27//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Tak bardzo byłem na niej skupiony,
@@ -10851,6 +11279,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/28//4
+  - /30/a03_0040/cinema_telop/28//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Mówisz o swoim szefie?
     Original:
@@ -10869,6 +11298,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/29//4
+  - /30/a03_0040/cinema_telop/29//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Jak to mówią, ogranicza
@@ -10893,6 +11323,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/30//4
+  - /30/a03_0040/cinema_telop/30//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No, tak...
@@ -10926,6 +11357,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/31//4
+  - /30/a03_0040/cinema_telop/31//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Hej, a ty co demencja?
@@ -10959,6 +11391,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/32//4
+  - /30/a03_0040/cinema_telop/32//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Faktycznie...
@@ -10980,6 +11413,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/33//4
+  - /30/a03_0040/cinema_telop/33//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Cele, co?
     Original:
@@ -10998,6 +11432,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/34//4
+  - /30/a03_0040/cinema_telop/34//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Ichiban, kim chciałeś
@@ -11031,6 +11466,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/35//4
+  - /30/a03_0040/cinema_telop/35//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co? Hmmm...
     Original:
@@ -11040,6 +11476,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/36//4
+  - /30/a03_0040/cinema_telop/36//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       No mów.
@@ -11073,6 +11510,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/37//4
+  - /30/a03_0040/cinema_telop/37//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Jako dzieciak...
     Original:
@@ -11091,6 +11529,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/38//4
+  - /30/a03_0040/cinema_telop/38//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Chciałem być bohaterem.
     Original:
@@ -11118,6 +11557,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/39//4
+  - /30/a03_0040/cinema_telop/39//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Bohaterem? Jak to?
     Original:
@@ -11145,6 +11585,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/40//4
+  - /30/a03_0040/cinema_telop/40//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Wiesz, jak w Dragon Quescie.
@@ -11178,6 +11619,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/41//4
+  - /30/a03_0040/cinema_telop/41//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Cooo? Jak w grze!?
     Original:
@@ -11199,6 +11641,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/42//4
+  - /30/a03_0040/cinema_telop/42//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Hahaha! Nie mogę!
@@ -11232,6 +11675,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/43//4
+  - /30/a03_0040/cinema_telop/43//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co w tym złego?
     Original:
@@ -11250,6 +11694,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/44//4
+  - /30/a03_0040/cinema_telop/44//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co, no, tego...
     Original:
@@ -11268,6 +11713,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/45//4
+  - /30/a03_0040/cinema_telop/45//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Mogę być kim chcę, co nie?
     Original:
@@ -11286,6 +11732,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/47//4
+  - /30/a03_0040/cinema_telop/47//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Przecież każdy może
@@ -11319,6 +11766,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/48//4
+  - /30/a03_0040/cinema_telop/48//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: No pewnie, Ichiban.
     Original:
@@ -11337,6 +11785,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/49//4
+  - /30/a03_0040/cinema_telop/49//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: A ty co?
     Original:
@@ -11355,6 +11804,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/50//4
+  - /30/a03_0040/cinema_telop/50//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Dasz radę!
@@ -11379,6 +11829,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/51//4
+  - /30/a03_0040/cinema_telop/51//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nic ci nie wadzi.
     Original:
@@ -11406,6 +11857,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/52//4
+  - /30/a03_0040/cinema_telop/52//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Daj se siana.
@@ -11439,6 +11891,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/53//4
+  - /30/a03_0040/cinema_telop/53//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ale nie masz celów, nie?
     Original:
@@ -11466,6 +11919,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/54//4
+  - /30/a03_0040/cinema_telop/54//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Czyli nie zostało
@@ -11499,6 +11953,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/55//4
+  - /30/a03_0040/cinema_telop/55//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Już się schlałeś?
@@ -11532,6 +11987,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/56//4
+  - /30/a03_0040/cinema_telop/56//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Może to nie prawdziwa praca...
     Original:
@@ -11550,6 +12006,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/57//4
+  - /30/a03_0040/cinema_telop/57//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Lecz gdy bohater pokona wystarczająco,
@@ -11583,6 +12040,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/59//4
+  - /30/a03_0040/cinema_telop/59//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Rozumiesz już?
     Original:
@@ -11601,6 +12059,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/60//4
+  - /30/a03_0040/cinema_telop/60//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wbijanie leveli... na życie?
     Original:
@@ -11628,6 +12087,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/61//4
+  - /30/a03_0040/cinema_telop/61//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Pewnie! Co może się
@@ -11661,6 +12121,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/62//4
+  - /30/a03_0040/cinema_telop/62//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Czterdziestka to ciut późno...
     Original:
@@ -11688,6 +12149,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/63//4
+  - /30/a03_0040/cinema_telop/63//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       A co mi tam!
@@ -11721,6 +12183,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/64//4
+  - /30/a03_0040/cinema_telop/64//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: I to jak Bohaterowie!
     Original:
@@ -11748,6 +12211,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/65//4
+  - /30/a03_0040/cinema_telop/65//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tajes, Ichiban!
     Original:
@@ -11766,6 +12230,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/66//4
+  - /30/a03_0040/cinema_telop/66//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Wypijmy za świetlana przyszłość!
     Original:
@@ -11793,6 +12258,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/67//4
+  - /30/a03_0040/cinema_telop/67//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Tak, od jutra Bohaterzy!
     Original:
@@ -11811,6 +12277,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/68//4
+  - /30/a03_0040/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Zdrowie!
     Original:
@@ -11829,6 +12296,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/69//4
+  - /30/a03_0040/cinema_telop/69//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Jeszcze miękki futon...
     Original:
@@ -11856,6 +12324,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/70//4
+  - /30/a03_0040/cinema_telop/70//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Nie myślałem że
@@ -11889,6 +12358,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/71//4
+  - /30/a03_0040/cinema_telop/71//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ładnie na tym zarobiłem.
     Original:
@@ -11907,6 +12377,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/72//4
+  - /30/a03_0040/cinema_telop/72//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       A ty?
@@ -11940,6 +12411,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/73//4
+  - /30/a03_0040/cinema_telop/73//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Niewiem.
     Original:
@@ -11958,6 +12430,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/74//4
+  - /30/a03_0040/cinema_telop/74//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ta.
     Original:
@@ -11976,6 +12449,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /30/a03_0040/cinema_telop/75//4
+  - /30/a03_0040/cinema_telop/75//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Haha.
@@ -12000,6 +12474,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /31/a03_0050/cinema_telop/1//4
+  - /31/a03_0050/cinema_telop/1//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Zostawcie mnie! Kurwa
@@ -12033,6 +12508,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /31/a03_0050/cinema_telop/4//4
+  - /31/a03_0050/cinema_telop/4//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Proszę, wiem że zawaliłem.
@@ -12066,6 +12542,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /31/a03_0050/cinema_telop/8//4
+  - /31/a03_0050/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Tamci dwoje, zabije ich!
@@ -12105,6 +12582,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /31/a03_0050/cinema_telop/9//4
+  - /31/a03_0050/cinema_telop/9//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: <i>Niga geokjeonghal piryoneun eopseo. </i>
     Original:
@@ -12122,6 +12600,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /31/a03_0050/cinema_telop/10//4
+  - /31/a03_0050/cinema_telop/10//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: <i>Gageeneun jeonhwahaedwotda. </i>
     Original:
@@ -12139,6 +12618,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /31/a03_0050/cinema_telop/11//4
+  - /31/a03_0050/cinema_telop/11//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: <i>Nameojin uriga araseo cheorihaji. </i>
     Original:
@@ -12156,6 +12636,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /31/a03_0050/cinema_telop/12//4
+  - /31/a03_0050/cinema_telop/12//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Co!? Nierozumiem!?
     Original:
@@ -12177,6 +12658,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /31/a03_0050/cinema_telop/13//4
+  - /31/a03_0050/cinema_telop/13//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: >-
       Naszym błędem
@@ -12201,6 +12683,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /31/a03_0050/cinema_telop/14//4
+  - /31/a03_0050/cinema_telop/14//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: <i>Jugeo. </i>
     Original:
@@ -15219,6 +15702,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /38/a05_0015/cinema_telop/44//4
+  - /38/a05_0015/cinema_telop/44//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Sure.
     Original:
@@ -16068,6 +16552,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /41/a05_0050/cinema_telop/68//4
+  - /41/a05_0050/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: <i>Wei! Jinji zhuangkuang! You jinji zhuangkuang! </i>
     Original:
@@ -27157,6 +27642,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /66/a12_0040/cinema_telop/68//4
+  - /66/a12_0040/cinema_telop/68//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Welcome home!
     Original:
@@ -31832,6 +32318,7 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /73/a14_0010/cinema_telop/8//4
+  - /73/a14_0010/cinema_telop/8//5
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Ichiban!
     Original:

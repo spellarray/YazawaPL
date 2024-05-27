@@ -7,7 +7,7 @@ Files:
     Translated: 'Rozdział 1: Światło i Cień'
     Original:
     - 'Chapter 1: Light and Shadow'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -25,7 +25,7 @@ Files:
     Translated: 'Rozdział 2: Krwawe Pojednanie'
     Original:
     - 'Chapter 2: A Bloody Reunion'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -40,10 +40,10 @@ Files:
   Path:
   - /3/yazawa_chapter03/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 3: The Town at Rock Bottom'
+    Translated: 'Rozdział 3: Miasto na Dnie'
     Original:
     - 'Chapter 3: The Town at Rock Bottom'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -58,10 +58,10 @@ Files:
   Path:
   - /4/yazawa_chapter04/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 4: The Dragon of Yokohama'
+    Translated: 'Rozdział 4: Smok Yokohamy'
     Original:
     - 'Chapter 4: The Dragon of Yokohama'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -76,10 +76,10 @@ Files:
   Path:
   - /5/yazawa_chapter05/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 5: The Liumang Man'
+    Translated: 'Rozdział 5: Człowiek Liumang'
     Original:
     - 'Chapter 5: The Liumang Man'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -94,10 +94,10 @@ Files:
   Path:
   - /6/yazawa_chapter06/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 6: Ignition'
+    Translated: 'Rozdział 6: Zapłon'
     Original:
     - 'Chapter 6: Ignition'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -112,10 +112,10 @@ Files:
   Path:
   - /7/yazawa_chapter07/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: "Chapter 7: The Spider's Web"
+    Translated: 'Rozdział 7: Pajęcza Sieć'
     Original:
     - "Chapter 7: The Spider's Web"
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -130,10 +130,10 @@ Files:
   Path:
   - /8/yazawa_chapter08/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 8: Bleached Black'
+    Translated: 'Rozdział 8: Wybielone na Czarno'
     Original:
     - 'Chapter 8: Bleached Black'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -148,10 +148,10 @@ Files:
   Path:
   - /9/yazawa_chapter09/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 9: A House of Cards'
+    Translated: 'Rozdział 9: Domek z Kart'
     Original:
     - 'Chapter 9: A House of Cards'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -166,10 +166,10 @@ Files:
   Path:
   - /10/yazawa_chapter10/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 10: Justice Tempered by Mercy'
+    Translated: 'Rozdział 10: Sprawiedliwość przez Litość'
     Original:
     - 'Chapter 10: Justice Tempered by Mercy'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -184,10 +184,10 @@ Files:
   Path:
   - /11/yazawa_chapter11/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 11: The Odds'
+    Translated: 'Rozdział 11: Szanse'
     Original:
     - 'Chapter 11: The Odds'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -202,10 +202,10 @@ Files:
   Path:
   - /12/yazawa_chapter12/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 12: The End of the Yakuza'
+    Translated: 'Rozdział 12: Koniec Yakuzy'
     Original:
     - 'Chapter 12: The End of the Yakuza'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -220,10 +220,10 @@ Files:
   Path:
   - /13/yazawa_chapter13/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 13: Coin Locker Baby'
+    Translated: 'Rozdział 13: Dziecko z Szafki'
     Original:
     - 'Chapter 13: Coin Locker Baby'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -238,10 +238,10 @@ Files:
   Path:
   - /14/yazawa_chapter14/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 14: Passing the Torch'
+    Translated: 'Rozdział 14: Nowe Pokolenie'
     Original:
     - 'Chapter 14: Passing the Torch'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -256,10 +256,10 @@ Files:
   Path:
   - /15/yazawa_chapter15/name
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-    Translated: 'Chapter 15: To the Pinnacle'
+    Translated: 'Rozdział 15: Na Szczyt'
     Original:
     - 'Chapter 15: To the Pinnacle'
-  Status: Untranslated
+  Status: Finished
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:

@@ -187,7 +187,7 @@ Files:
     Translated: 'Fresh Feel B Class: 500,000 Yen Course'
     Original:
     - 'Fresh Feel B Class: 500,000 Yen Course'
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -205,7 +205,7 @@ Files:
     Translated: 'Fresh Feel A Class: 1,000,000 Yen Course'
     Original:
     - 'Fresh Feel A Class: 1,000,000 Yen Course'
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
@@ -219,15 +219,16 @@ Files:
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
   - /15/under0040/name
+  - /15/under0040/explanation
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: 'Fresh Feel S Class: 2,000,000 Yen Course'
     Original:
     - 'Fresh Feel S Class: 2,000,000 Yen Course'
-  Status: Untranslated
+    - Nothing more refreshing than a pocket full of cash. High interest but easy to get approved.
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
-  Path:
-  - /15/under0040/explanation
+  Path: []
   Editable: !YTT.Editables.TextEditable,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
     Translated: Nothing more refreshing than a pocket full of cash. High interest but easy to get approved.
     Original:
@@ -241,7 +242,7 @@ Files:
     Translated: Specjalna Pożyczka
     Original:
     - Special Financing
-  Status: Untranslated
+  Status: Review
   Visibility: Visible
 - !YTT.Files.StructureSubObject,%20Core,%20Version=1.0.0.0,%20Culture=neutral,%20PublicKeyToken=null
   Path:
