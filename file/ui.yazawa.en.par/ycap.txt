@@ -1,0 +1,2 @@
+Outline: 15px
+Shadow: 300px
